@@ -1,0 +1,218 @@
+{
+  "id": "t2-06",
+  "type": "大作文",
+  "title": "要不要大范围使用无人驾驶?",
+  "group": "科技与媒体",
+  "question": "It will be better to have wide use of driverless cars for individuals and society.To what extent do you agree or disagree with the statement?",
+  "logic": "▪ 主体段一 广泛采取无人驾驶会破坏（destabilising effect on）就业环境和社会公平背景：地区发展不平衡 （uneven）→ 某些地区高度依赖基础产业（basic industries）来提供就业、稳定经济 → 举例：即使在日本出租 车都给老年人提供了大量就业 → 总结：看似进步的措施实际对经济和社会都有负面影响 ▪ 主体段二 广泛采取无人驾驶会引起安全问题（public safety concern）①导致更多的交通事故 → 原因：无人驾驶 忽视人的参与性（neglect the necessity of human intervention） → 在极端条件下（extreme conditions），导致 更多事故②责任认定也变得有争议 → 车主、软件开发者、制造商责任划分变得模糊 → 管理真空（regulatory vacuum）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "There is a growing trend for countries to adopt driverless cars and for individuals to utilise such functions on their journeys. While some laud this technology as a revolutionary invention that promises convenience, I completely disagree with its widespread adoption. I contend that any efficiency gains pale in comparison to the grave threats it poses to the labour market and public safety.",
+      "cn": "目前，各国采用无人驾驶汽车以及个人在旅途中使用此类功能的趋势日益明显。尽管有些人称赞这项技术是承诺带来 便利的革命性发明，但我完全不同意广泛采用它。我认为，与其对劳动力市场和公共安全构成了严重威胁相比，任何 效率上的提升都显得微不足道。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "The primary reason for my opposition is the destabilising effect this technology has on the workforce and social equity. It is a harsh reality that global development is manifestly uneven. Many regions rely heavily on basic industries, such as transport services, to provide employment for citizens with lower levels of education, thereby sustaining economic resilience. Even in affluent countries like Japan, the taxi sector provides countless jobs for septuagenarian workers who might otherwise face social isolation. Therefore, the wholesale replacement of human drivers with robotic counterparts—often touted as \"progress\"—is, in reality, socially untenable and economically damaging for vulnerable populations.",
+      "cn": "我反对的首要原因在于该技术对劳动力以及社会公平具有破坏性影响。全球发展明显不平衡，这是一个残酷的现实。 许多地区严重依赖运输服务等基础产业为受教育程度较低的公民提供就业机会，从而维持经济的韧性。即使在日本这 样的富裕国家，出租车行业也为无数七旬高龄的工人提供了工作机会，否则他们可能面临社会孤立。因此，用机器人 大规模取代人类司机—尽管常被吹捧为“进步”—在现实中对弱势群体而言，不仅在经济上具有破坏性，而且在社会 层面上也是站不住脚的。",
+      "clozes": [
+        {
+          "start": 81,
+          "end": 101,
+          "answer": "has on the workforce"
+        },
+        {
+          "start": 267,
+          "end": 316,
+          "answer": "provide employment for citizens with lower levels"
+        },
+        {
+          "start": 426,
+          "end": 480,
+          "answer": "provides countless jobs for septuagenarian workers who"
+        },
+        {
+          "start": 497,
+          "end": 518,
+          "answer": "face social isolation"
+        },
+        {
+          "start": 520,
+          "end": 529,
+          "answer": "Therefore"
+        },
+        {
+          "start": 579,
+          "end": 599,
+          "answer": "robotic counterparts"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "A second, equally critical drawback concerns personal and public safety. In recent years, a growing body of evidence suggests that over-reliance on driverless technology may lead to more frequent and serious traffic accidents, costing lives and eroding public trust. When people blindly adopt automated features, they often neglect the necessity of human intervention under extreme conditions, fueling the incidence of such tragedies. Moreover, liability becomes contested; when an algorithm contributes to a fatality, the lines of responsibility between the car owner, the software developer, and the manufacturer are blurred. This creates a regulatory vacuum that not only strains law enforcement but also leaves victims without clear avenues for justice.",
+      "cn": "第二个同样关键的弊端涉及个人和公共安全。近年来，越来越多的证据表明，过度依赖无人驾驶技术可能会导致更频 繁和严重的交通事故，不仅造成生命损失，也侵蚀了公众的信任。当人们盲目采用自动化功能时，往往忽视了在极端 条件下人工干预的必要性，从而助长了此类悲剧的发生。此外，责任认定也变得极具争议；当算法导致致命事故时， 车主、软件开发商和制造商之间的责任界限变得模糊不清。这造成了一个监管真空，不仅给执法带来压力，也让受害 者缺乏寻求正义的明确途径。",
+      "clozes": [
+        {
+          "start": 174,
+          "end": 181,
+          "answer": "lead to"
+        },
+        {
+          "start": 633,
+          "end": 660,
+          "answer": "creates a regulatory vacuum"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, the proposal to mainstream driverless cars is fundamentally flawed. By prioritising automation over human livelihood and introducing complex safety risks, this technology produces far greater harm than good for both individuals and society as a whole.",
+      "cn": "总而言之，将无人驾驶汽车主流化的提议是根本错误的。这种做法将自动化置于人类生计之上，并引入了难以管控的 复杂安全风险，因此这项技术对个人和社会整体造成的伤害远大于其带来的益处。",
+      "clozes": [
+        {
+          "start": 186,
+          "end": 230,
+          "answer": "produces far greater harm than good for both"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Driverless cars are becoming more common, and some people believe their widespread use will benefit both individuals and society. Although this technology may make travelling more convenient, I disagree with this view because it could cause job losses and create serious safety problems.",
+      "cn": "无人驾驶汽车正变得越来越普遍，一些人认为，广泛使用无人驾驶汽车将使个人和社会都从中受益。尽管这项技术可 能使出行更加便利，但我不同意这一观点，因为它可能导致就业岗位流失，并带来严重的安全问题。",
+      "clozes": [
+        {
+          "start": 130,
+          "end": 138,
+          "answer": "Although"
+        },
+        {
+          "start": 159,
+          "end": 190,
+          "answer": "make travelling more convenient"
+        },
+        {
+          "start": 235,
+          "end": 251,
+          "answer": "cause job losses"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The first problem is that driverless cars may replace many human drivers. Transport provides jobs for millions of people, including taxi, bus and delivery drivers. Many of these workers depend on driving as their main source of income and may not have the skills needed to move easily into other types of work. If driverless vehicles become widely used, a large number of them could lose their jobs. This problem may be particularly serious in places where there are already limited employment opportunities. Although new technology can create new types of jobs, these positions may require technical skills that many professional drivers do not have. Therefore, the widespread use of driverless cars could create financial difficulties for many workers and their families.",
+      "cn": "第一个问题是，无人驾驶汽车可能会取代大量人类司机。交通运输行业为数百万人提供了就业机会，其中包括出租车 司机、公交车司机和配送司机。许多从业者将驾驶作为主要收入来源，而且他们可能并不具备轻松转向其他职业所需 要的技能。如果无人驾驶汽车得到广泛应用，其中许多人可能会失去工作。在就业机会本就有限的地区，这一问题可 能尤其严重。尽管新技术能够创造一些新的工作岗位，但这些职位可能需要专业技术技能，而许多职业司机并不具备 这些技能。因此，无人驾驶汽车的广泛应用可能会给许多劳动者及其家庭带来经济困难。",
+      "clozes": [
+        {
+          "start": 46,
+          "end": 72,
+          "answer": "replace many human drivers"
+        },
+        {
+          "start": 84,
+          "end": 120,
+          "answer": "provides jobs for millions of people"
+        },
+        {
+          "start": 207,
+          "end": 234,
+          "answer": "their main source of income"
+        },
+        {
+          "start": 247,
+          "end": 284,
+          "answer": "have the skills needed to move easily"
+        },
+        {
+          "start": 483,
+          "end": 507,
+          "answer": "employment opportunities"
+        },
+        {
+          "start": 509,
+          "end": 517,
+          "answer": "Although"
+        },
+        {
+          "start": 652,
+          "end": 661,
+          "answer": "Therefore"
+        },
+        {
+          "start": 707,
+          "end": 763,
+          "answer": "create financial difficulties for many workers and their"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another concern is public safety. Driverless cars depend heavily on cameras, sensors and computer systems, and these technologies may sometimes fail. Unexpected situations on the road, such as extreme weather or unusual behaviour from other drivers, may also be difficult for automated systems to deal with. In addition, people may rely too heavily on the technology and pay less attention to the road, making it harder for them to react when human control is needed. There is also the question of responsibility. If a driverless car causes an accident, it may be difficult to decide whether the owner, the car company or the software developer should be responsible.",
+      "cn": "另一个令人担忧的问题是公共安全。无人驾驶汽车高度依赖摄像头、传感器和计算机系统，而这些技术有时可能会发 生故障。道路上的突发情况，例如极端天气或其他驾驶者的异常行为，也可能使自动驾驶系统难以应对。此外，人们 可能会过度依赖这项技术，从而减少对道路状况的关注。当需要人工接管车辆时，这可能使他们难以及时作出反应。 另外，事故责任归属也是一个问题。如果无人驾驶汽车造成交通事故，可能很难确定究竟应该由车主、汽车制造商还 是软件开发商承担责任。",
+      "clozes": [
+        {
+          "start": 308,
+          "end": 319,
+          "answer": "In addition"
+        },
+        {
+          "start": 534,
+          "end": 552,
+          "answer": "causes an accident"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although driverless cars may offer greater convenience, I do not believe their widespread use would be better for individuals and society. The possible loss of driving jobs and the safety problems involved are too significant to ignore.",
+      "cn": "总而言之，尽管无人驾驶汽车可能带来更大的便利，但我并不认为广泛使用这项技术会对个人和社会更加有利。驾驶 类工作岗位可能大量流失，而且相关的安全问题也十分重要，不容忽视。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 44,
+          "end": 69,
+          "answer": "offer greater convenience"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "称赞...为",
+      "en": "praise/laud ... as"
+    },
+    {
+      "zh": "与...比，相形见绌",
+      "en": "A pale in comparison to B"
+    },
+    {
+      "zh": "机器人对手",
+      "en": "robotic counterparts"
+    },
+    {
+      "zh": "...与...之间的责任界限变得模糊",
+      "en": "the lines of responsibility between A and B are blurred"
+    },
+    {
+      "zh": "给执法带来压力",
+      "en": "strain law enforcement"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

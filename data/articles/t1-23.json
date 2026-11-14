@@ -1,0 +1,103 @@
+{
+  "id": "t1-23",
+  "type": "小作文",
+  "title": "三文鱼的一生",
+  "group": "流程图",
+  "question": "The diagram below shows the life cycle of a salmon, from egg to adult fish. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 抓两个核心特征【特征一】循环过程（a cyclical process） → 【特征二】涉及河流、河口和海洋三个栖息 地（three different habitats）→ 简要描述完整迁移路线 ▪ 主一段 河流 → 河口（早期发育）【以河流为起点，以环境变化为主线】成年鲑鱼产卵-孵化-幼鱼 → 在淡水中继 续发育（freshwater rearing）→ 向下游迁移至河口（migrate downstream to the estuary）→ 在新的环境中继续生 长（rearing continues in a different environment） ▪ 主二段 海洋 → 返回河流（成熟与循环）进入海洋生长并成熟（undergo further growth and maturation）→ 发育 为成年鲑鱼（fully developed adults）→ 返回河流中的原始产卵地（travel back to their original spawning areas） → 产卵 → 新一轮生命周期开始（begin the cycle again）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The diagram illustrates the life cycle of a salmon, from egg to adult fish.",
+      "cn": "该图展示了鲑鱼从鱼卵到成鱼的生命周期。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, this is a cyclical process that takes place across three different habitats: rivers, estuaries and the ocean. Salmon begin life in freshwater, move gradually towards the sea as they develop, and finally return upstream to their spawning grounds to reproduce.",
+      "cn": "总体来看，这是一个循环过程，发生在河流、河口和海洋三种不同的栖息地。鲑鱼在淡水中开始生命，随着发育逐渐 向海洋移动，最后返回上游的产卵地进行繁殖。",
+      "clozes": [
+        {
+          "start": 17,
+          "end": 35,
+          "answer": "a cyclical process"
+        },
+        {
+          "start": 41,
+          "end": 84,
+          "answer": "takes place across three different habitats"
+        },
+        {
+          "start": 237,
+          "end": 253,
+          "answer": "spawning grounds"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "The cycle starts in the river, where adult salmon spawn. Their eggs then pass through an incubation stage before hatching. After this, the young fish emerge and enter a period of freshwater rearing, during which they continue to grow. They then migrate downstream to the estuary, where rearing continues in a different environment.",
+      "cn": "该周期始于河流，成年鲑鱼在此产卵。鱼卵随后经过孵化阶段，之后幼鱼破卵而出。此后，幼鱼进入淡水养育期，在 此期间继续生长。随后，它们顺流而下迁徙至河口，在那里于不同的环境中继续养育。",
+      "clozes": [
+        {
+          "start": 89,
+          "end": 105,
+          "answer": "incubation stage"
+        },
+        {
+          "start": 179,
+          "end": 197,
+          "answer": "freshwater rearing"
+        },
+        {
+          "start": 245,
+          "end": 263,
+          "answer": "migrate downstream"
+        },
+        {
+          "start": 307,
+          "end": 330,
+          "answer": "a different environment"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "At the next stage, the fish move into the ocean. There, they migrate to rearing areas and undergo further growth and maturation until they become fully developed adults. Finally, mature salmon travel back to their original spawning areas in the river, where they lay eggs and begin the cycle again.",
+      "cn": "在下一阶段，鲑鱼进入海洋。在海洋中，它们迁徙到养育区域，进一步生长并成熟，最终发育为完全成年的鲑鱼。最 后，成年鲑鱼返回河流中它们最初的产卵区域，在那里产卵，并再次开启生命周期。",
+      "clozes": [
+        {
+          "start": 61,
+          "end": 85,
+          "answer": "migrate to rearing areas"
+        },
+        {
+          "start": 90,
+          "end": 112,
+          "answer": "undergo further growth"
+        },
+        {
+          "start": 139,
+          "end": 168,
+          "answer": "become fully developed adults"
+        },
+        {
+          "start": 276,
+          "end": 297,
+          "answer": "begin the cycle again"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

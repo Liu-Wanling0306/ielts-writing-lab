@@ -1,0 +1,88 @@
+{
+  "id": "t1-25",
+  "type": "小作文",
+  "title": "家庭有机垃圾转化为电能的过程",
+  "group": "流程图",
+  "question": "The diagram below illustrates how household waste is recycled to produce electricity. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 【先概括分类】整个过程涉及人工分类+机械处理（human sorting and mechanical treatment）→ 【抓核 心特点】垃圾在地面上完成分类 → 填埋垃圾被送入地下密封容器（a sealed underground container）→ 【讲最 终用途】生成的甲烷用于发电供应给家庭和工厂（produce electricity for homes and factories） ▪ 主一段 垃圾收集 → 分类 → 甲烷生成【第一步】收集原材料+卡车运输 →【第二步】分类（divided into three categories）→ 填埋垃圾被送入地下 →【第三步】生成甲烷 ▪ 主二段 甲烷净化 → 发电 → 电力供应【第四步】净化 →【第五步】发电 → 电力通过输电线路传输 （transmitted through power lines）→【第六步：最终用途】电力被供应给最终用户（supplied to end users）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The diagram illustrates how household organic waste is recycled in order to produce electricity.",
+      "cn": "该流程图展示了如何通过回收处理家庭有机垃圾来生产电力。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, the process involves both human sorting and mechanical treatment. A key feature is that, after being separated above ground, the landfill waste is processed in a sealed underground container to generate methane gas, which is then cleaned and used to produce electricity for homes and factories.",
+      "cn": "总体来看，这一过程既涉及人工分类，也包括机械处理。该流程的一个主要特点是，垃圾在地面上完成分类后，需要 进行填埋处理的垃圾会被送入地下的密封容器中进行处理，以产生甲烷气体。随后，甲烷经过净化，被用于发电，最 终为家庭和工厂供电。",
+      "clozes": [
+        {
+          "start": 153,
+          "end": 177,
+          "answer": "is processed in a sealed"
+        },
+        {
+          "start": 203,
+          "end": 223,
+          "answer": "generate methane gas"
+        },
+        {
+          "start": 259,
+          "end": 288,
+          "answer": "produce electricity for homes"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "At the first stage, organic waste is collected from households and transported by truck to a sorting centre. There, it is divided into three categories: compost, recyclable material and landfill waste. The landfill waste is then taken to a sealed underground container, where methane is produced under anaerobic conditions at a temperature of between 30 and 50°C.",
+      "cn": "在第一阶段，家庭产生的有机垃圾被收集起来，并通过卡车运送至分类中心。在那里，垃圾被分为三类：堆肥材料、 可回收材料和需要填埋处理的垃圾。随后，填埋垃圾被运送至地下的密封容器中，在30 至50 摄氏度的无氧条件下产 生甲烷。",
+      "clozes": [
+        {
+          "start": 67,
+          "end": 78,
+          "answer": "transported"
+        },
+        {
+          "start": 229,
+          "end": 268,
+          "answer": "taken to a sealed underground container"
+        },
+        {
+          "start": 284,
+          "end": 301,
+          "answer": "is produced under"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In the following stage, the methane gas passes through a cleaning unit before being sent to a generator. Electricity is produced at this point and then transmitted through power lines. In the final stage, the electricity generated is supplied to end users, namely homes and factories.",
+      "cn": "在接下来的阶段，甲烷气体首先经过净化装置，然后被输送至发电机。电力在这一阶段产生，随后通过输电线路进行 传输。在最后一个阶段，产生的电力被供应给终端用户，即家庭和工厂。",
+      "clozes": [
+        {
+          "start": 117,
+          "end": 136,
+          "answer": "is produced at this"
+        },
+        {
+          "start": 221,
+          "end": 255,
+          "answer": "generated is supplied to end users"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

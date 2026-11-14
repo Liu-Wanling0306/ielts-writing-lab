@@ -1,0 +1,104 @@
+{
+  "id": "t1-26",
+  "type": "小作文",
+  "title": "大学生物医药园的变化",
+  "group": "流程图",
+  "question": "The diagram below shows the present and planned development in the biomedical campus of a university.Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+  "logic": "▪ 概述 整体开发趋势 + 重点变化区域 + 不变项【整体变化】校园建筑密度将提高（become more built-up）→ 【变化最集中区域】北部绿地将发生最大变化（the most significant changes）→ 【保留项】部分现有设施基本 不变，包括实验室和中央步道（remain largely unchanged） ▪ 主一段 北部——开放绿地转为学术设施【先建立原始格局】北部主要为生物科学绿地 + 停车场→ 【核心变 化】大部分绿地被清除，为两栋新建筑腾出空间（be cleared to make way for）→ 【新增设施】Genetics 1 + Bio-imaging→ 【对比保留项】东北部原有停车场保留（be retained）→ 明确改为学生专用停车场（designated specifically as a student car park） ▪ 主二段 南部——原有建筑升级 + 新增配套设施【总起：围绕现有学术建筑进行调整】→ 【建筑功能与规模变 化】原Genetics 改为Genetics 2 → Biochemistry 和Biotechnology 扩建（be enlarged）→ 【新增交通配 套】西南角新增员工停车场（a new staff car park）→ 【最后集中讲不变项】两个实验室 + 中央步道保持原位 （stay in their original positions）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The diagrams compare the current layout of a university’s biomedical campus with its planned future development.",
+      "cn": "这两幅图比较了某大学生物医学园区目前的布局与未来规划的发展情况。",
+      "clozes": [
+        {
+          "start": 13,
+          "end": 57,
+          "answer": "compare the current layout of a university’s"
+        },
+        {
+          "start": 81,
+          "end": 111,
+          "answer": "its planned future development"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, the campus is expected to become more built-up, with several new academic facilities and two separate car parks being added. The most significant changes will take place in the northern green area, while some existing facilities, including the laboratories and the central walkway, will remain largely unchanged.",
+      "cn": "总体来看，预计该校园的建筑密度将有所增加，新增多处教学科研设施以及两个独立的停车场。最显著的变化将发生 在北部绿地区域，而包括实验室和中央步道在内的一些现有设施则将基本保持不变。",
+      "clozes": [
+        {
+          "start": 35,
+          "end": 55,
+          "answer": "become more built-up"
+        },
+        {
+          "start": 134,
+          "end": 162,
+          "answer": "The most significant changes"
+        },
+        {
+          "start": 168,
+          "end": 205,
+          "answer": "take place in the northern green area"
+        },
+        {
+          "start": 296,
+          "end": 320,
+          "answer": "remain largely unchanged"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "At present, the northern part of the campus is mainly occupied by a biosciences green area and a car park. Under the new plan, most of this open space will be cleared to make way for a new Genetics 1 building and a Bio-imaging facility. The existing car park in the northeast will be retained but designated specifically as a student car park.",
+      "cn": "目前，校园北部主要由一片生物科学绿地和一个停车场组成。根据新的规划，这片开放空间的大部分将被清理，以腾 出空间建设一栋新的遗传学1 号楼（Genetics 1）和一处生物成像设施（Bio-imaging）。东北部现有的停车场将被 保留，但会被指定为学生专用停车场。",
+      "clozes": [
+        {
+          "start": 170,
+          "end": 199,
+          "answer": "make way for a new Genetics 1"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In the southern half of the campus, more changes are planned around the existing academic buildings. The current Genetics building will become Genetics 2, while the Biochemistry and Biotechnology buildings will both be enlarged, with the latter extending further to the east. A new staff car park will also be constructed in the southwest corner, separated from the main academic area by a new diagonal road. By contrast, the two laboratories and the central walkway are expected to stay in their original positions.",
+      "cn": "在校园南半部分，现有教学科研建筑周围也计划进行更多改造。目前的遗传学楼将更名为遗传学2 号楼（Genetics 2），而生物化学楼和生物技术楼都将得到扩建，其中后者还将进一步向东延伸。此外，西南角还将新建一个教职工停 车场，并通过一条新建的斜向道路与主要教学科研区域隔开。相比之下，两座实验室和中央步道预计将保持原有位置 不变。",
+      "clozes": [
+        {
+          "start": 136,
+          "end": 153,
+          "answer": "become Genetics 2"
+        },
+        {
+          "start": 310,
+          "end": 345,
+          "answer": "constructed in the southwest corner"
+        },
+        {
+          "start": 409,
+          "end": 420,
+          "answer": "By contrast"
+        },
+        {
+          "start": 467,
+          "end": 482,
+          "answer": "are expected to"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

@@ -1,0 +1,93 @@
+{
+  "id": "t1-22",
+  "type": "小作文",
+  "title": "制作果酱的流程",
+  "group": "流程图",
+  "question": "The diagram shows how to make jam from the fruit. Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+  "logic": "▪ 概述 线性流程 + 起止阶段 + 核心工艺特点【流程性质】线性生产流程（a clear linear sequence）→ 【起止阶 段】清洗、捣碎水果 → 两次加热 → 装入容器并密封→ 【核心特点】糖和水分两次添加 → 第二次加热使用更多 原料（larger amounts used in the second heating stage）核心链：水果预处理 → 两次加热 → 密封成品；糖和水 分两次添加，第二次用量更大。 ▪ 主一段 水果预处理 + 第一次加热【原料预处理】4 公斤水果 → 流水清洗（under running water）→ 捣碎成果 泥（crushed into a pulp）→ 【第一次添加原料】加入水、糖、花生 → 形成混合物（the mixture）→ 【第一次加 热】高温烹煮10 分钟（cooked over a high heat） ▪ 主二段 第二次加热 + 成品处理【第二次添加原料】首次加热后的混合物 → 再次加入更多水和糖（a further 4 cups of water and 2 more cups of sugar）→ 【第二次加热】再次高温烹煮 → 持续30 分钟，比第一次更久 （considerably longer than the first cooking period）→ 【成品处理】分装入容器（poured into several containers）→ 加盖密封（sealed with lids）→ 静置1 小时 → 可食用（ready to be consumed）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The diagram illustrates the process of making jam from fruit.",
+      "cn": "该流程图展示了利用水果制作果酱的过程。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, jam production follows a clear linear sequence, beginning with the washing and mashing of the fruit and ending with the jam being sealed in containers after two separate stages of cooking. It is also noticeable that sugar and water are added twice during the process, with larger amounts used in the second heating stage.",
+      "cn": "总体而言，果酱的制作遵循清晰的线性流程，从清洗和捣 碎水果开始，经过两个独立的加热阶段，最终将果酱装入容器并密封。值得注意的是，在整个过程中，糖和水都被添 加了两次，而且第二次加热时使用的量更大。",
+      "clozes": [
+        {
+          "start": 139,
+          "end": 159,
+          "answer": "sealed in containers"
+        },
+        {
+          "start": 166,
+          "end": 196,
+          "answer": "two separate stages of cooking"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "At the first stage, 4 kilograms of fruit are washed under running water and then crushed into a pulp with a masher. Once the fruit has been prepared, 1 cup of water, 1/4 cup of sugar and 2 tablespoons of peanuts are added to it. The mixture is then cooked over a high heat for 10 minutes.",
+      "cn": "在第一阶段，首先将4 千克水果放在流动的清水下清洗，然后使用捣碎工具将其压成果泥。水果处理完成后，向其中 加入1 杯水、1/4 杯糖以及2 汤匙花生。随后，将混合物用大火加热10 分钟。",
+      "clozes": [
+        {
+          "start": 52,
+          "end": 71,
+          "answer": "under running water"
+        },
+        {
+          "start": 81,
+          "end": 100,
+          "answer": "crushed into a pulp"
+        },
+        {
+          "start": 131,
+          "end": 148,
+          "answer": "has been prepared"
+        },
+        {
+          "start": 249,
+          "end": 272,
+          "answer": "cooked over a high heat"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "After this initial cooking stage, the partly cooked mixture is combined with a further 4 cups of water and 2 more cups of sugar. It is then heated again at a high temperature, this time for half an hour, which is considerably longer than the first cooking period. When this stage has been completed, the jam is poured into several containers. Finally, the containers are sealed with lids and left for one hour, after which the jam is ready to be consumed.",
+      "cn": "第一次加热完成后，向初步煮熟的混合物中再加入4 杯水和2 杯糖。接着，再次用大火加热，这一次持续半小时，明 显长于第一次的加热时间。完成这一阶段后，将果酱倒入若干容器中。最后，盖上盖子将容器密封，并静置1 小时， 之后果酱便可以食用了。",
+      "clozes": [
+        {
+          "start": 60,
+          "end": 86,
+          "answer": "is combined with a further"
+        },
+        {
+          "start": 280,
+          "end": 298,
+          "answer": "has been completed"
+        },
+        {
+          "start": 371,
+          "end": 387,
+          "answer": "sealed with lids"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

@@ -1,0 +1,103 @@
+{
+  "id": "t1-27",
+  "type": "小作文",
+  "title": "某历史景点10 年间变化",
+  "group": "地图与规划图",
+  "question": "The maps below show the changes that took place in a historic site between 2004 and 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 整体 + 新增与移除 + 不变项【整体变化】遗址开发程度显著提高（became considerably more developed）→ 【主要变化】北部和西部新增大量建筑及游客设施（new buildings and visitor facilities） → 【移 除项】部分自然景观被移除（natural features were removed）→ 【保留项】古庙与海岸线保持不变（remained unchanged） ▪ 主一段 北部——改造最集中【转向北部】2004 年北部开发程度较低（relatively undeveloped）→ 【总起变 化】2014 年北部经历大规模改造（undergone substantial redevelopment）→ 【按空间位置展开三项变化】北 部：山脉被移除（had been removed）→ 东北部：古屋数量增加 → 西北部：新增体育场，取代（replacing）部 分原有开放绿地 ▪ 主二段 南部——变化较少，以保留和局部新增为主【先与北部形成对比】南部变化相对有限（changes were less extensive）→ 【先讲核心不变项】东南部古庙保持原位（remained in its original position）→ 【再讲新增建 筑】古庙西侧原有空地 → 新建古代宫殿→ 【最后处理绿地变化】西南部部分绿地保留（some greenery was retained）→ 【归纳区域变化】西侧整体建筑更加密集（became more built-up）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The maps illustrate how the layout of a historic site changed between 2004 and 2014.",
+      "cn": "这两幅地图展示了某历史遗址在2004 年至2014 年间的布局变化。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, the site became considerably more developed over the ten-year period, with several new buildings and visitor facilities added, particularly in the northern and western areas. At the same time, some natural features were removed, while the ancient temple and the coastline remained unchanged.",
+      "cn": "总体来看，在这十年间，该遗址得到了大规模开发，新增了多座建筑和游客设施，尤其集中在北部和西部地区。与此 同时，一些自然景观被移除，而古庙和海岸线则保持不变。",
+      "clozes": [
+        {
+          "start": 18,
+          "end": 70,
+          "answer": "became considerably more developed over the ten-year"
+        },
+        {
+          "start": 281,
+          "end": 299,
+          "answer": "remained unchanged"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In 2004, the northern part of the site was relatively undeveloped, containing mountains, a small group of ancient houses and some greenery. By 2014, this area had undergone substantial redevelopment. The mountains had been removed, while the residential area in the northeast had been expanded to accommodate a much larger cluster of ancient houses. Immediately to the west, an ancient toilet was added, and a stadium was constructed in the northwest, replacing part of the previously open, tree-covered area.",
+      "cn": "年，该遗址的北部地区开发程度相对 较低，主要分布着山地、少量古民居以及一些绿地。到2014 年，这一区域经历了大规模改造。原有的山地被移除，而 东北部的古民居区域则得到了扩建，形成了规模更大的古民居建筑群。在其正西侧，新建了一座仿古厕所；西北部则 修建了一座体育场，取代了原先部分空旷且有树木覆盖的区域。",
+      "clozes": [
+        {
+          "start": 159,
+          "end": 198,
+          "answer": "had undergone substantial redevelopment"
+        },
+        {
+          "start": 214,
+          "end": 230,
+          "answer": "had been removed"
+        },
+        {
+          "start": 276,
+          "end": 315,
+          "answer": "had been expanded to accommodate a much"
+        },
+        {
+          "start": 422,
+          "end": 450,
+          "answer": "constructed in the northwest"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Changes in the southern half were less extensive. The ancient temple, located close to the sea in the southeast, remained in its original position throughout the period. However, a new ancient palace was built to its west on land that had previously been open. Although some greenery was retained in the southwest, the western side of the site as a whole became more built-up than it had been in 2004.",
+      "cn": "相比之下，南半部分的变化相对较小。位于东南部、靠近海边的古庙在整个时期内始终保持原有位置。不过，在古庙 西侧原本空旷的土地上，新建了一座仿古宫殿。尽管西南部仍保留了一些绿地，但总体而言，遗址西侧的建筑密度相 比2004 年有所增加。",
+      "clozes": [
+        {
+          "start": 147,
+          "end": 168,
+          "answer": "throughout the period"
+        },
+        {
+          "start": 170,
+          "end": 177,
+          "answer": "However"
+        },
+        {
+          "start": 235,
+          "end": 259,
+          "answer": "had previously been open"
+        },
+        {
+          "start": 261,
+          "end": 269,
+          "answer": "Although"
+        },
+        {
+          "start": 355,
+          "end": 392,
+          "answer": "became more built-up than it had been"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

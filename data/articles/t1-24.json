@@ -1,0 +1,102 @@
+{
+  "id": "t1-24",
+  "type": "小作文",
+  "title": "水果罐头制作过程",
+  "group": "流程图",
+  "question": "The diagram describes the production of canned fruits. Summarize the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 流程性质 + 起止点 + 核心生产阶段【流程性质】14 个步骤的线性生产过程（a linear, 14-stage process） → 【起止点】从采摘新鲜水果 → 成品运送至超市（beginning with...and ending with...）→ 【归纳核心阶段】水 果筛选与预处理 → 加液罐装 → 高温处理 → 冷却包装 ▪ 主一段 原材料处理——从采摘到完成罐装准备【原料获取】采摘水果 → 运输至工厂 → 剔除不合格水果 （remove any unsuitable produce）→ 称重 → 彻底清洗（thoroughly washed）→ 冷藏储存（placed in cold storage）→ 去皮 → 切成小块（cut into smaller pieces）→ 【阶段目的】为后续罐装做好准备（in preparation for canning） ▪ 主二段 罐装与成品处理——从半成品到最终销售处理好的水果装入罐中 → 加入水、果汁或糖浆 → 密封罐头 → 加热烹煮及杀菌（subjected to cooking and sterilisation） → 冷却（cooled）→ 装箱（packed into cartons）→ 【最终去向】运输至超市 → 准备销售（ready for sale）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The diagram illustrates the process by which canned fruit is produced and prepared for sale in supermarkets.",
+      "cn": "该流程图展示了水果罐头的生产过程，以及成品如何被加工并准备运往超市销售。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, this is a linear, 14-stage process, beginning with the picking of fresh fruit and ending with the distribution of the finished product to supermarkets. Broadly speaking, the fruit is first selected and prepared before being canned with liquid, heat-treated, cooled and packaged.",
+      "cn": "总体来看，这是一个包含14 个步骤的线性生产流程，从采摘新鲜水果开始，到将成品配送至超市结束。大体而言，水 果首先经过筛选和预处理，随后与液体一起装入罐中，再经过加热处理、冷却和包装等工序。",
+      "clozes": []
+    },
+    {
+      "idx": 3,
+      "en": "Initially, fresh fruit is picked and transported to a factory, where it is sorted to remove any unsuitable produce. The selected fruit is then weighed and thoroughly washed before being placed in cold storage. Following this, it is peeled and cut into smaller pieces in preparation for canning.",
+      "cn": "首先，新鲜水果被采摘并运送至工厂，在那里经过筛选，以去除不符合要求的水果。筛选后的水果随后被称重并彻底 清洗，再放入冷库储存。之后，水果被去皮并切成小块，为装罐做好准备。",
+      "clozes": [
+        {
+          "start": 37,
+          "end": 61,
+          "answer": "transported to a factory"
+        },
+        {
+          "start": 186,
+          "end": 208,
+          "answer": "placed in cold storage"
+        },
+        {
+          "start": 243,
+          "end": 266,
+          "answer": "cut into smaller pieces"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "The prepared fruit is subsequently placed in cans, to which either water, juice or syrup is added. Once filled, the cans are sealed and then subjected to cooking and sterilisation. After this heat-treatment stage, they are cooled before being packed into cartons. Finally, the packaged cans are transported to supermarkets, where they are ready for sale.",
+      "cn": "接下来，处理好的水果被放入罐中，并加入水、果汁或糖浆。装罐完成后，罐头被密封，随后进行加热烹煮和杀菌处 理。完成这一加热处理阶段后，罐头被冷却，再装入纸箱。最后，包装好的水果罐头被运送至超市，准备出售。",
+      "clozes": [
+        {
+          "start": 35,
+          "end": 49,
+          "answer": "placed in cans"
+        },
+        {
+          "start": 121,
+          "end": 140,
+          "answer": "are sealed and then"
+        },
+        {
+          "start": 154,
+          "end": 179,
+          "answer": "cooking and sterilisation"
+        },
+        {
+          "start": 192,
+          "end": 212,
+          "answer": "heat-treatment stage"
+        },
+        {
+          "start": 243,
+          "end": 262,
+          "answer": "packed into cartons"
+        },
+        {
+          "start": 277,
+          "end": 290,
+          "answer": "packaged cans"
+        },
+        {
+          "start": 295,
+          "end": 322,
+          "answer": "transported to supermarkets"
+        },
+        {
+          "start": 339,
+          "end": 353,
+          "answer": "ready for sale"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

@@ -1,0 +1,248 @@
+{
+  "id": "t2-02",
+  "type": "大作文",
+  "title": "大学是否应该鼓励学生多学科学习？",
+  "group": "教育与成长",
+  "question": "University students often focus on one subject. However, some people think that universities should encourage students to learn a range of other subjects. To what extent do you agree or disagree?",
+  "logic": "▪ 主体段一 大学本身是一个形成性的时期（formative nature of university years）①孩子进入大学时还未存在清晰 的学术喜好（personal interests） → 举例：在中国和日本，学生选择专业主要基于父母期待、老师推荐和网络 → 后来发现专业不合适 → 联系题目：通过参加补充性课程（supplementary courses），学生可以知道自己真正 喜好（uncover their genuine enthusiasm）②广泛学习各类科目有助于拓宽学术视野 → 举例：美国大学因学生可 以参加多样通识教育课程而闻名 ▪ 主体段二 全面教育与当代就业环境相契合（aligns more closely with）现状：专业技能和补充性技能 （complementary skills）的结合才能导致成功 → 举例：顶尖的外科医生除了手术技巧还需要懂得病人心理 （patient psychology）/ 软件工程师除了专业杰出还需要沟通技巧（communication skills） → 总结：这些都需要 学生参加选修课（optional courses）获得",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "It is often argued that universities should encourage undergraduates to study a variety of subjects rather than focusing solely on their chosen major. I completely agree with this view, as broadening the curriculum can not only help young learners discover their true passions but also better prepare them for the multifaceted demands of the modern workplace.",
+      "cn": "人们常常认为大学应当鼓励本科生学习多种课程，而不是只专注于所选专业。我完全同意这种观点，因为拓展课程范 围不仅能帮助年轻学生找到真正的学术热情，还能更好地让他们为现代职场的多重需求做好准备。",
+      "clozes": [
+        {
+          "start": 44,
+          "end": 99,
+          "answer": "encourage undergraduates to study a variety of subjects"
+        },
+        {
+          "start": 100,
+          "end": 111,
+          "answer": "rather than"
+        },
+        {
+          "start": 314,
+          "end": 326,
+          "answer": "multifaceted"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The first reason why exposure to diverse subjects is beneficial lies in the formative nature of university years. Many adolescents enter higher education without a clear understanding of their own academic potential or personal interests. In East Asia, for instance, a considerable number of students in China and Japan select their majors largely based on parental expectations, teachers’ recommendations, or even the opinions of online influencers. It is therefore unsurprising that a portion of them later find their initial choice ill-suited. By studying supplementary courses, these students are given the opportunity to explore new fields and possibly uncover their genuine enthusiasm. Moreover, such breadth of learning can expand their intellectual horizons. The American higher education system exemplifies this approach: most undergraduates are required to take general education courses in the arts, humanities, and sciences, a system that has contributed to the international prestige and success of US universities.",
+      "cn": "学习多样化课程有益的第一个原因在于大学阶段本身就是形成性的时期。许多青少年进入高等教育时，并不真正了解 自己的学术潜力或个人兴趣。比如在东亚，中国和日本相当一部分学生选择专业时主要听从父母的期望、老师的建 议，甚至是网络博主的意见。因此，他们后来发现自己最初的选择并不合适也就不足为奇了。通过学习补充性课程， 这些学生有机会探索新领域，并可能发现自己真正的热情。此外，这种广度的学习还能拓展他们的视野。美国的高等 教育体系正是这种做法的典型代表：大多数本科生都必须学习艺术、人文和科学方面的通识课程，这一体系也推动了 美国大学教育在国际上的声誉与成功。",
+      "clozes": [
+        {
+          "start": 119,
+          "end": 130,
+          "answer": "adolescents"
+        },
+        {
+          "start": 253,
+          "end": 265,
+          "answer": "for instance"
+        },
+        {
+          "start": 457,
+          "end": 466,
+          "answer": "therefore"
+        },
+        {
+          "start": 867,
+          "end": 909,
+          "answer": "take general education courses in the arts"
+        },
+        {
+          "start": 951,
+          "end": 1008,
+          "answer": "has contributed to the international prestige and success"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another equally compelling justification is that a well-rounded education aligns more closely with the realities of contemporary employment. Long gone are the days when expertise in a single discipline guaranteed career success. In today’s interconnected world, professional excellence often requires an integration of specialised knowledge with complementary skills. Consider a top surgeon: beyond mastering intricate medical procedures, they must understand patient psychology to foster trust, encourage compliance, and ultimately aid recovery. Similarly, a software engineer’s technical prowess may not suffice without strong communication skills, which enable effective teamwork and client interaction. It is precisely through optional courses such as public speaking or psychology, often outside their major, that students acquire these essential capabilities.",
+      "cn": "另一个同样有力的理由是，全面的教育与当代就业的现实更加契合。靠单一学科知识就能保证职业成功的日子早已过 去。在当今互联的世界里，职业上的卓越往往需要专业知识与补充技能的结合。比如说，一个顶尖外科医生除了掌握 复杂的手术技巧，还必须懂得病人心理，以建立信任、促进遵医嘱，从而帮助康复。类似地，一名优秀的软件工程师 如果没有强大的沟通能力，也很难胜任工作，因为团队合作和客户交流同样重要。学生正是通过诸如演讲或心理学等 这些 通常不在他们的专业范围内的选修课程来获得这些关键能力的。",
+      "clozes": [
+        {
+          "start": 304,
+          "end": 359,
+          "answer": "integration of specialised knowledge with complementary"
+        },
+        {
+          "start": 580,
+          "end": 597,
+          "answer": "technical prowess"
+        },
+        {
+          "start": 657,
+          "end": 682,
+          "answer": "enable effective teamwork"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, I firmly believe that universities should advocate for a more interdisciplinary approach. By doing so, they not only help students discover their authentic academic interests but also equip them with a more adaptable skill set that is indispensable for thriving in today’s competitive world.",
+      "cn": "总之，我坚信大学应当提倡更具跨学科性的培养方式。这样做不仅能帮助学生发现真正的学术兴趣，还能为他们提供 一种更具适应性的技能组合，使他们在当今竞争激烈的世界中脱颖而出。",
+      "clozes": [
+        {
+          "start": 57,
+          "end": 69,
+          "answer": "advocate for"
+        },
+        {
+          "start": 77,
+          "end": 103,
+          "answer": "interdisciplinary approach"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that university students should be encouraged to study subjects outside their main field of study. I completely agree with this view because it can help students discover their interests and prepare them better for their future careers.",
+      "cn": "一些人认为，大学应该鼓励学生学习主修专业以外的其他学科。我完全赞同这一观点，因为这能够帮助学生发现自己 的兴趣，并使他们为未来的职业生涯做好更充分的准备。",
+      "clozes": [
+        {
+          "start": 55,
+          "end": 102,
+          "answer": "encouraged to study subjects outside their main"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The first reason is that many students are unsure about their interests when they enter university. Some choose their majors based on advice from their parents or teachers rather than their own preferences. As a result, they may later realise that their chosen subject is not suitable for them. By taking courses in other fields, students can explore different subjects and discover what they truly enjoy. For example, a student studying business may take an art course and realise that they are more interested in design. This could help them make better decisions about their future studies and careers. Learning different subjects can also give students a wider range of knowledge and help them understand the world from different perspectives.",
+      "cn": "第一个原因是，许多学生在进入大学时并不确定自己的兴趣所在。有些学生选择专业时，依据的是父母或老师的建 议，而不是自己的个人喜好。因此，他们可能在之后才意识到，自己所选择的专业并不适合自己。通过选修其他领域 的课程，学生能够探索不同的学科，并发现自己真正喜欢什么。例如，一名商科学生可能会选修一门艺术课程，并意 识到自己其实对设计更感兴趣。这能够帮助他们在未来的学习和职业规划方面作出更明智的决定。学习不同的学科还 可以拓宽学生的知识面，并帮助他们从不同的角度理解世界。",
+      "clozes": [
+        {
+          "start": 172,
+          "end": 183,
+          "answer": "rather than"
+        },
+        {
+          "start": 207,
+          "end": 218,
+          "answer": "As a result"
+        },
+        {
+          "start": 406,
+          "end": 417,
+          "answer": "For example"
+        },
+        {
+          "start": 451,
+          "end": 469,
+          "answer": "take an art course"
+        },
+        {
+          "start": 544,
+          "end": 592,
+          "answer": "make better decisions about their future studies"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another reason is that modern jobs often require more than knowledge of one subject. Although students need to develop a strong understanding of their main field, they may also need skills from other areas to perform well at work. For example, doctors need medical knowledge, but learning psychology can help them understand their patients and communicate with them more effectively. Similarly, software engineers may benefit from studying communication because they often need to work in teams and explain their ideas to others. Universities can help students develop these abilities by offering courses outside their majors. This can make graduates better prepared for different challenges in the workplace.",
+      "cn": "另一个原因是，现代工作往往要求人们掌握不止一个学科领域的知识。尽管学生需要深入掌握主修专业的知识，但他 们可能还需要其他领域的技能，才能在工作中表现出色。例如，医生需要具备医学知识，但学习心理学可以帮助他们 更好地理解患者，并与患者进行更加有效的沟通。同样，软件工程师也可能从沟通类课程中受益，因为他们经常需要 与团队成员合作，并向他人解释自己的想法。大学可以通过提供专业以外的课程，帮助学生培养这些能力。这能够使 毕业生更好地应对职场中的各种挑战。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 14,
+          "answer": "Another reason"
+        },
+        {
+          "start": 85,
+          "end": 93,
+          "answer": "Although"
+        },
+        {
+          "start": 111,
+          "end": 155,
+          "answer": "develop a strong understanding of their main"
+        },
+        {
+          "start": 231,
+          "end": 242,
+          "answer": "For example"
+        },
+        {
+          "start": 418,
+          "end": 430,
+          "answer": "benefit from"
+        },
+        {
+          "start": 561,
+          "end": 612,
+          "answer": "develop these abilities by offering courses outside"
+        },
+        {
+          "start": 658,
+          "end": 680,
+          "answer": "prepared for different"
+        },
+        {
+          "start": 692,
+          "end": 708,
+          "answer": "in the workplace"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, I strongly believe that universities should encourage students to study a range of subjects. This can help them find their real interests and develop useful skills for their future careers.",
+      "cn": "总而言之，我坚信大学应该鼓励学生学习不同领域的学科。这不仅能够帮助他们发现自己真正的兴趣，还能让他们掌 握对未来职业发展有用的技能。",
+      "clozes": [
+        {
+          "start": 59,
+          "end": 106,
+          "answer": "encourage students to study a range of subjects"
+        },
+        {
+          "start": 157,
+          "end": 203,
+          "answer": "develop useful skills for their future careers"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "多样化需求",
+      "en": "multifaceted/diversified/various demands"
+    },
+    {
+      "zh": "青少年",
+      "en": "adolescents"
+    },
+    {
+      "zh": "专业知识与补充技能的结合",
+      "en": "integration of specialised knowledge with complementary"
+    },
+    {
+      "zh": "技术实力",
+      "en": "technical prowess"
+    },
+    {
+      "zh": "支持、提倡",
+      "en": "advocate for"
+    },
+    {
+      "zh": "跨学科方式",
+      "en": "interdisciplinary approach"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

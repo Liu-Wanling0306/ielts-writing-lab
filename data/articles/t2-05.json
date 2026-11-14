@@ -1,0 +1,273 @@
+{
+  "id": "t2-05",
+  "type": "大作文",
+  "title": "大学需要重视职业技能还是学术学习？",
+  "group": "教育与成长",
+  "question": "Some people believe that university education should focus on the skills of employment for the future. Others think it should focus on academic study only. Discuss both views and give your own opinion.",
+  "logic": "▪ 主体段一 讨论反方观点大学教授工作技能（work-related skills）是必要的。①现状：目前大学与工作技能相关 的课程确实较少，教育者们也没有意识到这一问题 → 原因：他们更专注于学术教育（committed to academic education）。②学生和家长要求大学开设更多相关课程。 ▪ 主体段二 讨论正方观点学术进步对大学而言至关重要（of paramount importance for）。①学术进步对学生学习 和国家发展助益良多 → 对比：与中小学不同，大学应承担促进国家发展的角色 → 具体方面：创新、全球性挑 战 → 大学的特点在于学术贡献，包括人才、实验室与论文 → 这些都与学术研究相关。②大学应与职业学校 （vocational schools）加以区分。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "In today’s college education, increasing emphasis has been placed on fostering students’ practical skills. But many people argue that academic study should remain the primary focus of modern universities. This essay will examine both perspectives and contend that it is more important for college education to prioritize academic pursuits.",
+      "cn": "在当今的大学教育中，培养学生实践技能的重要性日益受到重视，但许多人认为学术研究仍应是现代大学的核心任 务。本文将探讨这两种观点，并主张大学教育更应优先发展学术追求。",
+      "clozes": [
+        {
+          "start": 30,
+          "end": 68,
+          "answer": "increasing emphasis has been placed on"
+        },
+        {
+          "start": 156,
+          "end": 203,
+          "answer": "remain the primary focus of modern universities"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "It is undeniable that the cultivation of work-related skills is necessary in higher education. In reality, some colleges and educators often neglect their responsibility to prepare their students for the job market, as they are committed to academic education. Modern individuals tend to view college education as an investment, expecting substantial returns in the future. But due to the insufficient supply of career-related courses and practical tutorials in many universities, an increasing number of young people and their parents express their dissatisfaction, claiming that university education fails to meet their expectations and results in a waste of both time and money. As a result, the outcry for academic institutions to focus on teaching practical skills has become increasingly prevalent.",
+      "cn": "不可否认，在高等教育中培养与工作相关的技能是有必要的。现实中，一些大学和教师往往忽视了帮助学生为就业做 好准备的责任，因为他们致力于学术教学。现代人普遍将大学教育视为一项投资，期望其在未来带来可观的回报。然 而，由于许多大学在职业相关课程和实践性教学方面供给不足，越来越多的年轻人及其家长对此感到不满，认为大学 教育未能实现他们的预期，反而浪费了自身的时间和金钱。因此，呼吁大学加强实践技能教学的声音正变得越来越强 烈。",
+      "clozes": [
+        {
+          "start": 22,
+          "end": 60,
+          "answer": "the cultivation of work-related skills"
+        },
+        {
+          "start": 389,
+          "end": 448,
+          "answer": "insufficient supply of career-related courses and practical"
+        },
+        {
+          "start": 682,
+          "end": 693,
+          "answer": "As a result"
+        },
+        {
+          "start": 770,
+          "end": 803,
+          "answer": "has become increasingly prevalent"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In my opinion, however, although teaching employability skills is essential, academic study and intellectual advancement are of paramount importance for modern universities. Unlike primary schools and secondary education, higher education shapes the strength and resilience of a nation and determines its capacity for long-term development. Without a solid academic foundation, even the most prestigious universities would struggle to nurture talented people, drive innovation, or address global challenges such as sustainability. A defining feature of elite universities lies in their top scientists, world-class laboratories and high-impact academic publications — all of which highlight the critical role of academic research. Should colleges overly focus on teaching practical skills, they would risk becoming indistinguishable from vocational schools or job training centres.",
+      "cn": "然而，在我看来，尽管教授职业技能很重要，但学术研究和智力发展才是现代大学最应重视的核心。与中小学教育不 同，高等教育关乎一个国家的综合实力与长期发展的潜力。缺乏坚实的学术基础，即使是最顶尖的大学也难以培养高 素质人才、推动技术创新，或应对诸如可持续发展等全球性挑战。顶尖大学的一大标志正是其拥有杰出的科学家、世 界一流的实验室以及具有广泛影响力的学术出版物——这些都凸显了学术研究在大学中的关键地位。如果大学过于注 重实践技能的教学，就有可能沦为与职业学校或职业培训中心无异的机构。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 22,
+          "answer": "however"
+        },
+        {
+          "start": 24,
+          "end": 32,
+          "answer": "although"
+        },
+        {
+          "start": 318,
+          "end": 339,
+          "answer": "long-term development"
+        },
+        {
+          "start": 435,
+          "end": 465,
+          "answer": "nurture talented people, drive"
+        },
+        {
+          "start": 667,
+          "end": 689,
+          "answer": "all of which highlight"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "To conclude, while universities should play a part in enhancing young people’s career readiness, their core mission should always be centred on academic study.",
+      "cn": "总之，尽管大学在提升青年就业能力方面应有所作为，但其核心使命始终应是学术研究。",
+      "clozes": [
+        {
+          "start": 39,
+          "end": 78,
+          "answer": "play a part in enhancing young people’s"
+        },
+        {
+          "start": 130,
+          "end": 143,
+          "answer": "be centred on"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that universities should teach students practical skills for their future jobs, while others think they should mainly focus on academic study. Although job-related skills are important, I believe that academic study should remain the main purpose of university education.",
+      "cn": "一些人认为，大学应该教授学生未来工作所需要的实用技能，而另一些人则认为，大学应该主要专注于学术学习。尽 管与就业相关的技能十分重要，但我认为，学术学习仍然应该是大学教育的主要目的。",
+      "clozes": [
+        {
+          "start": 163,
+          "end": 171,
+          "answer": "Although"
+        },
+        {
+          "start": 243,
+          "end": 290,
+          "answer": "remain the main purpose of university education"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "On the one hand, universities need to prepare students for their future careers. Many students see university education as an investment because they spend several years and a large amount of money on it. Therefore, they naturally expect to find a good job after graduation. However, some universities focus too much on academic knowledge and provide few opportunities for students to develop practical skills. As a result, graduates may have strong knowledge of their subjects but still find it difficult to meet the needs of employers. Universities should therefore offer some practical courses and training to help students become better prepared for the job market.",
+      "cn": "一方面，大学需要帮助学生为未来的职业生涯做好准备。许多学生将大学教育视为一种投资，因为他们需要为此投入 数年的时间和大量金钱。因此，他们自然希望能够在毕业后找到一份理想的工作。然而，一些大学过于注重学术知 识，很少为学生提供培养实践技能的机会。因此，毕业生虽然可能掌握扎实的专业知识，却仍然难以满足雇主的实际 需求。所以，大学应该提供一定的实践课程和培训，帮助学生为进入就业市场做好更加充分的准备。",
+      "clozes": [
+        {
+          "start": 205,
+          "end": 214,
+          "answer": "Therefore"
+        },
+        {
+          "start": 275,
+          "end": 282,
+          "answer": "However"
+        },
+        {
+          "start": 385,
+          "end": 409,
+          "answer": "develop practical skills"
+        },
+        {
+          "start": 411,
+          "end": 422,
+          "answer": "As a result"
+        },
+        {
+          "start": 438,
+          "end": 481,
+          "answer": "have strong knowledge of their subjects but"
+        },
+        {
+          "start": 514,
+          "end": 526,
+          "answer": "the needs of"
+        },
+        {
+          "start": 568,
+          "end": 596,
+          "answer": "offer some practical courses"
+        },
+        {
+          "start": 627,
+          "end": 668,
+          "answer": "become better prepared for the job market"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "On the other hand, I believe that academic study should be the main focus of universities. Universities are different from vocational schools or job training centres. Their purpose is not simply to prepare students for a particular job, but also to develop knowledge, conduct research and encourage new ideas. For example, universities have scientists and research teams working on important problems in areas such as medicine, technology and the environment. Their research can lead to new discoveries and contribute to the long-term development of society. If universities spend too much time teaching specific job skills, they may have fewer resources for academic research. Students can also learn many practical skills after entering the workplace, while universities provide them with academic knowledge that may be more difficult to gain elsewhere.",
+      "cn": "另一方面，我认为学术学习应该是大学教育的主要重点。大学不同于职业学校或职业培训机构。大学的目的并不仅仅 是让学生为某一特定工作做好准备，还包括发展知识、开展研究以及鼓励创新思想。例如，大学拥有科学家和科研团 队，他们致力于研究医学、科技和环境等领域的重要问题。这些研究可能带来新的发现，并推动社会的长期发展。如 果大学花费过多时间教授具体的职业技能，那么用于学术研究的资源可能就会相应减少。此外，学生进入职场之后仍 然可以学习许多实践技能，而大学能够为他们提供的学术知识，在其他地方可能更难获得。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 17,
+          "answer": "On the other hand"
+        },
+        {
+          "start": 289,
+          "end": 308,
+          "answer": "encourage new ideas"
+        },
+        {
+          "start": 310,
+          "end": 321,
+          "answer": "For example"
+        },
+        {
+          "start": 479,
+          "end": 486,
+          "answer": "lead to"
+        },
+        {
+          "start": 507,
+          "end": 520,
+          "answer": "contribute to"
+        },
+        {
+          "start": 525,
+          "end": 546,
+          "answer": "long-term development"
+        },
+        {
+          "start": 634,
+          "end": 676,
+          "answer": "have fewer resources for academic research"
+        },
+        {
+          "start": 773,
+          "end": 809,
+          "answer": "provide them with academic knowledge"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, universities should provide students with some practical training to improve their chances of finding employment. However, I believe their main responsibility should remain academic education and research.",
+      "cn": "总而言之，大学应该为学生提供一定的实践培训，以提高他们找到工作的机会。然而，我认为，大学最主要的责任仍 然应该是学术教育和科学研究。",
+      "clozes": [
+        {
+          "start": 35,
+          "end": 91,
+          "answer": "provide students with some practical training to improve"
+        },
+        {
+          "start": 129,
+          "end": 136,
+          "answer": "However"
+        },
+        {
+          "start": 181,
+          "end": 206,
+          "answer": "remain academic education"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "……日益受到重视",
+      "en": "increasing emphasis has been placed on"
+    },
+    {
+      "zh": "缺少职业相关课程和实践性教学",
+      "en": "insufficient supply of career-related courses and practical"
+    },
+    {
+      "zh": "培养高素质人才、推动技术创新，或应对全球性挑战",
+      "en": "nurture talented people, drive"
+    },
+    {
+      "zh": "……的一大标志是",
+      "en": "A defining feature of ... lies in"
+    },
+    {
+      "zh": "……这些都凸显了…… ...,",
+      "en": "all of which highlight ..."
+    },
+    {
+      "zh": "聚焦于",
+      "en": "be centred on"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

@@ -1,0 +1,134 @@
+{
+  "id": "t1-19",
+  "type": "小作文",
+  "title": "墨尔本某中心参与活动的人数变化",
+  "group": "数据图表",
+  "question": "The graph below gives information on the numbers of participants for different activities at one social centre in Melbourne, Australia for the period 2000 to 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 【常胜将军】电影俱乐部（remained the most popular activity throughout the period）→【增长最快】乒 乓球（experienced the most significant growth）→【明显下降项】业余戏剧（declined substantially）→【稳定 项】 武术（remained relatively stable） ▪ 主一段 电影俱乐部+乒乓球【先讲常胜将军】电影俱乐部（consistently attracted the highest number of participants）→【By comparison 转到增长最快项】乒乓球：起点不足20 人→【转折点】2010 年之后大幅增 长（after which it saw a dramatic increase）→【写排名结果】成为第二受欢迎的活动（becoming the second most popular activity） ▪ 主二段 武术+业余戏剧+音乐表演【总起：先把剩余三项归组】其他三项变化相对温和（showed relatively moderate changes）→ 【先讲稳定项】武术：小幅波动（fluctuated slightly）→【Meanwhile 转到下降项】业 余戏剧（declined steadily）→【最后讲特殊的新增项】音乐表演：2005 年前没有参与者 → 此后逐渐流行 （gradually gained popularity）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The line graph illustrates changes in the number of participants involved in five different activities at a social centre in Melbourne, Australia from 2000 to 2020.",
+      "cn": "该折线图展示了2000 年至2020 年期间，澳大利亚墨尔本一家社交中心五种不同活动参与人数的变化情况。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 34,
+          "answer": "The line graph illustrates changes"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, the film club remained the most popular activity throughout the period, while table tennis experienced the most significant growth. In contrast, amateur dramatics declined substantially, whereas martial arts remained relatively stable.",
+      "cn": "总体来看，在整个时期内，电影俱乐部始终是最受欢迎的活动，而乒乓球的参与人数增长最为显著。相比之下，业余 戏剧活动的参与人数大幅下降，而武术活动的参与人数则保持相对稳定。",
+      "clozes": [
+        {
+          "start": 58,
+          "end": 79,
+          "answer": "throughout the period"
+        },
+        {
+          "start": 112,
+          "end": 139,
+          "answer": "the most significant growth"
+        },
+        {
+          "start": 141,
+          "end": 152,
+          "answer": "In contrast"
+        },
+        {
+          "start": 196,
+          "end": 203,
+          "answer": "whereas"
+        },
+        {
+          "start": 217,
+          "end": 243,
+          "answer": "remained relatively stable"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "The film club consistently attracted the highest number of participants, with figures staying at around 60 –65 before increasing slightly to approximately 66 in 2020. By comparison, table tennis started with fewer than 20 participants and remained unchanged until 2010, after which it saw a dramatic increase, reaching over 50 participants by the end of the period and becoming the second most popular activity.",
+      "cn": "电影俱乐部的参与人数始终位居首位，其人数一直维持在60 至65 人左右，随后小幅上升，在2020 年达到约66 人。 相比之下，乒乓球最初的参与人数不足20 人，并一直到2010 年都没有发生明显变化。此后，其参与人数大幅增长， 到这一时期结束时已超过50 人，并成为参与人数第二多的活动。",
+      "clozes": [
+        {
+          "start": 27,
+          "end": 71,
+          "answer": "attracted the highest number of participants"
+        },
+        {
+          "start": 239,
+          "end": 257,
+          "answer": "remained unchanged"
+        },
+        {
+          "start": 340,
+          "end": 353,
+          "answer": "by the end of"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "The other three activities showed relatively moderate changes. Participation in martial arts fluctuated slightly but remained stable at around 35 throughout the period. Meanwhile, amateur dramatics, after peaking at roughly 28 participants in 2005, declined steadily to only about 5 in 2020. Musical performances, which had no participants before 2005, gradually gained popularity and reached nearly 20 participants by the final year.",
+      "cn": "其余三项活动的变化相对较为温和。武术活动的参与人数虽然略有波动，但在整个时期内基本稳定在35 人左右。与此 同时，业余戏剧活动的参与人数在2005 年达到约28 人的峰值后持续下降，到2020 年仅剩约5 人。音乐表演在 2005 年之前没有参与者，但此后逐渐受到欢迎，到最后一年时，参与人数已接近20 人。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 26,
+          "answer": "The other three activities"
+        },
+        {
+          "start": 93,
+          "end": 112,
+          "answer": "fluctuated slightly"
+        },
+        {
+          "start": 117,
+          "end": 132,
+          "answer": "remained stable"
+        },
+        {
+          "start": 146,
+          "end": 167,
+          "answer": "throughout the period"
+        },
+        {
+          "start": 169,
+          "end": 178,
+          "answer": "Meanwhile"
+        },
+        {
+          "start": 249,
+          "end": 282,
+          "answer": "declined steadily to only about 5"
+        },
+        {
+          "start": 320,
+          "end": 351,
+          "answer": "had no participants before 2005"
+        },
+        {
+          "start": 385,
+          "end": 428,
+          "answer": "reached nearly 20 participants by the final"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

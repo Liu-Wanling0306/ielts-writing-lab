@@ -1,0 +1,103 @@
+{
+  "id": "t1-29",
+  "type": "小作文",
+  "title": "Beechwood 农场50 年的变化",
+  "group": "地图与规划图",
+  "question": "The plans below show the site of a farm in 1950 and the same site today. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 先抓整体转型，再归纳主要变化【整体变化】农场经历了根本性变化（undergone fundamental changes） → 【主要变化】北部方向 → 【其他变化】获得升级 ▪ 主一段 北部—土地用途变化+道路调整【先抓变化最大的区域】1950 年：北部主要是牧羊区 → 现在：被划分 为露营区+太阳能板区域（be divided into）→ 【补充周围】分别新增小型停车场 →【交通变化】小路升级为铺 装道路（be upgraded to paved roads）→【最后补充不变项】西北角的主干道保持原样（remained unchanged） ▪ 主二段 南部—建筑调整+农业区域保留【先讲主要变化】原谷仓被拆除并改建为度假小屋（be demolished and replaced with）→【顺势补充新位置】南部新建一个较小的谷仓 → 【再讲其他变化】农场商店 → 【最后集中处 理不变项】软果种植区+蔬菜种植区+养鸡区（remained unchanged in both size and location）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The plans illustrate the layout of Beechwood Farm in 1950 and the same site today.",
+      "cn": "这两张平面图展示了 Beechwood 农场在1950 年和如今的布局。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, the farm has undergone fundamental changes over the past 75 years. The most noticeable change has occurred in the northern part of the farm, and other facilities have also been upgraded to cater to tourists.",
+      "cn": "总体来看，在过去的75 年里，该农场发生了根本性的变化。最显著的变化出现在农场西北部，其他设施也得到了升 级，以满足游客的需求。",
+      "clozes": [
+        {
+          "start": 18,
+          "end": 65,
+          "answer": "has undergone fundamental changes over the past"
+        },
+        {
+          "start": 103,
+          "end": 148,
+          "answer": "has occurred in the northern part of the farm"
+        },
+        {
+          "start": 171,
+          "end": 215,
+          "answer": "have also been upgraded to cater to tourists"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In 1950, the northern area was mainly occupied by sheep, but it has now been divided into a large camping field and a solar panel installation, each with a small parking lot nearby. Meanwhile, the tracksthat once separated the northern and southern sections have been upgraded to paved roads, while the main road in the northwest corner has remained unchanged.",
+      "cn": "1950 年，农场北部主要用于放牧绵羊，但如今这片区域已被划分为一大片露营场地和一处太阳能电池板设施区，两者 附近各设有一个小型停车场。与此同时，过去将农场南北两部分分隔开的土路已被升级为铺设路面的道路，而西北角 的主干道则保持不变。",
+      "clozes": [
+        {
+          "start": 64,
+          "end": 97,
+          "answer": "has now been divided into a large"
+        },
+        {
+          "start": 182,
+          "end": 191,
+          "answer": "Meanwhile"
+        },
+        {
+          "start": 258,
+          "end": 291,
+          "answer": "have been upgraded to paved roads"
+        },
+        {
+          "start": 341,
+          "end": 359,
+          "answer": "remained unchanged"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In the southern part of the farm, the old barn adjacent to the farmhouse has been demolished and replaced with holiday cottages, while a smaller barn has been built further south, close to the triangular road junction. Additionally, some fruit trees near the road have been cleared to make way for a farm shop, though the areas for soft fruits, vegetables, and chickens have remained unchanged in both size and location.",
+      "cn": "在农场南部，原本紧邻农舍的旧谷仓已被拆除，并由度假小屋取而代之；与此同时，一座较小的谷仓被建在更靠南的 位置，靠近三角形道路交叉口。此外，道路附近的一些果树已被清除，以腾出空间建设一家农场商店。不过，软果种 植区、蔬菜种植区和养鸡区在面积和位置上均保持不变。",
+      "clozes": [
+        {
+          "start": 73,
+          "end": 92,
+          "answer": "has been demolished"
+        },
+        {
+          "start": 150,
+          "end": 178,
+          "answer": "has been built further south"
+        },
+        {
+          "start": 264,
+          "end": 304,
+          "answer": "have been cleared to make way for a farm"
+        },
+        {
+          "start": 375,
+          "end": 393,
+          "answer": "remained unchanged"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

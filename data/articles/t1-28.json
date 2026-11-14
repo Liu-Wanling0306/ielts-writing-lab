@@ -1,0 +1,93 @@
+{
+  "id": "t1-28",
+  "type": "小作文",
+  "title": "会议室因人数而变化布局图",
+  "group": "地图与规划图",
+  "question": "The plans show the room layouts for training sessions for up ten people and more than ten people. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 【总说】根据人数，房间布局需要重新调整（the room is rearranged）→ 【主要变化】座位的排列方式+ 茶歇桌的位置+讲师桌的位置 ▪ 主一段 讲方案A—不超过10 人的布局【先核心，后外围】中央座位 → 前方教学设施 → 底部茶歇区 ▪ 主二段 讲方案B—超过10 人的布局，集中描述变化座位重组 → 新座位分布：两组位于房间中央（located in the middle of the room）+第三组：位于房间底部附近（set near the bottom）→ 两项配套设施移动：茶歇区移 动+讲师桌移动",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The plans illustrate two room layouts for a training session, one for up to ten participants and the other for more people.",
+      "cn": "这两张平面图展示了培训室的两种不同布局，一种适用于最多十名参与者，另一种则适用于人数更多的培训活动。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, the room is rearranged when the number of attendees exceeds ten. The main changes concern the seating arrangement for trainees, the location of the refreshments table, and the position of the presenter’s desk.",
+      "cn": "总体来看，当参与培训的人数超过十人时，房间的布局会进行相应调整。主要变化涉及学员的座位安排、茶点桌的位 置以及培训讲师桌子的摆放位置。",
+      "clozes": [
+        {
+          "start": 74,
+          "end": 90,
+          "answer": "The main changes"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In the layout for no more than ten people, the trainees sit around a U-shaped table arrangement in the centre of the room, with chairs placed along the sides and an open area in the middle. At the front, the presenter’s desk is situated on the left, while the whiteboard is placed to the right of it. Meanwhile, the morning tea table is positioned along the bottom of the room.",
+      "cn": "在参与人数不超过十人的布局中，学员围坐在房间中央呈U 形排列的桌子周围，椅子沿桌子两侧摆放，中间留有一块 开放空间。在房间前方，讲师的桌子位于左侧，而白板则放置在其右侧。与此同时，供应上午茶点的桌子沿房间底部 摆放。",
+      "clozes": [
+        {
+          "start": 135,
+          "end": 157,
+          "answer": "placed along the sides"
+        },
+        {
+          "start": 274,
+          "end": 299,
+          "answer": "placed to the right of it"
+        },
+        {
+          "start": 301,
+          "end": 310,
+          "answer": "Meanwhile"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "By contrast, in the plan for more than ten participants, the U-shaped arrangement is replaced by three separate groups, which allows more people to be seated. Two groups are located in the middle of the room and the third is set near the bottom. In addition, the morning tea area is moved to the top-left corner, and the presenter’s desk is relocated to the upper central area, between the whiteboard and the trainees’ tables.",
+      "cn": "相比之下，在参与人数超过十人的布局中，原来的U 形桌椅排列被三个独立的小组式布局所取代，从而能够容纳更多 学员。其中两组位于房间中央，第三组则设置在靠近房间底部的位置。此外，上午茶点区被移至左上角，而讲师的桌 子则被重新安置在房间上方的中央区域，位于白板和学员桌子之间。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 11,
+          "answer": "By contrast"
+        },
+        {
+          "start": 85,
+          "end": 118,
+          "answer": "replaced by three separate groups"
+        },
+        {
+          "start": 126,
+          "end": 157,
+          "answer": "allows more people to be seated"
+        },
+        {
+          "start": 246,
+          "end": 257,
+          "answer": "In addition"
+        },
+        {
+          "start": 280,
+          "end": 304,
+          "answer": "is moved to the top-left"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

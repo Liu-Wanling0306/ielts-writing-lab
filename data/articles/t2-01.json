@@ -1,0 +1,234 @@
+{
+  "id": "t2-01",
+  "type": "大作文",
+  "title": "教师只需要注重教学吗？",
+  "group": "教育与成长",
+  "question": "Some people think that teachers should be responsible for teaching students how to judge right from wrong and how to behave well. Some say that teachers should only teach students about academic subjects. Discuss both views and give your opinion.",
+  "logic": "▪ 主体段一 讨论反方教师只需要教授学科知识的原因①教师的职业特色（the defining feature）就是学术教学 → 现状：时代更看重专业性（professionalism）和分工（work division） → 正反对比：教师如果投入过多在道德教 育上就会和家长没区别（become indistinguishable from parents）②教师进行道德教育的弊端 → 很多例子表明 学生被教育后会对教师产生仇恨 ▪ 主体段二 讨论正方教师应该融入道德教育（incorporate moral education）在教学中①众多文化都认为教师是灵 魂的工程师（engineers of the souls）→ 中国文化+哈佛大学的名言②对学生的道德教育会助益于他的学习之路 → 举例：众多学科教科书的序章都有关于学科道德和职业道德（moral code） → 反映了教师的道德教育属性",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Teachers are the most integral part of the modern educational system. Some people believe that teachers should focus solely on teaching academic subjects, while others argue that they play a major role in imparting ethical values to the younger generations. This essay will examine both views and argue that teachers have the responsibility for students’ moral education.",
+      "cn": "教师是现代教育体系中最核心的组成部分。一些人认为教师应专注于教授学科知识，而另一些人则认为教师在传授伦 理价值观方面同样扮演着重要角色。本文将探讨这两种观点，并主张教师应承担起学生道德教育的责任。",
+      "clozes": [
+        {
+          "start": 189,
+          "end": 204,
+          "answer": "a major role in"
+        },
+        {
+          "start": 317,
+          "end": 370,
+          "answer": "have the responsibility for students’ moral education"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "There are multiple reasons why teachers are considered responsible only for students’ academic study. Firstly, the defining feature of teachers as a job is that they are expected to help students acquire knowledge in academic fields. In an era that values professionalism and work division, every working professional should prioritize their main duty. Should teachers allocate much of their time and wisdom to moral education, they would risk becoming indistinguishable from parents. Furthermore, moral education often leads to negative outcomes, both physically and psychologically. There are some disturbing instances where teachers are violently attacked by their students, just because these juveniles hold grudges against their teachers after being lectured about their misconduct.",
+      "cn": "许多人认为教师只应对学生的学业负责，原因有以下几点。首先，教师这一职业最核心的特点就在于帮助学生掌握学 术领域的知识。在一个高度重视专业分工的时代，每一个从业者都应当将履行本职工作作为优先事项。如果教师将大 量时间和精力投入到道德教育中，就有可能模糊他们与家长之间的界限。此外，道德教育有时还可能带来身心上的负 面后果。就有一些令人震惊的案例表明，教师因指出学生的不当行为而遭到攻击，仅仅是因为一些青少年对“被说 教”心怀怨恨。",
+      "clozes": [
+        {
+          "start": 166,
+          "end": 181,
+          "answer": "are expected to"
+        },
+        {
+          "start": 444,
+          "end": 475,
+          "answer": "becoming indistinguishable from"
+        },
+        {
+          "start": 520,
+          "end": 546,
+          "answer": "leads to negative outcomes"
+        },
+        {
+          "start": 707,
+          "end": 727,
+          "answer": "hold grudges against"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "On the other hand, the opposite perspective to the argument above, and the viewpoint that I fully support, is that teachers must incorporate moral education into their main duties. In many cultures, teachers are widely perceived as the engineers of the souls of human beings. There is a famous saying in China that goes, “What makes a true teacher is whether they enlighten, instruct, and enrich young minds.” A former principal of Harvard University once said, “The essence of education is to evoke the kindness within an individuals’ spirit.” These proverbs emphasize that teachers’ roles are far beyond teaching content in textbooks and helping students with their academic performance. In reality, when young people have high standards of ethical values, they are often more motivated to make remarkable achievements in their academic fields. In addition, the beginning chapter in many textbooks often relates to the moral code of a certain profession, which partly reflects teachers’ role in moral education.",
+      "cn": "然而，与上述观点相反，我更倾向于并坚定支持另一种立场：教师必须将道德教育纳入其主要职责之中。在许多文化 中，教师被视为“人类灵魂的工程师”。中国有句古话说：“师者，所以传道授业解惑也。”哈佛大学一位前任校长 也曾指出：“教育的本质是唤醒人内心的善意。”这些箴言都强调，教师的职责远不止于教授课本内容帮助学生提升 成绩。事实上，当学生拥有较高的道德标准时，他们在学术上往往更具动力与目标感。此外，许多教科书的第一章往 往是关于某一职业的道德规范，这也从侧面反映了教师在道德教育中扮演的重要角色。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 17,
+          "answer": "On the other hand"
+        },
+        {
+          "start": 327,
+          "end": 363,
+          "answer": "makes a true teacher is whether they"
+        },
+        {
+          "start": 662,
+          "end": 688,
+          "answer": "their academic performance"
+        },
+        {
+          "start": 720,
+          "end": 757,
+          "answer": "have high standards of ethical values"
+        },
+        {
+          "start": 792,
+          "end": 845,
+          "answer": "make remarkable achievements in their academic fields"
+        },
+        {
+          "start": 847,
+          "end": 858,
+          "answer": "In addition"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, while many people point to academic teaching as teachers’ sole responsibility, I firmly believe that teachers’ roles are far more diverse. Helping the young tell right from wrong, and assisting them in behaving well, are of equal significance.",
+      "cn": "总之，尽管许多人认为教师的职责仅限于学业指导，我却坚信教师的角色远比这更为广泛。帮助年轻人明辨是非，培 养他们良好的行为习惯，与学术教学同等重要。",
+      "clozes": [
+        {
+          "start": 136,
+          "end": 152,
+          "answer": "far more diverse"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that teachers should only teach academic subjects, while others think they should also teach students how to behave well and tell right from wrong. This essay will discuss both views and argue that teachers should also play a role in students' moral education.",
+      "cn": "一些人认为，教师应该只教授学术科目，而另一些人则认为，教师还应该教学生如何正确地为人处事，以及如何明辨 是非。本文将讨论这两种观点，并论证教师也应该在学生的道德教育中发挥作用。",
+      "clozes": [
+        {
+          "start": 239,
+          "end": 279,
+          "answer": "play a role in students' moral education"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "On the one hand, teachers are mainly employed to help students gain academic knowledge. At school, they need to teach subjects such as mathematics, science and languages and help students prepare for exams. Their teaching time is limited, so spending too much time on other matters may affect students' academic progress. In addition, parents are usually considered mainly responsible for their children's behaviour and values. Children spend a large amount of time with their families, and parents can teach them basic rules such as respecting others and being honest. From this point of view, teachers should focus mainly on education, while parents should take greater responsibility for children's behaviour.",
+      "cn": "一方面，教师受聘的主要目的是帮助学生获取学术知识。在学校里，他们需要教授数学、科学和语言等科目，并帮助 学生为考试做好准备。教师的教学时间有限，因此，如果在其他事务上花费过多时间，可能会影响学生的学业进度。 此外，人们通常认为，父母应该对孩子的行为和价值观承担主要责任。孩子会花大量时间与家人相处，而父母可以教 给他们一些基本的行为准则，例如尊重他人和诚实守信。从这个角度来看，教师应该主要专注于学业教育，而父母则 应该对孩子的行为培养承担更多责任。",
+      "clozes": [
+        {
+          "start": 322,
+          "end": 333,
+          "answer": "In addition"
+        },
+        {
+          "start": 659,
+          "end": 711,
+          "answer": "take greater responsibility for children's behaviour"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "On the other hand, I believe teachers should also help students develop good values. Students spend many hours at school and communicate with their teachers every day. As a result, teachers have a strong influence on the way young people think and behave. For example, when students cheat in an exam, bully others or behave badly in class, teachers should not simply ignore such behaviour. They should explain why it is wrong and encourage students to behave better. Moreover, education is not only about getting good grades. Schools should also prepare young people to become responsible members of society. Teaching students values such as honesty, respect and responsibility is therefore an important part of education.",
+      "cn": "另一方面，我认为教师也应该帮助学生树立良好的价值观。学生每天会在学校度过很长时间，并且每天都会与老师交 流。因此，教师会对年轻人的思维方式和行为方式产生很大的影响。例如，当学生在考试中作弊、欺凌他人或者在课 堂上表现不当时，教师不应该简单地对此置之不理。他们应该向学生解释为什么这些行为是错误的，并鼓励他们改正 自己的行为。此外，教育的意义并不仅仅在于取得好成绩。学校还应该帮助年轻人为成为负责任的社会成员做好准 备。因此，培养学生诚实、尊重他人和负责任等价值观，也是教育的重要组成部分。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 17,
+          "answer": "On the other hand"
+        },
+        {
+          "start": 64,
+          "end": 83,
+          "answer": "develop good values"
+        },
+        {
+          "start": 168,
+          "end": 179,
+          "answer": "As a result"
+        },
+        {
+          "start": 190,
+          "end": 224,
+          "answer": "have a strong influence on the way"
+        },
+        {
+          "start": 256,
+          "end": 267,
+          "answer": "For example"
+        },
+        {
+          "start": 430,
+          "end": 465,
+          "answer": "encourage students to behave better"
+        },
+        {
+          "start": 570,
+          "end": 607,
+          "answer": "become responsible members of society"
+        },
+        {
+          "start": 681,
+          "end": 690,
+          "answer": "therefore"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, teachers should certainly help students develop their academic knowledge. However, I believe they should also teach students how to behave properly and make responsible choices.",
+      "cn": "总而言之，教师当然应该帮助学生掌握学术知识。然而，我认为，他们也应该教导学生如何正确地为人处事，并作出 负责任的选择。",
+      "clozes": [
+        {
+          "start": 55,
+          "end": 87,
+          "answer": "develop their academic knowledge"
+        },
+        {
+          "start": 89,
+          "end": 96,
+          "answer": "However"
+        },
+        {
+          "start": 167,
+          "end": 191,
+          "answer": "make responsible choices"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "传授伦理价值观",
+      "en": "impart ethical values to"
+    },
+    {
+      "zh": "在一个高度重视专业分工的时代",
+      "en": "In an era that values professionalism and work division,"
+    },
+    {
+      "zh": "心怀怨恨",
+      "en": "hold grudges against"
+    },
+    {
+      "zh": "与...界限模糊",
+      "en": "becoming indistinguishable from"
+    },
+    {
+      "zh": "更为广泛",
+      "en": "far more diverse"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

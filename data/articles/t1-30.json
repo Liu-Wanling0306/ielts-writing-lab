@@ -1,0 +1,89 @@
+{
+  "id": "t1-30",
+  "type": "小作文",
+  "title": "小镇中心的未来变化",
+  "group": "地图与规划图",
+  "question": "The maps below show the centre of a small town called Islip as it is now, and plans for its development.Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+  "logic": "▪ 概述 整体改造 + 三项核心变化【整体变化】镇中心将经历大规模改造（undergo considerable redevelopment） → 【核心变化】新增环形双车道（a new dual carriageway）+ 原主干道改为步行街（a pedestrian-only street）+ 新增商业设施及住宅区（the addition of several commercial facilities and new housing areas） ▪ 主一段 交通重构 + 主要保留区域【先讲最显著、影响全局的变化】新建双车道 → 围绕镇中心形成环形道路 （forming a ring road）→ 【再讲原主干道的功能转换】横贯镇中心的主路 → 改为步行专用区（be changed into a pedestrian-only zone）→ 【最后合并不变项】西南部学校 + 南部住宅区 → 基本保留（remain largely unchanged） ▪ 主二段 土地用途调整 + 局部设施保留【北部：集中开发】原有乡村地带 + 北侧商铺 → 改建为公交站、购物中 心、停车场及新住宅区（be redeveloped to include）→ 【南侧：保留原有商业设施】原主路南侧商铺 → 保留 （be retained）→ 【东部：新增与缩减并存】新增住宅 → 原公园面积缩小（be reduced in size）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The given maps illustrate the current layout of the centre of a small town called Islip and the proposed plan for its future development.",
+      "cn": "这两幅地图展示了一个名为Islip 的小镇中心目前的布局，以及其未来发展的规划方案。",
+      "clozes": [
+        {
+          "start": 114,
+          "end": 136,
+          "answer": "its future development"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, the town centre is expected to undergo considerable redevelopment, with the most significant changes being the construction of a new dual carriageway, the conversion of the present main road into a pedestrian-only street, and the addition of several commercial facilities and new housing areas.",
+      "cn": "总体来看，预计该小镇中心将经历大规模改造，其中最显著的变化包括新建一条双向分隔式道路、将现有主干道改造 为步行专用街道，以及增设多处商业设施和新的住宅区。",
+      "clozes": [
+        {
+          "start": 81,
+          "end": 109,
+          "answer": "the most significant changes"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "The most noticeable change is that a dual carriageway will be built around the central area, forming a ring road that connects with the existing roads to the west and east. The current main road, which runs horizontally through the town centre, will be changed into a pedestrian-only zone. Meanwhile, the school in the southwest and the housing area in the south are expected to remain largely unchanged, although they will lie just outside or near the new ring road.",
+      "cn": "最明显的变化是，一条双向分隔式道路将围绕小镇中心修建，形成一条环形道路，并与东西两侧的现有道路相连接。 目前横贯小镇中心的主干道将被改造成步行专用区。与此同时，位于西南部的学校和南部的住宅区预计将基本保持不 变，不过它们将位于新环路的外围或附近。",
+      "clozes": [
+        {
+          "start": 290,
+          "end": 299,
+          "answer": "Meanwhile"
+        },
+        {
+          "start": 363,
+          "end": 378,
+          "answer": "are expected to"
+        },
+        {
+          "start": 379,
+          "end": 403,
+          "answer": "remain largely unchanged"
+        },
+        {
+          "start": 405,
+          "end": 413,
+          "answer": "although"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In the northern part of the town centre, the countryside and the row of shops currently located above the main road will be removed. This area will be redeveloped to include a bus station, a shopping centre, a car park and a new housing area. By contrast, the shops on the southern side of the former main road will be retained. Further changes are also planned in the east, where new housing will be added and the existing park will be reduced in size.",
+      "cn": "在小镇中心北部，现有的乡村区域以及位于主干道北侧的一排商店将被拆除或清理。这片区域将被重新开发，增设一 个公交车站、一座购物中心、一个停车场以及一片新的住宅区。相比之下，原主干道南侧的商店将被保留。此外，东 部地区也计划进行进一步改造，届时将新增住宅区，而现有公园的面积则会缩小。",
+      "clozes": [
+        {
+          "start": 243,
+          "end": 254,
+          "answer": "By contrast"
+        },
+        {
+          "start": 437,
+          "end": 452,
+          "answer": "reduced in size"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

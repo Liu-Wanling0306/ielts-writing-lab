@@ -1,0 +1,288 @@
+{
+  "id": "t2-04",
+  "type": "大作文",
+  "title": "长假期对孩子的利与弊",
+  "group": "教育与成长",
+  "question": "In many countries, primary and secondary schools close for two months or more in the summer holidays. What is the value of long school holidays? What are the arguments in favour of shorter school holidays?",
+  "logic": "▪ 主体段一 长假期的好①孩子的全面发展（cultivate well-rounded individuals） → 延长假期 = 发展兴趣爱好（运 动和艺术）+ 开拓视野（旅游）→ 举例：长城和卢浮宫增长历史知识②增进家庭关系（strengthen family ties） → 原因：孩子和父母间相处的时间增多 ▪ 主体段二 回应支持缩短假期的观点①担忧教育的延续性（educational continuity） → 原因：假期延长 = 学习间 隔加大 → 结果：需要更多时间重新找回状态（struggle to regain momentum when school resumes） → 贫困家 庭孩子影响更大 → 加大社会不平等（widen social inequalities） ②给家庭带来的负担（practical burden on families） → 原因：家长工作，孩子无人监管 → 结果：长期使用电子产品产生健康问题（health problems） or 专注力减弱（reduced attention spans）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "In many countries across the world, primary and secondary schools close for two months or more during the summer. While such lengthy holidays bring significant educational and familial value, there are also compelling arguments in favour of reducing their duration.",
+      "cn": "在世界上许多国家，中小学往往在暑期停课两个月甚至更长。虽然如此冗长的假期确实具有重要的教育和家庭价值， 但也存在不少主张缩短假期的有力论据。",
+      "clozes": [
+        {
+          "start": 125,
+          "end": 132,
+          "answer": "lengthy"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One of the major benefits of extended holidays is that they provide children with opportunities beyond the confines of academic study. The purpose of education is not only to impart knowledge but also to cultivate well-rounded individuals. Long breaks allow pupils to pursue personal interests, develop talents in the arts or sport, and expand their horizons through travel and cultural exposure. A summer trip to the Louvre or the Great Wall, for instance, offers young learners unique lessons in history and culture that no classroom programme can replicate. Equally important, prolonged holidays strengthen family ties, since children are freed from heavy workloads and parents have more opportunities to spend time with them, which is essential during their formative years.",
+      "cn": "长假期的主要益处之一在于，它们为孩子们提供了超越课堂学习的机会。教育的目的不仅在于传授知识，还在于培养 全面发展的人。漫长的假期让学生能够追求个人兴趣，发展艺术或体育方面的才能，并通过旅行和文化体验开阔眼 界。举例来说，夏日造访巴黎卢浮宫或中国长城，为青少年提供了课堂上无法替代的独特历史与文化课程。同样重要 的是，长假也能增进亲子关系。由于摆脱了繁重的课业，孩子与父母有更多时间相处，这在他们的成长关键期尤为宝 贵。",
+      "clozes": [
+        {
+          "start": 7,
+          "end": 25,
+          "answer": "the major benefits"
+        },
+        {
+          "start": 29,
+          "end": 46,
+          "answer": "extended holidays"
+        },
+        {
+          "start": 60,
+          "end": 115,
+          "answer": "provide children with opportunities beyond the confines"
+        },
+        {
+          "start": 175,
+          "end": 191,
+          "answer": "impart knowledge"
+        },
+        {
+          "start": 444,
+          "end": 456,
+          "answer": "for instance"
+        },
+        {
+          "start": 458,
+          "end": 505,
+          "answer": "offers young learners unique lessons in history"
+        },
+        {
+          "start": 580,
+          "end": 589,
+          "answer": "prolonged"
+        },
+        {
+          "start": 681,
+          "end": 728,
+          "answer": "have more opportunities to spend time with them"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Nevertheless, there is a strong case for shorter school holidays. One concern is educational continuity. Research consistently shows that long breaks can lead to a “summer learning loss,” especially in core subjects such as mathematics and reading, leaving students struggling to regain momentum when school resumes. This gap disproportionately affects children from disadvantaged backgrounds, who may lack access to enriching activities or private tutoring, thereby widening social inequalities. Another issue is the practical burden on families. Most working parents cannot afford two months off work, meaning children are often left unsupervised or placed under the care of elderly relatives. In addition, excessive exposure to digital devices during long holidays has been linked to health problems and reduced attention spans among the young.",
+      "cn": "然而，缩短学校假期同样有其合理性。首要问题是学业的延续性。大量研究表明，过长的假期往往导致所谓的“暑假 学习损失”，尤其体现在数学和阅读等核心学科，使学生在开学时难以迅速找回学习状态。这一问题对弱势群体的孩 子影响尤甚，因为他们往往缺乏丰富的活动资源或课外辅导，从而进一步扩大社会不平等。另一层面的困境来自家 庭。大多数在职父母无法享受两个月的休假，这意味着孩子常常无人看管，或不得不交由年迈的祖辈照顾。此外，长 时间假期中过度接触电子产品，也被证明会损害青少年的健康，并降低他们的注意力水平。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 12,
+          "answer": "Nevertheless"
+        },
+        {
+          "start": 81,
+          "end": 103,
+          "answer": "educational continuity"
+        },
+        {
+          "start": 154,
+          "end": 161,
+          "answer": "lead to"
+        },
+        {
+          "start": 280,
+          "end": 295,
+          "answer": "regain momentum"
+        },
+        {
+          "start": 326,
+          "end": 344,
+          "answer": "disproportionately"
+        },
+        {
+          "start": 652,
+          "end": 694,
+          "answer": "placed under the care of elderly relatives"
+        },
+        {
+          "start": 696,
+          "end": 707,
+          "answer": "In addition"
+        },
+        {
+          "start": 768,
+          "end": 814,
+          "answer": "has been linked to health problems and reduced"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, long summer holidays undoubtedly play a role in nurturing children’s personal growth and family bonding. Yet the drawbacks—ranging from academic regression to parental strain—highlight why many advocate shortening them.",
+      "cn": "总之，长暑假无疑在促进孩子的个人成长和增进家庭关系方面具有积极作用。然而，其负面影响—从学业退步到父母 压力—也解释了为何许多人主张缩短假期。",
+      "clozes": [
+        {
+          "start": 48,
+          "end": 92,
+          "answer": "play a role in nurturing children’s personal"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "In many countries, primary and secondary schools have summer holidays lasting two months or even longer. Long holidays can benefit children's personal development and family life, while shorter holidays may help students maintain their academic performance and reduce pressure on working parents.",
+      "cn": "在许多国家，中小学的暑假长达两个月，甚至更久。较长的假期有利于儿童的个人发展和家庭生活，而较短的假期则 可能帮助学生维持学业水平，同时减轻在职父母的压力。",
+      "clozes": [
+        {
+          "start": 49,
+          "end": 96,
+          "answer": "have summer holidays lasting two months or even"
+        },
+        {
+          "start": 142,
+          "end": 162,
+          "answer": "personal development"
+        },
+        {
+          "start": 230,
+          "end": 256,
+          "answer": "their academic performance"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One important value of long school holidays is that children have more time to develop interests outside school. Education is not only about learning academic knowledge, and children also need opportunities to develop other skills and experience the world. During a long summer holiday, they can learn to play a musical instrument, take part in sports or travel to different places. For example, visiting famous museums or historical sites can help children learn about history and culture in a more direct and interesting way. Long holidays also give children more time with their families. Without daily lessons and homework, they can spend more time with their parents, which can help build stronger family relationships.",
+      "cn": "长假期的一个重要价值在于，孩子们有更多时间发展课堂之外的兴趣。教育并不仅仅意味着学习学科知识，孩子们同 样需要机会培养其他技能并亲身体验这个世界。在漫长的暑假期间，他们可以学习演奏一种乐器、参加体育运动，或 者前往不同的地方旅行。例如，参观著名的博物馆或历史遗迹，可以帮助孩子们以一种更加直观、有趣的方式了解历 史和文化。长假期还能够让孩子们拥有更多与家人相处的时间。由于不必每天上课和完成作业，他们可以花更多时间 陪伴父母，从而有助于建立更加紧密的家庭关系。",
+      "clozes": [
+        {
+          "start": 61,
+          "end": 104,
+          "answer": "have more time to develop interests outside"
+        },
+        {
+          "start": 210,
+          "end": 230,
+          "answer": "develop other skills"
+        },
+        {
+          "start": 305,
+          "end": 330,
+          "answer": "play a musical instrument"
+        },
+        {
+          "start": 332,
+          "end": 374,
+          "answer": "take part in sports or travel to different"
+        },
+        {
+          "start": 383,
+          "end": 394,
+          "answer": "For example"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, there are also good reasons for making school holidays shorter. A major concern is that students may forget some of what they have learned after being away from school for a long time. This is particularly a problem in subjects such as mathematics and reading, where regular practice is important. Children from poorer families may be affected more because they may have fewer opportunities to attend educational activities or receive extra lessons during the holiday. Shorter holidays could therefore help students continue learning and reduce educational differences. They could also make life easier for working parents. Most parents cannot take two months off work to look after their children, so they may have to ask grandparents for help or leave older children at home. A shorter break could reduce this pressure.",
+      "cn": "然而，缩短学校假期也有充分的理由。一个主要的担忧是，学生长时间离开学校后，可能会遗忘一部分已经学过的知 识。这一点在数学和阅读等需要持续练习的科目中尤其值得关注。来自较贫困家庭的孩子受到的影响可能更加明显， 因为他们在假期中可能较少有机会参加教育活动或接受额外辅导。因此，缩短假期可以帮助学生保持学习的连续性， 并缩小教育方面的差距。此外，这也可以减轻在职父母的负担。大多数父母无法请两个月的假来照顾孩子，因此他们 可能不得不请祖父母帮忙，或者让年龄较大的孩子独自在家。缩短假期可以在一定程度上缓解这种压力。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 135,
+          "end": 180,
+          "answer": "have learned after being away from school for"
+        },
+        {
+          "start": 375,
+          "end": 432,
+          "answer": "have fewer opportunities to attend educational activities"
+        },
+        {
+          "start": 501,
+          "end": 510,
+          "answer": "therefore"
+        },
+        {
+          "start": 547,
+          "end": 577,
+          "answer": "reduce educational differences"
+        },
+        {
+          "start": 595,
+          "end": 631,
+          "answer": "make life easier for working parents"
+        },
+        {
+          "start": 653,
+          "end": 685,
+          "answer": "take two months off work to look"
+        },
+        {
+          "start": 720,
+          "end": 762,
+          "answer": "have to ask grandparents for help or leave"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, long school holidays give children valuable opportunities for personal development and family time. However, shorter holidays can help prevent learning loss and reduce the difficulties faced by working parents.",
+      "cn": "总而言之，较长的学校假期能够为孩子们提供宝贵的个人发展机会以及与家人相处的时间。然而，较短的假期则有助 于防止学生出现学习退步，同时减轻在职父母所面临的困难。",
+      "clozes": [
+        {
+          "start": 77,
+          "end": 97,
+          "answer": "personal development"
+        },
+        {
+          "start": 115,
+          "end": 122,
+          "answer": "However"
+        },
+        {
+          "start": 176,
+          "end": 224,
+          "answer": "reduce the difficulties faced by working parents"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "长假期",
+      "en": "lengthy /prolonged/ extended holidays"
+    },
+    {
+      "zh": "带来教育和家庭价值",
+      "en": "bring educational and familial value"
+    },
+    {
+      "zh": "教授知识",
+      "en": "impart knowledge"
+    },
+    {
+      "zh": "学业的延续性",
+      "en": "educational continuity"
+    },
+    {
+      "zh": "重获势头",
+      "en": "regain momentum"
+    },
+    {
+      "zh": "不成比例地",
+      "en": "disproportionately"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

@@ -1,0 +1,103 @@
+{
+  "id": "t1-20",
+  "type": "小作文",
+  "title": "英国移民的人数和原因",
+  "group": "数据图表",
+  "question": "The graph and chart below give information about migration to the UK. The graph below shows how long immigrants in the years 2000-2008 intended to stay in the UK. And the pie-chart shows reasons for migration in 2008. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 分两幅图讲：折线图抓最大趋势 → 饼图抓主要构成 ▪ 主一段 讲线图先讲常胜将军（consistently represented the largest group） + 变化最大的一组 → 对比：四年以 上，相对稳定（remained almost unchanged）；两至四年，低位波动 ▪ 主二段 讲饼图直接采用降序排列：工作38% （accounted for the largest proportion） → 紧随其后学习32% → 家庭团聚16% → 最小项合并：未说明原因 + 其他原因均为7%（made up 7% each）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The line graph illustrates the number of immigrants to the UK by their intended lengths of stay between 2000 and 2008, while the pie chart shows the proportions of reasons for migration in 2008.",
+      "cn": "折线图展示了2000 至2008 年间按预期停留时长划分的赴英移民人数变化，而饼图显示了2008 年各移民原因所占的 比例。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, immigrants who intended to stay in the UK for less than two years saw the most significant increase over the period. Meanwhile, the reasons for migration were mainly grouped into work, study, and family reunion.",
+      "cn": "总体而言，计划在英国停留不足两年的移民增幅最大。同时，移民原因主要分为三类：工作、学习和家庭团聚。",
+      "clozes": [
+        {
+          "start": 88,
+          "end": 108,
+          "answer": "significant increase"
+        },
+        {
+          "start": 126,
+          "end": 135,
+          "answer": "Meanwhile"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Specifically, those staying for less than two years consistently represented the largest group. Starting at below 150,000 in 2000, this figure rose sharply to around 250,000 in 2004 and levelled off between 240,000 and 250,000. By contrast, the number of immigrants staying for over four years began at roughly 130,000 and, despite minor fluctuations, remained almost unchanged by 2008. The group planning to stay for two to four years started at around 75,000 and fluctuated throughout the period, remaining below 100,000 at the end.",
+      "cn": "具体来看，预期停留不足两年的群体始终规模最大。该数字在2000 年低于15 万，2004 年迅速上升至约25 万，随后 在24 万至25 万之间趋于稳定。相比之下，预期停留四年以上的移民人数起初约13 万，尽管略有波动，到2008 年基 本保持不变。计划停留2 至4 年的群体起点约7.5 万，整个时期呈波动状态，期末仍低于10 万。",
+      "clozes": [
+        {
+          "start": 65,
+          "end": 94,
+          "answer": "represented the largest group"
+        },
+        {
+          "start": 143,
+          "end": 155,
+          "answer": "rose sharply"
+        },
+        {
+          "start": 228,
+          "end": 239,
+          "answer": "By contrast"
+        },
+        {
+          "start": 324,
+          "end": 331,
+          "answer": "despite"
+        },
+        {
+          "start": 352,
+          "end": 385,
+          "answer": "remained almost unchanged by 2008"
+        },
+        {
+          "start": 476,
+          "end": 497,
+          "answer": "throughout the period"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "As for reasons for migration in 2008, work accounted for the largest proportion at 38%, followed closely by study at 32%. Family reunion represented 16%, while both unspecified reasons and other factors made up 7% each.",
+      "cn": "至于2008 年的移民原因，工作占比最大，为38%，其后是学习，占32%。家庭团聚占16%，而“未说明原因”和 “其他因素”各占7%。",
+      "clozes": [
+        {
+          "start": 43,
+          "end": 56,
+          "answer": "accounted for"
+        },
+        {
+          "start": 57,
+          "end": 79,
+          "answer": "the largest proportion"
+        },
+        {
+          "start": 203,
+          "end": 210,
+          "answer": "made up"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

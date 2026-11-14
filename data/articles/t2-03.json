@@ -1,0 +1,247 @@
+{
+  "id": "t2-03",
+  "type": "大作文",
+  "title": "是否每个行业都需要电脑技能？",
+  "group": "教育与成长",
+  "question": "High-level computer skills are a necessary and essential factor leading to a successful career. To what extent do you agree or disagree?",
+  "logic": "▪ 主体段一 不是所有的职业都需要高水平电脑技能 → 举例：外科医生（surgeons）靠专业技能而士兵靠勇气、纪 律和毅力（courage, discipline, and resilience） → 总结是否需要电脑技能需要取决于职业本身 ▪ 主体段二 职业成功的定义是主观的①如今职业成功的定义更多元：工作生活平衡（work-life balance）、心理健 康（emotional health）、良好关系（meaningful relationships）②没必要要求每个人都掌握高超的电脑能力，也 不现实 → 原因：每个人的兴趣、能力和职业期待不同 → 例证：不会高超电脑能力的人也有杰出代表：慈善家 和政客（philanthropists and politicians）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "In today’s society, an increasing number of individuals consider advanced computer literacy a crucial determinant of career success.I completely disagree with this statement, as I believe the key to success is far more diverse and context-dependent.",
+      "cn": "在当今社会，越来越多的人认为高级计算机技能是职业成功的关键因素。我对此观点完全不认同，因为我认为成功的 本质更加多元，并且高度依赖具体情境。",
+      "clozes": [
+        {
+          "start": 74,
+          "end": 91,
+          "answer": "computer literacy"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "First, modern occupations are significantly varied, and not all of them require high-level computer proficiency. While computer literacy can help improve work efficiency in certain fields, many careers demand entirely different skill sets. For example, successful surgeons rely on precision and medical expertise, not programming knowledge; similarly, soldiers triumph on the battlefield through courage, discipline, and resilience rather than technical skills. In this sense, the factors contributing to career success differ dramatically depending on the nature of each profession.",
+      "cn": "首先，现代职业种类繁多，并非所有职业都需要高水平的计算机能力。虽然在某些领域，计算机技能确实有助于提升 工作效率，但许多职业更依赖完全不同的能力。例如，成功的外科医生依赖的是精准操作和医学知识，而不是编程能 力；同样，士兵在战场上取胜靠的是勇气、纪律与坚韧，而非技术技能。从这个角度来看，不同职业所需的成功因素 存在显著差异。",
+      "clozes": [
+        {
+          "start": 119,
+          "end": 136,
+          "answer": "computer literacy"
+        },
+        {
+          "start": 146,
+          "end": 187,
+          "answer": "improve work efficiency in certain fields"
+        },
+        {
+          "start": 240,
+          "end": 251,
+          "answer": "For example"
+        },
+        {
+          "start": 273,
+          "end": 280,
+          "answer": "rely on"
+        },
+        {
+          "start": 432,
+          "end": 443,
+          "answer": "rather than"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Second, the concept of career success itself is quite subjective. Those who emphasize the importance of high-level computer skills often refer to high salaries or prestigious job titles in the tech sector. Yet, in an age that increasingly values personal fulfillment and well-being, success is more commonly defined by work-life balance, emotional health, and meaningful relationships. These forms of success are rarely dependent on one’s mastery of computer-related competencies. Furthermore, it is unrealistic – and unnecessary – to expect everyone to excel in computer skills. Individuals differ in their interests, talents, and career aspirations. Although technical skills can certainly empower software engineers or data analysts, people with little interest in technology still thrive in other domains. Artists, philanthropists, and politicians, for example achieve career success by nurturing their passions and maximizing their strengths.",
+      "cn": "其次，职业成功的定义本身就是主观的。那些强调计算机技能重要性的人，往往以高薪资或在科技领域中获得显赫职 位为标准。然而，在这个越来越重视个人幸福与满足感的时代，成功更常被定义为良好的工作与生活平衡、情绪健康 以及有意义的人际关系。而这些成功形式通常与计算机技能的掌握程度关系不大。此外，要求每个人都精通计算机技 术既不现实，也没有必要。每个人的兴趣、天赋与职业理想各不相同。虽然技术能力可以极大地帮助软件工程师或数 据分析师，但对技术兴趣不大的人同样可以在其他领域大放异彩。艺术家、慈善家和政治家等人，之所以能取得职业 成就靠的是对自身热情的坚持与优势的充分发挥。",
+      "clozes": [
+        {
+          "start": 554,
+          "end": 562,
+          "answer": "excel in"
+        },
+        {
+          "start": 580,
+          "end": 601,
+          "answer": "Individuals differ in"
+        },
+        {
+          "start": 652,
+          "end": 660,
+          "answer": "Although"
+        },
+        {
+          "start": 785,
+          "end": 794,
+          "answer": "thrive in"
+        },
+        {
+          "start": 853,
+          "end": 864,
+          "answer": "for example"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "To conclude, while strong computer skills may provide an edge in certain industries, they are not a universal prerequisite for career success. Personal interests, profession-specific abilities, and a broader definition of success play an equally – if not more – important role.",
+      "cn": "总之，尽管强大的计算机技能在某些行业中确实具备竞争优势，但它并不是实现职业成功的通用前提。个人兴趣、职 业特定能力以及更广义的成功定义，在许多情况下同样，甚至更为关键。",
+      "clozes": [
+        {
+          "start": 46,
+          "end": 61,
+          "answer": "provide an edge"
+        },
+        {
+          "start": 98,
+          "end": 122,
+          "answer": "a universal prerequisite"
+        },
+        {
+          "start": 230,
+          "end": 245,
+          "answer": "play an equally"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Nowadays, some people believe that advanced computer skills are necessary for a successful career. I disagree with this view because different jobs require different abilities, and career success can be defined in many different ways.",
+      "cn": "如今，一些人认为，高级计算机技能是实现职业成功的必要条件。我不同意这一观点，因为不同的工作需要不同的能 力，而且人们可以通过许多不同的方式来定义职业成功。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "The first reason is that not every job requires advanced computer skills. Although basic computer knowledge is useful in many workplaces, different professions depend on different skills. For example, doctors need medical knowledge and the ability to make correct decisions, while soldiers need courage, discipline and physical strength. Advanced computer skills may not play an important role in their success. By contrast, people working in areas such as software engineering and data analysis clearly need strong technical skills. Therefore, the skills needed for career success largely depend on the type of job a person does. It is unreasonable to consider computer skills necessary for everyone.",
+      "cn": "第一个原因是，并非所有工作都需要高级计算机技能。尽管基本的计算机知识在许多工作场所都很有用，但不同职业 依赖的技能各不相同。例如，医生需要具备医学知识以及作出正确判断的能力，而军人则需要勇气、纪律性和良好的 身体素质。高级计算机技能可能并不会在他们取得成功的过程中发挥重要作用。相比之下，从事软件工程和数据分析 等领域的人显然需要较强的技术能力。因此，实现职业成功所需要的技能在很大程度上取决于一个人所从事的工作类 型。认为计算机技能对所有人来说都是必不可少的，是不合理的。",
+      "clozes": [
+        {
+          "start": 74,
+          "end": 82,
+          "answer": "Although"
+        },
+        {
+          "start": 188,
+          "end": 199,
+          "answer": "For example"
+        },
+        {
+          "start": 251,
+          "end": 273,
+          "answer": "make correct decisions"
+        },
+        {
+          "start": 376,
+          "end": 396,
+          "answer": "an important role in"
+        },
+        {
+          "start": 412,
+          "end": 423,
+          "answer": "By contrast"
+        },
+        {
+          "start": 534,
+          "end": 543,
+          "answer": "Therefore"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another reason is that people have different ideas about what a successful career means. Some may consider a high salary or an important position to be signs of success. However, others may care more about work-life balance, personal satisfaction or doing work they find meaningful. These forms of success do not necessarily depend on computer skills. In addition, people have different interests and strengths. Someone who is not interested in technology may still become a successful artist, politician or charity worker by developing the abilities required in these fields. Instead of trying to master the same skills, people should focus on developing their own strengths and the skills that are useful for their chosen careers.",
+      "cn": "另一个原因是，人们对于“成功的职业”有着不同的理解。一些人可能会把高收入或重要职位视为成功的标志。然 而，另一些人可能更加重视工作与生活之间的平衡、个人满足感，或者从事自己认为有意义的工作。这些形式的成功 并不一定依赖于计算机技能。此外，每个人都有不同的兴趣和优势。一个对科技并不感兴趣的人，仍然可以通过培养 相关领域所需要的能力，成为一名成功的艺术家、政治家或慈善工作者。与其让所有人都努力掌握相同的技能，不如 让人们专注于发挥自己的优势，并培养对自己所选择的职业真正有用的技能。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 14,
+          "answer": "Another reason"
+        },
+        {
+          "start": 30,
+          "end": 74,
+          "answer": "have different ideas about what a successful"
+        },
+        {
+          "start": 170,
+          "end": 177,
+          "answer": "However"
+        },
+        {
+          "start": 352,
+          "end": 363,
+          "answer": "In addition"
+        },
+        {
+          "start": 372,
+          "end": 396,
+          "answer": "have different interests"
+        },
+        {
+          "start": 466,
+          "end": 492,
+          "answer": "become a successful artist"
+        },
+        {
+          "start": 605,
+          "end": 620,
+          "answer": "the same skills"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although advanced computer skills are important in some industries, they are not necessary for every successful career. Different professions require different abilities, and people should develop skills based on their own interests, strengths and career goals.",
+      "cn": "总而言之，尽管高级计算机技能在某些行业中十分重要，但它们并不是所有人实现职业成功的必要条件。不同的职业 需要不同的能力，因此，人们应该根据自己的兴趣、优势以及职业目标来培养相应的技能。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 204,
+          "end": 247,
+          "answer": "develop skills based on their own interests"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "...的本质更加多元且依赖具体情境",
+      "en": "the key to ... is far more diverse and context-dependent"
+    },
+    {
+      "zh": "电脑技能",
+      "en": "computer literacy"
+    },
+    {
+      "zh": "每个人在...方面各不相同",
+      "en": "Individuals differ in ..."
+    },
+    {
+      "zh": "杰出于/在...大放异彩",
+      "en": "excel in/ thrive in"
+    },
+    {
+      "zh": "赋予竞争优势",
+      "en": "provide an edge"
+    },
+    {
+      "zh": "广泛前提条件",
+      "en": "a universal prerequisite"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}
