@@ -1,0 +1,119 @@
+{
+  "id": "t1-16",
+  "type": "小作文",
+  "title": "男女各年龄段做运动的对比",
+  "group": "数据图表",
+  "question": "The bar chart below shows the percentage of Australian men and women in different age groups who did regular physical activity in 2010.Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 性别优势 + 男女不同趋势【总特征】除最年轻组外，女性参与率均高于男性（in all age groups except...） → 【男性趋势】随年龄增长先下降 → 35—44 岁触底 → 随后逐渐回升 → 【女性趋势】整体相对稳定 （remained relatively stable）→ 45—54 岁达到峰值（reached a peak） ▪ 主一段 年轻群体【最年轻组：唯一例外】15—24 岁男性参与率更高（men were more active only in...）→ 【男 性后续趋势】随年龄增长明显下降（fell markedly）→ 35—44 岁降至最低点39.5%→ 【女性相反趋势】参与率 持续上升（rose steadily）→ 35—44 岁达到52.5% ▪ 主二段 年长群体【整体关系】45 岁以上各组女性参与率均高于男性（continued to record higher rates）→ 【45—54 岁】女性达到全场峰值53.3% → 明显领先男性→ 【55—64 岁】女性维持高位（remained high）→ 男性参与率有所回升→ 【65 岁及以上】女性下降、男性继续回升 → 男女差距几乎消失（the gap became negligible）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The bar chart compares the percentages of Australian men and women in six age groups who took part in regular physical activity in 2010.",
+      "cn": "该柱状图比较了2010 年澳大利亚六个不同年龄段的男性和女性定期参加体育活动的比例。",
+      "clozes": [
+        {
+          "start": 14,
+          "end": 66,
+          "answer": "compares the percentages of Australian men and women"
+        },
+        {
+          "start": 110,
+          "end": 127,
+          "answer": "physical activity"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, women recorded higher participation rates than men in all age groups except those aged 15 to 24. In addition, the figure for men declined from the youngest age group to the 35 to 44 bracket before rising gradually among older people, while the rate for women remained relatively stable and reached a peak among 45 to 54-year-olds.",
+      "cn": "总体而言，除15 至24 岁年龄组外，其他所有年龄组的女性体育活动参与率均高于男性。此外，男性的参与率从最年 轻的年龄组开始逐渐下降，在35 至44 岁组达到最低点，随后在年龄较大的群体中逐步回升。相比之下，女性的参与 率整体保持相对稳定，并在45 至54 岁年龄组达到最高水平。",
+      "clozes": [
+        {
+          "start": 106,
+          "end": 117,
+          "answer": "In addition"
+        },
+        {
+          "start": 119,
+          "end": 133,
+          "answer": "the figure for"
+        },
+        {
+          "start": 138,
+          "end": 177,
+          "answer": "declined from the youngest age group to"
+        },
+        {
+          "start": 268,
+          "end": 294,
+          "answer": "remained relatively stable"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Among the younger age groups, men were more active only in the 15 to 24 bracket, where 52.8% exercised regularly, compared with 47.7% of women. After that, male participation fell markedly to 42.2% among 25 to 34-year-olds and then to 39.5% in the 35 to 44 group. In contrast, the female figures rose steadily over the same period, from 48.9% to 52.5%.",
+      "cn": "在较年轻的年龄组中，只有15 至24 岁的男性比女性更加活跃，该年龄组有52.8%的男性定期锻炼，而女性的比例为 47.7%。此后，男性的参与率明显下降，在25 至34 岁年龄组降至42.2%，并在35 至44 岁组进一步下降至39.5%。 相比之下，女性的参与率在同一时期稳步上升，从48.9%增长至52.5%。",
+      "clozes": [
+        {
+          "start": 114,
+          "end": 127,
+          "answer": "compared with"
+        },
+        {
+          "start": 175,
+          "end": 194,
+          "answer": "fell markedly to 42"
+        },
+        {
+          "start": 264,
+          "end": 275,
+          "answer": "In contrast"
+        },
+        {
+          "start": 277,
+          "end": 295,
+          "answer": "the female figures"
+        },
+        {
+          "start": 296,
+          "end": 330,
+          "answer": "rose steadily over the same period"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "For the older groups, women continued to record higher rates than men. The female figure peaked at 53.3% among those aged 45 to 54, compared with 43.1% for males, and remained high at 53% in the 55 to 64 group, versus 45.1% for men. In the oldest group, however, the gap became negligible, with participation rates of 47.1% for women and 46.7% for men.",
+      "cn": "在年龄较大的群体中，女性的参与率继续高于男性。45 至54 岁女性的参与率达到最高点，为53.3%，而同龄男性的 比例为43.1%。在55 至64 岁年龄组中，女性的参与率仍然保持在53%的较高水平，而男性为45.1%。不过，在年 龄最大的群体中，男女之间的差距已经微乎其微，女性和男性的参与率分别为47.1%和46.7%。",
+      "clozes": [
+        {
+          "start": 132,
+          "end": 145,
+          "answer": "compared with"
+        },
+        {
+          "start": 167,
+          "end": 186,
+          "answer": "remained high at 53"
+        },
+        {
+          "start": 254,
+          "end": 261,
+          "answer": "however"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

@@ -1,0 +1,104 @@
+{
+  "id": "t1-09",
+  "type": "小作文",
+  "title": "手机用户用手机目的变化",
+  "group": "数据图表",
+  "question": "The table below gives information about the different ways mobile phone owners use their phones in a developing country.Summarise the information by selecting and reporting the main features, and makecomparisons where relevant.",
+  "logic": "▪ 概述 长期第一 + 普遍增长 + 增长突出的功能【长期第一】打电话始终最普及（remained the most popular feature）→ 【共同趋势】其他大部分功能的使用率均有所上升→ 【突出增长】上网 + 录像：2008—2010 年增 长尤其明显（particularly sharp growth）→ 并且这两项功能2006 年均无数据（no data was available） ▪ 主一段 分组：高使用率功能——传统功能领先，上网快速追赶【先讲绝对第一：打电话】2006、2008 年使用 率均为100% → 2010 年仅下降1 个百分点→ 【合并两个高使用率功能】发短信 + 拍照：均位居前列（among the most frequently used features）→ 两者使用率均稳步上升 → 【突出后期崛起的功能：上网】2006 年无数据 → 2008—2010 年快速增长最终达到73%，成为第四大常用功能（the fourth most used feature） ▪ 主二段 分组：低使用率功能——增长模式各不相同【先讲玩游戏】2006—2008 年大幅上升（surged to）→ 2010 年小幅回落（falling modestly）→ 【再讲播放音乐：持续增长】2006—2010 年使用率翻倍以上（more than doubled）→ 【最后讲录像：低起点、快速增长】2006 年无数据 → 2008—2010 年大幅增长（soared）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The data compares the proportions of mobile phone owners in a developing country who used their devices for seven different purposes in 2006, 2008, and 2010.",
+      "cn": "该数据比较了2006 年、2008 年和2010 年某发展中国家手机用户使用手机进行七种不同活动的比例。",
+      "clozes": [
+        {
+          "start": 9,
+          "end": 56,
+          "answer": "compares the proportions of mobile phone owners"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, making calls remained the most popular feature throughout, despite a negligible drop by the final year. Usage of most other functions increased over the period, with Internet access and video recording seeing particularly sharp growth between 2008 and 2010, although no data was available for either in 2006.",
+      "cn": "总体来看，尽管到最后一年略有下降，但拨打电话始终是最受欢迎的手机功能。大多数其他功能的使用比例在这一时 期均有所上升，其中上网和录制视频的使用比例在2008 年至2010 年间增长尤为显著，不过这两项功能在2006 年均 没有相关数据。",
+      "clozes": [
+        {
+          "start": 22,
+          "end": 66,
+          "answer": "remained the most popular feature throughout"
+        },
+        {
+          "start": 68,
+          "end": 75,
+          "answer": "despite"
+        },
+        {
+          "start": 143,
+          "end": 168,
+          "answer": "increased over the period"
+        },
+        {
+          "start": 267,
+          "end": 275,
+          "answer": "although"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Regarding the most used features, 100% of mobile phone owners used their devices to make calls in both 2006 and 2008, although there was a slight decrease of 1% in 2010. Following this, text messaging, including sending and receiving messages, and taking photos were both among the most frequently used features, with figures rising from 73% to 79%, and from 66% to 76%, respectively. By comparison, although no data was reported for Internet use in 2006, the percentage of mobile phone owners using it rose sharply from 41% in 2008 to 73% in 2010, making it the fourth most used feature by that time.",
+      "cn": "就使用最广泛的功能而言，2006 年和2008 年，所有手机用户都使用手机拨打电话，比例均为100%，尽管这一数字 在2010 年小幅下降了1 个百分点。除此之外，收发短信和拍照也是使用频率最高的功能之一，其使用比例分别从 73%上升至79%，以及从66%增长至76%。相比之下，尽管2006 年没有手机上网的相关数据，但使用这一功能的手 机用户比例从2008 年的41%大幅上升至2010 年的73%，使其在当年成为使用比例第四高的功能。",
+      "clozes": [
+        {
+          "start": 84,
+          "end": 107,
+          "answer": "make calls in both 2006"
+        },
+        {
+          "start": 118,
+          "end": 126,
+          "answer": "although"
+        },
+        {
+          "start": 456,
+          "end": 473,
+          "answer": "the percentage of"
+        },
+        {
+          "start": 503,
+          "end": 515,
+          "answer": "rose sharply"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Turning to the less commonly used functions, just 17% of mobile phone owners used their devices to play games, but this figure surged to 42% in 2008 before falling modestly to 41% by 2010. The proportion using mobile phones to play music more than doubled, from 12% in 2006 to 26% in 2010. By comparison, while no specific data was available for recording video in 2006, the figure for this function soared from 9% in 2008 to 35% in 2010.",
+      "cn": "至于使用比例相对较低的功能，仅有17%的手机用户使用手机玩游戏，但这一比例在2008 年迅速攀升至42%，随后 在2010 年小幅下降至41%。使用手机播放音乐的比例增长了一倍以上，从2006 年的12%上升至2010 年的26%。 相比之下，尽管2006 年没有录制视频功能的具体数据，但这一功能的使用比例从2008 年的9%迅速增长至2010 年 的35%。",
+      "clozes": [
+        {
+          "start": 227,
+          "end": 255,
+          "answer": "play music more than doubled"
+        },
+        {
+          "start": 371,
+          "end": 385,
+          "answer": "the figure for"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

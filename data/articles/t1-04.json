@@ -1,0 +1,114 @@
+{
+  "id": "t1-04",
+  "type": "小作文",
+  "title": "亚洲国家城市人口比例的变化及预测",
+  "group": "数据图表",
+  "question": "The graph below gives information about the percentage of the population in four Asian countries living in cities from 1970 to 2020, with predictions for 2030 and 2040.",
+  "logic": "▪ 概述 共同增长 + 领先者更替 + 后期增长突出者【共同趋势】四国城市化率均上升（urbanisation increased in all four countries）→ 【领先者更替】菲律宾早期领先 → 2000 年起马来西亚成为第一（became the most urbanised country）→ 预计保持领先至2040 年 → 【特殊增长】印尼2000 年后增长尤其迅速（particularly rapid growth） ▪ 主一段 马来西亚 + 印尼——大幅增长，后期继续上升【马来西亚：整体增幅最大】1970—2020 年持续大幅增 长（the most substantial overall increase）→ 【未来预测】预计继续上升（is projected to continue climbing）→ 2040 年超过80%→ 【印尼：低起点、后期加速】起点明显低于马来西亚（a much lower starting point）→ 1970—2000 年逐步增长 → 2000—2020 年快速上升 → 【未来预测】2040 年预计达到65%左右（predicted by 2040） ▪ 主二段 菲律宾 + 泰国——增长相对温和，变化轨迹不同【组内共同特征】两国整体变化相对温和（more moderate changes）→ 【菲律宾：先升后降再回升】1990 年升至近50% → 随后小幅下降（declining slightly） → 最终预计恢复至55%左右（recovering gradually）→ 【泰国：持续稳定增长】1970 年不足20% → 全期稳步 上升（steady growth throughout the period）→ 2040 年预计达到50%（a projected 50%）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The line graph compares the percentages of people living in cities in four Asian countries between 1970 and 2040, including both historical data and future projections.",
+      "cn": "该折线图比较了1970 年至2040 年四个亚洲国家城市人口所占比例的变化，其中 既包括历史数据，也包括对未来的预测。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 66,
+          "answer": "compares the percentages of people living in cities"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, urbanisation increased in all four countries over the period. While the Philippines recorded the highest proportions in the earlier years, Malaysia became the most urbanised country from 2000 onwards and is expected to maintain this position by 2040. Indonesia also experienced particularly rapid growth after 2000.",
+      "cn": "总体而言，在这一时期，四个国家的城市化水平都呈现上升趋势。尽管菲律宾在早期的城市人口占比最高，但马来西 亚从2000 年开始成为城市化水平最高的国家，并预计将一直保持这一领先地位直至2040 年。此外，印度尼西亚在 2000 年之后也经历了尤为迅速的增长。",
+      "clozes": [
+        {
+          "start": 22,
+          "end": 69,
+          "answer": "increased in all four countries over the period"
+        },
+        {
+          "start": 157,
+          "end": 200,
+          "answer": "became the most urbanised country from 2000"
+        },
+        {
+          "start": 228,
+          "end": 258,
+          "answer": "maintain this position by 2040"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Malaysia saw the most substantial overall increase, with the proportion of urban residents rising from 30% in 1970 to about 60% in 2000 and approximately 75% in 2020. This figure is projected to continue climbing, reaching just over 80% by 2040. Indonesia followed a similar upward trend, although from a much lower starting point. Its urban population rose from around 13% in 1970 to 30% in 2000 before increasing sharply to just above 50% in 2020, with a further rise to the mid-60s predicted by 2040.",
+      "cn": "马来西亚的城市人口占比总体增幅最大，从1970 年的30%上升至2000 年的约60%，并在2020 年达到大约75%。 预计这一比例将继续攀升，到2040 年超过80%。印度尼西亚也呈现类似的上升趋势，不过其起点要低得多。该国城 市人口占比从1970 年的约13%上升至2000 年的30%，随后快速增长，到2020 年略高于50%，并预计在2040 年 进一步升至65%左右。",
+      "clozes": [
+        {
+          "start": 57,
+          "end": 74,
+          "answer": "the proportion of"
+        },
+        {
+          "start": 179,
+          "end": 194,
+          "answer": "is projected to"
+        },
+        {
+          "start": 289,
+          "end": 297,
+          "answer": "although"
+        },
+        {
+          "start": 353,
+          "end": 372,
+          "answer": "rose from around 13"
+        },
+        {
+          "start": 465,
+          "end": 502,
+          "answer": "rise to the mid-60s predicted by 2040"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "The Philippines and Thailand experienced more moderate changes. The former rose to nearly50% in 1990, before declining slightly and then recovering gradually to around 55% by 2040. Thailand, meanwhile, showed steady growth throughout the period, increasing from below 20% in 1970 to a projected 50% at the end of the time frame.",
+      "cn": "相比之下，菲律宾和泰国的变化相对温和。菲律宾的城市人口占比在1990 年上升至接近50%，随后略有下降，之后 又逐渐回升，预计到2040 年达到约55%。与此同时，泰国的城市人口占比在整个时期内持续增长，从1970 年的不 足20%上升至2040 年预计达到的50%。",
+      "clozes": [
+        {
+          "start": 41,
+          "end": 62,
+          "answer": "more moderate changes"
+        },
+        {
+          "start": 75,
+          "end": 91,
+          "answer": "rose to nearly50"
+        },
+        {
+          "start": 191,
+          "end": 200,
+          "answer": "meanwhile"
+        },
+        {
+          "start": 223,
+          "end": 244,
+          "answer": "throughout the period"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

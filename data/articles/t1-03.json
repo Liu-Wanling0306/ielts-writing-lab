@@ -1,0 +1,98 @@
+{
+  "id": "t1-03",
+  "type": "小作文",
+  "title": "四国人均排放二氧化碳的变化",
+  "group": "数据图表",
+  "question": "The graph below shows average carbon dioxide (CO2) emissions per person in theUnited Kingdom, Sweden, Italy and Portugal between 1967 and 2007.Summarise the information by selecting and reporting the main features, and makeComparisons where relevant.",
+  "logic": "▪ 概述 两组相反趋势 + 长期最高与最低【先按趋势分组】英国、瑞典总体下降（a general downward trend）vs 意大利、葡萄牙持续上升（a steady rise）→ 【常胜将军】英国始终是人均排放量最高的国家（remained the largest per capita emitter）→ 【长期最低】葡萄牙排放量始终最低，尽管增长显著（despite a significant increase） ▪ 主一段 英国 + 瑞典——同为下降，走势不同【先讲长期第一的英国】起点最高 → 40 年间逐渐下降（gradually declined）→ 2007 年仍保持第一→ 【再讲瑞典，形成组内对比】起点略低于英国 → 1977 年先达到峰值 （peaked at over...）→ 随后持续下降（before steadily falling）→ 2007 年降至约5.5 吨 ▪ 主二段 意大利 + 葡萄牙——同向增长，最终排名发生变化【先讲共同趋势】意大利 + 葡萄牙均持续增长 （continuous increases）→ 【意大利】起点约4 吨 → 终点接近翻倍（nearly doubling）→ 【葡萄牙】起点远低 于意大利（a much lower level）→ 增长至四倍以上（more than quadrupled）→ 【最终】葡萄牙追平瑞典 （matching the level of Sweden）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The line graph illustrates per capita emissions of carbon dioxide (CO₂) in four European countries— namely the United Kingdom, Sweden, Italy, and Portugal—between 1967 and 2007.",
+      "cn": "该折线图展示了1967 年至2007 年间四个欧洲国家的人均二氧化碳（CO₂）排放量，分别为英国、瑞典、意大利和葡 萄牙。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, while the UK and Sweden experienced a general downward trend in individual CO₂ emissions, Italy and Portugal showed a steady rise. Throughout the period, the United Kingdom remained the largest per capita emitter, whereas Portugal recorded the lowest emissions, despite a significant increase.",
+      "cn": "总体来看，英国和瑞典的人均二氧化碳排放量整体呈下降趋势，而意大利和葡萄牙则持续上升。在整个时期内，英国 始终是四个国家中人均排放量最高的国家，而葡萄牙尽管排放量显著增长，但仍然保持最低水平。",
+      "clozes": [
+        {
+          "start": 140,
+          "end": 161,
+          "answer": "Throughout the period"
+        },
+        {
+          "start": 182,
+          "end": 221,
+          "answer": "remained the largest per capita emitter"
+        },
+        {
+          "start": 223,
+          "end": 230,
+          "answer": "whereas"
+        },
+        {
+          "start": 271,
+          "end": 278,
+          "answer": "despite"
+        },
+        {
+          "start": 281,
+          "end": 301,
+          "answer": "significant increase"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In 1967, the average Briton emitted around 11 metric tonnes of CO₂, making the UK the largest emitter among the four countries. Although this figure gradually declined over the 40-year period, it still stood at approximately 9 tonnes by 2007. Sweden started with a slightly lower figure of about 8.5 tonnes, which peaked at over 10 tonnes in 1977 before steadily falling to around 5.5 tonnes at the end of the period.",
+      "cn": "1967 年，英国的人均二氧化碳排放量约为11 公吨，使其成为四国中人均排放量最高的国家。尽管这一数字在随后的 40 年间逐渐下降，但到2007 年仍保持在约9 吨。瑞典的初始排放量略低，约为8.5 吨，随后在1977 年达到超过10 吨的峰值，之后持续下降，到这一时期结束时降至约5.5 吨。",
+      "clozes": [
+        {
+          "start": 128,
+          "end": 136,
+          "answer": "Although"
+        },
+        {
+          "start": 159,
+          "end": 191,
+          "answer": "declined over the 40-year period"
+        },
+        {
+          "start": 314,
+          "end": 346,
+          "answer": "peaked at over 10 tonnes in 1977"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "By contrast, both Italy and Portugal saw continuous increases in per capita emissions. Italy began at just over 4 metric tonnes in 1967, with this amount nearly doubling by 2007. Portugal started with a much lower level, at approximately 1.2 metric tonnes, but this figure more than quadrupled, matching the level of Sweden (at 5.5 tonnes) by 2007.",
+      "cn": "相比之下，意大利和葡萄牙的人均二氧化碳排放量均持续增长。1967 年，意大利的人均排放量略高于4 公吨，到 2007 年，这一数字几乎翻了一番。葡萄牙的初始水平则低得多，仅为约1.2 公吨，但随后增长了三倍以上，到2007 年达到5.5 吨，与瑞典持平。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 11,
+          "answer": "By contrast"
+        },
+        {
+          "start": 52,
+          "end": 85,
+          "answer": "increases in per capita emissions"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

@@ -1,0 +1,114 @@
+{
+  "id": "t1-13",
+  "type": "小作文",
+  "title": "美国和加拿大国际学生的人数变化",
+  "group": "数据图表",
+  "question": "The two tables below show the number of international students from different countries in Canada and the USA in two school years. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 【先比较总体规模】美国：两年国际学生总数都远高于加拿大（hosted a far larger international student population than...）→ 【再比较总体趋势】加拿大：三个来源国全部增长 → 美国：总人数小幅下降 ▪ 主一段 重点讲中国学生+两国总人数【先抓“常胜将军”】中国学生：在加拿大和美国都是最大来源群体 （formed the largest group in both countries）→ 【比较起始值+第二年的变化】加拿大：中国学生猛增vs 美 国：中国学生下降 → 【再过度到总量】美国总量下降 → 对比加拿大总量反而上涨 ▪ 主二段 处理印度 + 两国互派学生【先讲共同最小项】印度：两国中人数都最低（recorded the lowest figures in both years）→ 转折：但两边都增长 → 【最后处理剩余的一组“交叉来源”】美国学生赴加拿大 + 加拿大学生 赴美国 → 两者均小幅增长",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The tables compare the numbers of international students from three countries studying in Canada and the US in the academic years 2002-2003 and 2003-2004.",
+      "cn": "这两个表格比较了2002-2003 学年和2003-2004 学年期间，来自三个国家的国际学生在加拿大和美国求学的人数。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 30,
+          "answer": "The tables compare the numbers"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, the US hosted a far larger international student population than Canada in both years. While Canada saw increases in student numbers from all three countries, the total in the US fell slightly.",
+      "cn": "总体来看，在这两个学年中，美国接收的国际学生数量都远多于加拿大。尽管加拿大来自这三个国家的学生人数均有 所增加，但美国的国际学生总数却略有下降。",
+      "clozes": [
+        {
+          "start": 113,
+          "end": 156,
+          "answer": "increases in student numbers from all three"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Chinese students formed the largest group in both countries. In 2002-2003, the US had 200,000 Chinese students, compared with just 5,400 in Canada. However, in the following year, Canada experienced a sharp 45% rise in this figure, to 7,850, whereas the US saw a 9% decrease. The overall number of international students in the US also declined by 2% to 570,000. By contrast, Canada’s total rose by 17% to 70,004 .",
+      "cn": "中国学生在两国均为最大的留学生群体。在2002-2003 学年，美国有20 万名中国学生，而加拿大仅有5400 名。然 而在接下来的一年里，加拿大的这一数字急剧上升了45%，达到7850 人；而美国则下降了9%。美国国际学生总数 也减少2%、降至57 万人。相比之下，加拿大的国际学生总数增长了17%，达到70004 人。",
+      "clozes": [
+        {
+          "start": 112,
+          "end": 125,
+          "answer": "compared with"
+        },
+        {
+          "start": 148,
+          "end": 155,
+          "answer": "However"
+        },
+        {
+          "start": 211,
+          "end": 230,
+          "answer": "rise in this figure"
+        },
+        {
+          "start": 242,
+          "end": 249,
+          "answer": "whereas"
+        },
+        {
+          "start": 276,
+          "end": 297,
+          "answer": "The overall number of"
+        },
+        {
+          "start": 336,
+          "end": 349,
+          "answer": "declined by 2"
+        },
+        {
+          "start": 363,
+          "end": 374,
+          "answer": "By contrast"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Although India recorded the lowest figures in both years, the number of Indian students increased in both destinations, rising by 35% in Canada to 2,835 and by 7% in the US. Meanwhile, the numbers of American students in Canada and Canadian students in the US also grew slightly, by 9% and 6% respectively.",
+      "cn": "尽管印度在两年中均为人数最少的生源国，但前往两国的印度学生数量均有所增加：在加拿大增长35%，达到2835 人；在美国增长7%。与此同时，在加拿大的美国学生人数以及在美国的加拿大学生人数也略有上升，增幅分别为9% 和6%。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 8,
+          "answer": "Although"
+        },
+        {
+          "start": 24,
+          "end": 41,
+          "answer": "the lowest figure"
+        },
+        {
+          "start": 88,
+          "end": 118,
+          "answer": "increased in both destinations"
+        },
+        {
+          "start": 174,
+          "end": 183,
+          "answer": "Meanwhile"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

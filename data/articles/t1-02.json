@@ -1,0 +1,134 @@
+{
+  "id": "t1-02",
+  "type": "小作文",
+  "title": "20 年间各国产出垃圾量的变化",
+  "group": "数据图表",
+  "question": "The table below shows the amount of waste production (in million tonnes) in six differentcountries over a twenty-year period.Summarize the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 普遍增长 + 长期第一 + 唯一下降【共同趋势】有可比数据的国家垃圾产量普遍增长（generally increased）→ 【长期第一】美国始终遥遥领先（remained by far the largest waste producer）→ 【特殊变化】韩 国是1990—2000 年唯一出现下降的国家（the only country to record a decline） ▪ 主一段 高产量国家——美日增长，韩国下降【美国：绝对领先】产量远高于其他国家（a considerably greater amount of waste）→ 1980—2000 年持续增长 → 【日本：规模第二】前期温和增长（increasing moderately） → 后期增幅扩大（a more substantial rise）→ 【韩国：反向趋势】1980 年无数据 → 1990—2000 年明显下降 （waste output fell from...to...） ▪ 主二段 低产量国家——共同增长，突出爱尔兰【组内共同特征】三个国家垃圾产量明显较低（much smaller amounts of waste）→ 【波兰 + 葡萄牙：同趋势合并】均逐步增长（experienced gradual increases）→ 分别交 代起止数据 → 【特殊：爱尔兰：低起点、明显增长】1980 年记录值最低（the lowest recorded figure）→ 1990 年无数据 → 2000 年达到5 百万吨（a substantial increase）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The table compares the amount of waste produced, measured in millions of tonnes, in six different countries over a twenty-year period from 1980 to 2000.",
+      "cn": "该表格比较了1980 年至2000 年这二十年间，六个不同国家的垃圾产生量，单位为百万吨。",
+      "clozes": [
+        {
+          "start": 10,
+          "end": 47,
+          "answer": "compares the amount of waste produced"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, waste production generally increased in the countries where comparable data was available, with the US remaining by far the largest waste producer throughout the period. By contrast, Korea was the only country to record a decline between 1990 and 2000.",
+      "cn": "总体来看，在有可比数据的国家中，垃圾产生量普遍呈上升趋势，而美国在整个时期内始终是垃圾产生量遥遥领先的 国家。相比之下，韩国是唯一一个在1990 年至2000 年间垃圾产生量有所下降的国家。",
+      "clozes": [
+        {
+          "start": 36,
+          "end": 62,
+          "answer": "increased in the countries"
+        },
+        {
+          "start": 156,
+          "end": 177,
+          "answer": "throughout the period"
+        },
+        {
+          "start": 179,
+          "end": 190,
+          "answer": "By contrast"
+        },
+        {
+          "start": 231,
+          "end": 251,
+          "answer": "decline between 1990"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "The US consistently generated a considerably greater amount of waste than the other countries shown. Its figure rose steadily from 131 million tonnes in 1980 to 151 million tonnes in 1990, before reaching 192 million tonnes in 2000. Japan also produced a relatively large volume of waste, with its figure increasing moderately from 28 million tonnes in 1980 to 32 million tonnes in 1990, followed by a more substantial rise to 53 million tonnes in 2000. Meanwhile, although the figure for Korea in 1980 was unavailable, its waste output fell from 31 million tonnes in 1990 to 19 million tonnes by 2000.",
+      "cn": "美国的垃圾产生量始终明显高于图表中的其他国家。其垃圾产生量从1980 年的1.31 亿吨稳步增长至1990 年的1.51 亿吨，并在2000 年进一步达到1.92 亿吨。日本的垃圾产生量也相对较高，从1980 年的2800 万吨温和增长至1990 年的3200 万吨，随后出现更大幅度的增长，在2000 年达到5300 万吨。与此同时，尽管韩国1980 年的数据缺失， 但其垃圾产生量从1990 年的3100 万吨下降至2000 年的1900 万吨。",
+      "clozes": [
+        {
+          "start": 20,
+          "end": 68,
+          "answer": "generated a considerably greater amount of waste"
+        },
+        {
+          "start": 112,
+          "end": 149,
+          "answer": "rose steadily from 131 million tonnes"
+        },
+        {
+          "start": 244,
+          "end": 287,
+          "answer": "produced a relatively large volume of waste"
+        },
+        {
+          "start": 419,
+          "end": 452,
+          "answer": "rise to 53 million tonnes in 2000"
+        },
+        {
+          "start": 454,
+          "end": 463,
+          "answer": "Meanwhile"
+        },
+        {
+          "start": 465,
+          "end": 473,
+          "answer": "although"
+        },
+        {
+          "start": 474,
+          "end": 488,
+          "answer": "the figure for"
+        },
+        {
+          "start": 537,
+          "end": 572,
+          "answer": "fell from 31 million tonnes in 1990"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "The remaining three countries produced much smaller amounts of waste throughout the period. Poland and Portugal both experienced gradual increases, with their figures rising from 4 million tonnes to 6.6 million tonnes and from 2 million tonnes to 5 million tonnes respectively. Ireland started with the lowest recorded figure, at just 0.6 million tonnes in 1980. Although its figure for 1990 was unavailable, the country saw a substantial increase over the following decade, reaching 5 million tonnes in 2000.",
+      "cn": "其余三个国家在整个时期内的垃圾产生量都要小得多。波兰和葡萄牙的垃圾产生量均逐步增长，分别从400 万吨增加 至660 万吨，以及从200 万吨增加至500 万吨。爱尔兰在1980 年的垃圾产生量最低，仅为60 万吨。尽管该国 1990 年的数据缺失，但从1980 年至2000 年，其垃圾产生量大幅增长，最终在2000 年达到500 万吨。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "The remaining"
+        },
+        {
+          "start": 69,
+          "end": 90,
+          "answer": "throughout the period"
+        },
+        {
+          "start": 363,
+          "end": 371,
+          "answer": "Although"
+        },
+        {
+          "start": 439,
+          "end": 473,
+          "answer": "increase over the following decade"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

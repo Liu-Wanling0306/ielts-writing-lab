@@ -1,0 +1,119 @@
+{
+  "id": "t1-17",
+  "type": "小作文",
+  "title": "图书馆借阅群体、书的种类以及借阅量的变化",
+  "group": "数据图表",
+  "question": "The charts below give information about a public library in a town called Little Chalfont.Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 会员构成抓最大 → 儿童小说和成人小说共同占主导（dominated loan categories） → 时间图抓总体趋势 （showed a general upward trend with some fluctuations） ▪ 主一段 讲2016 年的会员结构 + 借阅类别按占比降序，先讲会员年龄 → 过渡到借阅结构 → 按占比降序：儿童 小说+成人小说并列第一，各38%（each represented 38%）→ 小项合并：青少年读物 + 成人有声书 + 儿童 DVD：占比都极小（were very minor） ▪ 主二段 讲2007–2016 年总借阅量起点 → 稳步上涨 → 中期波动（witnessed modest fluctuations）→ 明显下跌 → 再次回升（before climbing again）→ 终点创最高值（the highest point during the period）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The charts illustrate the age distribution of members and the proportions of different loan categories in 2016 at the Little Chalfont Library, together with the total number of loans made between 2007 and 2016.",
+      "cn": "这些图表展示了2016 年小查尔方特图书馆（Little Chalfont Library）会员的年龄分布和不同借阅类别的比例，以及 2007 年至2016 年期间借阅总量的变化情况。",
+      "clozes": [
+        {
+          "start": 157,
+          "end": 176,
+          "answer": "the total number of"
+        },
+        {
+          "start": 183,
+          "end": 200,
+          "answer": "made between 2007"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, in 2016, adults aged 18-64 made up the largest share of members, and both children’s and adult fiction dominated loan categories. Over the decade, the total number of loans showed a general upward trend with some fluctuations.",
+      "cn": "总体来看，2016 年，18–64 岁的成年 人构成了会员的最大群体，而儿童和成人的小说类书籍在借阅类别中占据主导地位。在整个十年间，借阅总量总体上 呈上升趋势，但也伴随着一定的波动。",
+      "clozes": [
+        {
+          "start": 36,
+          "end": 43,
+          "answer": "made up"
+        },
+        {
+          "start": 44,
+          "end": 61,
+          "answer": "the largest share"
+        },
+        {
+          "start": 156,
+          "end": 175,
+          "answer": "the total number of"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In terms of membership, adults aged 18-64 accounted for just over half (51%) of the library members, while children under 13 made up 22%. Young adults aged 13-17 and seniors over 65 represented smaller proportions, at 15% and 12% respectively. These distributions were broadly reflected in borrowing patterns. Children’s and adult fiction each represented 38% of total loans, followed by adult non-fiction at 13% and children’s non-fiction at 6%. By contrast, the shares of young adult book, adult audio books, and children’s DVDs were very minor, at only 2%, 2% and 1% respectively.",
+      "cn": "在会员构成方面，18–64 岁的成年人占图书馆会员的略多于一半（51%），而13 岁以下的儿童占22%。13–17 岁的 青少年和65 岁以上的老年人比例相对较小，分别为15%和12%。这些分布在一定程度上反映在借阅模式中。儿童小 说和成人小说各占借阅总量的38%，其次是成人非小说类（13%）和儿童非小说类（6%）。相比之下，青少年读物、 成人有声书和儿童DVD 所占比例极小，仅为2%、2%和1%。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 11,
+          "answer": "In terms of"
+        },
+        {
+          "start": 42,
+          "end": 55,
+          "answer": "accounted for"
+        },
+        {
+          "start": 125,
+          "end": 132,
+          "answer": "made up"
+        },
+        {
+          "start": 182,
+          "end": 213,
+          "answer": "represented smaller proportions"
+        },
+        {
+          "start": 447,
+          "end": 458,
+          "answer": "By contrast"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Regarding the overall borrowing trend, the number of loans stood at around 16,000 in 2007 and rose steadily to some 21,000 by 2011. Although the following years witnessed modest fluctuations, with figures dipping below 20,000 in 2013 before climbing again, the overall trend was upward. By 2016, the total reached just above 22,000, the highest point during the period.",
+      "cn": "就整体借阅趋势而言，2007 年的借阅总量约为16,000 次，并在2011 年稳步上升至约21,000 次。随后几年出现了轻 微波动，2013 年下降到不足20,000 次，然后再次回升。到2016 年，借阅总量略高于22,000 次，达到该时期的最高 点。",
+      "clozes": [
+        {
+          "start": 94,
+          "end": 118,
+          "answer": "rose steadily to some 21"
+        },
+        {
+          "start": 132,
+          "end": 140,
+          "answer": "Although"
+        },
+        {
+          "start": 261,
+          "end": 274,
+          "answer": "overall trend"
+        },
+        {
+          "start": 306,
+          "end": 327,
+          "answer": "reached just above 22"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

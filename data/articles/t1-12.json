@@ -1,0 +1,110 @@
+{
+  "id": "t1-12",
+  "type": "小作文",
+  "title": "英国某城镇的人口结构变化",
+  "group": "数据图表",
+  "question": "The bar charts below show the information about the population in a particular town in the UK from 1951 to 2011.Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 总人口：先涨后跌（grew steadily... before declining slightly）年龄结构：抓最显著变化 → 40–64 岁占比大 幅下降（dropped significantly） → 对比：而大多数年龄组上升 → 最终冠军发生变化：65+最终成为最大年龄组 （eventually becoming the largest group） ▪ 主一段 讲总人口起点 → 翻倍至峰值（doubled to 200,000） → 转折 → 小幅下降至终点 ▪ 主二段 年龄结构—年龄较大的两个组旧冠军（consistently the largest until 2011）40–64 持续缩水 → 65+持续 壮大 → 2011 完成反超（overtaken by） → 新老冠军交替 ▪ 主三段 年龄结构——处理剩下三个年龄组相似项合并：两个年轻组缓慢增长 → 对比项：30–39 走势波动，先 升—暴跌（plunged）—回升",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The two bar charts illustrate changes in the population size and age structure of a UK town between 1951 and 2011.",
+      "cn": "这两张柱状图展示了1951 年至2011 年间，英国某城镇的人口规模和年龄结构的变化。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, the town’s population grew steadily over the first four decades before declining slightly after 1991. In terms of age distribution, the share of 40–64-year-olds dropped significantly, while most other age groups expanded, with the over-65s eventually becoming the largest group.",
+      "cn": "总体而言，该城镇的人口在最初四十年里持续增长，但在1991 年之后略有下降。从年龄分布来看，40–64 岁人群的 比例显著下降，而大多数其他年龄组则有所上升，其中65 岁以上人群最终成为规模最大的群体。",
+      "clozes": [
+        {
+          "start": 111,
+          "end": 122,
+          "answer": "In terms of"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In 1951, the population stood at about 100,000, and this figure doubled to 200,000 by 1991. However, the following 20 years witnessed a slight fall to roughly 180,000 in 2011.",
+      "cn": "1951 年，该城镇人口约为10 万，到1991 年这一数字翻了一番，达到20 万。然而，接下来的20 年人口略有回落， 到2011 年约为18 万。",
+      "clozes": [
+        {
+          "start": 92,
+          "end": 99,
+          "answer": "However"
+        },
+        {
+          "start": 143,
+          "end": 162,
+          "answer": "fall to roughly 180"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "With regard to age composition, the 40–64 group was consistently the largest until 2011, when its proportion had shrunk from 45% to just over 20% and was overtaken by those aged 65 and above. The elderly group rose markedly from 10% to around a quarter of the population, becoming the dominant category by the end of the period.",
+      "cn": "从年龄结构来看，40–64 岁人群在2011 年之前一直是占比最大的群体，但其比例已从45%降至略高于20%，并在最 后被65 岁及以上人群超越。老年群体的比例显著上升，从1951 年的10%增加到约25%，成为该城镇人口的第一大 年龄组。",
+      "clozes": [
+        {
+          "start": 109,
+          "end": 127,
+          "answer": "had shrunk from 45"
+        },
+        {
+          "start": 210,
+          "end": 231,
+          "answer": "rose markedly from 10"
+        },
+        {
+          "start": 303,
+          "end": 316,
+          "answer": "by the end of"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "Meanwhile, both the 0–14 and 15–29 cohorts increased gradually from about 15% to 20%. By contrast, the proportion of 30–39-year-olds rose modestly until 1971, then plunged to 10% in 1991 before recovering slightly to 12% in 2011.",
+      "cn": "与此同时，0–14 岁和15–29 岁人群的比例都从约15%逐渐升至20%。相比之下，30–39 岁人群的比例在1971 年前 小幅上升，但在1991 年骤降至10%，之后到2011 年略微回升至12%。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 9,
+          "answer": "Meanwhile"
+        },
+        {
+          "start": 43,
+          "end": 76,
+          "answer": "increased gradually from about 15"
+        },
+        {
+          "start": 86,
+          "end": 97,
+          "answer": "By contrast"
+        },
+        {
+          "start": 99,
+          "end": 116,
+          "answer": "the proportion of"
+        },
+        {
+          "start": 133,
+          "end": 157,
+          "answer": "rose modestly until 1971"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 5,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

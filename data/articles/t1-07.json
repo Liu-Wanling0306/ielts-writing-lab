@@ -1,0 +1,129 @@
+{
+  "id": "t1-07",
+  "type": "小作文",
+  "title": "英国学校各项开支变化",
+  "group": "数据图表",
+  "question": "The three pie charts below show the changes in annual spending by a particular UK school in 1981, 1991 and 2001. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 【常胜将军】教师工资：三个年份始终占比最大（accounted for the largest share in all three years）→【持 续下降项】其他员工工资 →【变化明显项】家具设备+教学资源：（showed more noticeable changes）→【常 年垫底】保险：始终是最小类别（remained the smallest category throughout） ▪ 主一段 先建立1981 年的初始格局【按占比降序】第一 → 第二 → 两个并列项合并（each accounted for 15%） → 最小 ▪ 主二段 从1991 开始，按类别追踪20 年变化【先讲常胜将军】教师工资变化：先升后降，但始终第一（rose to... before slipping to...）→ 【对比另一类工资支出】其他员工工资：持续下降（fell from...to...and then to...）→ 【讲变化最剧烈：先降后升】家具设备暴跌再猛增至23%最终成为第二大支出（becoming the second largest item）→【反而另一个：先升后降项】教学资源 →【最后处理常年最小项】保险：逐渐增长",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The three pie charts compare how a particular UK school distributed its annual spending across five categories in 1981, 1991 and 2001.",
+      "cn": "这三幅饼图比较了1981 年、1991 年和2001 年，英国某所学校在五个方面的年度支出分布情况。",
+      "clozes": [
+        {
+          "start": 21,
+          "end": 67,
+          "answer": "compare how a particular UK school distributed"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, teachers’ salaries accounted for the largest share in all three years. By contrast, the proportion spent on other workers’ salaries declined steadily over time, while spending on furniture and equipment and on resources showed more noticeable changes. Insurance remained the smallest category throughout.",
+      "cn": "总体来看，教师薪酬在所有三年中都占据了最大的份额。相比之下，其他职工薪酬的支出比例则随时间推移而稳步下 降，而家具与设备以及教学资源的支出比例则呈现出更明显的变化。保险支出始终是占比最小的类别。",
+      "clozes": [
+        {
+          "start": 28,
+          "end": 41,
+          "answer": "accounted for"
+        },
+        {
+          "start": 42,
+          "end": 59,
+          "answer": "the largest share"
+        },
+        {
+          "start": 80,
+          "end": 91,
+          "answer": "By contrast"
+        },
+        {
+          "start": 159,
+          "end": 168,
+          "answer": "over time"
+        },
+        {
+          "start": 236,
+          "end": 259,
+          "answer": "more noticeable changes"
+        },
+        {
+          "start": 271,
+          "end": 312,
+          "answer": "remained the smallest category throughout"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In 1981, teachers’ salaries made up 40% of total school spending, followed by other workers’ salaries at 28%. Furniture and equipment and resources each accounted for 15%, while insurance represented just 2%.",
+      "cn": "1981 年，教师薪酬占学校总支出的40%，其次是其他职工薪酬，占28%。家具与设备以及教学资源各占15%，而保 险仅占2%。",
+      "clozes": [
+        {
+          "start": 28,
+          "end": 35,
+          "answer": "made up"
+        },
+        {
+          "start": 153,
+          "end": 166,
+          "answer": "accounted for"
+        },
+        {
+          "start": 188,
+          "end": 206,
+          "answer": "represented just 2"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In 1991, the figure for teachers’ salaries rose to 50% before slipping to 45% in 2001. By comparison, spending on other workers’ salaries fell from 28% in 1981 to 22% in 1991 and then to 15% in 2001. Furniture and equipment dropped to 5% in 1991, but then rose sharply to 23% by 2001, becoming the second largest item. Resources increased from 15% to 20% before falling to 9% in the final year. Insurance, meanwhile, went up gradually from 2% to 3% and then to 8%, although it remained the smallest share.",
+      "cn": "1991 年，教师薪酬的比例上升至50%，到2001 年又回落至45%。相比之下，其他职工薪酬的支出从1981 年的 28%下降到1991 年的22%，再到2001 年的15%。家具与设备的支出在1991 年降至5%，但随后急剧上升，到 2001 年达到23%，成为支出中的第二大项。教学资源的支出从15%上升到20%，然后在最后一年降至9%。与此同 时，保险的支出比例从2%逐渐增加到3%，再到8%，尽管它仍然是占比最小的一项。",
+      "clozes": [
+        {
+          "start": 9,
+          "end": 23,
+          "answer": "the figure for"
+        },
+        {
+          "start": 256,
+          "end": 268,
+          "answer": "rose sharply"
+        },
+        {
+          "start": 329,
+          "end": 346,
+          "answer": "increased from 15"
+        },
+        {
+          "start": 406,
+          "end": 415,
+          "answer": "meanwhile"
+        },
+        {
+          "start": 465,
+          "end": 473,
+          "answer": "although"
+        },
+        {
+          "start": 486,
+          "end": 504,
+          "answer": "the smallest share"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

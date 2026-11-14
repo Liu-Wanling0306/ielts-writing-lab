@@ -1,0 +1,74 @@
+{
+  "id": "t1-08",
+  "type": "小作文",
+  "title": "各国男女退休年纪对比",
+  "group": "数据图表",
+  "question": "The graph below shows the average retirement age of males and females in six countries in 2003.Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 【男女共同规律】男性退休年龄都高于女性（men retired at older ages than women in every country shown）→【最大值】韩国+日本：退休年龄最高 →【最小值】法国+意大利：退休年龄最低（recorded the lowest figures）【核心在于六个国家分成三类】 ▪ 主一段 高值国家+中间国家【先讲最高的一组】韩国+日本位居前列（were at the top of the table）→ 【分说性 别】韩国男性：全表最高（the highest figure overall）→ 韩国女性：同样最高（the highest retirement age among females）→ 【对比第二梯队日本】日本：男女数据都只比韩国略低（only slightly lower）→ 【转到中间 梯队】美国 + 澳大利亚：相比之下更加适中（were more moderate）→ 总体集中在60 多岁中期（hovering around the mid-60s） ▪ 主二段 低值国家—法国+意大利【总起：两个国家共同垫底】法国 + 意大利处于表格底部（occupied the bottom of the table）→ 【分说性别】意大利男性：略高于58 岁 vs. 法国男性：略高于57 岁 → 意大利女性： 约57 岁 vs. 法国女性：略低于57 岁",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The table compares the average retirement ages of men and women in six countries in 2003.",
+      "cn": "该表格比较了2003 年六个国家男性和女性的平均退休年龄。",
+      "clozes": [
+        {
+          "start": 10,
+          "end": 53,
+          "answer": "compares the average retirement ages of men"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, men retired at older ages than women in every country shown. Retirement ages were highest in Korea and Japan, while France and Italy recorded the lowest figures.",
+      "cn": "总体来看，在所有列出的国家中，男性的平均退休年龄均高于女性。韩国和日本的退休年龄最高，而法国和意大利的 退休年龄则最低。",
+      "clozes": [
+        {
+          "start": 151,
+          "end": 168,
+          "answer": "the lowest figure"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Korea and Japan were at the top of the table. Korean men had the highest figure overall, retiring at just under 69 , and Korean women also recorded the highest retirement age among females, at just over 67. The figures for Japan were only slightly lower, with both men and women typically leaving work in their late 60s. In the United States and Australia, by contrast, retirement ages were more moderate, generally hovering around the mid-60s.",
+      "cn": "韩国和日本位居表格前列。韩国男性的平均退休年龄为所有群体中最高，接近69 岁；韩国女性的平均退休年龄也在女 性中位居首位，略高于67 岁。日本的数据仅略低于韩国，男性和女性通常都在60 多岁后期退休。相比之下，美国和 澳大利亚的退休年龄处于中等水平，普遍在65 岁左右。",
+      "clozes": [
+        {
+          "start": 61,
+          "end": 79,
+          "answer": "the highest figure"
+        },
+        {
+          "start": 357,
+          "end": 368,
+          "answer": "by contrast"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "France and Italy occupied the bottom of the table. In both countries, average retirement ages for men and women were below 60. Italian men retired at a little over 58 , compared with just over 57 for French men, while the figures for women stood at around 57 in Italy and just under that level in France.",
+      "cn": "法国和意大利则位居表格末尾。在这两个国家，男性和女性的平均退休年龄均低于60 岁。意大利男性的平均退休年龄 略高于58 岁，而法国男性则略高于57 岁。女性方面，意大利的平均退休年龄约为57 岁，法国则略低于这一水平。",
+      "clozes": [
+        {
+          "start": 169,
+          "end": 182,
+          "answer": "compared with"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

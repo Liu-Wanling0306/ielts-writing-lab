@@ -1,0 +1,99 @@
+{
+  "id": "t1-14",
+  "type": "小作文",
+  "title": "欧洲国家医疗花费占比和医疗人员占比",
+  "group": "数据图表",
+  "question": "The table shows the percentage of government expenditure on health care in five countries in 2006 as well as the proportions of 24-30-year-olds working in medical services. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 项目一冠军：意大利最高（allocated the most significant share）→ 项目二冠军：波兰最高（saw the highest participation）→ 两个冠军不同、无明显对应关系（no direct correlation） ▪ 主一段 讲政府医疗支出【基本按照降序】第一名（stood out） → 与第二名做倍数比较（more than double that of Spain）→ 后三项（the remaining three countries）：中间两项合并+最后一名 ▪ 主二段 讲年轻人医疗行业就业【基本按照降序】制造反差形成和上一段的联系：波兰上一段医疗投入最低，这 一指标却排名第一，形成鲜明反差（presented a striking contrast to its low financial investment）→ 意大利 → 合 并中间项：西班牙+冰岛（Spain and Iceland reported moderated figures）→ 芬兰最少（registered the lowest employment rate）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The table illustrates the proportion of national budgets dedicated to healthcare, alongside the percentage of young adults (aged 24 to 30) employed in the medical field, across five European nations in the year 2006.",
+      "cn": "该表格展示了2006 年五个欧洲国家中，国家预算用于医疗保健的比例，以及医疗领域就业的年轻人 所占的百分比。",
+      "clozes": [
+        {
+          "start": 22,
+          "end": 39,
+          "answer": "the proportion of"
+        },
+        {
+          "start": 92,
+          "end": 109,
+          "answer": "the percentage of"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, it is clear that Italy allocated the most significant share of government budget to healthcare, whereas Poland saw the highest participation of young adults in medical professions. Interestingly, there appeared to be no direct correlation between a country’s financial investment in health services and the proportion of its 24-30 population employed in that sector.",
+      "cn": "总体来看，意大利在政府预算中分配给医疗保健的份额最为显著，而波兰则在年轻人从事医疗职业的比例上位居首 位。有趣的是，一个国家的医疗财政投入与其24 至30 岁年龄段在该行业的就业比例之间似乎并无直接关联。",
+      "clozes": [
+        {
+          "start": 42,
+          "end": 68,
+          "answer": "the most significant share"
+        },
+        {
+          "start": 105,
+          "end": 112,
+          "answer": "whereas"
+        },
+        {
+          "start": 312,
+          "end": 329,
+          "answer": "the proportion of"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In terms of public expenditure, Italy stood out by directing over a quarter (27%) of its national budget toward healthcare. This figure was more than double that of Spain, which recorded the second highest spending at 13%. The remaining three countries allocated considerably less, with Iceland and Finland spending 11% and 9% respectively. Poland committed the smallest fraction of its budget to this sector, at a mere 5%.",
+      "cn": "就公共支出来看，意大利尤为突出，将超过四分之一（27%）的国家预算用于医疗保健。这一数字是西班牙的两倍 多，西班牙以13%的支出位列第二。其余三个国家的投入则少得多，冰岛和芬兰分别为11%和9%。波兰对该领域的 预算投入最小，仅为5%。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 11,
+          "answer": "In terms of"
+        },
+        {
+          "start": 223,
+          "end": 236,
+          "answer": "The remaining"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "As for the employment of 24-to-30-year-olds in medical services, Poland presented a striking contrast to its low financial investment; it led the group by a wide margin, with over half (54%) of its young population working in this field. Italy followed with 40%. Spain and Iceland reported moderated figures of 34% and 29% respectively. Finland, meanwhile, registered the lowest employment rate in this category, with exactly a quarter (25%) of this age demographic working in medical services.",
+      "cn": "而在24 至30 岁年轻人受雇于医疗服务行业方面而言，波兰与其低财政投入形成了鲜明对比；它以超过一半（54%） 的年轻人从事该领域而在所有国家中遥遥领先。意大利紧随其后，但差距较大，为40%。西班牙和冰岛则分别为34% 和29%，属于中等水平。与此同时，芬兰在该类别中记录的就业率最低，恰好有四分之一（25%）的该年龄段人口从 事医疗服务工作。",
+      "clozes": [
+        {
+          "start": 138,
+          "end": 168,
+          "answer": "led the group by a wide margin"
+        },
+        {
+          "start": 346,
+          "end": 355,
+          "answer": "meanwhile"
+        },
+        {
+          "start": 368,
+          "end": 394,
+          "answer": "the lowest employment rate"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

@@ -1,0 +1,94 @@
+{
+  "id": "t1-18",
+  "type": "小作文",
+  "title": "中国五个城市的降水量对比",
+  "group": "数据图表",
+  "question": "The chart below shows the monthly rainfall (mm) in five cities in China in 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述段 常胜将军：广州上海降雨量较多（recorded higher levels of rainfall across the period）而北京乌鲁木齐较 少 → 变化大的：成都（most dramatic fluctuation） ▪ 主一段 讲三月总起：降雨量最低 → 按降序：上海第一（topped the chart），广州紧随，成都、北京、乌鲁木 齐仅有（reported minimal levels of ...） ▪ 主二段 讲六月总起：降雨量最高（heaviest precipitation） → 按降序，讲变化：广州第一，上海成都北京增长 明显 → 对比：乌鲁木齐增长缓慢 ▪ 主三段 讲九月总起：降雨量均减少 → 按降序，讲变化：广州保持第一 → 特点：成都超过上海（surpassed Shanghai）→ 其他",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The column chart illustrates the monthly rainfall, measured in millimeters, in five Chinese cities during March, June, and September of 2020.",
+      "cn": "该柱状图展示了 2020 年 3 月、6 月和 9 月期间，中国五个城市的月降雨量。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, Guangzhou and Shanghai consistently recorded higher levels of rainfall across the period, while Beijing and Urumqi experienced much lower figures. Chengdu, meanwhile, showed the most dramatic fluctuation.",
+      "cn": "总体来看，广州和上海在整个时期的降雨量始终保持在较高水平，而北京和乌鲁木齐的数值则低得多。相比之下，成 都的波动最为显著。",
+      "clozes": [
+        {
+          "start": 165,
+          "end": 174,
+          "answer": "meanwhile"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In March, rainfall was at its lowest in all five cities. Shanghai topped the chart with approximately 110 mm, followed by Guangzhou at just over 70 mm. Chengdu received only about 20 mm, and both Beijing and Urumqi reported minimal levels of around 10 mm each.",
+      "cn": "在三月份，五个城市的降雨量均处于最低点。上海位居首位，约为 110 毫米，其次是广州，略高于 70 毫米。成都的 降雨量仅为 20 毫米左右，而北京和乌鲁木齐的降雨量均只有约 10 毫米。",
+      "clozes": []
+    },
+    {
+      "idx": 4,
+      "en": "June witnessed the heaviest precipitation across the board. Guangzhou reached the peak of the data at nearly 280 mm, while rainfall in Shanghai increased by half to 180 mm. Chengdu also saw a substantial rise to 150 mm, marking the most significant increase among the cities. In Beijing, rainfall jumped almost sixfold to 70 mm, whereas Urumqi’s figure climbed modestly to under 30 mm.",
+      "cn": "六月份，各城市的降雨量均达到了最高水平。广州的数据接近 280 毫米，成为整体峰值；与此同时，上海的降雨量增 加了一半，达到 180 毫米。成都的数值也大幅上升至 150 毫米，成为增长幅度最大的城市。北京的降雨量几乎增长了 六倍，达到 70 毫米，而乌鲁木齐的数值则温和上升至不足 30 毫米。",
+      "clozes": [
+        {
+          "start": 70,
+          "end": 108,
+          "answer": "reached the peak of the data at nearly"
+        },
+        {
+          "start": 144,
+          "end": 171,
+          "answer": "increased by half to 180 mm"
+        },
+        {
+          "start": 204,
+          "end": 218,
+          "answer": "rise to 150 mm"
+        },
+        {
+          "start": 237,
+          "end": 257,
+          "answer": "significant increase"
+        },
+        {
+          "start": 329,
+          "end": 336,
+          "answer": "whereas"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "By September, rainfall decreased in every city. Guangzhou still led with 170 mm, while Chengdu, at over 120 mm, surpassed Shanghai, which fell to around 95 mm. Beijing dropped back to 40 mm, and Urumqi returned to its March level of roughly 10 mm.",
+      "cn": "到了九月份，所有城市的降雨量均有所下降。广州依然位居首位，达到 170 毫米；成都超过了上海，以 120 多毫米位 列第二，而上海则降至约 95 毫米。北京回落至 40 毫米，乌鲁木齐则回到三月份的大约 10 毫米水平",
+      "clozes": [
+        {
+          "start": 64,
+          "end": 79,
+          "answer": "led with 170 mm"
+        },
+        {
+          "start": 138,
+          "end": 158,
+          "answer": "fell to around 95 mm"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 5,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

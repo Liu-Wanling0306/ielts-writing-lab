@@ -1,0 +1,114 @@
+{
+  "id": "t1-11",
+  "type": "小作文",
+  "title": "三个国家在医疗健康上的开支变化",
+  "group": "数据图表",
+  "question": "The chart below shows spending on health among three different countries between 1990to 2010. Summarize the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 共同趋势 + 长期领先者 + 长期最低者【共同趋势】三国医疗支出总体均增长（saw an overall increase）， 尽管中间存在波动 → 【长期第一】日本始终是医疗支出最高的国家（consistently remained the largest spender）→ 【长期最低】法国在大部分时期支出最少（spent the least for most of the period） ▪ 主一段 日本——长期领先，先升后降再创新高【先建立起点优势】1990 年日本支出80 亿美元 → 明显高于意 大利和法国（much higher than those for...）→ 【前期增长】1990—2000 年持续上升（a steady increase） → 【中期调整】2000—2005 年小幅回落（dropping modestly）→ 【最终创新高】2010 年重新上升 → 达到全期 峰值140 亿美元（rising again to a peak of） ▪ 主二段 意大利 + 法国——前期同趋势，后期不同步，最终持平【先概括共同规律】两国前半段走势相似 （followed somewhat similar patterns）→ 【1990—1995 年】两国均增长，意大利翻倍以上（more than doubled）→ 【1995—2000 年】两国支出均下降 → 【2000 年后：走势开始分化】意大利：持续增长 → 【对 比】法国：长期停留在20 亿美元 → 2005—2010 年突然大幅增长（increased substantially）→ 【最终结果】法 国追平意大利（match Italy's level）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The column chart compares health expenditure, measured in billions of US dollars, in Japan, Italy and France from 1990 to 2010.",
+      "cn": "该柱状图比较了1990 年至2010 年间日本、意大利和法国的医疗支出，单位为十亿美元。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 32,
+          "answer": "The column chart compares health"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, all three countries saw an overall increase in health spending, despite some fluctuations in the middle years. Japan consistently remained the largest spender in this sector, while France spent the least for most of the period.",
+      "cn": "总体来看，尽管在这一时期的中间几年出现了一些波动，但三个国家的医疗支出总体上均有所增长。日本始终是医疗 支出最高的国家，而法国在大部分时间里的支出最低。",
+      "clozes": [
+        {
+          "start": 44,
+          "end": 71,
+          "answer": "increase in health spending"
+        },
+        {
+          "start": 73,
+          "end": 80,
+          "answer": "despite"
+        },
+        {
+          "start": 139,
+          "end": 182,
+          "answer": "remained the largest spender in this sector"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In 1990, Japan spent 8 billion US dollars on healthcare, a figure much higher than those for Italy and France, which spent less than 4 billion and exactly 2 billion, respectively. The following decade witnessed a steady increase in Japan’s spending, which reached approximately 13 billion in 2000, before dropping modestly to 12 billion in 2005 and rising again to a peak of 14 billion in 2010.",
+      "cn": "1990 年，日本的医疗支出为80 亿美元，明显高于意大利和法国，后两国的支出分别为不到40 亿美元和20 亿美元。 在接下来的十年里，日本的医疗支出稳步增长，到2000 年达到约130 亿美元。随后，这一数字在2005 年小幅下降 至120 亿美元，但之后再次回升，并在2010 年达到140 亿美元的峰值。",
+      "clozes": [
+        {
+          "start": 220,
+          "end": 248,
+          "answer": "increase in Japan’s spending"
+        },
+        {
+          "start": 256,
+          "end": 296,
+          "answer": "reached approximately 13 billion in 2000"
+        },
+        {
+          "start": 367,
+          "end": 393,
+          "answer": "peak of 14 billion in 2010"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Italy and France followed somewhat similar patterns during the first half of the period. The figure for the former more than doubled between 1990 and 1995, reaching exactly 8 billion, compared with roughly 3.5 billion for France in the same year. However, the following five-year period witnessed a decrease in health expenditure for both countries, with the figures dropping to 6 billion and 2 billion by 2000, respectively. In the next decade, Italy’s spending rose steadily to around 9 billion in 2005 and 10 billion in 2010, while, after remaining at 2 billion until 2005, France increased its health spending substantially to match Italy’s level at 10 billion in the final year.",
+      "cn": "意大利和法国在这一时期的前半段呈现出较为相似的变化趋势。1990 年至1995 年间，意大利的医疗支出增长了一倍 以上，达到80 亿美元，而法国同期的支出约为35 亿美元。然而，在随后的五年里，两国的医疗支出均有所下降，到 2000 年分别降至60 亿美元和20 亿美元。在接下来的十年里，意大利的医疗支出稳步增长，2005 年达到约90 亿美 元，并在2010 年进一步升至100 亿美元。相比之下，法国的医疗支出一直维持在20 亿美元，直到2005 年才开始大 幅增长，并在最后一年达到100 亿美元，与意大利持平。",
+      "clozes": [
+        {
+          "start": 89,
+          "end": 103,
+          "answer": "The figure for"
+        },
+        {
+          "start": 184,
+          "end": 197,
+          "answer": "compared with"
+        },
+        {
+          "start": 247,
+          "end": 254,
+          "answer": "However"
+        },
+        {
+          "start": 297,
+          "end": 317,
+          "answer": "a decrease in health"
+        },
+        {
+          "start": 463,
+          "end": 496,
+          "answer": "rose steadily to around 9 billion"
+        },
+        {
+          "start": 584,
+          "end": 636,
+          "answer": "increased its health spending substantially to match"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

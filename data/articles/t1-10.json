@@ -1,0 +1,100 @@
+{
+  "id": "t1-10",
+  "type": "小作文",
+  "title": "家用电子产品普及率变化",
+  "group": "数据图表",
+  "question": "The graph below shows the percentage of households with different kinds of technology in the U.S. from 1995 to 1999. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 【常胜将军】洗衣机：全程普及率最高（consistently the most commonly owned appliance）→ 【变化最 大】手机：增长最明显（witnessed the most noticeable increase in adoption）→ 【唯一特殊走势】DVD 播放 器：唯一一个前期出现下降的产品（the only technology to experience an initial downturn） ▪ 主一段 讲洗衣机 + 电脑【先讲常胜将军】洗衣机：持续增长，全程第一（remained the most popular item）→ 【顺势讲长期第二的电脑】电脑：持续增长 ▪ 主二段 单独讲增长最猛的手机【总起：最大增幅】手机增长最强劲（demonstrated the most dramatic rise）→ 【关键点】1996 年后开始猛增（surged from 1996 onwards）→【结果：排名发生改变】超过电脑（surpassing computers）→ 最终成为第二普及的科技产品（to become the second most widely owned technology） ▪ 主三段 讲Internet + DVD 播放器先讲Internet 开始最低但增长猛 → 【对比特殊项】DVD：走势与其他产品 不同 → 先跌随后恢复增长（before recovering to...）→ 【最后对比两条线】DVD 最初高于Internet，此后 Internet 完成反超（eventually overtook DVD players）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The line graph illustrates the proportions of American households possessing five different technological devices over a five-year period from 1995 to 1999.",
+      "cn": "该折线图展示了1995 年至1999 年五年间，美国家庭拥有五种不同科技设备的比例。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "Overall, it is clear that washing machines were consistently the most commonly owned appliance, while phones witnessed the most noticeable increase in adoption. Meanwhile, DVD players were the only technology to experience an initial downturn.",
+      "cn": "总体来看，洗衣机始终是最普遍拥有的家用电器，而电话的普及率增长最为显著。与此同时，DVD 播放机是唯一在初 期出现使用率下降的设备。",
+      "clozes": [
+        {
+          "start": 139,
+          "end": 159,
+          "answer": "increase in adoption"
+        },
+        {
+          "start": 161,
+          "end": 170,
+          "answer": "Meanwhile"
+        },
+        {
+          "start": 189,
+          "end": 222,
+          "answer": "the only technology to experience"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Specifically, washing machines remained the most popular item, starting with a penetration of 60% in 1995 and rising steadily to 80% by 1999. Computers began as the second at 40%, seeing continuous growth to finish at 70%.",
+      "cn": "具体而言，洗衣机始终是最受欢迎的设备，其普及率从1995 年的60%起步，到1999 年稳步上升至80%。电脑最初 以40%的普及率位居第二，随后持续增长，最终达到70%。",
+      "clozes": [
+        {
+          "start": 31,
+          "end": 61,
+          "answer": "remained the most popular item"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Phones demonstrated the most dramatic rise. Starting at just under 20% in 1995 and increasing marginally the following year, the percentage of families with phones surged from 1996 onwards. By 1999, they reached approximately 75%, surpassing computers to become the second most widely owned technology.",
+      "cn": "电话的增幅最为强劲。1995 年，从拥有电话的家庭比例略低于20%开始，次年略有上升，但从1996 年起便急剧增 长。到1999 年，该比例达到约75%，超越了电脑，成为普及率第二高的科技设备。",
+      "clozes": [
+        {
+          "start": 125,
+          "end": 142,
+          "answer": "the percentage of"
+        },
+        {
+          "start": 204,
+          "end": 228,
+          "answer": "reached approximately 75"
+        },
+        {
+          "start": 255,
+          "end": 301,
+          "answer": "become the second most widely owned technology"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "Internet access also grew substantially. Starting at a mere 10%, it doubled by 1997 before rising sharply to 50% in 1999. Conversely, the figure for DVD players initially dropped from 25% to roughly 15% in 1996, before recovering to 40% by the final year. Notably, although DVD players were initially more popular, their adoption rates intersected at 30% in 1998, after which the Internet eventually overtook DVD players.",
+      "cn": "互联网接入的比例也大幅上升。其普及率从仅10%起步，到1997 年翻了一番，随后在1999 年急剧上升至50%。相 比之下，DVD 播放机的比例在1996 年从25%下降到约15%，之后回升，到统计期末达到40%。值得注意的是，尽 管DVD 播放机在初期更受欢迎，但其普及率在1998 年与互联网持平于30%，此后互联网最终超越了DVD 播放机。",
+      "clozes": [
+        {
+          "start": 134,
+          "end": 148,
+          "answer": "the figure for"
+        },
+        {
+          "start": 265,
+          "end": 273,
+          "answer": "although"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 5,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

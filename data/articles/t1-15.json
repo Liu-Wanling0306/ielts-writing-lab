@@ -1,0 +1,94 @@
+{
+  "id": "t1-15",
+  "type": "小作文",
+  "title": "四类行业中的岗位数量变化",
+  "group": "数据图表",
+  "question": "The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020Summarise the information by selecting and reporting the main features, and makeComparisons where relevant.",
+  "logic": "▪ 概述 抓最大最小、巨幅增长和唯一不同【长期领先】制造业在大部分时期是最大雇主（the largest employer） → 【增长最突出】医疗业增长幅度最大（the most substantial growth）→ 【唯一整体下降】农业是唯一总体下 降的行业 ▪ 主一段 制造业 + 零售业——相反趋势与排名逆转【先讲长期领先者：制造业】起点最高 → 1980 年达到峰值 → 此后持续下降 → 【转向零售业，建立趋势对比】零售业呈现相反趋势（followed the opposite trajectory）→ 前期持续增长 → 后期增速放缓 → 【突出最终排名变化】零售业超过制造业（overtaking manufacturing） ▪ 主二段 医疗业 + 农业——低起点行业的两极分化【先讲医疗业：从最低到并列第一】起点最低 → 持续快速增 长 → 最终追平零售业（equaling retail）→ 【对比农业：总体下降】农业起点高于医疗业 → 前期下降 → 中期基 本持平（remained unchanged）→ 后期继续下降",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The line chart compares the number of jobs in four sectors of the US economy from 1960 to 2020.",
+      "cn": "该折线图比较了1960 年至2020 年间，美国四个经济部门的就业人数变化。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 50,
+          "answer": "compares the number of jobs in four"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, manufacturing was the largest employer for most of the period. By contrast, healthcare experienced the most substantial growth and caught up with retail by 2020. Agriculture was the only sector to record an overall decline and ended with by far the fewest jobs.",
+      "cn": "总体来看，在所研究的大部分时间里，制造业都是提供就业岗位最多的行业。相比之下，医疗保健行业的就业人数增 长最为显著，并在2020 年追平了零售业。农业是唯一一个就业人数总体下降的行业，并且在期末的就业人数远低于其 他三个行业。",
+      "clozes": [
+        {
+          "start": 72,
+          "end": 83,
+          "answer": "By contrast"
+        },
+        {
+          "start": 108,
+          "end": 135,
+          "answer": "the most substantial growth"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In 1960, the manufacturing sector employed 15 million people, considerably more than any of the other three sectors. Its figure then rose to a peak of 20 million in 1980 before falling steadily to around 17 million in 2000 and 13 million in 2020. Retail followed the opposite trajectory, with employment rising steadily from around 6 million in 1960 to 15 million by 2000. It then increased more modestly, eventually overtaking manufacturing and reaching approximately 16 million in 2020.",
+      "cn": "1960 年，制造业的就业人数达到1500 万，明显高于其他三个行业。随后，这一数字在1980 年上升至2000 万的峰 值，之后持续下降，到2000 年降至约1700 万，并在2020 年进一步减少至1300 万。零售业则呈现出相反的变化趋 势，其就业人数从1960 年的约600 万稳步增长至2000 年的1500 万。此后，增长速度有所放缓，但最终仍超过制造 业，并在2020 年达到约1600 万。",
+      "clozes": [
+        {
+          "start": 133,
+          "end": 161,
+          "answer": "rose to a peak of 20 million"
+        },
+        {
+          "start": 381,
+          "end": 404,
+          "answer": "increased more modestly"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Health started with the lowest figure, at only around 2 million jobs, but grew rapidly to 5 million in 1980 and 11 million in 2000. By 2020, it had risen further to roughly 16 million, equaling retail. Agriculture, meanwhile, began at about 6 million jobs before falling to around 3 million in 1980. This figure remained unchanged until 2000 and then declined further to about 2 million by 2020.",
+      "cn": "医疗保健行业起初的就业人数最低，仅为约200 万，但随后迅速增长，1980 年达到500 万，2000 年进一步增至 1100 万。到2020 年，这一数字继续上升至约1600 万，与零售业持平。与此同时，农业的就业人数最初约为600 万，随后在1980 年下降至约300 万。这一数字一直保持不变，直到2000 年，之后又进一步下降，到2020 年降至约 200 万。",
+      "clozes": [
+        {
+          "start": 20,
+          "end": 37,
+          "answer": "the lowest figure"
+        },
+        {
+          "start": 144,
+          "end": 183,
+          "answer": "had risen further to roughly 16 million"
+        },
+        {
+          "start": 215,
+          "end": 224,
+          "answer": "meanwhile"
+        },
+        {
+          "start": 312,
+          "end": 330,
+          "answer": "remained unchanged"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}

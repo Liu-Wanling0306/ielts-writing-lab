@@ -1,0 +1,114 @@
+{
+  "id": "t1-05",
+  "type": "小作文",
+  "title": "美国不同航线乘客的人数变化",
+  "group": "数据图表",
+  "question": "The table shows information about the numbers of people who took the seven most popular airlines in the US in 1995 and 2005. Summarize the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "logic": "▪ 概述 共同趋势 + 规模冠军 + 增速两极【共同趋势】七家航空公司客运量全部增长（increased for all seven airlines）→ 【规模冠军】Delta 在两个年份中均遥遥领先（remained by far the largest carrier）→ 【增速两极】 JetBlue 增长最快（recorded the fastest growth）vs United 增幅最小（the smallest proportional increase） ▪ 主一段 前三大航空公司——排名稳定，增速分化【先分组并概括组内共性】1995 年前三名 → 2005 年排名不 变（retained their positions）→ 【再指出组内差异】三家公司增速差距明显（rates of growth varied considerably）→ 【按排名依次展开】Delta：始终第一 → 客运量翻倍以上（more than doubled）Southwest： 保持第二 → 增长相对温和（rising more moderately）United：保持第三 → 增速进一步放缓，仅33% ▪ 主二段 其余四家航空公司——普遍高速增长，JetBlue 最突出【先概括组内共性】四家规模较小的公司 → 客运 量全部翻倍以上（all more than doubled their passenger numbers）→ 【先处理普通增长者】American、 Alaska、Hawaiian：简要交代起止数据 → 【最后突出最特殊者：JetBlue】 起点最低（the lowest starting figure）→ 增长率全场最高249%（recorded growth of 249%）→ 最终达到30 万乘客",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The table compares the numbers of passengers travelling with the seven most popular airlines in the US in 1995 and 2005, together with their growth rates over the period.",
+      "cn": "该表格比较了1995 年和2005 年美国最受欢迎的七家航空公司的乘客人数，以及它们在此期间的增长率。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 30,
+          "answer": "The table compares the numbers"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, passenger numbers increased for all seven airlines. Delta Air Lines remained by far the largest carrier in both years, while JetBlue Airways recorded the fastest growth. By contrast, United Airlines experienced the smallest proportional increase.",
+      "cn": "总体来看，所有七家航空公司的乘客人数均有所增加。达美航空在这两个年份中始终是乘客人数遥遥领先的航空公 司，而捷蓝航空的增长速度最快。相比之下，美联航的乘客人数增幅最小。",
+      "clozes": [
+        {
+          "start": 27,
+          "end": 59,
+          "answer": "increased for all seven airlines"
+        },
+        {
+          "start": 77,
+          "end": 120,
+          "answer": "remained by far the largest carrier in both"
+        },
+        {
+          "start": 159,
+          "end": 177,
+          "answer": "the fastest growth"
+        },
+        {
+          "start": 179,
+          "end": 190,
+          "answer": "By contrast"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "The three leading airlines in 1995 retained their positions a decade later, although their rates of growth varied considerably. Delta carried just over 500,000 passengers in 1995, and this figure more than doubled to 1.064 million by 2005. Southwest remained second, with passenger numbers rising more moderately from 400,000 to 640,000.Growth was even slower for United, whose figure increased from 300,000 to 400,000, equivalent to just 33%.",
+      "cn": "1995 年排名前三的航空公司在十年后仍保持着各自的排名，尽管它们的增长幅度存在明显差异。1995 年，达美航空 的乘客人数略高于50 万，到2005 年，这一数字增长了一倍以上，达到106.4 万。西南航空仍位居第二，其乘客人数 增长相对温和，从40 万上升至64 万。美联航的增长速度则更慢，乘客人数从30 万增加至40 万，增幅仅为33%。",
+      "clozes": [
+        {
+          "start": 76,
+          "end": 84,
+          "answer": "although"
+        },
+        {
+          "start": 85,
+          "end": 106,
+          "answer": "their rates of growth"
+        },
+        {
+          "start": 385,
+          "end": 403,
+          "answer": "increased from 300"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "The four smaller airlines, by contrast, all more than doubled their passenger numbers. American Airlines rose from 150,000 to 340,000, while Alaska and Hawaiian Airlines increased from 120,000 and 100,000 to 257,000 and 250,000 respectively. The most dramatic change was seen in JetBlue: despite having the lowest starting figure, at only 86,000, it recorded growth of 249% and reached 300,000 passengers in 2005.",
+      "cn": "相比之下，其余四家规模较小的航空公司的乘客人数均增长了一倍以上。美国航空的乘客人数从15 万增加至34 万， 而阿拉斯加航空和夏威夷航空的乘客人数则分别从12 万和10 万增长至25.7 万和25 万。变化最为显著的是捷蓝航 空：尽管其初始乘客人数最低，仅为8.6 万，但它实现了249%的增长，到2005 年乘客人数达到30 万。",
+      "clozes": [
+        {
+          "start": 27,
+          "end": 38,
+          "answer": "by contrast"
+        },
+        {
+          "start": 62,
+          "end": 85,
+          "answer": "their passenger numbers"
+        },
+        {
+          "start": 105,
+          "end": 118,
+          "answer": "rose from 150"
+        },
+        {
+          "start": 170,
+          "end": 188,
+          "answer": "increased from 120"
+        },
+        {
+          "start": 288,
+          "end": 295,
+          "answer": "despite"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [],
+  "preferred": "nine",
+  "source_note": ""
+}
