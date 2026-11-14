@@ -1,0 +1,273 @@
+{
+  "id": "t2-27",
+  "type": "大作文",
+  "title": "越来越多人寻根的原因和利弊",
+  "group": "文化与艺术",
+  "question": "In some parts of the world, it is becoming popular to research the history of one’s own family. Why might people want to do this? Is it a positive or negative development?",
+  "logic": "▪ 主体段一 原因段（为什么越来越多人探寻家族历史）①科技大发展加大了个人身份的不确定感（sense of uncertainty about personal identity） → 背景：现代社会的趋同性（homogeneity）+ 个人主义（individualism） 的滋长 → 人们开始寻根②家庭结构的变化和大规模的迁移（large-scale migration of populations） → 对比：几 十年前以大家庭（extended families）为主而现在以小家庭（nuclear family）为主 → 让人们产生探索根源的想法 ▪ 主体段二 优点段（这种趋势优点大于缺点）①个人层面 → 影响：为个人带来生活的目的感和充实感（a sense of purpose and enrichment of life） → 加强家庭纽带（family bonds）②经济层面 → 影响：这样的趋势能带来经济 效益 & 增强文化认同感（cultural identity） → 结果：社会和教育的双重受益",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "There is a growing trend for people in some countries to research their family history. I believe the uncertainty felt by modern people and the shifts in contemporary family structure are the main driving forces of this trend, and it is on balance a positive development for individuals and society.",
+      "cn": "在一些国家，越来越多的人开始研究自己的家族历史。我认为，这一趋势主要源于现代人普遍感受到的身份不确定 感，以及当代家庭结构的变化；从整体来看，这对个人和社会而言是一种积极的发展。",
+      "clozes": [
+        {
+          "start": 144,
+          "end": 183,
+          "answer": "shifts in contemporary family structure"
+        },
+        {
+          "start": 248,
+          "end": 270,
+          "answer": "a positive development"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The primary reason lies in a growing sense of uncertainty about personal identity created by a society increasingly shaped by technology. Living in an interconnected world, many people, those from affluent countries in particular, sense a drift towards homogeneity, and their individuality feels diluted. This tendency can be illustrated by the rise of individualism and its frequent celebration across many Western countries, highlighting people’s desire to view themselves as unique beings with roots. As a result, research into one’s family history offers them the opportunity to forge a clearer vision of who they are and, more importantly, why they have become what they are. Equally compelling are the changes in the family structure and the large-scale migration of populations over the past few centuries. Extended families with inter- generational family members used to be the dominant family arrangement; however, the much smaller, nuclear family mode prevalent in modern society has sparked some people’s desire to reconnect with their relatives widely distributed geographically, bringing them a greater sense of belonging.",
+      "cn": "这一现象的首要原因在于：在一个日益被科技塑造的社会中，人们对自身身份产生了越来越强的不确定感。生活在高 度互联的世界里，尤其是在富裕国家，许多人逐渐感受到一种同质化趋势，进而觉得自身的独特性正在被削弱。这一 点可以从西方社会中个人主义的兴起及其被频繁强调中看出，人们渴望被视为拥有清晰根源的独立个体。因此，研究 家族历史为人们提供了一种途径，帮助他们更清楚地理解自己是谁，更重要的是，理解自己是如何一步步成为现在的 自己。另一个同样重要的推动因素，是家庭结构的变化以及过去几个世纪中大规模的人口迁移。曾几何时，多代同堂 的大家庭是社会中的主流形态；而在当代社会，更为小型化的核心家庭逐渐取代了这一模式，这也激发了一部分人重 新与分散在各地的亲属建立联系，从而获得更强的归属感。",
+      "clozes": [
+        {
+          "start": 82,
+          "end": 122,
+          "answer": "created by a society increasingly shaped"
+        },
+        {
+          "start": 237,
+          "end": 264,
+          "answer": "a drift towards homogeneity"
+        },
+        {
+          "start": 504,
+          "end": 515,
+          "answer": "As a result"
+        },
+        {
+          "start": 552,
+          "end": 598,
+          "answer": "offers them the opportunity to forge a clearer"
+        },
+        {
+          "start": 627,
+          "end": 643,
+          "answer": "more importantly"
+        },
+        {
+          "start": 654,
+          "end": 679,
+          "answer": "have become what they are"
+        },
+        {
+          "start": 916,
+          "end": 923,
+          "answer": "however"
+        },
+        {
+          "start": 991,
+          "end": 1036,
+          "answer": "has sparked some people’s desire to reconnect"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Despite some worries about the infringement on personal privacy, I largely agree that this trend is more beneficial than harmful. On a personal level, research into family history can provide a sense of purpose and enrichment of life. Such a root-seeking process often involves parents and children, which can act as a shared reference point that strengthens family bonds. Economically, when people conduct such research, they often pool intellectual and financial resources, boosting global tourism and related sectors. On a broader social level, if this momentum gains wider public attention and thus greater popularity, civic awareness of their cultural identity and community heritage is likely to grow, a trend that brings about educational and social values.",
+      "cn": "尽管有人担忧这种趋势可能涉及个人隐私的侵犯，但我总体上认为其利大于弊。从个人层面来看，研究家族历史能够 为生活赋予更多意义与充实感。这种“寻根”的过程往往由父母与子女共同参与，并成为一种共享的参照叙事，从而 加强家庭成员之间的情感纽带。在经济层面，人们在进行此类研究时，往往投入时间与资金，这在客观上促进了旅游 业及相关行业的发展。从更广泛的社会层面看，随着这一趋势获得更广泛的公众关注，人们对自身文化身份和社区遗 产的认知与重视也有望随之增强，从而产生积极的教育与社会价值。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "Despite"
+        },
+        {
+          "start": 31,
+          "end": 46,
+          "answer": "infringement on"
+        },
+        {
+          "start": 184,
+          "end": 210,
+          "answer": "provide a sense of purpose"
+        },
+        {
+          "start": 373,
+          "end": 385,
+          "answer": "Economically"
+        },
+        {
+          "start": 455,
+          "end": 474,
+          "answer": "financial resources"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In all, I believe the features of modern society and certain demographic changes contribute to the trend of people finding their family roots. Overall, I believe it is predominantly a positive development, as it gives modern people more purpose, benefits regional economies, and helps enhance social and cultural awareness.",
+      "cn": "总的来说，现代社会的特征以及某些人口结构的变化，共同促成了人们对家族根源的关注。总体而言，我认为这是一 种积极的发展，因为它为现代人提供了更明确的意义感，促进了区域经济的发展，并有助于提升社会与文化层面的认 知与理解。",
+      "clozes": [
+        {
+          "start": 61,
+          "end": 80,
+          "answer": "demographic changes"
+        },
+        {
+          "start": 81,
+          "end": 94,
+          "answer": "contribute to"
+        },
+        {
+          "start": 182,
+          "end": 204,
+          "answer": "a positive development"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "In some parts of the world, more people are becoming interested in researching their family history. This may be because they want to understand themselves better and reconnect with their relatives. I believe this is generally a positive development.",
+      "cn": "在世界上的一些地区，越来越多的人开始对研究自己的家族历史产生兴趣。这可能是因为他们希望更好地了解自己， 并重新与亲属建立联系。我认为，这总体上是一种积极的发展趋势。",
+      "clozes": [
+        {
+          "start": 227,
+          "end": 249,
+          "answer": "a positive development"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One reason people research their family history is that they want to know more about who they are and where they come from. Modern society is changing quickly, and people from different places often have similar lifestyles. Learning about their ancestors can help them understand their family background and develop a stronger sense of identity. Another reason is that family structures have changed. In the past, several generations of a family often lived together or close to each other. Today, families are usually smaller, and people may move to different cities or countries for work or study. As a result, some people know very little about their relatives. Researching family history gives them an opportunity to discover these family connections and develop a greater sense of belonging.",
+      "cn": "人们研究家族历史的一个原因是，他们希望更加了解自己是谁以及自己来自哪里。现代社会正在迅速变化，而来自不 同地区的人们往往拥有相似的生活方式。了解自己的祖先能够帮助人们认识自己的家庭背景，并建立更加强烈的身份 认同感。另一个原因是家庭结构已经发生了变化。过去，一个家庭的几代人往往共同生活，或者居住在彼此附近。如 今，家庭规模通常更小，而且人们可能会为了工作或学习而搬到不同的城市甚至不同的国家。因此，一些人对自己的 亲属知之甚少。研究家族历史能够为他们提供一个了解这些亲属关系的机会，并帮助他们获得更强的归属感。",
+      "clozes": [
+        {
+          "start": 186,
+          "end": 222,
+          "answer": "places often have similar lifestyles"
+        },
+        {
+          "start": 308,
+          "end": 344,
+          "answer": "develop a stronger sense of identity"
+        },
+        {
+          "start": 346,
+          "end": 360,
+          "answer": "Another reason"
+        },
+        {
+          "start": 600,
+          "end": 611,
+          "answer": "As a result"
+        },
+        {
+          "start": 759,
+          "end": 795,
+          "answer": "develop a greater sense of belonging"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "I believe this trend is mainly positive. First, researching family history can bring family members closer together. Parents and children, for example, may collect old photographs, talk to elderly relatives or visit places where their ancestors lived. These activities give family members something meaningful to do together and can strengthen their relationships. In addition, people can learn more about the traditions and culture of their families and communities. This may encourage them to value and protect their cultural heritage. Such research may even benefit local tourism when people travel to places connected with their family history. Although there may be some privacy concerns, these problems can usually be avoided if personal information is handled carefully.",
+      "cn": "我认为，这一趋势总体上是积极的。首先，研究家族历史可以让家庭成员之间的关系更加亲密。例如，父母和孩子可 以一起收集老照片、与年长的亲属交谈，或者前往祖先曾经生活过的地方。这些活动让家庭成员能够共同参与一些有 意义的事情，并有助于增进彼此之间的关系。此外，人们还可以更加深入地了解自己家庭和所在社区的传统与文化。 这可能会鼓励他们更加珍视并保护自己的文化遗产。当人们前往与自己家族历史有关的地方时，这类研究甚至可能促 进当地旅游业的发展。尽管其中可能存在一些隐私方面的担忧，但只要谨慎处理个人信息，这些问题通常是可以避免 的。",
+      "clozes": [
+        {
+          "start": 139,
+          "end": 150,
+          "answer": "for example"
+        },
+        {
+          "start": 365,
+          "end": 376,
+          "answer": "In addition"
+        },
+        {
+          "start": 436,
+          "end": 466,
+          "answer": "their families and communities"
+        },
+        {
+          "start": 519,
+          "end": 536,
+          "answer": "cultural heritage"
+        },
+        {
+          "start": 605,
+          "end": 647,
+          "answer": "places connected with their family history"
+        },
+        {
+          "start": 649,
+          "end": 657,
+          "answer": "Although"
+        },
+        {
+          "start": 676,
+          "end": 692,
+          "answer": "privacy concerns"
+        },
+        {
+          "start": 735,
+          "end": 755,
+          "answer": "personal information"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, people research their family history mainly to understand their identity and reconnect with relatives. I believe this is a positive development because it can strengthen family relationships and increase people's understanding of their cultural background.",
+      "cn": "总而言之，人们研究自己的家族历史，主要是为了了解自身的身份，并重新与亲属建立联系。我认为这是一种积极的 发展趋势，因为它能够加强家庭关系，并加深人们对自身文化背景的了解。",
+      "clozes": [
+        {
+          "start": 136,
+          "end": 158,
+          "answer": "a positive development"
+        },
+        {
+          "start": 210,
+          "end": 270,
+          "answer": "increase people's understanding of their cultural background"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "当代家庭结构的变化",
+      "en": "shifts in contemporary family structure"
+    },
+    {
+      "zh": "同质化趋势",
+      "en": "a drift towards homogeneity"
+    },
+    {
+      "zh": "激发人们的欲望",
+      "en": "spark people’s desire"
+    },
+    {
+      "zh": "对...的侵犯",
+      "en": "infringement on"
+    },
+    {
+      "zh": "从经济角度",
+      "en": "Economically/ From an economic perspective/ In economic terms"
+    },
+    {
+      "zh": "人口结构变化",
+      "en": "demographic changes"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

@@ -1,0 +1,244 @@
+{
+  "id": "t2-35",
+  "type": "大作文",
+  "title": "缩减贫富差距就能创造幸福社会吗？",
+  "group": "社会与政府",
+  "question": "Some people believe that the best way to produce a happier society is to ensure that there are only small differences between the richest and the poorest members. To what extent do you agree or disagree?",
+  "logic": "▪ 主体段一 题中措施难以执行（the impracticality of this proposal）①没有任何一个政府可以做到→原因：财力 （financial resources）和行政能力（institutional capacity）的限制→举例：沙特和北欧②政府职能广泛（a wide range of responsibilities）→例：教育、就业、可持续发展、基础设施→缩减差距不处在优先地位③世界发展不 平衡→举例：非洲需要降低死亡率（reduce infant mortality rates）和中东需要保护公民安全（protecting civilians）→缩减差距不现实 ▪ 主体段二 幸福是主观的（highly subjective）→重新定义：财富是幸福的唯一标准（sole determinant）的时代过 去了→举例：英国脱欧（Brexit）→解释：现代人们更看重自主、文化认同和可持续发展",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "In today’s world, the gap between the rich and the poor is widening in many countries. Some argue that bridging this divide is the key to building a happier society. However, I completely disagree with this notion, as reducing income disparity is neither a feasible goal nor a necessary condition for social happiness .",
+      "cn": "在当今世界，许多国家的贫富差距正在不断扩大。一些人认为，缩小这一差距是实现社会幸福的最佳方式。然而，我 不认同这种看法。就全球范围来看，缩小收入差距既不是一个现实可行的目标，也不是构建幸福社会的唯一途径。",
+      "clozes": [
+        {
+          "start": 166,
+          "end": 173,
+          "answer": "However"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The primary reason for my view lies in the impracticality of this proposal. In reality, there is hardly any country with the financial resources or institutional capacity to truly narrow the wealth gap among its people. Even in affluent nations such as Saudi Arabia or those in Northern Europe, where governments are known for generous welfare systems, most citizens still have to work hard to maintain a decent standard of living. National governments shoulder a wide range of responsibilities from providing education and creating employment to pursuing sustainable development and investing in infrastructure. Diminishing the income gap is neither a priority in their policy agenda nor within their operational capabilities. Moreover, the level of economic development varies significantly across the globe. Many African nations are still struggling to reduce infant mortality rates, while in war-torn parts of the Middle East, protecting civilians from violence is a far more urgent concern. For such countries, narrowing the wealth gap in the name of building a happy society would not only be unrealistic but also painfully out of touch with their pressing needs.",
+      "cn": "首先，这一主张在很多国家的现实中难以落地。全球范围内，真正具备缩小收入差距能力的国家凤毛麟角。即使在诸 如沙特或北欧等实行较为完善福利制度的发达国家，大多数民众仍需通过努力工作来维持体面的生活水平。各国政府 普遍肩负着教育、就业、可持续发展、基础设施建设等多项职责，而缩小贫富差距往往并非其最紧迫或最具操作性的 任务。此外，不同国家的发展阶段差异巨大。很多非洲国家仍在为降低婴儿死亡率而努力，而中东一些战乱国家更需 优先保障基本安全。在这些语境下 ，将减少收入差距作为主要幸福路径，可能并不切合实际，甚至偏离了当前的核心 需求。",
+      "clozes": [
+        {
+          "start": 39,
+          "end": 60,
+          "answer": "the impracticality of"
+        },
+        {
+          "start": 125,
+          "end": 144,
+          "answer": "financial resources"
+        },
+        {
+          "start": 373,
+          "end": 411,
+          "answer": "have to work hard to maintain a decent"
+        },
+        {
+          "start": 495,
+          "end": 532,
+          "answer": "from providing education and creating"
+        },
+        {
+          "start": 738,
+          "end": 771,
+          "answer": "the level of economic development"
+        },
+        {
+          "start": 856,
+          "end": 885,
+          "answer": "reduce infant mortality rates"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another reason I disagree with this idea is that happiness itself is highly subjective and cannot be universally defined by economic equality. Those who view narrowing the wealth gap as the best route to happiness are, in essence, equating well-being with material conditions. However, the days when wealth was the sole determinant of happiness are long gone. For instance, the United Kingdom once enjoyed one of the fastest GDP growth rates in the Western world, and yet the discontent among its citizens eventually led to Brexit. This example highlights the fact that modern societies value a broad range of factors in their pursuit of happiness such as autonomy, cultural identity, and sustainability. Therefore, governments aiming to foster a happier society should not fixate solely on reducing income disparity, but instead address a more diverse set of social expectations.",
+      "cn": "其次，幸福本身是一个高度主观且多维的概念，未必能够用经济平等来一概而论 。那些认为缩小贫富差距是通往幸福 的最佳途径的人，本质上是将福祉等同于物质条件。在当今时代，幸福感的来源远不止于财富。例如，英国曾一度是 GDP 增长最迅速的西方国家之一，但社会内部的不满情绪最终还是促成了脱欧公投。这表明，现代社会在追寻幸福的 过程中更为重视多元价值，如个体自由、文化认同感和环境可持续性等。政府若想真正提升人民的幸福感，必须回应 这些多样化的社会期望 ，而不能仅仅关注收入差距。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 14,
+          "answer": "Another reason"
+        },
+        {
+          "start": 277,
+          "end": 284,
+          "answer": "However"
+        },
+        {
+          "start": 360,
+          "end": 372,
+          "answer": "For instance"
+        },
+        {
+          "start": 413,
+          "end": 435,
+          "answer": "the fastest GDP growth"
+        },
+        {
+          "start": 517,
+          "end": 530,
+          "answer": "led to Brexit"
+        },
+        {
+          "start": 705,
+          "end": 714,
+          "answer": "Therefore"
+        },
+        {
+          "start": 860,
+          "end": 879,
+          "answer": "social expectations"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although reducing the wealth gap might seem like an ideal goal, it is neither realistic nor sufficient for creating a genuinely happy society. A more comprehensive and flexible approach—one that respects national contexts and embraces a broader understanding of human well-being—is essential for achieving this objective .",
+      "cn": "综上所述，尽管缩小贫富差距看似理想，但从全球角度看，它既不总是现实的，也未必足以实现真正的社会幸福。想 要实现这一目标，我们需要一种更为全面、灵活的思路：它尊重各国国情，同时接纳对人类福祉更宽泛的理解。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "In many countries, the gap between the rich and the poor is becoming wider. Some people believe that reducing this gap is the best way to create a happier society. I disagree with this view because reducing income differences is neither realistic for many countries nor the only factor that determines people's happiness.",
+      "cn": "在许多国家，贫富差距正变得越来越大。一些人认为，缩小这一差距是建设一个更加幸福的社会的最佳方式。我不同 意这一观点，因为对于许多国家而言，缩小收入差距既不是一个现实可行的目标，也不是决定人们幸福程度的唯一因 素。",
+      "clozes": [
+        {
+          "start": 138,
+          "end": 162,
+          "answer": "create a happier society"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The first reason is that reducing the wealth gap may not be a practical goal for every government. Governments have many responsibilities, such as providing education, creating jobs and improving public services. Even wealthy countries with strong welfare systems cannot completely remove large differences in income, and most people still need to work to maintain a good standard of living. More importantly, countries at different stages of development face different problems. Some developing countries, for example, are still struggling with poverty and poor healthcare, while countries affected by war may need to focus on protecting people's lives. In these cases, reducing the wealth gap may be less urgent than dealing with these basic problems.",
+      "cn": "第一个原因是，缩小贫富差距对于每个政府来说未必都是一个切实可行的目标。政府承担着许多责任，例如提供教 育、创造就业机会以及改善公共服务。即使是那些拥有完善福利制度的富裕国家，也无法彻底消除巨大的收入差距， 而且大多数人仍然需要通过工作来维持良好的生活水平。更重要的是，处于不同发展阶段的国家面临着不同的问题。 例如，一些发展中国家仍在努力解决贫困和医疗条件落后的问题，而受到战争影响的国家可能需要优先保障人民的生 命安全。在这些情况下，与解决这些基本问题相比，缩小贫富差距的紧迫性可能相对较低。",
+      "clozes": [
+        {
+          "start": 111,
+          "end": 137,
+          "answer": "have many responsibilities"
+        },
+        {
+          "start": 196,
+          "end": 211,
+          "answer": "public services"
+        },
+        {
+          "start": 356,
+          "end": 390,
+          "answer": "maintain a good standard of living"
+        },
+        {
+          "start": 392,
+          "end": 408,
+          "answer": "More importantly"
+        },
+        {
+          "start": 455,
+          "end": 478,
+          "answer": "face different problems"
+        },
+        {
+          "start": 507,
+          "end": 518,
+          "answer": "for example"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another reason is that happiness cannot simply be measured by economic equality. Although money is important for people's quality of life, many other factors also influence how satisfied they are. For example, people may care about personal freedom, cultural identity, the environment and their relationships with others. A society with a relatively small income gap may therefore still have unhappy citizens if these needs are not properly addressed. Governments should focus on different aspects of people's well-being instead of treating income equality as the main solution.",
+      "cn": "另一个原因是，幸福不能简单地用经济上的平等程度来衡量。虽然金钱对于人们的生活质量十分重要，但还有许多其 他因素会影响人们对生活的满意程度。例如，人们可能会重视个人自由、文化认同、生活环境以及与他人的关系。因 此，即使一个社会的收入差距相对较小，如果这些方面的需求没有得到妥善满足，其民众仍然可能感到不幸福。政府 应该关注影响民众福祉的不同方面，而不是把收入平等视为解决问题的主要途径。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 14,
+          "answer": "Another reason"
+        },
+        {
+          "start": 81,
+          "end": 89,
+          "answer": "Although"
+        },
+        {
+          "start": 197,
+          "end": 208,
+          "answer": "For example"
+        },
+        {
+          "start": 337,
+          "end": 362,
+          "answer": "a relatively small income"
+        },
+        {
+          "start": 371,
+          "end": 380,
+          "answer": "therefore"
+        },
+        {
+          "start": 387,
+          "end": 408,
+          "answer": "have unhappy citizens"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, reducing the gap between rich and poor may contribute to a happier society, but it is neither realistic in every country nor sufficient by itself. Governments should consider their own circumstances and address a wider range of people's needs.",
+      "cn": "总而言之，缩小贫富差距可能有助于建设一个更加幸福的社会，但这一目标并非在所有国家都具有现实可行性，而且 仅靠这一措施本身也不足以实现社会幸福。各国政府应该根据自身的实际情况，关注并满足民众更加广泛和多样化的 需求。",
+      "clozes": [
+        {
+          "start": 58,
+          "end": 71,
+          "answer": "contribute to"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "缩短贫富差距",
+      "en": "narrow the gap between the rich and the poor/ reduce income disparity"
+    },
+    {
+      "zh": "...的不可实行性",
+      "en": "the impracticality of"
+    },
+    {
+      "zh": "从教育、就业、到可持续发展、基础设施建设",
+      "en": "from providing education and creating"
+    },
+    {
+      "zh": "国与国之间差异巨大",
+      "en": "vary significantly across the globe"
+    },
+    {
+      "zh": "将...与...等价",
+      "en": "equate ... with ..."
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

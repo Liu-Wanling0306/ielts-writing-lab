@@ -1,0 +1,336 @@
+{
+  "id": "t2-26",
+  "type": "大作文",
+  "title": "文化古建筑是保护还是拆除?",
+  "group": "文化与艺术",
+  "question": "Too much money is spent in maintaining and repairing old buildings. Some people think that they should be knocked down and give way to the modern buildings. To what extent do you agree or disagree?",
+  "logic": "▪ 主体段一 古建筑是当地文化的载体（tangible reminders of local culture）让步：的确政府花了很多钱 → 转折： 但是这在同质化世界（homogeneity）有益于保护文化独特性（cultural distinctiveness） → 背景原因解释：全球 化和数据时代带来的城市趋同 → 举例：巴塞罗那的政府和私营部门共同保护文化建筑 ▪ 主体段二 古建筑可以发展旅游业推动经济（boost regional economies through tourism）古建筑通过旅游业带来 收入 → 举例：罗马旅游业的发达来源于其对历史文化建筑的保护 ▪ 主体段二 古建筑可以成为链接过去的纽带（link to the past）回应上一点：①即便没有历史意义 → 可以通过现 代修复技术成为人们联系过去的纽带②并且从环境的角度来看，更加有利于环保 → 举例：中国的传统巷弄被改 造成活力文化街区 → 不仅可以保存当地特色（retain local identity），还能避免拆除带来的环境问题",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Many people argue that too much public money is spent maintaining and repairing old buildings, and that they should be demolished to make way for modern development. I totally disagree, because historic buildings preserve cultural distinctiveness, generate substantial economic returns through tourism, and can be upgraded through modern renovation rather than simply being torn down.",
+      "cn": "许多人认为，政府在维护和修缮老旧建筑上投入了过多的公共资金，主张应当将其拆除，以便为现代化的发展腾出空 间。对此，我持坚决反对的态度。因为历史建筑不仅保存了文化的独特性，还能通过旅游业带来可观的经济回报，并 且完全可以通过现代化的改造焕发新生，而非简单地予以拆除。",
+      "clozes": [
+        {
+          "start": 133,
+          "end": 145,
+          "answer": "make way for"
+        },
+        {
+          "start": 213,
+          "end": 246,
+          "answer": "preserve cultural distinctiveness"
+        },
+        {
+          "start": 248,
+          "end": 301,
+          "answer": "generate substantial economic returns through tourism"
+        },
+        {
+          "start": 349,
+          "end": 360,
+          "answer": "rather than"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The primary reason for my stance is that old buildings act as tangible reminders of local culture, giving residents a sense of historical continuity and cities a unique identity. It is true that governments in many countries allocate considerable funds to preserving historic sites. However, this investment helps protect cultural distinctiveness in a world that is steadily moving towards homogeneity. In an era shaped by globalisation and digital life, new buildings are being constructed at an unprecedented speed and, more importantly, many of them look increasingly similar. Without sustained spending on the maintenance of traditional buildings, cities across the globe would risk becoming visually and culturally indistinguishable. Barcelona is a case in point: it consistently ranks among the world’s most attractive destinations partly because both the government and the private sector have worked to conserve its distinctive historic streetscapes and landmark structures.",
+      "cn": "我之所以坚持这一立场，首要原因在于古建筑是当地文化的有形载体，能为居民提供一种历史的延续感，并赋予城市 独特的身份认同。诚然，许多国家的政府确实在保护历史遗迹上投入了大量资金。然而，在一个日益趋向同质化的世 界中，这种投资对于保护文化独特性至关重要。受全球化和数字化生活的影响，新建筑正以惊人的速度拔地而起，更 重要的是，它们的外观日趋雷同。若不持续投入资金维护传统建筑，全球各地的城市将面临在视觉和文化上千篇一律 的风险。巴塞罗那便是一个典型案例：它之所以长期位居全球最具吸引力的旅游目的地之列，部分原因就在于政府与 私营部门共同努力，保存了其独特的历史街景和地标性建筑。",
+      "clozes": [
+        {
+          "start": 283,
+          "end": 290,
+          "answer": "However"
+        },
+        {
+          "start": 314,
+          "end": 362,
+          "answer": "protect cultural distinctiveness in a world that"
+        },
+        {
+          "start": 479,
+          "end": 516,
+          "answer": "constructed at an unprecedented speed"
+        },
+        {
+          "start": 522,
+          "end": 538,
+          "answer": "more importantly"
+        },
+        {
+          "start": 610,
+          "end": 650,
+          "answer": "the maintenance of traditional buildings"
+        },
+        {
+          "start": 752,
+          "end": 767,
+          "answer": "a case in point"
+        },
+        {
+          "start": 896,
+          "end": 944,
+          "answer": "have worked to conserve its distinctive historic"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Equally compelling is the role of heritage buildings in boosting regional economies through tourism. If money spent on conservation generates greater revenue in return, it is hard to argue that such spending is wasteful. Rome, for example, continues to attract millions of visitors largely because of long-term investment in restoring basilicas, ancient sites, and landmarks dating back thousands of years. Cities like Rome, where historic buildings are carefully preserved, exude a timeless charm that places dominated by modern high-rises simply cannot replicate. This appeal, in turn, functions as a powerful engine for sustainable local growth.",
+      "cn": "同样令人信服的一点是，历史遗产建筑在通过旅游业推动地区经济发展方面发挥着重要作用。倘若投入保护的资金能 够创造更高的回报，那么就很难指责这种开支是一种浪费。以罗马为例，它之所以能持续吸引数百万游客，很大程度 上归功于其对有着数千年历史的大教堂、古遗址及地标建筑的长期修复投资。像罗马这样精心保存历史建筑的城市， 散发着一种现代摩天大楼所无法复制的永恒魅力。这种吸引力反过来又成为了推动当地可持续增长的强大引擎。",
+      "clozes": [
+        {
+          "start": 22,
+          "end": 42,
+          "answer": "the role of heritage"
+        },
+        {
+          "start": 132,
+          "end": 167,
+          "answer": "generates greater revenue in return"
+        },
+        {
+          "start": 227,
+          "end": 238,
+          "answer": "for example"
+        },
+        {
+          "start": 253,
+          "end": 289,
+          "answer": "attract millions of visitors largely"
+        },
+        {
+          "start": 475,
+          "end": 497,
+          "answer": "exude a timeless charm"
+        },
+        {
+          "start": 503,
+          "end": 554,
+          "answer": "places dominated by modern high-rises simply cannot"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Lastly, even when some old buildings are less historically significant, they can still be revitalised through modern techniques, serving as a nostalgic link to the past for local residents. Meanwhile, from an environmental perspective, preservation is often the more sustainable choice. Unlike demolition, which creates enormous construction waste, maintaining and repurposing existing structures is far more environmentally friendly. For instance, in China, many traditional alleyways that were once slated for demolition have been transformed into vibrant cultural districts. This approach not only retained local identity and stimulated tourism, but also avoided the noise, dust, and debris associated with large-scale rebuilding.",
+      "cn": "最后，即使某些老旧建筑的历史意义稍逊，但它们依然可以通过现代技术实现活化，成为连接当地居民与过去的怀旧 纽带。同时，从环保角度来看，保护往往是更可持续的选择。与拆除产生巨量建筑垃圾不同，维护和重新利用现有结 构要环保得多。例如在中国，许多原本计划拆除的传统巷弄已被改造成了充满活力的文化街区。这种做法不仅保留了 地方特色并促进了旅游业，还避免了大规模重建所带来的噪音、粉尘和废弃物。",
+      "clozes": [
+        {
+          "start": 142,
+          "end": 168,
+          "answer": "nostalgic link to the past"
+        },
+        {
+          "start": 173,
+          "end": 188,
+          "answer": "local residents"
+        },
+        {
+          "start": 190,
+          "end": 199,
+          "answer": "Meanwhile"
+        },
+        {
+          "start": 312,
+          "end": 347,
+          "answer": "creates enormous construction waste"
+        },
+        {
+          "start": 435,
+          "end": 447,
+          "answer": "For instance"
+        },
+        {
+          "start": 523,
+          "end": 576,
+          "answer": "have been transformed into vibrant cultural districts"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "In conclusion, I firmly believe that public investment in maintaining old buildings brings far more benefits than drawbacks, as it protects cultural heritage, strengthens tourism- led economic development, and can be modernised in a sustainable way to serve local communities.",
+      "cn": "综上所述，我坚信在维护老旧建筑上的公共投资利远大于弊。这一举措不仅保护了文化遗产，巩固了以旅游为导向的 经济发展，还能通过可持续的现代化改造更好地服务于当地社区。",
+      "clozes": [
+        {
+          "start": 140,
+          "end": 157,
+          "answer": "cultural heritage"
+        },
+        {
+          "start": 180,
+          "end": 204,
+          "answer": "led economic development"
+        },
+        {
+          "start": 258,
+          "end": 275,
+          "answer": "local communities"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that too much money is spent on maintaining and repairing old buildings, and that they should be replaced by modern ones. I disagree with this view because old buildings have cultural and economic value, and repairing them can sometimes be better for the environment.",
+      "cn": "一些人认为，人们在维护和修缮旧建筑方面花费了过多资金，因此这些建筑应该被现代建筑所取代。我不同意这一观 点，因为旧建筑具有文化和经济价值，而且对它们进行修缮有时对环境更加有利。",
+      "clozes": [
+        {
+          "start": 117,
+          "end": 140,
+          "answer": "replaced by modern ones"
+        },
+        {
+          "start": 190,
+          "end": 203,
+          "answer": "have cultural"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The first reason is that old buildings are an important part of local history and culture. They can show how people lived in the past and give a city its own character. Today, many modern buildings around the world have similar designs. If all traditional buildings were knocked down and replaced with new ones, cities might gradually lose their unique appearance. Therefore, spending money on protecting important old buildings can help preserve local culture for future generations.",
+      "cn": "第一个原因是，旧建筑是当地历史和文化的重要组成部分。它们能够展现过去人们的生活方式，并赋予一座城市独特 的特色。如今，世界各地的许多现代建筑在设计上都十分相似。如果所有传统建筑都被拆除并由新建筑取代，那么城 市可能会逐渐失去自身独特的风貌。因此，投入资金保护具有重要意义的旧建筑，有助于为后代保留当地的文化。",
+      "clozes": [
+        {
+          "start": 215,
+          "end": 235,
+          "answer": "have similar designs"
+        },
+        {
+          "start": 288,
+          "end": 310,
+          "answer": "replaced with new ones"
+        },
+        {
+          "start": 365,
+          "end": 374,
+          "answer": "Therefore"
+        },
+        {
+          "start": 461,
+          "end": 483,
+          "answer": "for future generations"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Old buildings can also bring economic benefits by attracting tourists. Many people travel to other cities or countries because they want to visit historical buildings and experience local culture. For example, cities such as Rome attract large numbers of visitors because of their ancient buildings and historical sites. These tourists spend money on hotels, restaurants, transport and other services, which supports local businesses and creates jobs. Therefore, money spent on maintaining historic buildings can also bring financial benefits to the local economy.",
+      "cn": "旧建筑还可以通过吸引游客带来经济效益。许多人前往其他城市或国家旅游，是因为他们希望参观历史建筑，并亲身 体验当地文化。例如，罗马等城市凭借其古老建筑和历史遗址吸引了大量游客。这些游客会在酒店、餐饮、交通以及 其他服务上消费，从而支持当地企业并创造就业机会。因此，用于维护历史建筑的资金也能够为当地经济带来经济回 报。",
+      "clozes": [
+        {
+          "start": 197,
+          "end": 208,
+          "answer": "For example"
+        },
+        {
+          "start": 230,
+          "end": 263,
+          "answer": "attract large numbers of visitors"
+        },
+        {
+          "start": 336,
+          "end": 350,
+          "answer": "spend money on"
+        },
+        {
+          "start": 408,
+          "end": 433,
+          "answer": "supports local businesses"
+        },
+        {
+          "start": 452,
+          "end": 461,
+          "answer": "Therefore"
+        },
+        {
+          "start": 546,
+          "end": 563,
+          "answer": "the local economy"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Finally, old buildings do not always need to be demolished when they become less useful. In many cases, they can be repaired and used for new purposes, such as museums, shops or community centres. This can also be better for the environment because knocking down buildings creates large amounts of construction waste, while building new ones requires more materials and energy.",
+      "cn": "最后，当旧建筑的原有用途逐渐减少时，并不一定需要将其拆除。在许多情况下，这些建筑可以经过修缮并被赋予新 的用途，例如改造成博物馆、商店或社区中心。这样做对环境也可能更加有利，因为拆除建筑会产生大量建筑垃圾， 而建造新建筑则需要消耗更多的材料和能源。",
+      "clozes": [
+        {
+          "start": 69,
+          "end": 87,
+          "answer": "become less useful"
+        },
+        {
+          "start": 273,
+          "end": 316,
+          "answer": "creates large amounts of construction waste"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "In conclusion, I believe old buildings should be protected rather than simply replaced by modern ones. They help preserve local culture, support tourism and can often be given new uses without creating unnecessary waste.",
+      "cn": "总而言之，我认为旧建筑应该得到保护，而不是简单地被现代建筑所取代。它们不仅有助于保护当地文化、促进旅游 业发展，而且往往可以被赋予新的用途，从而避免产生不必要的浪费。",
+      "clozes": [
+        {
+          "start": 59,
+          "end": 70,
+          "answer": "rather than"
+        },
+        {
+          "start": 113,
+          "end": 135,
+          "answer": "preserve local culture"
+        },
+        {
+          "start": 137,
+          "end": 152,
+          "answer": "support tourism"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 5,
+    "par7": 5,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "让步于",
+      "en": "give way to/ make way for"
+    },
+    {
+      "zh": "保护历史文化建筑",
+      "en": "preserve historic sites/ the maintenance of traditional buildings"
+    },
+    {
+      "zh": "面临千篇一律的风险",
+      "en": "risk becoming indistinguishable"
+    },
+    {
+      "zh": "比如",
+      "en": "a case in point"
+    },
+    {
+      "zh": "促进地区经济发展",
+      "en": "boost regional economies/ function as a powerful engine for local"
+    },
+    {
+      "zh": "散发一股永恒魅力",
+      "en": "exude a timeless charm"
+    },
+    {
+      "zh": "与过去的怀旧纽带",
+      "en": "nostalgic link to the past"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

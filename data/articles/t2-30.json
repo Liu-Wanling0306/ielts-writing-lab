@@ -1,0 +1,186 @@
+{
+  "id": "t2-30",
+  "type": "大作文",
+  "title": "音乐可以永远作为通用语言吗？",
+  "group": "文化与艺术",
+  "question": "Music has always been and continues to be the universal language of mankind. To what extent do you agree or disagree?",
+  "logic": "▪ 主体段一 音乐超越语言，在早期即促进情感表达的（facilitate emotional expression） → 细分三个阶段：①出生 前（prenatal exposure to melodies）：安抚（calm）孕期妈妈，帮助交流②出生后（after birth）：婴儿通过旋律 而非歌词来安抚（soothe）情绪助眠③童年（in childhood）：歌谣通常会让孩子在熟悉的旋律上产生链接 （connect over familiar tunes）→ 总结：音乐确实超越传统语言的限制促进交流 ▪ 主体段二 音乐超越语言，联系不同地区背景人们（unite adults across varied social and national contexts）①后 疫情时代（post-pandemic era）的演唱会经济 → 举例：Taylor & Blackpink 的演唱会引起了全球不同语言的人 产生共鸣（resonate）②行人哼起同一段旋律会立马产生链接 → 场景化：如在公共交通上 → 总结：音乐在促生 跨文化交流和维护社会凝聚力的作用（promotes cross-cultural understanding and fosters social cohesion）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Music has long been regarded as a universal language that bridges geographical and cultural divides. While some may argue that linguistic differences limit its universality, I firmly believe that music serves as a global mode of communication, as it conveys emotions and fosters connections beyond verbal barriers.",
+      "cn": "音乐长期以来一直被认为是一种能够跨越地理和文化鸿沟的世界通用语言。尽管有人认为语言差异会限制它的普适 性，但我坚信音乐是一种全球性的交流方式，因为它能够传递情感，并在超越语言障碍的层面上建立联系。",
+      "clozes": [
+        {
+          "start": 6,
+          "end": 43,
+          "answer": "has long been regarded as a universal"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One primary reason for this perspective lies in music’s ability to facilitate emotional expression and bonding from the earliest stages of human life, transcending the need for spoken words. Research in developmental psychology shows that prenatal exposure to melodies calms expectant mothers and strengthens the emotional link with the fetus, underscoring music’s role as a fundamental mode of interaction. After birth, lullabies—ubiquitous across the globe—soothe infants by relying on rhythm and tone rather than lyrics to regulate sleep and comfort. Furthermore, in childhood, the melodies of nursery rhymes often outlast their words in memory, enabling children from diverse backgrounds to connect effortlessly over familiar tunes. This illustrates how music operates as a primordial language, uniting individuals where conventional communication may fail due to age or linguistic barriers.",
+      "cn": "我持这种观点的首要原因在于：音乐能够从人类生命的最早阶段就促进情感的表达和联结，从而超越口头语言的需 求。发展心理学的研究表明，孕期接触旋律能让准妈妈们更加平静，并增强母亲与胎儿之间的情感纽带，这凸显了音 乐作为一种基本互动方式的作用。出生后，遍布全球的摇篮曲通过节奏与音调，而非歌词本身，为婴儿带来安慰，帮 助他们入睡并获得舒适。此外，在童年时期，童谣的旋律往往比歌词更长久地留存在记忆中，使不同背景的孩子能够 凭借熟悉的曲调轻松建立联系。这说明音乐是一种原初的语言，当传统交流因年龄或语言障碍而失效时，它依然能将 人们团结起来。",
+      "clozes": [
+        {
+          "start": 504,
+          "end": 515,
+          "answer": "rather than"
+        },
+        {
+          "start": 742,
+          "end": 752,
+          "answer": "illustrate"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Equally compelling is music’s ability to unite adults across varied social and national contexts, irrespective of linguistic differences. In the post-pandemic era, while many forms of entertainment have declined, global concert tours by artists such as Taylor Swift from the United States and Blackpink from South Korea continue to attract millions worldwide. These audiences, though speaking distinct languages, resonate collectively with the same harmonies and rhythms, proving music’s power to evoke shared emotions—joy, nostalgia, empowerment— without translation. Likewise, travellers often form instant bonds when singing along to familiar melodies in shared spaces, such as on public transport, underscoring music’s role as an effortless bridge for interpersonal harmony. Such examples highlight how music functions as a common code that promotes cross-cultural understanding and fosters social cohesion.",
+      "cn": "同样令人信服的是，音乐能够将不同社会和国家背景的成年人凝聚在一起，而不受语言差异的限制。在后疫情时代， 尽管许多娱乐形式都出现了衰退，但美国的泰勒·斯威夫特和韩国的Blackpink 等歌手的全球巡演依旧吸引了数以百万 计的观众。这些观众虽然使用完全不同的语言，但却能在同样的旋律与和声中产生共鸣，这证明音乐能够无需翻译就 唤起共同的情感——喜悦、怀旧或力量感。同样，旅行者在公共交通等共享空间中，当他们听到并齐声唱起熟悉的旋 律时，往往能立刻建立起友谊，这进一步说明音乐是人际和谐的天然桥梁。这些例子都强调了音乐如何作为一种共同 的密码，促进跨文化理解并培育社会凝聚力。",
+      "clozes": [
+        {
+          "start": 332,
+          "end": 358,
+          "answer": "attract millions worldwide"
+        },
+        {
+          "start": 684,
+          "end": 700,
+          "answer": "public transport"
+        },
+        {
+          "start": 793,
+          "end": 802,
+          "answer": "highlight"
+        },
+        {
+          "start": 860,
+          "end": 882,
+          "answer": "cultural understanding"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, music unequivocally functions as humanity’s universal language, understood across generations and nations. By enabling profound emotional exchanges and fostering global unity, it remains an invaluable tool for bridging human differences in an increasingly interconnected world.",
+      "cn": "总之，音乐无疑是人类的世界通用语言，它跨越世代与国家都能被理解。通过实现深层次的情感交流并推动全球团 结，它始终是人类在日益互联的世界中弥合差异的宝贵工具。",
+      "clozes": [
+        {
+          "start": 194,
+          "end": 239,
+          "answer": "remains an invaluable tool for bridging human"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Music has long been considered a universal language that can connect people from different countries and cultures. Although people around the world speak different languages, I strongly agree that music can be seen as a global form of communication because it allows people to share emotions and build connections without using words.",
+      "cn": "长期以来，音乐一直被认为是一种能够将来自不同国家和文化的人们联系起来的通用语言。尽管世界各地的人们说着 不同的语言，但我非常赞同音乐可以被视为一种全球性的交流方式，因为它能够让人们在不使用语言文字的情况下分 享情感并建立联系。",
+      "clozes": [
+        {
+          "start": 6,
+          "end": 51,
+          "answer": "has long been considered a universal language"
+        },
+        {
+          "start": 115,
+          "end": 123,
+          "answer": "Although"
+        },
+        {
+          "start": 260,
+          "end": 291,
+          "answer": "allows people to share emotions"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One reason is that music helps people express and understand emotions from a very early age. Even before babies can understand language, they can respond to different sounds and melodies. After they are born, parents around the world often sing lullabies to help their babies relax and sleep. In this situation, babies do not need to understand the words because the rhythm and tone of the music can make them feel calm and safe. Similarly, young children often remember the melodies of nursery rhymes more easily than the actual words. Children from different backgrounds may therefore enjoy the same tune even if they speak different languages. This shows that music can communicate feelings when spoken language is not possible.",
+      "cn": "其中一个原因是，音乐能够帮助人们从很小的时候开始表达和理解情感。甚至在婴儿能够理解语言之前，他们就已经 可以对不同的声音和旋律作出反应。出生之后，世界各地的父母经常会唱摇篮曲来帮助婴儿放松和入睡。在这种情况 下，婴儿并不需要理解歌词的含义，因为音乐的节奏和音调本身就能让他们感到平静和安全。同样，年幼的孩子往往 更容易记住童谣的旋律，而不是具体的歌词。因此，即使来自不同背景的孩子说着不同的语言，他们仍然可能喜欢同 一段旋律。这说明，当口头语言无法发挥作用时，音乐依然能够传递情感。",
+      "clozes": [
+        {
+          "start": 400,
+          "end": 419,
+          "answer": "make them feel calm"
+        },
+        {
+          "start": 577,
+          "end": 586,
+          "answer": "therefore"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Music can also bring adults from different cultures together. International singers and groups such as Taylor Swift and Blackpink attract millions of fans from different parts of the world. Although these fans may not speak the same language or fully understand the lyrics, they can still enjoy the same melodies and rhythms and experience similar feelings, such as happiness, excitement or nostalgia. Music can also create connections between strangers. For example, people from different countries may sing along to a familiar song and quickly feel connected to each other. In this way, music can reduce cultural and language barriers and help people share common experiences.",
+      "cn": "音乐还能够将来自不同文化背景的成年人联系在一起。像泰勒·斯威夫特和 BLACKPINK 这样的国际歌手和组合吸引了 来自世界各地的数百万粉丝。尽管这些粉丝可能并不使用同一种语言，也未必能够完全理解歌词，但他们仍然可以欣 赏相同的旋律和节奏，并产生类似的情感，例如快乐、兴奋或怀旧。音乐还可以在陌生人之间建立联系。例如，来自 不同国家的人可能会跟着一首熟悉的歌曲一起唱，并很快产生一种彼此亲近的感觉。通过这种方式，音乐能够减少文 化和语言所造成的隔阂，并帮助人们获得共同的体验。",
+      "clozes": [
+        {
+          "start": 130,
+          "end": 175,
+          "answer": "attract millions of fans from different parts"
+        },
+        {
+          "start": 190,
+          "end": 198,
+          "answer": "Although"
+        },
+        {
+          "start": 417,
+          "end": 453,
+          "answer": "create connections between strangers"
+        },
+        {
+          "start": 455,
+          "end": 466,
+          "answer": "For example"
+        },
+        {
+          "start": 599,
+          "end": 614,
+          "answer": "reduce cultural"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, I believe that music is a universal language because its ability to communicate emotions does not depend entirely on words. From young children to adults, people from different cultures can understand, enjoy and connect with one another through music.",
+      "cn": "总而言之，我认为音乐是一种世界通用的语言，因为它传递情感的能力并不完全依赖于文字。从年幼的儿童到成年 人，来自不同文化背景的人都能够通过音乐相互理解、共同欣赏，并与彼此建立联系。",
+      "clozes": [
+        {
+          "start": 124,
+          "end": 131,
+          "answer": "rely on"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "作为...",
+      "en": "be regarded as/ serve as/ function as/ operate as 语言障碍"
+    },
+    {
+      "zh": "强调了音乐的角色",
+      "en": "highlight/ illustrate/ underscore music’s role as"
+    },
+    {
+      "zh": "和...产生联系",
+      "en": "resonate with"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

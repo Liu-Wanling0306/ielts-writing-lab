@@ -1,0 +1,310 @@
+{
+  "id": "t2-38",
+  "type": "大作文",
+  "title": "人们现在走路变少的原因",
+  "group": "健康与生活",
+  "question": "Health experts claim that walking is the best exercise. However people are walking less on a daily basis. What has made it happen and how to deal with this?",
+  "logic": "▪ 主体段一 人们日常步行减少的原因① 久坐的工作模式（sedentary working patterns） → 职业发展优先于身体健 康 → 长时间伏案工作（be tethered to desks）→ 形成根深蒂固的久坐习惯（deeply ingrained sedentary habits） → 工作疲惫导致休闲时也倾向于静态活动② 以汽车为导向的城市发展（car-oriented urban development） → 城 市不断向外扩张（urban sprawl）→ 居住地与工作地距离增加 → 通勤依赖汽车或公共交通 → 日常步行机会减少 ▪ 主体段二 如何增加人们的日常步行量① 雇主鼓励工作期间增加活动（incorporate more movement into the working day） → 步行会议、定期活动休息、弹性工作安排（walking meetings, activity breaks and flexible working arrangements）→ 无需额外安排大量锻炼时间 ② 政府改善步行环境（pedestrian-friendly urban planning） → 建设安全的人行道、步行专区及混合用途社区（mixed-use neighbourhoods）→ 缩短住宅、工作 场所和公共服务之间的距离 → 增加顺带步行的机会（incidental walking）→ 让步行重新融入日常生活",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Despite widespread recognition among health professionals of the profound benefits of walking, there has been a noticeable decline in the amount of walking people do on a daily basis. This essay will explore the underlying drivers of this sedentary trend before proposing practical strategies to reverse it.",
+      "cn": "尽管医疗健康专业人士普遍认可步行对身体健康具有显著益处，但人们每天的步行量却明显减少。本文将探讨这一久 坐不动趋势背后的主要原因，并提出切实可行的措施来扭转这一现象。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "Despite"
+        },
+        {
+          "start": 61,
+          "end": 82,
+          "answer": "the profound benefits"
+        },
+        {
+          "start": 101,
+          "end": 144,
+          "answer": "has been a noticeable decline in the amount"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "A combination of increasingly sedentary working patterns and car-oriented urban development primarily accounts for this decline. Foremost is modern work culture, which frequently prioritises career advancement over physical well-being. Consequently, a significant proportion of the urban workforce is tethered to their desks for prolonged periods, fostering deeply ingrained sedentary habits. Even during their limited leisure time, mental fatigue often leads people to choose sedentary forms of relaxation at home rather than more active pursuits. Furthermore, continued urban sprawl has made walking impractical for many. As the distance between where people live and work increases, commuters become increasingly dependent on private vehicles or public transport, leaving far fewer opportunities for walking as part of their daily routines.",
+      "cn": "日益久坐化的工作方式和以汽车为中心的城市发展模式，是导致步行减少的两个主要原因。首先，现代职场文化往往 将职业发展置于身体健康之上。因此，大量城市劳动者不得不长时间坐在办公桌前，逐渐养成根深蒂固的久坐习惯。 即使在有限的休闲时间里，精神上的疲惫也常常使人们更倾向于待在家中，以久坐的方式放松，而不是参加更加积极 的身体活动。此外，城市的持续扩张也使步行对许多人而言变得不切实际。随着居住地与工作地点之间的距离不断增 加，通勤者越来越依赖私家车或公共交通工具，从而大大减少了在日常生活中步行的机会。",
+      "clozes": [
+        {
+          "start": 236,
+          "end": 248,
+          "answer": "Consequently"
+        },
+        {
+          "start": 250,
+          "end": 274,
+          "answer": "a significant proportion"
+        },
+        {
+          "start": 358,
+          "end": 391,
+          "answer": "deeply ingrained sedentary habits"
+        },
+        {
+          "start": 433,
+          "end": 447,
+          "answer": "mental fatigue"
+        },
+        {
+          "start": 515,
+          "end": 526,
+          "answer": "rather than"
+        },
+        {
+          "start": 572,
+          "end": 584,
+          "answer": "urban sprawl"
+        },
+        {
+          "start": 696,
+          "end": 728,
+          "answer": "become increasingly dependent on"
+        },
+        {
+          "start": 749,
+          "end": 765,
+          "answer": "public transport"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Mitigating this trend requires a multi-pronged approach involving both employers and urban planners. In the workplace, employers can encourage staff to incorporate more movement into the working day by introducing walking meetings, regular activity breaks and more flexible working arrangements. Such measures would enable employees to remain physically active without requiring them to set aside substantial additional time for exercise. From a structural perspective, municipal governments should make walking a practical and attractive part of urban life. This can be achieved by investing in safe and well-designed pedestrian paths, creating pedestrian-only zones and developing mixed-use neighbourhoods in which homes, workplaces and essential services are located closer together. These infrastructural changes would create more opportunities for incidental walkingand gradually restore physical activity to people’s everyday routines.",
+      "cn": "缓解这一趋势需要雇主和城市规划者共同采取多方面的措施。在工作场所，雇主可以通过引入步行会议、定期活动休 息时间以及更加灵活的工作安排，鼓励员工在工作日增加身体活动。这些措施能够帮助员工保持活跃，而不需要他们 额外抽出大量时间专门锻炼。从城市建设的角度来看，地方政府应该让步行成为城市生活中一种切实可行且具有吸引 力的出行方式。具体而言，政府可以投资建设安全、设计合理的人行步道，设立步行专用区域，并发展住宅、工作场 所和基本生活服务设施彼此距离更近的混合功能社区。这些基础设施方面的改善能够为人们创造更多在日常活动中自 然步行的机会，并逐步让身体活动重新融入人们的日常生活。",
+      "clozes": [
+        {
+          "start": 31,
+          "end": 55,
+          "answer": "a multi-pronged approach"
+        },
+        {
+          "start": 101,
+          "end": 117,
+          "answer": "In the workplace"
+        },
+        {
+          "start": 133,
+          "end": 182,
+          "answer": "encourage staff to incorporate more movement into"
+        },
+        {
+          "start": 316,
+          "end": 368,
+          "answer": "enable employees to remain physically active without"
+        },
+        {
+          "start": 499,
+          "end": 523,
+          "answer": "make walking a practical"
+        },
+        {
+          "start": 823,
+          "end": 884,
+          "answer": "create more opportunities for incidental walkingand gradually"
+        },
+        {
+          "start": 893,
+          "end": 910,
+          "answer": "physical activity"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, the decline in walking is largely a by-product of sedentary working patterns and car- oriented urban development. By encouraging greater movement in the workplace and redesigning cities around pedestrians rather than vehicles, society can make walking a natural part of daily life once again.",
+      "cn": "总而言之，人们步行量的减少在很大程度上是久坐型工作方式和以汽车为中心的城市发展模式所带来的结果。通过鼓 励员工在工作中增加身体活动，并重新规划城市，使其更加重视行人而非机动车辆，社会就能够让步行再次成为日常 生活中自然而然的一部分。",
+      "clozes": [
+        {
+          "start": 49,
+          "end": 64,
+          "answer": "a by-product of"
+        },
+        {
+          "start": 161,
+          "end": 177,
+          "answer": "in the workplace"
+        },
+        {
+          "start": 220,
+          "end": 231,
+          "answer": "rather than"
+        },
+        {
+          "start": 254,
+          "end": 290,
+          "answer": "make walking a natural part of daily"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Although health experts often recommend walking as a simple way to stay healthy, many people are walking less in their daily lives. This essay will discuss the main reasons for this trend and suggest some practical solutions.",
+      "cn": "尽管健康专家经常推荐步行作为一种简单的保持健康的方式，但许多人在日常生活中的步行量却越来越少。本文将讨 论这一趋势的主要原因，并提出一些切实可行的解决措施。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 8,
+          "answer": "Although"
+        },
+        {
+          "start": 156,
+          "end": 171,
+          "answer": "the main reason"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "There are two main reasons why people are walking less nowadays. The first is that modern working patterns encourage people to spend long hours sitting. Many office workers have to remain at their desks for most of the day, leaving them with few opportunities to move around. After work, they may also feel too tired to exercise and prefer relaxing at home. Another reason is that many cities have been designed mainly for cars rather than pedestrians. As cities expand, people often live far away from their workplaces, shops and other services. As a result, they become more dependent on cars or public transport instead of walking.",
+      "cn": "如今，人们步行减少主要有两个原因。首先，现代工作方式使人们长时间处于久坐状态。许多办公室职员一天中的大 部分时间都必须坐在办公桌前，几乎没有多少机会走动。下班后，他们也可能因为过于疲惫而不愿运动，更倾向于待 在家中休息。另一个原因是，许多城市的设计主要考虑汽车的通行，而不是行人的需求。随着城市不断扩张，人们的 居住地往往距离工作场所、商店和其他生活服务设施很远。因此，他们越来越依赖汽车或公共交通工具，而不是步 行。",
+      "clozes": [
+        {
+          "start": 107,
+          "end": 126,
+          "answer": "encourage people to"
+        },
+        {
+          "start": 173,
+          "end": 211,
+          "answer": "have to remain at their desks for most"
+        },
+        {
+          "start": 358,
+          "end": 372,
+          "answer": "Another reason"
+        },
+        {
+          "start": 428,
+          "end": 439,
+          "answer": "rather than"
+        },
+        {
+          "start": 547,
+          "end": 558,
+          "answer": "As a result"
+        },
+        {
+          "start": 598,
+          "end": 614,
+          "answer": "public transport"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Several measures can be taken to address these problems. First, employers should encourage workers to be more physically active during the working day. For example, companies could introduce short activity breaks and walking meetings, allowing employees to move around without spending extra time exercising after work. Second, local governments should make cities more suitable for walking. They could build safer pavements, create pedestrian-only areas and encourage the development of neighbourhoods where homes, workplaces and shops are located close together. When people can easily walk to work or buy everyday products, they are more likely to choose walking instead of driving. These changes would help people include more physical activity in their daily routines.",
+      "cn": "可以采取多种措施来解决这些问题。首先，雇主应该鼓励员工在工作期间增加身体活动。例如，企业可以安排短暂的 活动休息时间和步行会议，让员工不必在下班后额外花时间锻炼，也能在工作中增加活动量。其次，地方政府应该让 城市更加适合步行。政府可以修建更加安全的人行道、设立步行专用区域，并鼓励建设住宅、工作场所和商店彼此距 离较近的社区。当人们能够轻松地步行上班或购买日常用品时，他们就更有可能选择步行而不是开车。这些改变将帮 助人们在日常生活中增加身体活动。",
+      "clozes": [
+        {
+          "start": 24,
+          "end": 55,
+          "answer": "taken to address these problems"
+        },
+        {
+          "start": 81,
+          "end": 127,
+          "answer": "encourage workers to be more physically active"
+        },
+        {
+          "start": 152,
+          "end": 163,
+          "answer": "For example"
+        },
+        {
+          "start": 181,
+          "end": 212,
+          "answer": "introduce short activity breaks"
+        },
+        {
+          "start": 353,
+          "end": 390,
+          "answer": "make cities more suitable for walking"
+        },
+        {
+          "start": 426,
+          "end": 454,
+          "answer": "create pedestrian-only areas"
+        },
+        {
+          "start": 636,
+          "end": 650,
+          "answer": "more likely to"
+        },
+        {
+          "start": 731,
+          "end": 748,
+          "answer": "physical activity"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, people are walking less mainly because of sedentary working patterns and car-oriented urban development. By encouraging physical activity at work and making cities more pedestrian- friendly, employers and governments can help people walk more regularly.",
+      "cn": "总而言之，人们步行量减少的主要原因是久坐型工作方式和以汽车为中心的城市发展模式。通过鼓励员工在工作期间 增加身体活动，以及建设更加适合行人的城市，雇主和政府能够帮助人们更加规律地步行。",
+      "clozes": [
+        {
+          "start": 135,
+          "end": 152,
+          "answer": "physical activity"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "久坐的趋势",
+      "en": "a sedentary trend"
+    },
+    {
+      "zh": "长时间伏案工作",
+      "en": "be tethered to one's desk for prolonged periods"
+    },
+    {
+      "zh": "根深蒂固的久坐习惯",
+      "en": "deeply ingrained sedentary habits"
+    },
+    {
+      "zh": "精神疲惫",
+      "en": "mental fatigue"
+    },
+    {
+      "zh": "城市蔓延式扩张",
+      "en": "urban sprawl"
+    },
+    {
+      "zh": "越来越依赖……",
+      "en": "become increasingly dependent on ..."
+    },
+    {
+      "zh": "多管齐下的解决办法",
+      "en": "a multi-pronged approach"
+    },
+    {
+      "zh": "抽出额外时间进行锻炼",
+      "en": "set aside additional time for exercise"
+    },
+    {
+      "zh": "……的副产品 / 间接结果",
+      "en": "a by-product of ..."
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

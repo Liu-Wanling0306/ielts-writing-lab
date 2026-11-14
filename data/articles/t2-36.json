@@ -1,0 +1,207 @@
+{
+  "id": "t2-36",
+  "type": "大作文",
+  "title": "破坏公物要坐牢吗？",
+  "group": "社会与政府",
+  "question": "Some people think that people who destroy public property should be punished by community services instead of other punishments such as paying a fine and going to prison.To what extent do you agree or disagree?",
+  "logic": "▪ ：完全不同意 ▪ 主体段一 破坏公共财产应该用实际行动来弥补①定义：破坏公物的行为多数是乱涂乱画 · 可以被立即清理解决 ②破坏者被要求参与社区服务（community service） → 举例：打扫公园、广场、帮助他人 → 文明社会的标志 + 教育意义 ▪ 主体段二 破坏公共财产者大多为青少年①严重的惩罚不合适 → 现状：70%的破坏公物者为21 岁以下 → 对 比：其他更严重的违法行为都让青少年免受严厉处罚（exempt teenagers from serious punishments）②青少年心 智还不成熟 → 他们造成的危害并不高 → 合适的惩罚（moderate level of punishment）足够",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "One of the major issues that threaten modern cities’ historical heritages, such as their traditional properties and sculptures, is the prevalence of vandalism.Some people argue that the culprits should be given community work as a punishment rather than be fined or sentenced to prison. In my opinion, I strongly agree with this statement because it is the damaged party that should receive compensation, and a large number of vandalism cases are committed by juveniles.",
+      "cn": "现代城市的历史遗产，如传统建筑与雕塑，正面临一项重大威胁—普遍存在的故意破坏行为。一些人认为，对于此类 行为的肇事者，应以社区服务作为惩罚方式而非罚款或拘留监禁。对此我深表赞同，原因在于：其一，受损方应得到 实际补偿；其二，大多数故意破坏行为的实施者是未成年人。",
+      "clozes": [
+        {
+          "start": 131,
+          "end": 158,
+          "answer": "the prevalence of vandalism"
+        },
+        {
+          "start": 242,
+          "end": 253,
+          "answer": "rather than"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The primary reason for my perspective is that the harm to public property should be compensated through actions to restore the damaged items and improve the environment of the affected communities. In reality, most vandalistic behaviors involve only painting and messing statues and other public properties, which can mostly be cleaned, if not completely, by immediate efforts. Those who commit vandalism directly are obviously the ones who should take the blame and rectify their reckless behaviors. Furthermore, apart from cleaning and repairing the damage they cause, they can also be given an additional amount of extended community service, such as cleaning public parks and squares, or even providing assistance to people in need. These mild punishments are not only a sign of a civilized society and the advancement of the legal system, but can help the culprits learn a lesson and contribute to the community affected by their delinquencies.",
+      "cn": "我持这一观点的首要原因是，公共财产所遭受的损害理应通过实际行动来弥补并且损害者也要通过实际行动来改善受 影响社区的环境。事实上，多数破坏行为只是在雕像或其他公共财产上乱涂乱画，这些损害在一定程度上是可以通过 及时清理和维护来恢复的。而造成破坏的行为人显然应承担责任，并通过实际劳动来弥补其轻率行为所造成的后果。 此外，除了清理与修复，他们还可被要求完成额外的社区服务，如打扫公园、清洁广场，甚至是为有需要的人提供帮 助。这类温和的惩罚不仅展现了社会文明与法律制度的进步，也有助于行为人吸取教训，并为其所伤害的社区作出回 馈。",
+      "clozes": [
+        {
+          "start": 172,
+          "end": 196,
+          "answer": "the affected communities"
+        },
+        {
+          "start": 388,
+          "end": 404,
+          "answer": "commit vandalism"
+        },
+        {
+          "start": 448,
+          "end": 462,
+          "answer": "take the blame"
+        },
+        {
+          "start": 889,
+          "end": 902,
+          "answer": "contribute to"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "The second significant reason why community service is a more suitable punishment is that a majority of people who commit vandalism are young people or even teenagers. Hence, punishments such as paying a penalty or even a judicial conviction are far too severe for them. Studies from many major metropolises indicate that over 70% of people who are caught or monitored by public cameras damaging public property are under 21, mostly under 18. For these age groups, many categories of crimes that entail severe repercussions for the perpetrators may exempt teenagers from serious punishments, let alone the relatively less severe juvenile delinquencies, such as painting graffiti on a statue. Juveniles are not mature enough to always act responsibly, so when they commit errors that do not greatly harm other people or public safety, a moderate level of punishment is sufficient to rectify their actions.",
+      "cn": "其次，之所以社区服务是更合适的惩罚方式，还在于许多实施破坏行为的人是青少年，甚至是未成年人。因此，对于 他们而言，处以罚金或司法定罪往往过于严厉。来自多个大城市的调查研究表明，被监控拍下或被抓现行的破坏者 中，有超过70%年龄在21 岁以下，且大多未满18 岁。对于这一年龄群体而言，许多严重犯罪所带来的严厉惩罚在司 法上也常常适用特殊保护，更不用说相对轻微的青少年违法行为，比如在雕像上涂鸦。青少年的心理尚未完全成熟， 难以始终做出负责任的行为，因此，对他们所造成的社会危害不大的行为，给予适度的惩罚即可达到教育与纠正的目 的。",
+      "clozes": [
+        {
+          "start": 115,
+          "end": 131,
+          "answer": "commit vandalism"
+        },
+        {
+          "start": 592,
+          "end": 601,
+          "answer": "let alone"
+        },
+        {
+          "start": 629,
+          "end": 651,
+          "answer": "juvenile delinquencies"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "To conclude, it is completely appropriate to punish people committing vandalism by giving them community service instead of other more severe punishments. Not only does this measure signify the leap in the civilization of modern society, but it also provides teenagers, the main group who commit those deeds, with opportunities to reflect on their mistakes and contribute to their communities.",
+      "cn": "综上所述，对于故意破坏公共财产的行为，采用社区服务代替其他更严厉的惩罚是完全合理的。这不仅体现了现代社 会的文明进步，也为青少年这一主要实施群体提供了反思错误、回馈社区的机会。",
+      "clozes": [
+        {
+          "start": 361,
+          "end": 374,
+          "answer": "contribute to"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Damage to public property, such as painting graffiti on buildings or damaging statues, is a common problem in many cities. Some people believe that those responsible should be required to do community service instead of paying a fine or going to prison. I largely agree with this view because community service can help repair the damage caused and is particularly suitable for young offenders.",
+      "cn": "破坏公共财产，例如在建筑物上涂鸦或损坏雕像，是许多城市普遍存在的问题。一些人认为，应该要求这些行为的责 任人参加社区服务，而不是缴纳罚款或入狱服刑。我在很大程度上赞同这一观点，因为社区服务既可以帮助弥补他们 造成的损害，也尤其适合作为对年轻违法者的惩罚方式。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "The first reason is that community service allows offenders to make up for the harm they have caused. In many cases, damage to public property involves graffiti or minor damage to buildings, statues and other public facilities. Instead of simply paying a fine, offenders could be required to clean or repair the property they have damaged. This would make them take direct responsibility for their actions. They could also be asked to do additional community work, such as cleaning parks and public squares or helping people in need. Such punishment can benefit the local community while also teaching offenders an important lesson. By spending their own time and effort correcting their mistakes, they may better understand the consequences of their behaviour and be less likely to repeat it.",
+      "cn": "第一个原因是，社区服务能够让违法者弥补自己所造成的损害。在许多情况下，破坏公共财产主要表现为涂鸦，或对 建筑物、雕像以及其他公共设施造成程度较轻的损坏。与其仅仅让违法者缴纳罚款，不如要求他们清理或修复自己所 破坏的公共财产。这样可以让他们为自己的行为承担直接责任。此外，还可以要求他们完成额外的社区服务，例如清 理公园和公共广场，或者帮助有需要的人。这种惩罚既能够让当地社区受益，也可以给违法者一个重要的教训。通过 投入自己的时间和精力来纠正错误，他们可能会更加深刻地认识到自身行为所造成的后果，从而降低再次犯错的可能 性。",
+      "clozes": [
+        {
+          "start": 43,
+          "end": 83,
+          "answer": "allows offenders to make up for the harm"
+        },
+        {
+          "start": 351,
+          "end": 397,
+          "answer": "make them take direct responsibility for their"
+        },
+        {
+          "start": 725,
+          "end": 760,
+          "answer": "the consequences of their behaviour"
+        },
+        {
+          "start": 768,
+          "end": 782,
+          "answer": "less likely to"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another reason is that many cases of vandalism are committed by young people or teenagers. For these offenders, prison may be too severe, especially when their actions have not caused serious harm to other people or public safety. Young people are sometimes not mature enough to fully consider the consequences before they act. Sending them to prison could also have a negative effect on their future. Community service, by contrast, provides a more suitable level of punishment. It makes young offenders face the results of their actions while giving them an opportunity to learn from their mistakes and contribute positively to society.",
+      "cn": "另一个原因是，许多破坏公共财产的行为是由年轻人或青少年实施的。对于这些违法者而言，监禁可能是一种过于严 厉的处罚，尤其是在他们的行为并未对他人或公共安全造成严重危害的情况下。年轻人有时还不够成熟，无法在采取 行动之前充分考虑其可能造成的后果。将他们送入监狱也可能会对他们的未来产生负面影响。相比之下，社区服务提 供了一种程度更加适当的惩罚方式。它既能让年轻的违法者直面自己行为造成的后果，又能给他们机会从错误中吸取 教训，并以积极的方式为社会作出贡献。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 14,
+          "answer": "Another reason"
+        },
+        {
+          "start": 168,
+          "end": 205,
+          "answer": "have not caused serious harm to other"
+        },
+        {
+          "start": 362,
+          "end": 400,
+          "answer": "have a negative effect on their future"
+        },
+        {
+          "start": 421,
+          "end": 432,
+          "answer": "by contrast"
+        },
+        {
+          "start": 434,
+          "end": 478,
+          "answer": "provides a more suitable level of punishment"
+        },
+        {
+          "start": 483,
+          "end": 530,
+          "answer": "makes young offenders face the results of their"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, I agree that community service is generally a better punishment for people who damage public property than fines or imprisonment. It can help repair the damage, benefit local communities and encourage offenders, particularly young people, to behave more responsibly in the future.",
+      "cn": "总而言之，我认为，对于破坏公共财产的人来说，社区服务通常是比罚款或监禁更好的处罚方式。它不仅能够帮助修 复被破坏的公共财产、使当地社区受益，还能够促使违法者——尤其是年轻人——在未来采取更加负责任的行为。",
+      "clozes": [
+        {
+          "start": 184,
+          "end": 201,
+          "answer": "local communities"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "破坏公物盛行",
+      "en": "the prevalence of vandalism"
+    },
+    {
+      "zh": "破坏公物",
+      "en": "commit vandalism"
+    },
+    {
+      "zh": "免除",
+      "en": "exempt sb. from sth."
+    },
+    {
+      "zh": "更不用说",
+      "en": "let alone/ not to mention"
+    },
+    {
+      "zh": "少年违法行为",
+      "en": "juvenile delinquencies"
+    },
+    {
+      "zh": "做某事被抓住",
+      "en": "be caught doing"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

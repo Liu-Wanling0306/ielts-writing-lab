@@ -1,0 +1,279 @@
+{
+  "id": "t2-40",
+  "type": "大作文",
+  "title": "亲身出国旅行有必要吗？",
+  "group": "健康与生活",
+  "question": "Some people think that it is necessary to travel abroad to learn about other countries, while other people think that it is not necessary to travel abroad because all the information can be seen on TV and the Internet.Discuss both views and give your opinion.",
+  "logic": "▪ 主体段一 讨论反方观点上网可以替代真实旅行原因：更高效、更便捷 → 社交媒体（social media platforms）相 当于获取信息的窗户 → 举例：TikTok/ Instagram → 给出具体化情境化例子：7 岁小孩和印度作家 → 延申总 结：在家观世界（facilitate global exploration from the comfort of one’s home.） ▪ 主体段二 讨论正方观点真实旅行去了解别国还是必要的①反驳上面的观点 → 以上的信息源都是肤浅的了解② 真实旅行的无滤镜（unfiltered）沉浸式（immersive）体验 → 具象化：①去当地的艺术历史场馆，影响：直接体 验传统文化高光（cultural highlights） ②到当地的餐馆、参与节庆，交友，结果：真实体验（firsthand experience）+返回后的持续影响",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Many modern individuals believe that to genuinely understand other countries, traveling there is essential. But some hold the belief that people can know other nations and their cultures through watching TV and browsing the internet. This essay will examine both perspectives and argue that traveling abroad is a far more reliable approach, as it provides in-depth cultural understanding, authentic local experience, and immersive interactions.",
+      "cn": "许多现代人认为，要真正了解其他国家，亲自前往当地旅行是必不可少的；然而也有人认为，通过电视和互联网，人 们同样可以了解他国文化。本文将探讨这两种观点并指出国际旅行仍然是一种更为可靠且更具启发性的方式，因为它 能提供更深层次的文化洞察、真实的本地体验以及沉浸式的人际交流。",
+      "clozes": [
+        {
+          "start": 356,
+          "end": 387,
+          "answer": "in-depth cultural understanding"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "There is no doubt that technology greatly facilitates our knowledge of other countries due to the efficiency and connectivity it brings to modern individuals. Social media platforms, such as TikTok and Instagram, act as large windows to the bigger outside world. A 7-year-old kid from Texas, USA, can virtually visit the Great Wall of China, while an aspiring young writer living in rural India can draw inspiring ideas for their work by watching a documentary on TV featuring the development of ancient Egyptian culture. These technological tools provide immediate access to information, facilitating global exploration from the comfort of one’s home.",
+      "cn": "毫无疑问，科技的进步极大地促进了人们获取全球知识的便利，这得益于它带给当代人的高效性与互联性。诸如 TikTok 和Instagram 等社交媒体平台，已成为通向更广阔世界的窗口。例如，美国德克萨斯州的一位七岁小孩可以 “云游”中国长城，而印度乡村的一位年轻写作者也能从一部介绍古埃及文明的电视纪录片中汲取创作灵感。这些科 技工具为用户提供了迅捷且便利的信息获取渠道，使人们得以安坐家中而探索遥远的异国文化。",
+      "clozes": [
+        {
+          "start": 159,
+          "end": 171,
+          "answer": "Social media"
+        },
+        {
+          "start": 548,
+          "end": 575,
+          "answer": "provide immediate access to"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, such knowledge is often superficial and lacks the depth that comes from direct experience. On the contrary, traveling to a country offers a more unfiltered understanding, as it allows people to immerse themselves in local culture. When people travel to a new country, they visit local museums and historical sites, where they are instantly and directly presented with the most significant traditions and cultural highlights. Further, during their trips, they go to restaurants, participate in local festivals and ceremonies, and interact with new friends made through these events. As some famous writers suggest, “you don’t get to know a place unless you spend some time living there.” This quote illustrates the importance of firsthand experience in gaining a true understanding of a culture. More importantly, the connections made during travels can offer lasting insights, as travelers remain informed about the country’s developments even after their return.",
+      "cn": "然而，这种知识往往是浅层的，缺乏真正体验所带来的深度理解。相比之下，亲身前往一个国家旅行，能带来更真 实、不加修饰的文化认知，因为它允许人们真正沉浸于当地的社会与生活之中。旅行者会参观当地博物馆和历史遗 址，直接接触那些最具代表性的传统与文化亮点。同时，在旅行过程中，他们也会品尝当地美食、参加节庆活动，并 与通过这些活动结识的新朋友互动。如一些著名作家所言：“除非亲自住上一段时间，否则你不会真正了解一个地 方。”这句话正体现了亲身体验在深入理解文化过程中的重要性。更为关键的是，旅行过程中建立的人际联结，往往 能带来持久的影响，使人们即便归国之后仍持续关注该国的发展变化。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 100,
+          "end": 115,
+          "answer": "On the contrary"
+        },
+        {
+          "start": 154,
+          "end": 178,
+          "answer": "unfiltered understanding"
+        },
+        {
+          "start": 186,
+          "end": 238,
+          "answer": "allows people to immerse themselves in local culture"
+        },
+        {
+          "start": 719,
+          "end": 757,
+          "answer": "the importance of firsthand experience"
+        },
+        {
+          "start": 804,
+          "end": 820,
+          "answer": "More importantly"
+        },
+        {
+          "start": 838,
+          "end": 884,
+          "answer": "made during travels can offer lasting insights"
+        },
+        {
+          "start": 899,
+          "end": 952,
+          "answer": "remain informed about the country’s developments even"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "To conclude, while technology plays an important role in providing access to information, it cannot replace the depth of understanding gained through travel. To truly appreciate and understand another culture, experiencing it in person remains the most effective approach.",
+      "cn": "总之，虽然科技在提供信息获取方面确实发挥着重要作用，但它无法取代旅行所带来的深层理解。若想真正欣赏并领 会另一种文化，亲身经历始终是最有效的方式。",
+      "clozes": [
+        {
+          "start": 36,
+          "end": 56,
+          "answer": "an important role in"
+        },
+        {
+          "start": 100,
+          "end": 149,
+          "answer": "replace the depth of understanding gained through"
+        },
+        {
+          "start": 236,
+          "end": 271,
+          "answer": "remains the most effective approach"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that travelling abroad is necessary to truly understand other countries, while others argue that television and the Internet can provide all the information people need. This essay will examine both perspectives and argue that travelling in person provides a deeper and more realistic understanding.",
+      "cn": "一些人认为，要真正了解其他国家，亲自前往国外旅行是十分必要的；而另一些人则认为，电视和互联网已经能够提 供人们所需要的全部信息。本文将探讨这两种观点，并论证亲自旅行能够让人们对其他国家形成更加深入且更加真实 的认识。",
+      "clozes": [
+        {
+          "start": 149,
+          "end": 188,
+          "answer": "provide all the information people need"
+        },
+        {
+          "start": 268,
+          "end": 285,
+          "answer": "provides a deeper"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "On the one hand, television and the Internet are convenient ways to learn about other countries. Today, people can easily find information about almost any place in the world without leaving their homes. Social media platforms allow users to watch videos about famous tourist attractions, local food and people's daily lives. Documentaries can also provide detailed information about the history and culture of different nations. For example, a child in the United States can take a virtual tour of the Great Wall of China, while someone interested in Egypt can watch a documentary about its ancient history. Therefore, modern technology makes knowledge about foreign countries available to a much larger number of people at a low cost.",
+      "cn": "一方面，电视和互联网是了解其他国家十分便捷的方式。如今，人们足不出户就可以轻松获取世界上几乎任何地方的 相关信息。社交媒体平台让用户能够观看有关著名旅游景点、当地美食以及人们日常生活的视频。纪录片也能够提供 关于不同国家历史和文化的详细信息。例如，美国的一个孩子可以通过网络虚拟游览中国的长城，而对埃及感兴趣的 人则可以观看介绍其古代历史的纪录片。因此，现代科技让更多人能够以较低的成本获取有关外国的知识。",
+      "clozes": [
+        {
+          "start": 156,
+          "end": 196,
+          "answer": "place in the world without leaving their"
+        },
+        {
+          "start": 204,
+          "end": 216,
+          "answer": "Social media"
+        },
+        {
+          "start": 227,
+          "end": 267,
+          "answer": "allow users to watch videos about famous"
+        },
+        {
+          "start": 349,
+          "end": 407,
+          "answer": "provide detailed information about the history and culture"
+        },
+        {
+          "start": 430,
+          "end": 441,
+          "answer": "For example"
+        },
+        {
+          "start": 476,
+          "end": 508,
+          "answer": "take a virtual tour of the Great"
+        },
+        {
+          "start": 609,
+          "end": 618,
+          "answer": "Therefore"
+        },
+        {
+          "start": 638,
+          "end": 697,
+          "answer": "makes knowledge about foreign countries available to a much"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "On the other hand, information gained from television and the Internet cannot fully replace personal experience. When people travel abroad, they can experience another culture directly rather than simply watching it on a screen. They can visit museums and historical sites, try local food, take part in traditional festivals and observe how local people live. More importantly, travellers have opportunities to communicate with local people and learn about their opinions, habits and values. These experiences often provide a deeper understanding of a country than online information alone. Friendships made during a trip may also continue after travellers return home, allowing them to learn more about changes in that country over time.",
+      "cn": "然而，通过电视和互联网获得的信息无法完全取代亲身体验。当人们出国旅行时，他们能够直接体验另一种文化，而 不仅仅是隔着屏幕观看。他们可以参观博物馆和历史遗迹、品尝当地美食、参加传统节日，并观察当地人的生活方 式。更重要的是，旅行者有机会与当地人进行交流，从而了解他们的观点、生活习惯和价值观。与单纯依靠网络信息 相比，这些亲身经历往往能够让人们对一个国家产生更加深入的理解。此外，旅行过程中建立的友谊还可能在旅行者 回国之后继续维持，使他们能够随着时间的推移进一步了解那个国家所发生的变化。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 17,
+          "answer": "On the other hand"
+        },
+        {
+          "start": 185,
+          "end": 196,
+          "answer": "rather than"
+        },
+        {
+          "start": 360,
+          "end": 376,
+          "answer": "More importantly"
+        },
+        {
+          "start": 389,
+          "end": 440,
+          "answer": "have opportunities to communicate with local people"
+        },
+        {
+          "start": 550,
+          "end": 583,
+          "answer": "a country than online information"
+        },
+        {
+          "start": 603,
+          "end": 639,
+          "answer": "made during a trip may also continue"
+        },
+        {
+          "start": 693,
+          "end": 711,
+          "answer": "more about changes"
+        },
+        {
+          "start": 728,
+          "end": 737,
+          "answer": "over time"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, television and the Internet provide a convenient and affordable way to learn about other countries. However, I believe travelling abroad is more effective because direct experience and communication with local people can provide a deeper understanding of another culture.",
+      "cn": "总而言之，电视和互联网为人们了解其他国家提供了一种便捷且经济实惠的方式。然而，我认为出国旅行更加有效， 因为亲身体验以及与当地人的直接交流能够帮助人们更加深入地理解另一种文化。",
+      "clozes": [
+        {
+          "start": 43,
+          "end": 63,
+          "answer": "provide a convenient"
+        },
+        {
+          "start": 115,
+          "end": 122,
+          "answer": "However"
+        },
+        {
+          "start": 155,
+          "end": 195,
+          "answer": "more effective because direct experience"
+        },
+        {
+          "start": 236,
+          "end": 285,
+          "answer": "provide a deeper understanding of another culture"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "深层次的文化洞察、真实的本地体验以及沉浸式的人际交流",
+      "en": "in-depth cultural understanding,"
+    },
+    {
+      "zh": "促进对...的了解",
+      "en": "facilitate our knowledge of"
+    },
+    {
+      "zh": "描述...的发展",
+      "en": "feature the development of"
+    },
+    {
+      "zh": "能迅速获取",
+      "en": "provide immediate access to"
+    },
+    {
+      "zh": "不加修饰的认知",
+      "en": "unfiltered understanding"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

@@ -1,0 +1,320 @@
+{
+  "id": "t2-25",
+  "type": "大作文",
+  "title": "政府应该更多投资在艺术品上来让城市更美吗？",
+  "group": "文化与艺术",
+  "question": "It is important to make a city or a town attractive for people to live in. So more public money should be spent on putting the art works (paintings, statues, etc) in public places.To what extent do you agree or disagree？",
+  "logic": "▪ 主体段一 国家之间发展存在差距（the developmental disparities across the globe） → 细分：①发达国家即使可 以更多投资艺术，但这只是一个方面；②新崛起国家更多需要关注基建教育等迫切事项（pressing priorities）； ③欠发达地区国家还在挣扎于（struggle to）提供生活资源（干净水、食物、提高出生率）→ 总结：要求这些国家 投资艺术，既不可行，也不公平 ▪ 主体段二 政府不应独自承担此项责任①决定人定居还有其他方面（other domains） → 举例：公共安全（public security）和现代服务设施（modern service industries）决定作用更大②其他可以投资艺术的资金来源 → 商业投 资和慈善捐赠（commercial ventures and philanthropic donations） → 举例：巴黎艺术建设的资金来自艺术品产 生的收入本身和企业赞助（corporate sponsorship）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Many people argue that greater public funding should be devoted to the display of artistic works in communal spaces. While I concede that such initiatives may enhance a city’s aesthetic charm, I strongly oppose the diversion of substantial resources to these projects, as the proposal is neither pragmatic nor indispensable.",
+      "cn": "很多人认为，政府应当在公共空间投入更多资金展示艺术作品。我承认这类举措可能会提升城市的美感，但我坚决反 对将大量财政资源转移到这些项目上，因为这种主张既不现实，也不是必需的。",
+      "clozes": [
+        {
+          "start": 31,
+          "end": 45,
+          "answer": "public funding"
+        },
+        {
+          "start": 123,
+          "end": 132,
+          "answer": "I concede"
+        },
+        {
+          "start": 211,
+          "end": 252,
+          "answer": "the diversion of substantial resources to"
+        },
+        {
+          "start": 288,
+          "end": 323,
+          "answer": "neither pragmatic nor indispensable"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The foremost reason for my objection is that this suggestion disregards the glaring developmental disparities across the globe. Undoubtedly, public exhibitions of cultural heritage can elevate a city's reputation, attract residents, and stimulate tourism. Yet although municipalities in affluent regions, such as Northern Europe, can afford to invest in sculptures or galleries, this remains only one fragment of broader urban progress. By contrast, burgeoning metropolises in emerging economies such as China and Brazil must concentrate on far more pressing priorities, ranging from modernising infrastructure to broadening educational access. More critically, in remote towns of the Global South—especially in sub-Saharan Africa— governments still struggle to curb infant mortality and secure basic necessities like clean water and safe food. Expecting such regions to allocate scarce funds to art installations is not only politically unfeasible but also manifestly inequitable.",
+      "cn": "我反对的首要原因是，这种建议忽视了世界各地显著的发展差距。不可否认，公共艺术展示能够提升城市声誉、吸引 居民并促进旅游。但在北欧等富裕地区的城市，这或许只是整体发展的一部分。而在中国、巴西等新兴经济体的大城 市，政府必须优先处理更为紧迫的事务，例如基础设施现代化和教育普及。更为关键的是，在全球南方的偏远地区， 尤其是撒哈拉以南非洲，政府仍在努力降低婴儿死亡率、提供清洁饮水和安全食物。要求这些地方将有限的资金用于 艺术设施，不仅政治上不可行，而且在社会上极其不公平。",
+      "clozes": [
+        {
+          "start": 61,
+          "end": 126,
+          "answer": "disregards the glaring developmental disparities across the globe"
+        },
+        {
+          "start": 163,
+          "end": 180,
+          "answer": "cultural heritage"
+        },
+        {
+          "start": 260,
+          "end": 268,
+          "answer": "although"
+        },
+        {
+          "start": 384,
+          "end": 426,
+          "answer": "remains only one fragment of broader urban"
+        },
+        {
+          "start": 437,
+          "end": 448,
+          "answer": "By contrast"
+        },
+        {
+          "start": 450,
+          "end": 473,
+          "answer": "burgeoning metropolises"
+        },
+        {
+          "start": 550,
+          "end": 569,
+          "answer": "pressing priorities"
+        },
+        {
+          "start": 614,
+          "end": 643,
+          "answer": "broadening educational access"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Equally problematic is the assumption that government alone should shoulder the responsibility for cultivating the arts. In economic terms, while cultural heritage can attract interest, other domains exert a far greater influence on where people choose to live. For instance, robust investment in public security and modern service industries fosters a far stronger sense of belonging than statues in a square. Moreover, artistic projects can be financed through commercial ventures and philanthropic donations rather than taxpayer money. Paris epitomises this dynamic: it draws millions of admirers for its artistic splendour, yet much of the financial underpinning derives from revenue generation and corporate sponsorship rather than heavy reliance on public funds.",
+      "cn": "同样值得质疑的是，把艺术发展的责任完全交给政府。从经济角度看，虽然文化遗产能吸引一定兴趣，但真正决定人 们是否愿意定居的因素更多是公共安全和现代服务业。例如，投资于治安与现代产业，比在广场安放雕像更能增强居 民的归属感。此外，公共艺术完全可以通过商业投资和慈善捐赠来获得资金，而非依赖纳税人。巴黎就是一个典型案 例：它凭借艺术魅力吸引了数百万游客，但其背后的资金更多来自收入和企业赞助，而不是沉重的财政负担。",
+      "clozes": [
+        {
+          "start": 146,
+          "end": 163,
+          "answer": "cultural heritage"
+        },
+        {
+          "start": 262,
+          "end": 274,
+          "answer": "For instance"
+        },
+        {
+          "start": 343,
+          "end": 384,
+          "answer": "fosters a far stronger sense of belonging"
+        },
+        {
+          "start": 511,
+          "end": 522,
+          "answer": "rather than"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although public art may enrich a city's allure,it is neither the most urgent nor the most essential priority for governments, particularly in less developed regions. Public funding should be directed towards fundamental sectors, while the flourishing of art can, to a large extent, be sustained by market mechanisms and private initiatives.",
+      "cn": "总之，虽然公共艺术能增添城市魅力，但它既不是政府最紧迫的任务，也不是最核心的优先事项，尤其是在欠发达地 区。公共资金应当集中投入基础性领域，而艺术的繁荣在很大程度上可以依靠市场机制和私人力量来推动。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 181,
+          "end": 195,
+          "answer": "Public funding"
+        },
+        {
+          "start": 215,
+          "end": 222,
+          "answer": "towards"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that governments should spend more money on artworks in public places to make cities more attractive. Although public art can improve the appearance of a city, I strongly disagree that it should receive more government funding.",
+      "cn": "一些人认为，政府应该投入更多资金，在公共场所设置艺术作品，从而使城市更具吸引力。尽管公共艺术能够改善城 市的外观，但我坚决反对政府为此增加财政投入。",
+      "clozes": [
+        {
+          "start": 83,
+          "end": 120,
+          "answer": "places to make cities more attractive"
+        },
+        {
+          "start": 122,
+          "end": 130,
+          "answer": "Although"
+        },
+        {
+          "start": 146,
+          "end": 178,
+          "answer": "improve the appearance of a city"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The first reason is that cities have different needs. In wealthy cities, governments may have enough money to build statues, display paintings and support other art projects. These activities can make public spaces more attractive and encourage tourism. However, many cities in developing countries face more serious problems. For example, they may need better roads, schools and hospitals. In some poorer towns, people still have difficulty getting clean water and other basic services. In these situations, spending large amounts of public money on artworks would be unreasonable. Governments should first improve people's living conditions before investing heavily in public art.",
+      "cn": "第一个原因是，不同城市有着不同的发展需求。在富裕城市，政府可能有足够的资金建造雕像、展示绘画作品以及支 持其他艺术项目。这些活动能够使公共空间更加美观，并促进旅游业的发展。然而，许多发展中国家的城市面临着更 加严峻的问题。例如，它们可能需要改善道路、学校和医院等基础设施。在一些较为贫困的城镇，人们甚至仍然难以 获得清洁用水和其他基本公共服务。在这种情况下，将大量公共资金用于艺术作品显然是不合理的。政府应该首先改 善人们的生活条件，然后再对公共艺术进行大规模投资。",
+      "clozes": [
+        {
+          "start": 89,
+          "end": 123,
+          "answer": "have enough money to build statues"
+        },
+        {
+          "start": 147,
+          "end": 173,
+          "answer": "support other art projects"
+        },
+        {
+          "start": 196,
+          "end": 230,
+          "answer": "make public spaces more attractive"
+        },
+        {
+          "start": 254,
+          "end": 261,
+          "answer": "However"
+        },
+        {
+          "start": 299,
+          "end": 325,
+          "answer": "face more serious problems"
+        },
+        {
+          "start": 327,
+          "end": 338,
+          "answer": "For example"
+        },
+        {
+          "start": 426,
+          "end": 461,
+          "answer": "have difficulty getting clean water"
+        },
+        {
+          "start": 608,
+          "end": 667,
+          "answer": "improve people's living conditions before investing heavily"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another reason is that artworks are not the only factor that makes a city attractive. When people choose where to live, they usually consider safety, job opportunities and the quality of public services. A city with beautiful statues but poor transport and limited employment opportunities may still struggle to attract residents. Therefore, governments should give greater attention to these basic needs. Moreover, public art does not always have to depend on government funding. Businesses and wealthy individuals can support art projects through donations or sponsorship. For example, a company could pay for a sculpture in a public square. This would allow cities to develop their cultural attractions without placing too much pressure on public budgets.",
+      "cn": "另一个原因是，艺术作品并不是决定一座城市是否具有吸引力的唯一因素。当人们选择居住地时，他们通常会考虑安 全状况、就业机会以及公共服务的质量。一座城市即使拥有美丽的雕像，但如果交通条件较差、就业机会有限，仍然 可能难以吸引居民。因此，政府应该更加重视这些基本需求。此外，公共艺术也不一定完全依赖政府拨款。企业和富 裕人士可以通过捐赠或赞助来支持艺术项目。例如，一家公司可以出资在公共广场建造一座雕塑。这样一来，城市便 能够发展自身的文化景观，而不必给公共财政带来过大的压力。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 14,
+          "answer": "Another reason"
+        },
+        {
+          "start": 187,
+          "end": 202,
+          "answer": "public services"
+        },
+        {
+          "start": 265,
+          "end": 289,
+          "answer": "employment opportunities"
+        },
+        {
+          "start": 331,
+          "end": 340,
+          "answer": "Therefore"
+        },
+        {
+          "start": 443,
+          "end": 479,
+          "answer": "have to depend on government funding"
+        },
+        {
+          "start": 520,
+          "end": 573,
+          "answer": "support art projects through donations or sponsorship"
+        },
+        {
+          "start": 575,
+          "end": 586,
+          "answer": "For example"
+        },
+        {
+          "start": 655,
+          "end": 705,
+          "answer": "allow cities to develop their cultural attractions"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although artworks can make cities more beautiful, I do not believe governments should spend more money on them. Improving basic services is more important, and private funding can also help support public art.",
+      "cn": "总而言之，尽管艺术作品能够使城市更加美丽，但我并不认为政府应该为此增加投入。改善基本公共服务更加重要， 而私人资金也能够为公共艺术的发展提供支持。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 37,
+          "end": 63,
+          "answer": "make cities more beautiful"
+        },
+        {
+          "start": 205,
+          "end": 223,
+          "answer": "support public art"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "我承认",
+      "en": "I concede/admit that"
+    },
+    {
+      "zh": "给...分配公共资金/资源",
+      "en": "the diversion of substantial resources to..."
+    },
+    {
+      "zh": "既不现实，也不必需",
+      "en": "neither pragmatic nor indispensable"
+    },
+    {
+      "zh": "忽视显著全球发展差距",
+      "en": "disregards the glaring developmental disparities across the globe"
+    },
+    {
+      "zh": "新兴大城市",
+      "en": "burgeoning metropolises"
+    },
+    {
+      "zh": "紧急要务",
+      "en": "pressing priorities"
+    },
+    {
+      "zh": "拓宽教育渠道",
+      "en": "broadening educational access"
+    },
+    {
+      "zh": "建立更强的归属感",
+      "en": "fosters a far stronger sense of belonging"
+    },
+    {
+      "zh": "政府资金导向",
+      "en": "direct/allocate public funds to/towards"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

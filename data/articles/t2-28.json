@@ -1,0 +1,307 @@
+{
+  "id": "t2-28",
+  "type": "大作文",
+  "title": "有必要创造一个泛用性新语言吗？",
+  "group": "文化与艺术",
+  "question": "Some people say it is necessary to create a new language that improves international communication. Do you think the benefits outweigh the drawbacks?",
+  "logic": "▪ 主体段一 推广新语言成本高昂且缺乏必要性① 推广成本过高（prohibitively costly） → 英语普及百年，许多非 母语者仍难以掌握 → 推广全新语言在经济上不现实（economically impractical），还会造成社会干扰（socially disruptive）② 人工智能降低新语言的必要性（AI-powered translation） → 实时翻译技术大幅减少语言障碍 （linguistic barriers）→ 语言能力的就业优势受到冲击 → 投入大量资源推广新语言缺乏意义 ▪ 主体段二 新语言无法解决国际交流的根本问题① 错误判断沟通障碍的根源（misidentify the root causes） → 拥 有共同语言不等于能够有效交流（fruitful interaction）→ 以同样使用阿拉伯语的中东国家为例 → 误解、不信任 和文化冲突仍然存在② 忽视真正的矛盾（deeper, systemic challenges） → 国际沟通问题更多源于地缘政治利益 差异（disparities in geopolitical interests）和历史积怨（historical grievances）→ 创造新语言无法解决这些问题 → 反而消耗本应用于解决深层问题的资源",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "In this interconnected world, some propose inventing a new language to bolster international communication. I completely oppose this idea, as its negative implications for society far outweigh any potential benefits. Admittedly, a newly created language could be more logical. However, this limited advantage is outweighed by the enormous cost of global adoption and by the proposal’s failure to identify either the real causes of global communication problems or the most effective ways of addressing them.",
+      "cn": "在当今这个相互联系日益紧密的世界，一些人提议创造一门新的语言，以促进国际交流。我完全反对这一想法，因为 它对社会造成的负面影响远远超过任何潜在的益处。不可否认，一门新创造的语言可能在逻辑结构上更加合理。然 而，这一有限的优势远不足以弥补在全球范围内推广新语言所需的巨大成本。更重要的是，这项提议既没有认清国际 交流问题的真正根源，也没有找到解决这些问题最有效的方法。",
+      "clozes": [
+        {
+          "start": 71,
+          "end": 106,
+          "answer": "bolster international communication"
+        },
+        {
+          "start": 146,
+          "end": 179,
+          "answer": "negative implications for society"
+        },
+        {
+          "start": 237,
+          "end": 275,
+          "answer": "created language could be more logical"
+        },
+        {
+          "start": 277,
+          "end": 284,
+          "answer": "However"
+        },
+        {
+          "start": 421,
+          "end": 472,
+          "answer": "causes of global communication problems or the most"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The most significant downside is that promoting a new global language would be both prohibitively costly and increasingly unnecessary in an age of AI- powered translation. English has served as a universal language for the past century, yet many non-native speakers still struggle to master it. In nations like South Korea and Japan, where English has been compulsory for decades, achieving widespread fluency remains challenging. Imposing an entirely new language would be economically impractical and socially disruptive. Furthermore, AI tools and real- time translation devices have largely removed linguistic barriers. In China, language majors now find it increasingly challenging to secure desirable employment due to this rapid technological advancement. Since even the most widely used language is losing its absolute career advantage to AI, investing heavily to promote a new language is an absurd waste of intellectual effort.",
+      "cn": "最显著的弊端在于，在人工智能翻译技术日益发展的时代，推广一门新的全球通用语言不仅成本高得难以承受，而且 越来越没有必要。在过去的一个世纪里，英语一直被广泛用作国际通用语言，但许多非英语母语者至今仍难以熟练掌 握它。在韩国和日本等国家，尽管英语已经被列为必修课程长达数十年，但要让大多数人熟练使用英语仍然十分困 难。因此，强行推广一门全新的语言，不仅在经济上不切实际，还可能对社会造成干扰。此外，人工智能工具和实时 翻译设备已经在很大程度上消除了语言障碍。在中国，由于这些技术的快速发展，语言类专业的毕业生如今发现，获 得理想工作的难度越来越大。既然连使用最广泛的语言都在人工智能的冲击下逐渐失去其在就业市场上的绝对优势， 那么投入大量资源推广一门新语言，无疑是对人力和智力资源的荒谬浪费。",
+      "clozes": [
+        {
+          "start": 84,
+          "end": 104,
+          "answer": "prohibitively costly"
+        },
+        {
+          "start": 180,
+          "end": 227,
+          "answer": "has served as a universal language for the past"
+        },
+        {
+          "start": 348,
+          "end": 379,
+          "answer": "has been compulsory for decades"
+        },
+        {
+          "start": 474,
+          "end": 522,
+          "answer": "economically impractical and socially disruptive"
+        },
+        {
+          "start": 581,
+          "end": 621,
+          "answer": "have largely removed linguistic barriers"
+        },
+        {
+          "start": 689,
+          "end": 716,
+          "answer": "secure desirable employment"
+        },
+        {
+          "start": 871,
+          "end": 906,
+          "answer": "promote a new language is an absurd"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another major drawback is that the proposal misidentifies the root causes of international communication failures and consequently promotes an ineffective solution. The proposal falsely assumes that a common language guarantees fruitful interaction. Reality proves otherwise: people in the same region—such as many Middle Eastern countries sharing Arabic—speak a common tongue, yet misunderstandings, distrust, and cultural clashes still prevail. Breakdowns in international communication seldom stem from the absence of a shared language; they predominantly derive from disparities in geopolitical interests and historical grievances. Therefore, hoping a new language will solve these issues is naive. It would merely deplete resources that should be directed toward resolving these deeper, systemic challenges.",
+      "cn": "另一个主要弊端是，这项提议错误地判断了国际交流失败的根本原因，因此提出了一种无效的解决方案。它错误地假 设，只要人们使用共同的语言，就一定能够实现富有成效的交流。然而，现实情况并非如此：即使是同一地区的人 们，例如许多同样使用阿拉伯语的中东国家，彼此之间仍然普遍存在误解、不信任和文化冲突。国际交流中的障碍很 少仅仅源于缺乏共同语言，而更多是由地缘政治利益的差异以及历史积怨所造成的。因此，寄希望于一门新语言来解 决这些问题是天真的。这种做法只会耗费原本应该用于解决这些更深层次、系统性问题的资源。",
+      "clozes": [
+        {
+          "start": 67,
+          "end": 113,
+          "answer": "causes of international communication failures"
+        },
+        {
+          "start": 118,
+          "end": 130,
+          "answer": "consequently"
+        },
+        {
+          "start": 131,
+          "end": 163,
+          "answer": "promotes an ineffective solution"
+        },
+        {
+          "start": 382,
+          "end": 431,
+          "answer": "misunderstandings, distrust, and cultural clashes"
+        },
+        {
+          "start": 496,
+          "end": 505,
+          "answer": "stem from"
+        },
+        {
+          "start": 636,
+          "end": 645,
+          "answer": "Therefore"
+        },
+        {
+          "start": 719,
+          "end": 736,
+          "answer": "deplete resources"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, creating a new global language would prove far more harmful than helpful. It would produce a tremendous waste of financial and intellectual resources, fail to keep pace with the technological age, and ultimately hinder humanity’s search for genuine solutions to global communication challenges.",
+      "cn": "总而言之，创造一门新的全球通用语言所带来的危害将远远超过其益处。它不仅会造成巨大的经济和智力资源浪费， 无法适应技术发展的时代，还会最终阻碍人类寻找真正有效的方法来解决全球交流中的各种问题。",
+      "clozes": [
+        {
+          "start": 98,
+          "end": 154,
+          "answer": "produce a tremendous waste of financial and intellectual"
+        },
+        {
+          "start": 174,
+          "end": 210,
+          "answer": "keep pace with the technological age"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that creating a new language could improve international communication. Although a newly designed language might be easier to learn, I believe its disadvantages would be greater because introducing it worldwide would be expensive and it would not solve the main causes of international misunderstandings.",
+      "cn": "一些人认为，创造一门新的语言能够改善国际交流。尽管一门经过专门设计的新语言可能更容易学习，但我认为其弊 端更大，因为在全球范围内推广这种语言将花费巨额资金，而且它也无法解决国际交流中产生误解的主要原因。",
+      "clozes": [
+        {
+          "start": 55,
+          "end": 90,
+          "answer": "improve international communication"
+        },
+        {
+          "start": 92,
+          "end": 100,
+          "answer": "Although"
+        },
+        {
+          "start": 282,
+          "end": 323,
+          "answer": "causes of international misunderstandings"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The first problem is that introducing a new international language would require enormous amounts of time and money. English is already widely used around the world, but many people still find it difficult to learn. If governments introduced another language, schools would need new teaching materials and qualified teachers, while millions of people would have to spend years learning it. This would place a heavy burden on society. More importantly, in an era of rapid technological development, AI translation tools are making communication between speakers of different languages much easier. People can now use these tools to translate conversations and written information without learning another language. Therefore, spending large amounts of money promoting a new language may be unnecessary.",
+      "cn": "第一个问题是，推广一门新的国际通用语言需要投入大量时间和金钱。英语已经在世界各地被广泛使用，但许多人仍 然觉得学习英语十分困难。如果政府引入另一门语言，学校就需要新的教材和合格的教师，而数以百万计的人则需要 花费数年时间学习它。这将给社会带来沉重的负担。更重要的是，在科技快速发展的时代，人工智能翻译工具正在使 不同语言使用者之间的交流变得更加容易。如今，人们可以利用这些工具翻译对话和书面信息，而不必再学习另一门 语言。因此，花费大量资金推广一门新语言可能已经没有必要。",
+      "clozes": [
+        {
+          "start": 231,
+          "end": 258,
+          "answer": "introduced another language"
+        },
+        {
+          "start": 357,
+          "end": 388,
+          "answer": "have to spend years learning it"
+        },
+        {
+          "start": 401,
+          "end": 432,
+          "answer": "place a heavy burden on society"
+        },
+        {
+          "start": 434,
+          "end": 450,
+          "answer": "More importantly"
+        },
+        {
+          "start": 714,
+          "end": 723,
+          "answer": "Therefore"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another major problem is that language differences are not always the main cause of international communication difficulties. Even when people speak the same language, they may still disagree because of different cultural values, political interests or historical experiences. For example, countries that share a common language can still experience serious disagreements and misunderstandings. Creating a new language would not remove these differences. Instead, improving cultural understanding and cooperation would be more effective in addressing such problems.",
+      "cn": "另一个主要问题是，语言差异并不总是国际交流困难的主要原因。即使人们使用相同的语言，他们仍然可能因为文化 价值观、政治利益或历史经历的不同而产生分歧。例如，使用共同语言的国家之间仍然可能出现严重的意见分歧和误 解。创造一门新语言并不能消除这些差异。相比之下，增进文化理解和加强合作，才是解决这些问题更加有效的方 法。",
+      "clozes": [
+        {
+          "start": 75,
+          "end": 124,
+          "answer": "cause of international communication difficulties"
+        },
+        {
+          "start": 277,
+          "end": 288,
+          "answer": "For example"
+        },
+        {
+          "start": 474,
+          "end": 496,
+          "answer": "cultural understanding"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although a new language might make communication easier in some situations, I believe the disadvantages outweigh the benefits. The high cost of introducing it and its limited ability to solve deeper communication problems make this proposal unnecessary.",
+      "cn": "总而言之，尽管一门新语言在某些情况下可能使交流更加容易，但我认为其弊端大于益处。推广成本高昂，而且解决 深层次交流问题的能力有限，这些因素都使得这一提议缺乏必要性。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 45,
+          "end": 89,
+          "answer": "make communication easier in some situations"
+        },
+        {
+          "start": 101,
+          "end": 140,
+          "answer": "the disadvantages outweigh the benefits"
+        },
+        {
+          "start": 237,
+          "end": 267,
+          "answer": "make this proposal unnecessary"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "相互联系的世界",
+      "en": "an interconnected world"
+    },
+    {
+      "zh": "加强国际交流",
+      "en": "bolster international communication"
+    },
+    {
+      "zh": "对社会的负面影响",
+      "en": "negative implications for society"
+    },
+    {
+      "zh": "成本高得令人难以承受",
+      "en": "prohibitively costly"
+    },
+    {
+      "zh": "人工智能驱动的翻译",
+      "en": "AI-powered translation"
+    },
+    {
+      "zh": "在经济上不现实且对社会造成干扰",
+      "en": "economically impractical and socially disruptive"
+    },
+    {
+      "zh": "消除语言障碍",
+      "en": "remove linguistic barriers"
+    },
+    {
+      "zh": "获得理想的工作",
+      "en": "secure desirable employment"
+    },
+    {
+      "zh": "误判问题的根本原因",
+      "en": "misidentify the root causes"
+    },
+    {
+      "zh": "误解、不信任和文化冲突",
+      "en": "misunderstandings, distrust, and cultural clashes"
+    },
+    {
+      "zh": "消耗资源",
+      "en": "deplete resources"
+    },
+    {
+      "zh": "跟上科技时代的发展",
+      "en": "keep pace with the technological age"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

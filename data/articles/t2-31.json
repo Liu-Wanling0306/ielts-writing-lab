@@ -1,0 +1,280 @@
+{
+  "id": "t2-31",
+  "type": "大作文",
+  "title": "详细报道犯罪是否该限制？",
+  "group": "社会与政府",
+  "question": "Detailed descriptions of crimes in newspapers and on television can have negative consequences for society and should therefore be restricted. To what extent do you agree or disagree?",
+  "logic": "▪ 主体段一 让步段详细的犯罪报道容易造成负面影响①对易受影响的青少年（impressionable youths）存在负面影 响 → 影响：引起青少年模仿（encourage imitation），因犯罪报道中存在犯罪流程的揭露 ②详细报道存在警方 调查方法的披露（reveal investigative technique） → 结果：让犯罪分子知道怎样躲避侦察（evade detection） ▪ 主体段二 详细报道的好处还是更多【在每个细分的论点后进行一到两句的因果拓展】①强调严重的法律后果 → 监狱监禁会让潜在犯罪者警惕自身违法行为（a powerful deterrent）②增强公众安全意识（enhances public awareness） → 家庭教育中经常使用此类报道做安全教育③加快立法改革（accelerates legislative reform） → 报 道引发社会关注 → 加快法规改革",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Some people advocate restricting detailed descriptions of crimes in newspapers and television programmes, arguing that such reporting can generate harmful social consequences. While I acknowledge that this concern has some validity, I largely disagree with the idea of imposing strict limitations, as crime reporting also serves important educational and legislative functions.",
+      "cn": "一些人主张应当限制报纸和电视中对犯罪行为的详细描述，认为此类报道会对社会造成负面影响。尽管我承认这种担 忧在一定程度上是合理的，但我总体上并不赞同对犯罪报道施加严格限制，因为其同时具有重要的教育和立法价值。",
+      "clozes": [
+        {
+          "start": 138,
+          "end": 174,
+          "answer": "generate harmful social consequences"
+        },
+        {
+          "start": 214,
+          "end": 231,
+          "answer": "has some validity"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Admittedly, extensive crime coverage may exert a negative influence on certain individuals, impressionable youths in particular. Exposure to explicit criminal methods can encourage imitation and may even provide potential offenders with insights into how crimes are carried out. In addition, detailed media reports sometimes reveal investigative techniques used by law enforcement, which could allow criminals to learn how to evade detection. Given these risks, it is understandable that some people view unrestricted crime reporting as socially irresponsible.",
+      "cn": "不可否认，过度详细的犯罪报道可能会对部分人群，尤其是心智尚未成熟的青少年，产生不良影响。对犯罪手段的反 复呈现可能诱发模仿行为，甚至为潜在犯罪者提供可借鉴的经验。此外，详尽的媒体报道有时会披露执法部门所使用 的侦查手段，使犯罪分子学会规避执法。鉴于这些风险，不难理解一部分人认为不受管控的犯罪报道是对社会不负责 任的。",
+      "clozes": [
+        {
+          "start": 92,
+          "end": 112,
+          "answer": "impressionable youth"
+        },
+        {
+          "start": 171,
+          "end": 190,
+          "answer": "encourage imitation"
+        },
+        {
+          "start": 279,
+          "end": 290,
+          "answer": "In addition"
+        },
+        {
+          "start": 394,
+          "end": 431,
+          "answer": "allow criminals to learn how to evade"
+        },
+        {
+          "start": 537,
+          "end": 559,
+          "answer": "socially irresponsible"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Nevertheless, the benefits of transparent crime reporting outweigh these drawbacks. First, news reports often highlight the severe legal consequences faced by offenders, which can act as a powerful deterrent. When people are confronted with the reality of lengthy prison sentences or life imprisonment, they are more likely to reconsider impulsive or unlawful behaviour. More importantly, detailed crime coverage enhances public awareness and personal safety. Families frequently use news reports as reference points to discuss risk awareness and basic safety practices with younger members. Furthermore, public exposure of crime often accelerates legislative reform. Without detailed accounts of victims’ suffering and systemic failures, many safety regulations and legal amendments would never gain sufficient public attention to be implemented.",
+      "cn": "然而，犯罪报道所带来的积极作用更为显著。首先，媒体通常会强调犯罪者所受到的严厉惩罚，这本身就具有强烈的 威慑效果。当人们直观地看到长期监禁甚至终身监禁的现实后，更有可能克制冲动行为。更重要的是，详细的犯罪报 道能够提升公众的安全意识。家庭往往借助新闻内容，引导年轻人学习基本的风险防范与安全常识。此外，犯罪的公 开报道也有助于推动法律完善。若缺乏对受害者处境和制度漏洞的披露，许多重要的安全立法很难引发足够的社会讨 论并最终落地。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 12,
+          "answer": "Nevertheless"
+        },
+        {
+          "start": 150,
+          "end": 168,
+          "answer": "faced by offenders"
+        },
+        {
+          "start": 180,
+          "end": 207,
+          "answer": "act as a powerful deterrent"
+        },
+        {
+          "start": 312,
+          "end": 326,
+          "answer": "more likely to"
+        },
+        {
+          "start": 371,
+          "end": 387,
+          "answer": "More importantly"
+        },
+        {
+          "start": 685,
+          "end": 715,
+          "answer": "accounts of victims’ suffering"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although crime reporting may carry certain risks, restricting it would undermine its educational and social value. Rather than imposing bans, media outlets should focus on responsible reporting that informs the public while minimising unnecessary sensationalism.",
+      "cn": "总而言之，尽管犯罪报道存在一定风险，但对其加以限制将削弱其社会价值。与其禁止，不如推动媒体进行更负责任 的报道，在保障公众知情权的同时避免不必要的煽动。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 86,
+          "end": 128,
+          "answer": "undermine its educational and social value"
+        },
+        {
+          "start": 130,
+          "end": 141,
+          "answer": "Rather than"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that newspapers and television programmes should be restricted from reporting crimes in too much detail because this may harm society. Although I understand these concerns, I largely disagree with this view because crime reporting can educate the public and help improve public safety.",
+      "cn": "一些人认为，应该限制报纸和电视节目对犯罪事件进行过于详细的报道，因为这可能对社会造成危害。尽管我理解这 些担忧，但我在很大程度上不同意这一观点，因为犯罪报道能够教育公众，并有助于提高公共安全水平。",
+      "clozes": [
+        {
+          "start": 155,
+          "end": 163,
+          "answer": "Although"
+        },
+        {
+          "start": 283,
+          "end": 304,
+          "answer": "improve public safety"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Admittedly, detailed crime reports may have some negative effects. Young people, in particular, may be influenced by what they see in the media. If newspapers or television programmes explain criminal activities in too much detail, some individuals may be encouraged to copy such behaviour. In addition, certain reports may reveal information about police investigations, which could make their work more difficult. For these reasons, the media should be careful about what information they publish.",
+      "cn": "不可否认，详细的犯罪报道可能产生一些负面影响。尤其是年轻人，可能容易受到媒体内容的影响。如果报纸或电视 节目过于详细地描述犯罪活动，一些人可能会受到影响，进而模仿此类行为。此外，某些报道可能泄露警方调查的相 关信息，从而增加警方开展工作的难度。基于这些原因，媒体应该谨慎选择所发布的信息。",
+      "clozes": [
+        {
+          "start": 39,
+          "end": 65,
+          "answer": "have some negative effects"
+        },
+        {
+          "start": 256,
+          "end": 289,
+          "answer": "encouraged to copy such behaviour"
+        },
+        {
+          "start": 291,
+          "end": 302,
+          "answer": "In addition"
+        },
+        {
+          "start": 384,
+          "end": 414,
+          "answer": "make their work more difficult"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, I believe crime reporting has important benefits. First, it can help people understand the serious consequences of breaking the law. When news reports explain that criminals have received prison sentences, they may discourage others from committing similar offences. Furthermore, crime reports can increase public awareness of safety issues. For example, parents may discuss news stories with their children and teach them how to recognise dangerous situations and protect themselves. Such information can help people become more careful in their daily lives.",
+      "cn": "然而，我认为犯罪报道具有重要的益处。首先，它能够帮助人们了解违法行为所带来的严重后果。当新闻报道说明犯 罪者被判处监禁时，这可能对其他人起到警示作用，使他们不敢实施类似的违法行为。此外，犯罪报道还能够提高公 众对安全问题的认识。例如，父母可以与孩子讨论新闻事件，并教导他们如何识别危险情况以及保护自己。这些信息 能够帮助人们在日常生活中提高警惕。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 35,
+          "end": 57,
+          "answer": "has important benefits"
+        },
+        {
+          "start": 183,
+          "end": 213,
+          "answer": "have received prison sentences"
+        },
+        {
+          "start": 316,
+          "end": 335,
+          "answer": "public awareness of"
+        },
+        {
+          "start": 351,
+          "end": 362,
+          "answer": "For example"
+        },
+        {
+          "start": 527,
+          "end": 567,
+          "answer": "become more careful in their daily lives"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Another benefit is that crime reporting can encourage governments to improve laws and public safety. When newspapers and television programmes report serious crimes and problems with existing safety measures, these issues may receive greater public attention. As a result, governments may face more pressure to introduce stronger laws or improve the way public institutions operate. Restricting such reports too much could prevent important problems from being discussed.",
+      "cn": "另一个益处是，犯罪报道能够促使政府完善法律并提高公共安全水平。当报纸和电视节目报道严重犯罪事件，以及现 有安全措施中存在的问题时，这些问题可能会引起公众更多的关注。因此，政府可能面临更大的压力，从而制定更加 严格的法律，或者改善公共机构的运作方式。如果对此类报道施加过多限制，一些重要问题就可能无法得到充分讨 论。",
+      "clozes": [
+        {
+          "start": 44,
+          "end": 81,
+          "answer": "encourage governments to improve laws"
+        },
+        {
+          "start": 260,
+          "end": 271,
+          "answer": "As a result"
+        },
+        {
+          "start": 289,
+          "end": 334,
+          "answer": "face more pressure to introduce stronger laws"
+        },
+        {
+          "start": 338,
+          "end": 381,
+          "answer": "improve the way public institutions operate"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "In conclusion, although detailed crime reporting may create certain risks, I believe its benefits are greater. Instead of placing strict restrictions on crime news, media organisations should report crimes responsibly and avoid including unnecessary or harmful details.",
+      "cn": "总而言之，尽管详细的犯罪报道可能带来一定风险，但我认为其益处更加显著。与其对犯罪新闻施加严格限制，媒体 机构更应该以负责任的方式报道犯罪事件，并避免包含不必要或可能造成危害的细节。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 53,
+          "end": 73,
+          "answer": "create certain risks"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 5,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "一定程度合理",
+      "en": "be reasonable to some extent/ have some validity"
+    },
+    {
+      "zh": "易受影响的年轻人",
+      "en": "impressionable youth"
+    },
+    {
+      "zh": "给...提供对...的见解",
+      "en": "provide ... with insight into ..."
+    },
+    {
+      "zh": "不负社会责任",
+      "en": "socially irresponsible"
+    },
+    {
+      "zh": "具有强烈的威慑效果",
+      "en": "act as a powerful deterrent"
+    },
+    {
+      "zh": "削弱社会和教育价值",
+      "en": "undermine its educational and social value"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

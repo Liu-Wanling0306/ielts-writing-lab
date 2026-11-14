@@ -1,0 +1,299 @@
+{
+  "id": "t2-39",
+  "type": "大作文",
+  "title": "极限运动应该禁止吗？",
+  "group": "健康与生活",
+  "question": "Some people think that dangerous sports should be banned, but others think the people should have freedom to choose sports activities. Discuss both views and give your opinion.",
+  "logic": "▪ 主体段一 讨论反方：支持禁止危险运动① 容易造成严重伤害（risk of severe injury） → 定义：危险运动包含高 风险动作（high-risk actions）→ 可能导致严重事故甚至死亡（serious accidents and fatalities）→ 举例：跑酷② 对青少年产生负面影响（negative impact on impressionable youth） → 社交媒体美化危险行为（glorify risky behavior）→ 吸引青少年关注 → 为获得社会认可（gain social recognition）而模仿 ▪ 主体段二 讨论正方：反对禁止危险运动① 个人选择权（the fundamental right to choose） → 危险运动属于自 愿行为（voluntary）→ 了解风险后应该有权自行选择② 问题可解决：运动风险可以控制（risk management） → 所有运动都有固有风险（inherent risks）→ 有风险不代表应该禁止 → 防护装备、安全规范和专业训练 （protective gear, safety guidelines and expert training）可以降低风险③ 不可执行性：全面禁止不现实（the impracticality of outright bans） → 原因：很多危险运动发生在难以监管的开放空间 → 结果：执行禁令会给执法 资源带来巨大压力（place a heavy strain on enforcement resources）→ 难以真正实施",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "As high-risk sports become increasingly accessible to the general public, concerns about participant safety and the limits of personal choice have intensified. While some consider a legal ban necessary to prevent severe injuries, others regard participation in such activities as a matter of individual freedom. This essay will examine both perspectives before arguing that individual freedom should take precedence, as people should be allowed to decide which risks they are willing to accept.",
+      "cn": "随着高风险运动越来越容易被普通大众接触和参与，人们对于参与者安全以及个人选择自由的边界也产生了越来越多 的担忧。一些人认为，为了防止严重伤害，有必要通过法律禁止此类运动；而另一些人则将参与这些活动视为个人自 由的问题。本文将探讨这两种观点，并进一步论证个人自由应该得到优先考虑，因为人们应当有权自行决定愿意承担 哪些风险。",
+      "clozes": [
+        {
+          "start": 20,
+          "end": 72,
+          "answer": "become increasingly accessible to the general public"
+        },
+        {
+          "start": 400,
+          "end": 415,
+          "answer": "take precedence"
+        },
+        {
+          "start": 437,
+          "end": 454,
+          "answer": "allowed to decide"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "It is reasonable that some people support banning extreme sports, citing concerns such as the risk of severe injury and the negative impact on impressionable youth. Extreme sports often involve high-risk actions that can lead to serious accidents and even fatalities. For instance, activities like parkour, which involves jumping from heights and navigating obstacles, have been linked to severe injuries, as seen in many viral videos. Moreover, these sports, often showcased on social media platforms, tend to glorify risky behavior, which can encourage young people to follow suit. The widespread influence of social media means that dangerous stunts often grab attention, making them more appealing to teenagers who are eager to gain social recognition.",
+      "cn": "一些人支持禁止极限运动是有合理依据的，他们主要担忧严重受伤的风险，以及这些运动对容易受到影响的年轻人所 产生的负面影响。极限运动通常涉及高风险动作，可能导致严重事故，甚至死亡。例如，跑酷需要参与者从高处跳跃 并跨越各种障碍，这类活动可能造成严重伤害，许多在网络上广泛传播的视频就展示了相关事故。此外，这些运动经 常出现在社交媒体平台上，而相关内容往往会美化危险行为，从而鼓励年轻人进行模仿。社交媒体的广泛影响意味 着，危险特技动作往往能够吸引大量关注，因此对于那些渴望获得社会认可的青少年来说，这些活动可能变得更具吸 引力。",
+      "clozes": [
+        {
+          "start": 120,
+          "end": 139,
+          "answer": "the negative impact"
+        },
+        {
+          "start": 143,
+          "end": 163,
+          "answer": "impressionable youth"
+        },
+        {
+          "start": 221,
+          "end": 228,
+          "answer": "lead to"
+        },
+        {
+          "start": 268,
+          "end": 280,
+          "answer": "For instance"
+        },
+        {
+          "start": 479,
+          "end": 491,
+          "answer": "social media"
+        },
+        {
+          "start": 511,
+          "end": 533,
+          "answer": "glorify risky behavior"
+        },
+        {
+          "start": 571,
+          "end": 582,
+          "answer": "follow suit"
+        },
+        {
+          "start": 732,
+          "end": 755,
+          "answer": "gain social recognition"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, the case for personal freedom is ultimately more convincing, particularly when individual rights, risk management, and the impracticality of outright bans are taken into account. First, individuals have the fundamental right to choose their activities, especially when these activities are not illegal. Extreme sports, though risky, are voluntary, and people should be free to engage in them as long as they are aware of the dangers. Second, every sport carries inherent risks, but that does not mean we should ban them. For example, riding a bicycle is also risky, but we do not stop children from cycling because of the potential for injury.Instead, we teach them how to use protective gear and follow safety guidelines. Similarly, extreme sports can be made safer with proper precautions and expert training. Lastly, banning extreme sports would be impractical, as many of these activities take place in open spaces, such as the ocean, mountains, and the sky, which are difficult to monitor and regulate. Enforcing a ban would place a heavy strain on enforcement resources and is unlikely to succeed without violating personal freedoms.",
+      "cn": "然而，支持个人自由的观点最终更有说服力，尤其是在考虑到个人权利、风险管理以及全面禁令缺乏现实可行性等因 素时。首先，个人拥有选择自己活动的基本权利，尤其是在这些活动并不违法的情况下。极限运动虽然存在风险，但 参与者是自愿选择的，因此，只要他们了解相关危险，就应该有自由参与这些运动。其次，每一项运动都存在其固有 的风险，但这并不意味着我们应该禁止它们。例如，骑自行车同样存在风险，但我们并不会因为可能受伤就禁止儿童 骑自行车。相反，我们会教导他们如何使用防护装备并遵守安全规范。同样，通过采取适当的预防措施和接受专业训 练，极限运动也可以变得更加安全。最后，禁止极限运动在实际操作中并不现实，因为许多此类活动都是在海洋、山 区和空中等开放环境中进行的，而这些地方很难受到全面监控和管理。执行禁令不仅会给执法资源带来沉重负担，而 且如果不侵犯个人自由，也很难真正取得成效。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 207,
+          "end": 249,
+          "answer": "have the fundamental right to choose their"
+        },
+        {
+          "start": 530,
+          "end": 541,
+          "answer": "For example"
+        },
+        {
+          "start": 682,
+          "end": 701,
+          "answer": "use protective gear"
+        },
+        {
+          "start": 706,
+          "end": 730,
+          "answer": "follow safety guidelines"
+        },
+        {
+          "start": 765,
+          "end": 799,
+          "answer": "made safer with proper precautions"
+        },
+        {
+          "start": 995,
+          "end": 1015,
+          "answer": "monitor and regulate"
+        },
+        {
+          "start": 1039,
+          "end": 1084,
+          "answer": "place a heavy strain on enforcement resources"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, while it is understandable that the inherent dangers of extreme sports prompt calls for their prohibition, a blanket ban is neither justified nor practically enforceable. By prioritizing risk management and education over restriction, society can safeguard individuals without compromising their fundamental right to personal freedom.",
+      "cn": "总而言之，极限运动本身存在的危险促使一些人呼吁禁止此类活动，这种担忧是可以理解的。然而，全面禁止极限运 动既缺乏充分的合理依据，在实际执行中也难以落实。与其通过限制来解决问题，不如优先加强风险管理和安全教 育。这样一来，社会既能够保障个人安全，又不必损害人们享有个人自由的基本权利。",
+      "clozes": []
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that dangerous sports should be banned because they may cause serious injuries, while others argue that people should be free to choose the sports they enjoy. Although I understand the concerns about safety, I believe people should have the freedom to decide which risks they are willing to take.",
+      "cn": "一些人认为，危险运动可能造成严重伤害，因此应该被禁止；而另一些人则认为，人们应该有自由选择自己喜欢的运 动。尽管我理解人们对于安全问题的担忧，但我认为，人们应该有权自行决定愿意承担何种程度的风险。",
+      "clozes": [
+        {
+          "start": 76,
+          "end": 98,
+          "answer": "cause serious injuries"
+        },
+        {
+          "start": 179,
+          "end": 187,
+          "answer": "Although"
+        },
+        {
+          "start": 252,
+          "end": 278,
+          "answer": "have the freedom to decide"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "On the one hand, there are good reasons why some people support a ban on dangerous sports. The main concern is that activities such as parkour, rock climbing and skydiving can lead to serious injuries or even death. Participants may fall from great heights or lose control during these activities. Another concern is their influence on young people. In today's social-media-driven world, videos of dangerous stunts can easily attract millions of views. Teenagers who want attention online may therefore copy these activities without fully understanding the possible consequences. From this perspective, restricting dangerous sports may help prevent unnecessary injuries.",
+      "cn": "一方面，一些人支持禁止危险运动是有充分理由的。最主要的担忧是，跑酷、攀岩和跳伞等活动可能导致严重受伤， 甚至死亡。参与者在进行这些活动时可能从高处坠落，或者失去对自身行动的控制。另一个令人担忧的问题是这些运 动对年轻人的影响。在如今这个深受社交媒体影响的时代，危险特技的视频很容易获得数百万次观看。因此，一些希 望在网络上获得关注的青少年可能会模仿这些行为，却没有充分认识到可能产生的后果。从这个角度来看，对危险运 动加以限制可能有助于避免不必要的伤害。",
+      "clozes": [
+        {
+          "start": 56,
+          "end": 89,
+          "answer": "support a ban on dangerous sports"
+        },
+        {
+          "start": 176,
+          "end": 183,
+          "answer": "lead to"
+        },
+        {
+          "start": 233,
+          "end": 272,
+          "answer": "fall from great heights or lose control"
+        },
+        {
+          "start": 426,
+          "end": 451,
+          "answer": "attract millions of views"
+        },
+        {
+          "start": 493,
+          "end": 502,
+          "answer": "therefore"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "On the other hand, I believe personal freedom should be given greater importance. Adults should generally be allowed to decide which risks they are willing to take, as long as their choices do not seriously harm other people. More importantly, risk exists in almost every sport. Cycling, for example, can also cause serious injuries, but this does not mean that it should be banned. Instead, people are encouraged to wear protective equipment and follow safety rules. The same approach can be applied to extreme sports. Professional training, proper equipment and clear safety guidelines can greatly reduce the risks involved. In addition, a complete ban would be difficult to enforce because many extreme sports take place in mountains, oceans and other open areas.",
+      "cn": "另一方面，我认为个人自由应该得到更多重视。一般而言，只要个人的选择不会对他人造成严重伤害，成年人就应该 有权决定自己愿意承担哪些风险。更重要的是，几乎所有运动都存在一定风险。例如，骑自行车同样可能造成严重伤 害，但这并不意味着骑自行车应该被禁止。相反，人们会被鼓励佩戴防护装备并遵守安全规则。同样的方法也可以应 用于极限运动。专业训练、合适的装备以及明确的安全规范都能够大幅降低相关风险。此外，全面禁止危险运动在实 际执行中也会十分困难，因为许多极限运动都是在山区、海洋以及其他开放区域进行的。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 17,
+          "answer": "On the other hand"
+        },
+        {
+          "start": 226,
+          "end": 242,
+          "answer": "More importantly"
+        },
+        {
+          "start": 288,
+          "end": 299,
+          "answer": "for example"
+        },
+        {
+          "start": 310,
+          "end": 332,
+          "answer": "cause serious injuries"
+        },
+        {
+          "start": 403,
+          "end": 442,
+          "answer": "encouraged to wear protective equipment"
+        },
+        {
+          "start": 600,
+          "end": 625,
+          "answer": "reduce the risks involved"
+        },
+        {
+          "start": 627,
+          "end": 638,
+          "answer": "In addition"
+        },
+        {
+          "start": 713,
+          "end": 736,
+          "answer": "take place in mountains"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although dangerous sports involve clear risks, I do not believe that they should be completely banned. Allowing people to make their own choices while improving training and safety measures is a more reasonable approach.",
+      "cn": "总而言之，尽管危险运动确实存在明显的风险，但我并不认为它们应该被完全禁止。允许人们自行作出选择，同时加 强专业训练和安全措施，是一种更加合理的做法。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 137,
+          "end": 159,
+          "answer": "make their own choices"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "对公众越来越容易接触",
+      "en": "become increasingly accessible to the general public"
+    },
+    {
+      "zh": "优先于…",
+      "en": "take precedence"
+    },
+    {
+      "zh": "容易受到影响的青少年",
+      "en": "impressionable youth"
+    },
+    {
+      "zh": "美化危险行为",
+      "en": "glorify risky behavior"
+    },
+    {
+      "zh": "效仿、跟着做",
+      "en": "follow suit"
+    },
+    {
+      "zh": "获得社会认可",
+      "en": "gain social recognition"
+    },
+    {
+      "zh": "使用防护装备 / 遵守安全规范",
+      "en": "use protective gear / follow safety guidelines"
+    },
+    {
+      "zh": "监控和监管",
+      "en": "monitor and regulate"
+    },
+    {
+      "zh": "给执法资源造成巨大压力",
+      "en": "place a heavy strain on enforcement resources"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

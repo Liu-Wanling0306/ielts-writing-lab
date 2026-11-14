@@ -1,0 +1,259 @@
+{
+  "id": "t2-29",
+  "type": "大作文",
+  "title": "人们依旧珍视艺术的原因和与科技的比较",
+  "group": "文化与艺术",
+  "question": "People still value artists in the age of advanced science and technology. Why is this the case? Are the arts as important as science and technology?",
+  "logic": "▪ 主体段一 回答第一问艺术受到重视的原因：艺术能提供情绪价值和心灵慰藉（provide emotional and psychological support） → 对比：科技解决不了复杂的情绪问题 → 具体化：艺术、音乐、文学能给予人们慰藉 → 例子：音乐让人不孤单 ▪ 主体段二 回答第二问非竞争关系，而是互补关系（complementary），一样重要：①从个人层面出发 → 科技的 发展能提升生活水平，而艺术赋予美和情感的意义（offering beauty, reflection, and emotional depth）②从社会 层面出发 → 硬实力：科技经济 vs. 软实力：文化认同（shape cultural identity） → 例子：一个城市因科技而发 展，因文化艺术而被给予意义",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "In an era shaped by artificial intelligence, scientific breakthroughs, and rapid technological advancement, it may appear surprising that artists continue to be highly valued. However, this enduring appreciation arises from the unique role that art plays in nurturing the human spirit. I also believe that the arts are just as important as science and technology, as each addresses different yet equally vital dimensions of human progress.",
+      "cn": "在人工智能、科学突破和技术飞速发展的时代，人们依然高度重视艺术家，这乍看之下似乎有些反常。然而，这种持 续的尊重源于艺术在滋养人类精神层面所发挥的独特作用。我同样认为，艺术与科学技术同等重要，因为它们分别回 应了人类发展中不同但同样关键的需求。",
+      "clozes": [
+        {
+          "start": 10,
+          "end": 43,
+          "answer": "shaped by artificial intelligence"
+        },
+        {
+          "start": 176,
+          "end": 183,
+          "answer": "However"
+        },
+        {
+          "start": 249,
+          "end": 284,
+          "answer": "plays in nurturing the human spirit"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One primary reason artists remain valued is their ability to provide emotional and psychological support. While science and technology excel at improving efficiency and solving practical problems, they often fail to address the complexities of human emotion. In a fast-paced, data-driven world, individuals frequently experience anxiety and isolation. Through music, literature, and visual art, people find comfort, empathy, and meaning that cannot be reduced to technical explanations. Even when emotional suffering can be understood in rational terms, it is often a moving song or a powerful novel that helps individuals feel understood rather than alone. In this sense, artists act as interpreters of inner experiences that technology cannot replicate.",
+      "cn": "艺术家之所以仍然备受重视，一个重要原因在于他们能够提供情感和心理层面的支持。科学和技术擅长提升效率、解 决现实问题，却往往难以触及人类情感的复杂性。在节奏紧张、数据主导的社会中，人们常常感到焦虑与孤独。音 乐、文学和绘画为人们提供了慰藉、共鸣与意义，这是任何技术解释都无法完全替代的。即便痛苦可以被理性理解， 真正让人感到被理解的，往往仍是一首动人的歌曲或一部深刻的小说，而不是孤身一人。从这个意义上来说，艺术家 是内心感受的诠释者，这是技术无法复刻的。",
+      "clozes": [
+        {
+          "start": 61,
+          "end": 104,
+          "answer": "provide emotional and psychological support"
+        },
+        {
+          "start": 452,
+          "end": 485,
+          "answer": "reduced to technical explanations"
+        },
+        {
+          "start": 639,
+          "end": 650,
+          "answer": "rather than"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Regarding their relative importance, the arts and sciences should be viewed as complementary rather than competing forces. On a personal level, science and technology secure physical survival by curing diseases and improving living conditions, whereas art enriches life by offering beauty, reflection, and emotional depth. On a societal level, this distinction mirrors the difference between hard power and soft power. Scientific capability forms the backbone of economic strength, while artistic expression shapes cultural identity and global influence. Although modern cities thrive through technological innovation, historic centres continue to attract admiration largely through their cultural heritage. Together, science sustains civilisation, while art gives it meaning.",
+      "cn": "从重要性来看，艺术与科学并非对立，而是相辅相成。在个人层面，科学与技术保障了生存和物质条件，而艺术则赋 予生活情感深度与精神价值。在社会层面，这种区别类似于“硬实力”与“软实力”的差异。科学支撑经济和基础设 施，而艺术塑造文化认同和国际影响力。正如现代城市因科技创新而发展，历史名城则依然凭借文化遗产吸引世人。 科学维系文明的运转，艺术则赋予文明灵魂。",
+      "clozes": [
+        {
+          "start": 93,
+          "end": 104,
+          "answer": "rather than"
+        },
+        {
+          "start": 244,
+          "end": 251,
+          "answer": "whereas"
+        },
+        {
+          "start": 290,
+          "end": 297,
+          "answer": "reflect"
+        },
+        {
+          "start": 555,
+          "end": 563,
+          "answer": "Although"
+        },
+        {
+          "start": 689,
+          "end": 706,
+          "answer": "cultural heritage"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, artists continue to be valued because they address emotional needs that technology alone cannot satisfy. As for importance, art and science are two essential pillars of civilisation—one ensuring survival, the other enriching the human experience. Both are indispensable for a truly flourishing society.",
+      "cn": "总之，艺术家之所以仍被珍视，是因为他们弥补了技术无法满足的情感需求。至于二者的重要性，艺术与科学是文明 的两大支柱，一者保障生存，一者升华体验，二者缺一不可。",
+      "clozes": [
+        {
+          "start": 58,
+          "end": 81,
+          "answer": "address emotional needs"
+        },
+        {
+          "start": 240,
+          "end": 260,
+          "answer": "the human experience"
+        },
+        {
+          "start": 262,
+          "end": 288,
+          "answer": "Both are indispensable for"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Although science and technology are developing rapidly, artists are still highly valued in modern society. This is mainly because art can meet people's emotional needs. I believe that the arts are just as important as science and technology because they improve people's lives in different ways.",
+      "cn": "尽管科学技术正在迅速发展，艺术家在现代社会中仍然受到高度重视。这主要是因为艺术能够满足人们的情感需求。 我认为，艺术与科学技术同样重要，因为它们能够以不同的方式改善人们的生活。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 8,
+          "answer": "Although"
+        },
+        {
+          "start": 254,
+          "end": 294,
+          "answer": "improve people's lives in different ways"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One reason artists remain important is that their work can provide emotional support. Science and technology help people solve practical problems, but they cannot always deal with human feelings. In modern society, many people experience stress or feel lonely because of their busy lives. Listening to music, reading novels or enjoying paintings can help them relax and feel better. For example, a person who is feeling sad may find comfort in a song that expresses similar emotions. This can make them feel understood and less alone. Therefore, artists continue to play an important role because they create works that help people deal with their emotions.",
+      "cn": "艺术家仍然重要的一个原因是，他们的作品能够为人们提供情感支持。科学技术可以帮助人们解决实际问题，但它们 并不总能解决人们的情感问题。在现代社会中，许多人由于生活忙碌而承受压力，或者感到孤独。听音乐、阅读小说 或欣赏绘画可以帮助他们放松身心，改善情绪。例如，一个感到悲伤的人可能会从一首表达类似情感的歌曲中获得安 慰。这能够让他们感到自己被理解，并减轻孤独感。因此，艺术家仍然发挥着重要作用，因为他们创作的作品能够帮 助人们应对自己的情绪。",
+      "clozes": [
+        {
+          "start": 19,
+          "end": 38,
+          "answer": "remain important is"
+        },
+        {
+          "start": 59,
+          "end": 84,
+          "answer": "provide emotional support"
+        },
+        {
+          "start": 383,
+          "end": 394,
+          "answer": "For example"
+        },
+        {
+          "start": 493,
+          "end": 518,
+          "answer": "make them feel understood"
+        },
+        {
+          "start": 535,
+          "end": 544,
+          "answer": "Therefore"
+        },
+        {
+          "start": 566,
+          "end": 588,
+          "answer": "play an important role"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "I also believe that the arts are as important as science and technology. On an individual level, scientific progress can improve healthcare and make daily life more convenient. For example, new medical treatments can help people live longer and healthier lives. However, the arts can make these lives more enjoyable by providing entertainment and helping people express their feelings. On a wider level, science and technology can support economic growth, while the arts help protect a country's culture and traditions. For instance, historical buildings, traditional music and famous paintings can attract tourists and help people learn about a country's history. Both fields therefore make important contributions to society.",
+      "cn": "我也认为，艺术与科学技术同样重要。从个人层面来看，科学进步能够改善医疗条件，并使日常生活更加便利。例 如，新的医疗方法可以帮助人们活得更长久、更健康。然而，艺术能够通过提供娱乐和帮助人们表达情感，让这样的 生活变得更加愉快。从更广泛的社会层面来看，科学技术能够推动经济增长，而艺术则有助于保护一个国家的文化和 传统。例如，历史建筑、传统音乐和著名绘画作品能够吸引游客，并帮助人们了解一个国家的历史。因此，这两个领 域都对社会作出了重要贡献。",
+      "clozes": [
+        {
+          "start": 177,
+          "end": 188,
+          "answer": "For example"
+        },
+        {
+          "start": 262,
+          "end": 269,
+          "answer": "However"
+        },
+        {
+          "start": 284,
+          "end": 328,
+          "answer": "make these lives more enjoyable by providing"
+        },
+        {
+          "start": 431,
+          "end": 454,
+          "answer": "support economic growth"
+        },
+        {
+          "start": 476,
+          "end": 503,
+          "answer": "protect a country's culture"
+        },
+        {
+          "start": 520,
+          "end": 532,
+          "answer": "For instance"
+        },
+        {
+          "start": 677,
+          "end": 686,
+          "answer": "therefore"
+        },
+        {
+          "start": 687,
+          "end": 726,
+          "answer": "make important contributions to society"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, artists are still valued because their work provides emotional support. I believe the arts and science are equally important, as science improves people's living conditions while art makes life more meaningful and helps preserve culture.",
+      "cn": "总而言之，艺术家之所以仍然受到重视，是因为他们的作品能够提供情感支持。我认为，艺术与科学同样重要，因为 科学能够改善人们的生活条件，而艺术则能够让生活更有意义，并帮助保护文化。",
+      "clozes": [
+        {
+          "start": 59,
+          "end": 85,
+          "answer": "provides emotional support"
+        },
+        {
+          "start": 152,
+          "end": 187,
+          "answer": "improves people's living conditions"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "以...为特点",
+      "en": "marked/ characterized/ shaped by artificial intelligence"
+    },
+    {
+      "zh": "提供情绪价值",
+      "en": "provide emotional and psychological support"
+    },
+    {
+      "zh": "映射出...和...的不同",
+      "en": "reflect/ reveal/ mirror the difference between ... and ..."
+    },
+    {
+      "zh": "解决情感需求",
+      "en": "address emotional needs"
+    },
+    {
+      "zh": "对于..., 两者必不可少",
+      "en": "Both are indispensable for ..."
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

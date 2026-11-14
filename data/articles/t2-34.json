@@ -1,0 +1,252 @@
+{
+  "id": "t2-34",
+  "type": "大作文",
+  "title": "寿命延长对个人和社会的影响",
+  "group": "社会与政府",
+  "question": "A recent survey shows that in many countries across the world people are generally living longer. But an increased life expectancy has many implications for the aging individuals and for the society as a whole. What are the possible effects of a longer life expectancy on individuals and the society?",
+  "logic": "▪ 主体段一 讨论寿命延长的好①个人层面（on the individual level）→ 第一性原理：生命权（the right to life）是 人类最重要的权利 → 寿命长在现代带来了更丰富的人生体验（a more fulfilling life experience）；同时对家人也 是一种幸福。②社会经济层面（from an economic perspective）→ 老年人购买力强（strong purchasing power），促进旅游业和医疗服务行业的发展；老年人可以弥补就业缺口（alleviate workforce gaps），如在日 本、北欧国家。 ▪ 主体段二 讨论寿命延长的坏①个人角度 → 寿命延长并不代表生活质量更好 → 举例：老龄化带来的疾病 （diseases caused by ageing），如阿尔茨海默症。②经济角度 → 年轻人担负的责任加剧（养育孩子和赡养老人） → 生育率下降（low fertility）→ 长期来看造成劳动力短缺（labour shortage）→ 举例：韩国。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "An encouraging trend supported by some academic evidence is that the life expectancy in many countries is longer. However, I believe that this trend brings equally beneficial and detrimental effects on individuals and on our society.",
+      "cn": "一些学术研究表明，许多国家的人均预期寿命正在延长。然而，我认为这一趋势对个人和整个社会既带来积极影响， 也有着不可忽视的负面效应。",
+      "clozes": [
+        {
+          "start": 21,
+          "end": 64,
+          "answer": "supported by some academic evidence is that"
+        },
+        {
+          "start": 114,
+          "end": 121,
+          "answer": "However"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "An extended life expectancy entails multiple personal and societal gains. On the individual level, modern people enjoy a longer life, which was even the pursuit of countless ancient monarchs. The right to life is the most important right of human beings. Thus, living longer ensures a more fulfilling life experience for people of modern times. Further, it is reassuring for many families to witness older relatives live longer, healthier lives. From an economic perspective, the elderly generally have strong purchasing power, which helps sustain the development of many industries ranging from tourism to medical services. Meanwhile, in some countries facing labour shortages, such as Japan and some Nordic countries, septuagenarian workers to some extent help alleviate workforce gaps.",
+      "cn": "寿命的延长带来了多方面的个人与社会收益。在个人层面，现代人得以享有更长的生命，这在古代甚至是无数君王梦 寐以求的目标。生命权是人类最重要的权利。因此，更长的寿命为现代人带来了更加丰富而完整的人生体验。对许多 家庭而言，看到年长的亲人健康长寿也是一种莫大的安慰。从经济角度看，老年人通常具备较强的消费能力，有助于 支撑多个产业的发展，从旅游业到医疗服务等不一而足。同时，在日本和部分北欧国家等劳动力短缺的国家，部分七 十岁以上的劳动者在一定程度上也缓解了劳动力缺口。",
+      "clozes": [
+        {
+          "start": 213,
+          "end": 231,
+          "answer": "the most important"
+        },
+        {
+          "start": 283,
+          "end": 316,
+          "answer": "a more fulfilling life experience"
+        },
+        {
+          "start": 354,
+          "end": 374,
+          "answer": "it is reassuring for"
+        },
+        {
+          "start": 498,
+          "end": 526,
+          "answer": "have strong purchasing power"
+        },
+        {
+          "start": 625,
+          "end": 634,
+          "answer": "Meanwhile"
+        },
+        {
+          "start": 661,
+          "end": 677,
+          "answer": "labour shortages"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, the negative impacts brought by longer life expectancy can be observed from the opposite angles. While individuals in many nations live longer, their quality of life does not necessarily increase accordingly. A series of diseases caused by ageing, such as Alzheimer’s disease and a variety of cancers, not only make elderly people suffer, but also burden their families emotionally and financially. From a financial point of view, longevity and its subsequent ageing population harm the long-term economic development of many countries. An increasing number of young people are unwilling to give birth, as they are afraid to shoulder the immense pressures from both sustaining their parents and rearing their children. The severe labour shortage caused is not likely to be counteracted by more elderly people filling some job vacancies. A pessimistic example is that South Korea is predicted to disappear from the world map if it were not to address its ageing population and low fertility.",
+      "cn": "然而，从另一个角度来看，寿命延长所带来的负面影响同样值得关注。尽管许多国家的民众寿命更长，但生活质量却 未必同步提高。许多由衰老引发的疾病，如阿尔茨海默症和各类癌症，不仅使老年人饱受折磨，也对其家庭造成情感 与经济上的双重压力。从经济层面看，长寿及其带来的老龄化趋势，正在损害不少国家的长期发展潜力。越来越多的 年轻人不愿意生育，正是因为他们害怕同时承担赡养老人和抚育孩子的巨大压力。而由此造成的劳动力短缺，并非通 过老年人再就业就能完全弥补。以韩国为例，一些预测认为，若韩国不及时解决人口老龄化和生育率过低的问题，未 来甚至将“在世界地图上消失”。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 239,
+          "end": 255,
+          "answer": "caused by ageing"
+        },
+        {
+          "start": 320,
+          "end": 346,
+          "answer": "make elderly people suffer"
+        },
+        {
+          "start": 357,
+          "end": 406,
+          "answer": "burden their families emotionally and financially"
+        },
+        {
+          "start": 469,
+          "end": 486,
+          "answer": "ageing population"
+        },
+        {
+          "start": 492,
+          "end": 526,
+          "answer": "the long-term economic development"
+        },
+        {
+          "start": 634,
+          "end": 685,
+          "answer": "shoulder the immense pressures from both sustaining"
+        },
+        {
+          "start": 779,
+          "end": 797,
+          "answer": "be counteracted by"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "To conclude, while longer life expectancy is a sign of societal and medical progress, it proves both beneficial and harmful to today’s people and the economy.",
+      "cn": "总之，虽然寿命延长是社会与医学进步的体现，但它对当代个体和整体经济而言既有积极意义，也带来了诸多挑战。",
+      "clozes": []
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "People in many countries are now living longer than before. This is mainly because of better healthcare and living conditions. However, a longer life expectancy can bring equal benefits and problems to individuals and society.",
+      "cn": "如今，许多国家的人们都比过去更加长寿。这主要得益于医疗水平和生活条件的改善。然而，预期寿命的延长会给个 人和社会同时带来同等的益处和问题。",
+      "clozes": [
+        {
+          "start": 127,
+          "end": 134,
+          "answer": "However"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "For individuals, living longer means that people have more time to enjoy their lives. Many older people can travel, spend time on their hobbies and enjoy their retirement. They can also stay with their children and grandchildren for more years, which is good for family relationships. A longer life expectancy can also benefit society. Older people spend money on tourism, healthcare and other services, helping these industries grow. Some of them can also continue working after retirement age. This can help countries that do not have enough young workers.",
+      "cn": "对于个人而言，寿命延长意味着人们有更多时间享受生活。许多老年人可以旅行、发展自己的兴趣爱好，并享受退休 生活。他们还可以与自己的子女和孙辈相处更长时间，这有助于增进家庭关系。预期寿命延长也能够使社会受益。老 年人会在旅游、医疗和其他服务领域进行消费，从而促进这些行业的发展。此外，一些老年人在达到退休年龄之后仍 然可以继续工作。这能够帮助那些年轻劳动力不足的国家缓解劳动力短缺问题。",
+      "clozes": [
+        {
+          "start": 49,
+          "end": 84,
+          "answer": "have more time to enjoy their lives"
+        },
+        {
+          "start": 349,
+          "end": 363,
+          "answer": "spend money on"
+        },
+        {
+          "start": 532,
+          "end": 557,
+          "answer": "have enough young workers"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, living longer can also cause problems. Although people may live to an older age, they may suffer from health problems in the later years of their lives. Some elderly people develop serious diseases and need long-term care. This can reduce their quality of life and also create emotional and financial pressure for their families. Society can face problems as well. As the elderly population grows, governments need to spend more money on healthcare and pensions. At the same time, there may be fewer young people working and paying taxes. Young adults may also have to support their elderly parents while raising their own children. Although some older people can continue working, they cannot completely solve the problem of labour shortages.",
+      "cn": "然而，寿命延长也可能带来一些问题。尽管人们可以活到更大的年纪，但他们在晚年可能会受到健康问题的困扰。一 些老年人会患上严重疾病，并需要长期照护。这不仅可能降低他们的生活质量，还会给他们的家庭带来情感和经济上 的压力。社会同样会面临一些问题。随着老年人口不断增加，政府需要在医疗和养老金方面投入更多资金。与此同 时，参加工作并缴纳税款的年轻人可能会越来越少。年轻成年人还可能需要在抚养自己孩子的同时赡养年迈的父母。 尽管一些老年人能够继续工作，但他们无法彻底解决劳动力短缺的问题。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 48,
+          "end": 56,
+          "answer": "Although"
+        },
+        {
+          "start": 182,
+          "end": 206,
+          "answer": "develop serious diseases"
+        },
+        {
+          "start": 241,
+          "end": 269,
+          "answer": "reduce their quality of life"
+        },
+        {
+          "start": 279,
+          "end": 295,
+          "answer": "create emotional"
+        },
+        {
+          "start": 351,
+          "end": 372,
+          "answer": "face problems as well"
+        },
+        {
+          "start": 570,
+          "end": 613,
+          "answer": "have to support their elderly parents while"
+        },
+        {
+          "start": 735,
+          "end": 751,
+          "answer": "labour shortages"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, longer life expectancy gives people more time to enjoy life and can bring some benefits to the economy. However, it can also cause health problems for individuals and create financial and labour pressure for society.",
+      "cn": "总而言之，预期寿命延长让人们拥有更多时间享受生活，同时也能够给经济带来一些益处。然而，它也可能给个人带 来健康问题，并给社会造成经济和劳动力方面的压力。",
+      "clozes": [
+        {
+          "start": 119,
+          "end": 126,
+          "answer": "However"
+        },
+        {
+          "start": 140,
+          "end": 177,
+          "answer": "cause health problems for individuals"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "带来了个人与社会的多重收益",
+      "en": "entail multiple personal and societal gains"
+    },
+    {
+      "zh": "对……是一种安慰",
+      "en": "it is reassuring for ..."
+    },
+    {
+      "zh": "劳动力短缺",
+      "en": "labour shortages"
+    },
+    {
+      "zh": "给家庭造成情感与经济的双重压力",
+      "en": "burden their families emotionally and financially"
+    },
+    {
+      "zh": "承担赡养老人和抚养孩子的巨大压力",
+      "en": "shoulder the immense pressures from both sustaining"
+    },
+    {
+      "zh": "被抵消；被弥补",
+      "en": "be counteracted by"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

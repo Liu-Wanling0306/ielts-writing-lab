@@ -1,0 +1,310 @@
+{
+  "id": "t2-33",
+  "type": "大作文",
+  "title": "城市空地应该植树还是建房？",
+  "group": "社会与政府",
+  "question": "Some people believe more trees should be planted in the open spaces in cities and towns, but others argue more housing is needed in these places. Discuss both views and state your opinion.",
+  "logic": "▪ 主体段一 支持用开放空间建造住房① 缓解住房短缺（accommodation shortages） → 房价上涨 + 人口增长 → 体面住房越来越难以负担（increasingly unaffordable）→ 建造住宅可以缓解过度拥挤（relieve overcrowding）、 改善基本居住条件② 促进当地经济（stimulate local economies） → 创造就业机会（create employment opportunities）→ 带动建筑材料、交通、室内设计等相关产业 ▪ 主体段二 支持在开放空间种植更多树木① 保护城市环境（environmental protection） → 改善空气质量、减少 噪音、提供阴凉 → 缓解城市热岛效应（mitigate the urban heat island effect）② 改善公众身心健康（public well- being） → 绿色环境鼓励运动、放松和社交 → 提高日常生活质量（improve the quality of everyday life）③ 促进 城市长期可持续发展（long-term sustainability） → 开放空间一旦被住宅取代就很难恢复为绿地 → 面对气候变 化和环境恶化 → 种树是更加长远且可持续的选择（a more far-sighted and sustainable decision）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The issue of how open spaces in towns and cities should be used has sparked considerable debate in modern society. While some argue that these areas should be developed to provide more housing in response to rising urban pressure, others maintain that planting more trees is a wiser option for environmental and social well-being. This essay will explore both perspectives before contending that expanding urban greenery offers stronger justification for the long-term development of cities and towns.",
+      "cn": "如何利用城市和城镇中的开放空间，已经成为现代社会广泛讨论的话题。一些人认为，面对日益增长的城市发展压 力，应该将这些区域开发为住宅用地，以提供更多住房；而另一些人则坚持认为，从环境保护和社会福祉的角度来 看，种植更多树木是更加明智的选择。本文将探讨这两种观点，并进一步论证，从城市和城镇的长期发展来看，扩大 城市绿化面积具有更加充分的理由。",
+      "clozes": [
+        {
+          "start": 64,
+          "end": 113,
+          "answer": "has sparked considerable debate in modern society"
+        },
+        {
+          "start": 159,
+          "end": 204,
+          "answer": "developed to provide more housing in response"
+        },
+        {
+          "start": 459,
+          "end": 480,
+          "answer": "long-term development"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "It is understandable that some people support using urban open spaces for housing, citing concerns such as accommodation shortages and social stability. First, in many cities, soaring property prices and population growth have made decent housing increasingly unaffordable, especially for young families and low-income residents. Converting available land into residential developments may therefore relieve overcrowding and improve basic living conditions. Furthermore, the construction of more housing can stimulate local economies by creating employment opportunities and supporting related industries such as construction materials, transport, and interior design. For these reasons, many people believe that providing more homes is a more immediate and practical response to urban challenges.",
+      "cn": "一些人支持将城市开放空间用于住房建设是可以理解的，他们主要关注住房短缺和社会稳定等问题。首先，在许多城 市，房价飙升和人口增长使得人们越来越难以负担条件良好的住房，尤其是年轻家庭和低收入居民。因此，将可利用 的土地开发为住宅区，可能有助于缓解居住拥挤的问题，并改善人们的基本生活条件。此外，建设更多住房还能够通 过创造就业机会，以及带动建筑材料、交通运输和室内设计等相关行业的发展，刺激当地经济。因此，许多人认为， 提供更多住房是应对当前城市发展问题一种更加直接且切实可行的方式。",
+      "clozes": [
+        {
+          "start": 38,
+          "end": 81,
+          "answer": "support using urban open spaces for housing"
+        },
+        {
+          "start": 176,
+          "end": 199,
+          "answer": "soaring property prices"
+        },
+        {
+          "start": 247,
+          "end": 272,
+          "answer": "increasingly unaffordable"
+        },
+        {
+          "start": 390,
+          "end": 399,
+          "answer": "therefore"
+        },
+        {
+          "start": 400,
+          "end": 420,
+          "answer": "relieve overcrowding"
+        },
+        {
+          "start": 425,
+          "end": 456,
+          "answer": "improve basic living conditions"
+        },
+        {
+          "start": 508,
+          "end": 533,
+          "answer": "stimulate local economies"
+        },
+        {
+          "start": 546,
+          "end": 570,
+          "answer": "employment opportunities"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, those in favour of planting more trees provide stronger justification, particularly in terms of environmental protection, public well-being, and the long-term sustainability of urban life. First, trees improve air quality, reduce noise pollution, provide shade, and help mitigate the urban heat island effect, all of which are increasingly important in densely populated cities. Second, greener surroundings enhance people’s physical and mental health by encouraging exercise, relaxation, and social interaction. Parks and tree-lined streets are not merely decorative features, but essential public spaces that improve the quality of everyday life. Finally, once open land is replaced by housing blocks, it becomes extremely difficult to recover it as green space. At a time when climate change and environmental degradation are pressing global concerns, using such areas for tree planting is a more far-sighted and sustainable decision. In this sense, prioritising urban greenery is not simply an aesthetic preference, but a necessary investment in healthier and more liveable cities.",
+      "cn": "然而，支持种植更多树木的人提出了更有说服力的理由，尤其是在环境保护、公众福祉以及城市生活的长期可持续发 展方面。首先，树木能够改善空气质量、减少噪声污染、提供阴凉，并帮助缓解城市热岛效应。在人口密集的城市 中，这些作用正变得越来越重要。其次，更加绿色的生活环境能够鼓励人们锻炼身体、放松身心以及参与社交活动， 从而改善人们的身心健康。公园和绿树成荫的街道并不仅仅是美化城市的装饰性设施，而是能够提升日常生活质量的 重要公共空间。最后，一旦开放土地被住宅楼所取代，要将其重新恢复为绿地就会变得极其困难。在气候变化和环境 退化已经成为全球紧迫问题的时代，将这些区域用于种植树木，是一种更具长远眼光、也更加符合可持续发展理念的 决定。从这个意义上来说，优先发展城市绿化并不仅仅是一种审美偏好，而是对建设更加健康、更加宜居城市的一项 必要投资。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 93,
+          "end": 104,
+          "answer": "in terms of"
+        },
+        {
+          "start": 434,
+          "end": 460,
+          "answer": "physical and mental health"
+        },
+        {
+          "start": 502,
+          "end": 520,
+          "answer": "social interaction"
+        },
+        {
+          "start": 716,
+          "end": 766,
+          "answer": "becomes extremely difficult to recover it as green"
+        },
+        {
+          "start": 838,
+          "end": 862,
+          "answer": "pressing global concerns"
+        },
+        {
+          "start": 902,
+          "end": 945,
+          "answer": "a more far-sighted and sustainable decision"
+        },
+        {
+          "start": 1059,
+          "end": 1093,
+          "answer": "healthier and more liveable cities"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, while it is reasonable that housing shortages prompt calls for more residential development, turning urban open spaces into building sites is not always the most sensible solution. I firmly believe that planting more trees is not merely a strategy to beautify cities, but a fundamental investment in environmental quality, public health, and the long-term sustainability of urban society.",
+      "cn": "总而言之，住房短缺促使人们呼吁增加住宅建设，这种诉求是合理的，但将城市开放空间改造成建筑用地并不总是最 明智的解决方案。我坚信，种植更多树木不仅仅是一种美化城市的方式，更是对环境质量、公众健康以及城市社会长 期可持续发展的一项根本性投资。",
+      "clozes": [
+        {
+          "start": 78,
+          "end": 106,
+          "answer": "more residential development"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that open spaces in cities and towns should be used to build more houses, while others argue that more trees should be planted in these areas. Although building more homes can help solve housing problems, I believe planting trees is more beneficial for the long-term development of cities.",
+      "cn": "一些人认为，城市和城镇中的开放空间应该用于建设更多住房，而另一些人则认为，应该在这些区域种植更多树木。 尽管建设更多住房能够帮助解决住房问题，但我认为，从城市的长期发展来看，种植树木能够带来更大的益处。",
+      "clozes": [
+        {
+          "start": 163,
+          "end": 171,
+          "answer": "Although"
+        },
+        {
+          "start": 277,
+          "end": 298,
+          "answer": "long-term development"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "On the one hand, there are good reasons why some people support using open spaces for housing. The main reason is that many cities are facing housing shortages because of growing populations. When there are not enough homes available, property prices and rents may rise, making it difficult for young people and low-income families to find affordable accommodation. Building more houses on unused land can therefore increase the housing supply and improve people's living conditions. In addition, housing construction can create jobs and support related industries, such as transport and building materials. From this perspective, using open spaces for housing may seem like a practical way to deal with immediate urban problems.",
+      "cn": "一方面，一些人支持利用开放空间建设住房是有充分理由的。最主要的原因是，由于人口不断增长，许多城市正面临 住房短缺的问题。当可供居住的住房数量不足时，房价和租金可能会上涨，使年轻人和低收入家庭难以找到负担得起 的住所。因此，在尚未利用的土地上建设更多住房可以增加住房供应，并改善人们的居住条件。此外，住房建设还能 够创造就业机会，并带动交通运输和建筑材料等相关行业的发展。从这个角度来看，利用开放空间建设住房似乎是解 决当前城市问题的一种切实可行的方法。",
+      "clozes": [
+        {
+          "start": 56,
+          "end": 93,
+          "answer": "support using open spaces for housing"
+        },
+        {
+          "start": 95,
+          "end": 110,
+          "answer": "The main reason"
+        },
+        {
+          "start": 406,
+          "end": 415,
+          "answer": "therefore"
+        },
+        {
+          "start": 416,
+          "end": 443,
+          "answer": "increase the housing supply"
+        },
+        {
+          "start": 484,
+          "end": 495,
+          "answer": "In addition"
+        },
+        {
+          "start": 522,
+          "end": 533,
+          "answer": "create jobs"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "On the other hand, I believe planting more trees brings greater long-term benefits. Trees can improve air quality, provide shade and reduce noise, making cities healthier and more comfortable places to live. Green spaces also give residents places to exercise, relax and spend time with others, which can improve both physical and mental well-being. More importantly, once open land is used for housing, it can be extremely difficult to turn it back into green space. At a time when many cities are already facing rising temperatures and other environmental problems, protecting open spaces and planting more trees can make urban areas more sustainable in the future.",
+      "cn": "另一方面，我认为种植更多树木能够带来更大的长期利益。树木可以改善空气质量、提供阴凉并减少噪音，从而使城 市成为更加健康、舒适的居住环境。绿地还能够为居民提供锻炼、放松以及与他人相处的场所，从而改善人们的身心 健康。更重要的是，一旦开放土地被用于住房建设，就很难再将其恢复为绿地。如今，许多城市已经面临气温升高以 及其他环境问题，因此，保护开放空间并种植更多树木能够使城市地区在未来实现更加可持续的发展。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 17,
+          "answer": "On the other hand"
+        },
+        {
+          "start": 56,
+          "end": 82,
+          "answer": "greater long-term benefits"
+        },
+        {
+          "start": 94,
+          "end": 113,
+          "answer": "improve air quality"
+        },
+        {
+          "start": 241,
+          "end": 259,
+          "answer": "places to exercise"
+        },
+        {
+          "start": 305,
+          "end": 326,
+          "answer": "improve both physical"
+        },
+        {
+          "start": 331,
+          "end": 348,
+          "answer": "mental well-being"
+        },
+        {
+          "start": 350,
+          "end": 366,
+          "answer": "More importantly"
+        },
+        {
+          "start": 624,
+          "end": 635,
+          "answer": "urban areas"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although building more houses can help address housing shortages, I believe urban open spaces should mainly be used for planting trees. The environmental and health benefits of green spaces make them particularly important for the long-term quality of urban life.",
+      "cn": "总而言之，尽管建设更多住房能够帮助缓解住房短缺问题，但我认为，城市中的开放空间应该主要用于种植树木。绿 地所带来的环境和健康效益，使其对于城市生活质量的长期提升尤为重要。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 151,
+          "end": 188,
+          "answer": "The environmental and health benefits"
+        },
+        {
+          "start": 205,
+          "end": 255,
+          "answer": "make them particularly important for the long-term"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "扩大城市绿化",
+      "en": "expand urban greenery"
+    },
+    {
+      "zh": "房价飙升",
+      "en": "soaring property prices"
+    },
+    {
+      "zh": "越来越难以负担",
+      "en": "increasingly unaffordable"
+    },
+    {
+      "zh": "缓解过度拥挤",
+      "en": "relieve overcrowding"
+    },
+    {
+      "zh": "刺激当地经济",
+      "en": "stimulate local economies"
+    },
+    {
+      "zh": "紧迫的全球问题",
+      "en": "pressing global concerns"
+    },
+    {
+      "zh": "更有远见且可持续的决定",
+      "en": "a more far-sighted and sustainable decision"
+    },
+    {
+      "zh": "更健康、更宜居的城市",
+      "en": "healthier and more liveable cities"
+    },
+    {
+      "zh": "将开放空间变成建筑用地",
+      "en": "turn urban open spaces into building sites"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}
