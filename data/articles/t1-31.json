@@ -1,0 +1,222 @@
+{
+  "id": "t1-31",
+  "type": "小作文",
+  "title": "澳大利亚各年龄段男女就业率（1976与2011）",
+  "group": "数据图表",
+  "question": "Employment rates among Australian men and women aged 18 to 34 in 1976 and 2011. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.（据批改稿整理题意，非原始题干逐字转录。）",
+  "logic": "▪ 概述：总体随年龄上升，2011年女性有波动；同年同龄男性高于女性，同性别同龄2011年低于1976年。▪ 目标版主一段：比较男性两个年份的18岁与34岁起终值（70%→约92%；60%→80%）。▪ 目标版主二段：1976年女性增幅较小（约63%→约71%）；2011年女性约53%→57%→53%→59%，选转折点。▪ 修正版按1976年、2011年分段；年龄用at age，年份用in；不把年龄横轴误写为时间变化。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The line graph compares employment rates among Australian men and women aged 18 to 34 in 1976 and 2011.",
+      "cn": "该折线图比较了1976年和2011年澳大利亚18至34岁男女的就业率。",
+      "clozes": [
+        {
+          "start": 24,
+          "end": 40,
+          "answer": "employment rates"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, employment rates generally rose with age, although the figure for women in 2011 fluctuated. Men were more likely to be employed than women of the same age in both years. For each sex, rates were lower in 2011 than in 1976 across the entire age range.",
+      "cn": "总体而言，就业率通常随年龄上升，但2011年女性的就业率有所波动。在两个年份中，同龄男性均比女性更可能就业。对于每一种性别，2011年整个年龄范围内的就业率均低于1976年。",
+      "clozes": [
+        {
+          "start": 9,
+          "end": 25,
+          "answer": "employment rates"
+        },
+        {
+          "start": 36,
+          "end": 49,
+          "answer": "rose with age"
+        },
+        {
+          "start": 60,
+          "end": 80,
+          "answer": "the figure for women"
+        },
+        {
+          "start": 231,
+          "end": 258,
+          "answer": "across the entire age range"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Among men, employment rates rose steadily with age in both years. In 1976, the figure climbed from 70% at age 18 to approximately 92% at age 34. The corresponding figures for 2011 were 60% and 80%, respectively.",
+      "cn": "两个年份的男性就业率均随年龄稳步上升。1976年，该数值从18岁时的70%升至34岁时的约92%。2011年相应的数值分别为60%和80%。",
+      "clozes": [
+        {
+          "start": 11,
+          "end": 27,
+          "answer": "employment rates"
+        },
+        {
+          "start": 28,
+          "end": 50,
+          "answer": "rose steadily with age"
+        },
+        {
+          "start": 145,
+          "end": 170,
+          "answer": "The corresponding figures"
+        },
+        {
+          "start": 198,
+          "end": 210,
+          "answer": "respectively"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "The rise with age among women was more modest in 1976, with the rate increasing from about 63% at age 18 to around 71% at age 34. In 2011, the female rate started at about 53% and reached around 57% at ages 23 and 24. It then dipped back to about 53% at ages 28 and 29 before climbing to 59% at age 34, its highest point that year.",
+      "cn": "1976年女性就业率随年龄的增幅较小，从18岁时的约63%升至34岁时的约71%。2011年，女性就业率从约53%开始，在23至24岁达到约57%；随后在28至29岁回落至约53%，之后在34岁升至59%，为该年女性组的最高点。",
+      "clozes": [
+        {
+          "start": 34,
+          "end": 45,
+          "answer": "more modest"
+        },
+        {
+          "start": 269,
+          "end": 287,
+          "answer": "before climbing to"
+        },
+        {
+          "start": 303,
+          "end": 320,
+          "answer": "its highest point"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "The line graph compares the employment rates of men and women aged 18 to 34 in Australia in 1976 and 2011.",
+      "cn": "该折线图比较了1976年和2011年澳大利亚18至34岁男女的就业率。",
+      "clozes": [
+        {
+          "start": 28,
+          "end": 44,
+          "answer": "employment rates"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Overall, employment rates generally rose with age, although the rate for women in 2011 fluctuated. Men recorded higher rates than women at every age in both years. For both sexes, employment rates were lower in 2011 than in 1976 at every age shown.",
+      "cn": "总体而言，就业率通常随年龄上升，但2011年女性的就业率有所波动。在两个年份的每个年龄点，男性就业率都高于女性。对两种性别而言，2011年每个所示年龄的就业率都低于1976年。",
+      "clozes": [
+        {
+          "start": 9,
+          "end": 25,
+          "answer": "employment rates"
+        },
+        {
+          "start": 36,
+          "end": 49,
+          "answer": "rose with age"
+        },
+        {
+          "start": 136,
+          "end": 148,
+          "answer": "at every age"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In 1976, the employment rate for men rose from 70% at age 18 to approximately 92% at age 34. The figure for women also rose, but by a much smaller amount, from around 63% to 71% over the same age range.",
+      "cn": "1976年，男性就业率从18岁时的70%升至34岁时的约92%。女性就业率也有所上升，但增幅小得多，从约63%升至同一年龄范围末端的71%。",
+      "clozes": []
+    },
+    {
+      "idx": 4,
+      "en": "In 2011, the male employment rate rose steadily with age, from 60% at age 18 to 80% at age 34. The figure for women, meanwhile, increased from around 53% at age 18 to about 57% at ages 23 and 24 before falling to around 53% at ages 28 and 29. It then climbed to approximately 59% at age 34, the highest figure for women that year.",
+      "cn": "2011年，男性就业率随年龄稳步上升，从18岁时的60%升至34岁时的80%。与此同时，女性就业率从18岁时的约53%升至23至24岁时的约57%，随后在28至29岁降至约53%；之后在34岁回升至约59%，为该年女性组的最高点。",
+      "clozes": [
+        {
+          "start": 34,
+          "end": 56,
+          "answer": "rose steadily with age"
+        },
+        {
+          "start": 58,
+          "end": 93,
+          "answer": "from 60% at age 18 to 80% at age 34"
+        },
+        {
+          "start": 195,
+          "end": 212,
+          "answer": "before falling to"
+        },
+        {
+          "start": 291,
+          "end": 309,
+          "answer": "the highest figure"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "en": "the employment rate for [group]",
+      "zh": "某群体的就业率；例句：The employment rate for men reached 80% at age 34."
+    },
+    {
+      "en": "at every age shown",
+      "zh": "在每个所示年龄点；例句：Men’s employment rates were higher at every age shown in both years."
+    },
+    {
+      "en": "rise steadily with age",
+      "zh": "随年龄稳步上升；例句：The male employment rate rose steadily with age in 2011."
+    },
+    {
+      "en": "rise from X to Y",
+      "zh": "从X升至Y；例句：The figure rose from 60% to 80%."
+    },
+    {
+      "en": "increase more modestly",
+      "zh": "增幅较为温和；例句：The rate for women increased more modestly in 1976."
+    },
+    {
+      "en": "that for [group]",
+      "zh": "代替前文单数rate，指某群体的数值；例句：The male employment rate was higher than that for women in 1976."
+    },
+    {
+      "en": "those recorded in [year]",
+      "zh": "代替前文复数rates，指某年记录的数据；例句：The rates in 2011 were lower than those recorded in 1976."
+    },
+    {
+      "en": "stand at around X",
+      "zh": "为约X；例句：The figure for women stood at around 53% at age 18 in 2011."
+    },
+    {
+      "en": "reach X before falling to Y",
+      "zh": "达到X后降至Y；例句：The figure reached around 57% before falling to about 53%."
+    },
+    {
+      "en": "reach its highest point at age X",
+      "zh": "在X岁达到最高点；例句：The female employment rate in 2011 reached its highest point at age 34."
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "nine": "版本 B · Band 7.5–8 目标版",
+    "seven": "版本 A · 保留原意修正版"
+  },
+  "source_note": "来自用户提交的完整批改稿。原稿练习估分约5.5；版本B为Band 7.5–8目标参考，并非9分或官方评分。未附原图，数据沿用批改稿估读值（约63%、57%、53%、59%等），需以原图为准。完整批改、两个版本与短句训练见“我的作文档案”。中文译文为本次整理补充。"
+}

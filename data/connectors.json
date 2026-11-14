@@ -88,5 +88,55 @@
     "Task 1 地图变化",
     "... was converted into ...",
     "The main road was converted into a pedestrian-only street."
+  ],
+  [
+    "Task 1 年龄与就业率 · 某群体的就业率",
+    "the employment rate for [group]",
+    "The employment rate for men reached 80% at age 34."
+  ],
+  [
+    "Task 1 年龄与就业率 · 在每个所示年龄点",
+    "at every age shown",
+    "Men’s employment rates were higher at every age shown in both years."
+  ],
+  [
+    "Task 1 年龄与就业率 · 随年龄稳步上升",
+    "rise steadily with age",
+    "The male employment rate rose steadily with age in 2011."
+  ],
+  [
+    "Task 1 年龄与就业率 · 从X升至Y",
+    "rise from X to Y",
+    "The figure rose from 60% to 80%."
+  ],
+  [
+    "Task 1 年龄与就业率 · 增幅较为温和",
+    "increase more modestly",
+    "The rate for women increased more modestly in 1976."
+  ],
+  [
+    "Task 1 年龄与就业率 · 代替前文单数rate，指某群体的数值",
+    "that for [group]",
+    "The male employment rate was higher than that for women in 1976."
+  ],
+  [
+    "Task 1 年龄与就业率 · 代替前文复数rates，指某年记录的数据",
+    "those recorded in [year]",
+    "The rates in 2011 were lower than those recorded in 1976."
+  ],
+  [
+    "Task 1 年龄与就业率 · 为约X",
+    "stand at around X",
+    "The figure for women stood at around 53% at age 18 in 2011."
+  ],
+  [
+    "Task 1 年龄与就业率 · 达到X后降至Y",
+    "reach X before falling to Y",
+    "The figure reached around 57% before falling to about 53%."
+  ],
+  [
+    "Task 1 年龄与就业率 · 在X岁达到最高点",
+    "reach its highest point at age X",
+    "The female employment rate in 2011 reached its highest point at age 34."
   ]
 ]

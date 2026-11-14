@@ -130,5 +130,101 @@
     "results in widespread unemployment",
     "unemployment 通常不可数",
     "Automation may result in widespread unemployment in routine occupations."
+  ],
+  [
+    "the percentages of employees aged 18 to 34",
+    "the employment rates of Australian men and women aged 18 to 34",
+    "Task 1 年龄与就业率：容易理解成“雇员当中 18–34 岁的人所占的比例”。图中的分母是相应年龄和性别的人群。",
+    "employment rate 直接点明指标。也可写 *the percentage of people in employment*。"
+  ],
+  [
+    "in terms of men and women in Australia, in 1976 and 2011",
+    "the employment rates of men and women aged 18 to 34 in Australia in 1976 and 2011",
+    "Task 1 年龄与就业率：性别可以直接接在 *employment rates of* 后面，最后一个逗号也可以去掉。",
+    "图中只给两个年份，用 in 1976 and 2011 准确交代范围。"
+  ],
+  [
+    "increased as age growing older",
+    "Employment rates generally rose with age.",
+    "Task 1 年龄与就业率：`as` 在这里引出从句，原句缺限定动词。图表比较不同年龄的人群，可以直接用 *with age*。",
+    "rise with age 简明地表达年龄越高，数值总体越高。"
+  ],
+  [
+    "expecting … with a fluctuate trend",
+    "… except among women in 2011, whose employment rate fluctuated.",
+    "Task 1 年龄与就业率：“除了”用 except。fluctuate 是动词，*a fluctuate trend* 词形错误。",
+    "except among + 人群。写细节时，用 *rose, dipped and then recovered* 说明波动形态。"
+  ],
+  [
+    "While the … rates of men were leading that for women …",
+    "Men’s employment rates were higher than those of women at every age in both years.",
+    "Task 1 年龄与就业率：*While* 从句缺主句。*were leading* 在这里不如 *were higher than* 自然。若前文用复数 *rates*，替代时用 those。",
+    "those of women 代替 *the employment rates of women*。强调同年龄比较，用 at every age。"
+  ],
+  [
+    "the men employment proportion",
+    "the employment rate for men / the male employment rate",
+    "Task 1 年龄与就业率：名词组合不自然，且 *men* 和 *employment* 的关系没有表达清楚。",
+    "第一次点明指标，后面可接 the figure for women。"
+  ],
+  [
+    "70% in age 18 to 92% approximatedly in age 34",
+    "from 70% at age 18 to around 92% at age 34",
+    "Task 1 年龄与就业率：年龄用 at age。拼写是 approximately，通常放在数字前。",
+    "from X to Y 表示起终值。也可写 *among 18-year-olds*。"
+  ],
+  [
+    "that for women workers growed … in age 43",
+    "while that for women rose from about 63% at age 18 to around 71% at age 34",
+    "Task 1 年龄与就业率：`that for` 的结构用对了，它可以承接前面的单数 *rate*。动词过去式是 *grew*，终点年龄应为 34。",
+    "the rate for men → that for women。用 women 就能标明比较组。"
+  ],
+  [
+    "with a smoother increasing trend in general",
+    "The increase among women was much smaller.",
+    "Task 1 年龄与就业率：*smoother* 暗示变化更均匀，但女性曲线上有数段持平。你观察到的更明显的区别是增幅较小。",
+    "男性约增加 22 个百分点，女性约增加 8 个百分点。比较幅度可以用 a smaller increase。"
+  ],
+  [
+    "the … rates for these two sexual were overly fell … compared with that",
+    "In 2011, employment rates for both men and women were lower than those recorded in 1976 at every age.",
+    "Task 1 年龄与就业率：sexual 是形容词。*were fell* 混用了 were lower 和 fell。复数 *rates* 用 those 承接。",
+    "对比两个年份的水平，were lower than 最直接。图表只给两个年份，无法判断期间是否持续下降。"
+  ],
+  [
+    "The number of men employees increased … to 75% in age 34",
+    "The male employment rate rose steadily with age, from 60% at age 18 to 80% at age 34.",
+    "Task 1 年龄与就业率：图中是就业率。2011 年男性在 30 岁约为 75%，到 34 岁是 80%。",
+    "报终值前，沿着正确颜色的曲线找到最右端，再核对横轴年龄。"
+  ],
+  [
+    "rose to 58% in age 23 before felling to only 54% in age 28",
+    "It reached around 57% at ages 23 and 24 before falling to about 53% at ages 28 and 29.",
+    "Task 1 年龄与就业率：读图约为 23–24 岁 57%、28–29 岁 53%。*fall* 的 -ing 形式是 falling。",
+    "before falling to + 终值。连续两个年龄读数相同时，可以合写。"
+  ],
+  [
+    "increased back to 55% … representing the highest figure",
+    "It then climbed to about 59% at age 34, the highest figure for women in 2011.",
+    "Task 1 年龄与就业率：34 岁的点约为 59%。你判断“达到该组最高值”的方向是对的，问题在于 55% 这个读数。",
+    "climbed to 适合这里的回升。returned to 适合回到先前达到过的同一水平。"
+  ],
+  [
+    "before felling to",
+    "before falling to",
+    "fall的-ing形式为falling；before后接动名词。",
+    "It reached around 57% before falling to about 53%."
+  ],
+  [
+    "growed",
+    "grew",
+    "grow的过去式为grew。",
+    "The employment rate grew with age."
+  ],
+  [
+    "lower than that in 1976",
+    "lower than those recorded in 1976",
+    "复数rates用those替代；单数rate可用that。",
+    "Employment rates in 2011 were lower than those recorded in 1976."
   ]
 ]
