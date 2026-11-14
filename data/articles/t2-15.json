@@ -1,0 +1,261 @@
+{
+  "id": "t2-15",
+  "type": "大作文",
+  "title": "素食主义的原因和影响",
+  "group": "环境与动物",
+  "question": "More and more people opt for plant based diets. What are the reasons? Is it a good or bad development?",
+  "logic": "▪ 主体段一 回答第一问-原因① 伦理道德问题（ethical concerns） → 动物养殖及屠宰过程中存在不人道待遇 （inhumane conditions）→ 越来越多人认为继续食用肉类在道德上站不住脚（ethically indefensible）② 环境问 题（environmental concerns） → 人们越来越关注脆弱的生态系统（fragile ecosystem）→ 畜牧业比植物种植消 耗更多能源（energy-intensive）→ 导致森林砍伐和温室气体排放（deforestation and greenhouse gas emissions） ▪ 主体段二 回答第二问-好坏① 改善个人健康 → 植物性饮食富含纤维和维生素（rich in fibres and vitamins） → 降低饮食相关疾病（diet-related diseases）的风险 → 减轻治疗慢性疾病的经济负担（economic burden）② 促进 生态可持续发展（ecological sustainability） → 动物是生态平衡的重要组成部分 → 减少对动物的利用（exploit animals）→ 促进生态系统的长期稳定",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "For centuries, people around the world have adhered to meat-based diets. However, there is a growing tendency to opt for plant-based diets among modern individuals, as they gradually move away from their age-long eating habits. This essay will explore the main drivers for this shift and argue that it is, on balance, a highly positive development.",
+      "cn": "几个世纪以来，世界各地的人们一直保持着以肉类为主的饮食习惯。然而，如今越来越多的人开始选择植物性饮食， 逐渐改变延续已久的饮食方式。本文将探讨这一转变背后的主要原因，并论证从整体来看，这是一种十分积极的发展 趋势。",
+      "clozes": [
+        {
+          "start": 39,
+          "end": 71,
+          "answer": "have adhered to meat-based diets"
+        },
+        {
+          "start": 73,
+          "end": 80,
+          "answer": "However"
+        },
+        {
+          "start": 113,
+          "end": 138,
+          "answer": "opt for plant-based diets"
+        },
+        {
+          "start": 252,
+          "end": 272,
+          "answer": "the main drivers for"
+        },
+        {
+          "start": 318,
+          "end": 347,
+          "answer": "a highly positive development"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The chief motivations of people’s adoption of plant-based diets lie in ethical and environmental concerns. In recent years, disturbing revelations regarding the animal and dairy production, including the inhumane conditions under which many animals are bred, transported, and slaughtered, make more people find it ethically indefensible to continue consuming meat products as they once did.Moreover, awareness has grown significantly regarding the fragile ecosystem of our planet. Compared with plant agriculture, livestock farming is far more energy-intensive, directly contributing to deforestation and greenhouse gas emissions. Taken together, these factors are prompting more people to embrace a plant-focused lifestyle.",
+      "cn": "人们选择植物性饮食的主要动机在于伦理和环境方面的担忧。近年来，有关肉类和乳制品生产行业的一些令人不安的 事实逐渐被揭露，其中包括许多动物在饲养、运输和屠宰过程中所遭受的不人道待遇。这使得越来越多的人认为，像 过去一样继续食用肉类产品在道德上已经难以接受。此外，人们对于地球生态系统脆弱性的认识也显著提高。与植物 种植业相比，畜牧业需要消耗更多能源，并直接导致森林砍伐和温室气体排放。综合来看，这些因素正促使越来越多 的人接受以植物性食物为主的生活方式。",
+      "clozes": [
+        {
+          "start": 124,
+          "end": 146,
+          "answer": "disturbing revelations"
+        },
+        {
+          "start": 314,
+          "end": 336,
+          "answer": "ethically indefensible"
+        },
+        {
+          "start": 410,
+          "end": 465,
+          "answer": "has grown significantly regarding the fragile ecosystem"
+        },
+        {
+          "start": 481,
+          "end": 494,
+          "answer": "Compared with"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "This trend is undoubtedly beneficial for both human health and long-term sustainability of our planet. Nutritionally, plant-based diets are rich in fibres and essential vitamins, and can drastically reduce the risk of diet-related diseases, such as cardiovascular disease and type 2 diabetes. Beyond individual health benefits, the economic burden of treating chronic diet-related illnesses may be eased through widespread dietary change. Further, animals are vital components of this beautiful planet and its ecological balance. The less we exploit them, the more we contribute to the sustainability and stability of life on our shared homeland.",
+      "cn": "这一趋势无疑有益于人类健康以及地球的长期可持续发展。从营养角度来看，植物性饮食富含膳食纤维和人体必需的 维生素，并能够大幅降低心血管疾病和二型糖尿病等饮食相关疾病的患病风险。除了对个人健康的益处之外，随着饮 食习惯的广泛改变，社会用于治疗饮食相关慢性疾病的经济负担也可能得到减轻。此外，动物是这个美丽星球及其生 态平衡中不可或缺的组成部分。我们对动物的利用和伤害越少，就越能为人类共同家园的可持续发展以及生态系统的 稳定作出贡献。",
+      "clozes": [
+        {
+          "start": 199,
+          "end": 217,
+          "answer": "reduce the risk of"
+        },
+        {
+          "start": 218,
+          "end": 239,
+          "answer": "diet-related diseases"
+        },
+        {
+          "start": 568,
+          "end": 581,
+          "answer": "contribute to"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, the global transition from animal consumption to plant-based diets represents a significant step forward for modern society. The increasing consciousness of ethical responsibility and environmental protection is the primary force driving this trend, which will play a pivotal role in ensuring long-term human health and ecological well-being.",
+      "cn": "总而言之，全球范围内从食用动物性食品转向植物性饮食，代表着现代社会向前迈出的重要一步。人们日益增强的伦 理责任意识和环境保护意识，是推动这一趋势的主要力量，而这一转变将在保障人类长期健康和生态福祉方面发挥关 键作用。",
+      "clozes": [
+        {
+          "start": 82,
+          "end": 130,
+          "answer": "represents a significant step forward for modern"
+        },
+        {
+          "start": 276,
+          "end": 298,
+          "answer": "play a pivotal role in"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "In recent years, more people have chosen to follow plant-based diets instead of eating meat. This essay will explore the main reasons for this trend and argue that it is a positive development.",
+      "cn": "近年来，越来越多的人选择植物性饮食，而不是食用肉类。本文将探讨这一趋势背后的主要原因，并论证这是一种积 极的发展趋势。",
+      "clozes": [
+        {
+          "start": 29,
+          "end": 76,
+          "answer": "have chosen to follow plant-based diets instead"
+        },
+        {
+          "start": 117,
+          "end": 132,
+          "answer": "the main reason"
+        },
+        {
+          "start": 170,
+          "end": 192,
+          "answer": "a positive development"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "There are two main reasons why people are choosing plant-based diets. First, many people have become more concerned about animal welfare. In recent years, reports about poor conditions on animal farms have made consumers more aware of how animals are raised and killed for food. As a result, some people have decided to reduce their meat consumption. Another reason is growing environmental awareness. Raising animals for food requires large amounts of land, water and energy. It also contributes to deforestation and greenhouse gas emissions. Therefore, people who want to reduce their environmental impact may choose to eat more plant-based foods.",
+      "cn": "人们选择植物性饮食主要有两个原因。首先，越来越多的人开始关注动物福利。近年来，有关养殖场恶劣环境的报 道，使消费者更加了解动物是如何被饲养以及为了提供食物而被宰杀的。因此，一些人决定减少肉类消费。另一个原 因是人们的环保意识不断增强。饲养动物以生产肉类需要消耗大量土地、水资源和能源，同时也会导致森林砍伐和温 室气体排放。因此，希望减少自身活动对环境影响的人们可能会选择食用更多植物性食品。",
+      "clozes": [
+        {
+          "start": 89,
+          "end": 136,
+          "answer": "have become more concerned about animal welfare"
+        },
+        {
+          "start": 201,
+          "end": 238,
+          "answer": "have made consumers more aware of how"
+        },
+        {
+          "start": 279,
+          "end": 290,
+          "answer": "As a result"
+        },
+        {
+          "start": 304,
+          "end": 349,
+          "answer": "have decided to reduce their meat consumption"
+        },
+        {
+          "start": 351,
+          "end": 365,
+          "answer": "Another reason"
+        },
+        {
+          "start": 544,
+          "end": 553,
+          "answer": "Therefore"
+        },
+        {
+          "start": 581,
+          "end": 607,
+          "answer": "their environmental impact"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "I believe this change brings significant benefits. First, a well-planned plant-based diet can improve people's health. Vegetables, fruits and whole grains are rich in fibre and essential nutrients, and eating more of these foods may reduce the risk of diseases such as heart disease and type 2 diabetes. If more people adopt healthier diets, governments may also spend less money treating diet-related illnesses. More importantly, reducing meat consumption can help protect the environment. When fewer animals are raised for food, less land and water may be needed for farming, and greenhouse gas emissions can also be reduced. This can help protect natural ecosystems in the long term.",
+      "cn": "我认为，这一变化能够带来显著的益处。首先，合理搭配的植物性饮食能够改善人们的健康状况。蔬菜、水果和全谷 物富含膳食纤维和人体必需的营养物质，多食用这些食物可能有助于降低心脏病和二型糖尿病等疾病的患病风险。如 果更多人养成健康的饮食习惯，政府用于治疗饮食相关疾病的医疗支出也可能随之减少。更重要的是，减少肉类消费 能够帮助保护环境。当用于食品生产的养殖动物数量减少时，农业生产所需的土地和水资源也可能相应减少，同时温 室气体排放也能够得到降低。从长远来看，这有助于保护自然生态系统。",
+      "clozes": [
+        {
+          "start": 94,
+          "end": 117,
+          "answer": "improve people's health"
+        },
+        {
+          "start": 233,
+          "end": 251,
+          "answer": "reduce the risk of"
+        },
+        {
+          "start": 413,
+          "end": 429,
+          "answer": "More importantly"
+        },
+        {
+          "start": 466,
+          "end": 489,
+          "answer": "protect the environment"
+        },
+        {
+          "start": 669,
+          "end": 685,
+          "answer": "in the long term"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, people are increasingly choosing plant-based diets because of concerns about animal welfare and environmental protection. I believe this is a positive trend because it can improve public health and reduce environmental damage.",
+      "cn": "总而言之，人们越来越倾向于选择植物性饮食，主要是出于对动物福利和环境保护的关注。我认为，这是一种积极的 发展趋势，因为它能够改善公众健康，并减少对环境的破坏。",
+      "clozes": [
+        {
+          "start": 187,
+          "end": 208,
+          "answer": "improve public health"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "长期遵循某种饮食习惯",
+      "en": "adhere to a diet"
+    },
+    {
+      "zh": "选择植物性饮食",
+      "en": "opt for plant-based diets"
+    },
+    {
+      "zh": "…的主要驱动因素",
+      "en": "the main drivers for ..."
+    },
+    {
+      "zh": "令人不安的披露信息",
+      "en": "disturbing revelations"
+    },
+    {
+      "zh": "在道德上站不住脚",
+      "en": "ethically indefensible"
+    },
+    {
+      "zh": "饮食相关疾病",
+      "en": "diet-related diseases"
+    },
+    {
+      "zh": "减轻经济负担",
+      "en": "ease the economic burden"
+    },
+    {
+      "zh": "在……中发挥关键作用",
+      "en": "play a pivotal role in ..."
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

@@ -1,0 +1,318 @@
+{
+  "id": "t2-19",
+  "type": "大作文",
+  "title": "减少飞行的利与弊",
+  "group": "环境与动物",
+  "question": "Some people have decided to reduce the number of times they fly every year or to stop flying altogether. Do you think the environmental benefits of this development outweigh the disadvantages for individuals and businesses?",
+  "logic": "▪ 主体段一 让步讲优点减少飞行缓解全球变暖（global warming）→背景：过去两百年全球气温上升带来环境问题 →交通工具成为主要责任方（culprits）→现状：而今，电车的发明，让人们开始把矛头指向飞机（become an easy target） ⬅ 而且科技发展使减少飞行成为可能 ▪ 主体段二 讲缺点①从政治层面考虑（on the political level）→ 现状：地区紧张（tensions）和人道主义危机 （humanitarian crises）都需要及时有效的方式解决→飞行很重要②从经济层面考虑（on the economic level）→ 现状：全球化使得供应链、科技和人才都呈现去中心化趋势（decentralization） + 跨国公司的合作依赖于面对面 会谈 → 飞行是最快方式③从个人层面考虑（on a personal level）→ 现状：跨国的人文交流需求飞行 →产生的社 会经济效益可以用来投资于保护环境（即问题可解决）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Travel by air is one of the most common modes of transport for modern people. But an increasing number of individuals have decided to reduce how often they fly, with many citing its environmental toll on the planet as their major concern. I largely disagree with them, as I believe air travel produces more positive outcomes for people and society than negative consequences.",
+      "cn": "航空出行是现代人最常见的交通方式之一。但越来越多的人决定减少飞行次数，许多人将其对地球的环境负担作为主 要理由。我在很大程度上不同意这种做法，因为我认为航空旅行为个人和社会带来的积极成果远远大于其负面影响",
+      "clozes": [
+        {
+          "start": 118,
+          "end": 155,
+          "answer": "have decided to reduce how often they"
+        },
+        {
+          "start": 161,
+          "end": 207,
+          "answer": "with many citing its environmental toll on the"
+        },
+        {
+          "start": 293,
+          "end": 347,
+          "answer": "produces more positive outcomes for people and society"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "It is true that airplanes partly contribute to the increase in greenhouse gas emissions, there by raising concerns about their role in global warming. A surge in temperatures has been observed over the past two centuries, and the easily spotted culprits are the vehicles invented during this period. Although the exhaust fumes from personal vehicles constitute a sizable share of carbon dioxide emissions, a wide range of measures—most notably the massive adoption of electric vehicles—are being taken in many countries to mitigate their effects. Hence, airplanes have become an easy target for many people eager to contribute to the sustainability of our planet, and they believe reducing or stopping flying is not only useful but also feasible in today's society, where many social interactions and business activities can be handled through digital technologies.",
+      "cn": "不可否认，飞机确实在一定程度上增加了温室气体排放，因此引发了人们对其在全球变暖中作用的担忧。在过去两个 世纪里，气温升高的趋势十分明显，而最容易被指责的就是这一时期发明的各种交通工具。虽然私人车辆的尾气排放 在二氧化碳排放中占据了相当大的比例，但许多国家已经采取了多种措施，尤其是大规模推广电动汽车，以减轻这些 影响。因此，飞机成了许多热衷于为地球可持续发展作贡献的人眼中的首要目标。他们认为减少或停止飞行不仅有 益，而且在当今社会也是可行的，因为许多社会交往和商业活动完全可以通过数字化技术来完成。",
+      "clozes": [
+        {
+          "start": 33,
+          "end": 46,
+          "answer": "contribute to"
+        },
+        {
+          "start": 51,
+          "end": 87,
+          "answer": "increase in greenhouse gas emissions"
+        },
+        {
+          "start": 175,
+          "end": 210,
+          "answer": "has been observed over the past two"
+        },
+        {
+          "start": 300,
+          "end": 308,
+          "answer": "Although"
+        },
+        {
+          "start": 361,
+          "end": 376,
+          "answer": "a sizable share"
+        },
+        {
+          "start": 448,
+          "end": 485,
+          "answer": "massive adoption of electric vehicles"
+        },
+        {
+          "start": 496,
+          "end": 537,
+          "answer": "taken in many countries to mitigate their"
+        },
+        {
+          "start": 777,
+          "end": 795,
+          "answer": "social interaction"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Many individuals and policy-makers, however, offer a stronger case against this proposal by pointing out more detrimental consequences following a halt to flying, and I tend towards their perspective. On the political level, all nations and regions are indispensable members of the global community, underscoring the significance of international cooperation, which ultimately benefits individuals and businesses. Without regular or emergent diplomatic travels by airplane, some tensions between nations would risk deteriorating, and some humanitarian crises would not likely be tackled in a timely and effective manner. On the economic level, globalization entails the decentralization of supply chains, technology, and, more importantly, talent. Real breakthroughs in multinational business cooperation and technological upheavals rely heavily on face-to-face communication between corporate leaders and top scientists, and air travel is the fastest way to enable them to assemble in the same room—an advantage no online meeting can match. Besides, on a personal level, people fly to different countries to study, visit, and sometimes help others; not only does this boost societal development, but it also generates financial returns that can be invested in environmental protection.",
+      "cn": "然而，许多个人和政策制定者则提出了更有力的反对意见，指出停止飞行会带来更严重的不利后果，而我倾向于认同 他们的观点。在政治层面，各国和地区都是全球共同体中不可或缺的成员，这凸显了国际合作的重要性，而这最终惠 及个人和企业。如果没有通过飞机进行的定期或紧急外交访问，一些国家间的紧张关系可能会恶化，一些人道主义危 机也难以及时有效地得到应对。在经济层面，全球化意味着供应链、技术，尤其是人才的分散化。跨国商业合作和技 术突破在很大程度上依赖于企业领导者和顶尖科学家的面对面交流，而航空旅行是让他们快速齐聚一堂的最佳方式— —这一优势是任何在线会议都无法比拟的。除此之外，在个人层面，人们乘飞机去不同国家学习、旅游，甚至提供帮 助；这不仅推动了社会发展，还带来了可观的经济收益，这些收益可以再投入到环保事业之中。",
+      "clozes": [
+        {
+          "start": 36,
+          "end": 43,
+          "answer": "however"
+        },
+        {
+          "start": 45,
+          "end": 88,
+          "answer": "offer a stronger case against this proposal"
+        },
+        {
+          "start": 666,
+          "end": 720,
+          "answer": "the decentralization of supply chains, technology, and"
+        },
+        {
+          "start": 722,
+          "end": 738,
+          "answer": "more importantly"
+        },
+        {
+          "start": 753,
+          "end": 766,
+          "answer": "breakthroughs"
+        },
+        {
+          "start": 809,
+          "end": 832,
+          "answer": "technological upheavals"
+        },
+        {
+          "start": 849,
+          "end": 909,
+          "answer": "face-to-face communication between corporate leaders and top"
+        },
+        {
+          "start": 959,
+          "end": 994,
+          "answer": "enable them to assemble in the same"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "To conclude, while it is understandable that some people consider the reduction of air travel crucial for the sustainability of the planet, I do not consider it a positive development, as flying plays a major role in driving globalization, with individuals and businesses benefiting far more.",
+      "cn": "总之，虽然可以理解有些人认为减少飞行对地球的可持续性至关重要，但我并不认为这是一个积极的发展。因为航空 出行在推动全球化中发挥着至关重要的作用，而个人和企业从中获得的益处要远远大于其弊端。",
+      "clozes": [
+        {
+          "start": 161,
+          "end": 183,
+          "answer": "a positive development"
+        },
+        {
+          "start": 201,
+          "end": 216,
+          "answer": "a major role in"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Air travel has become an important part of modern life, but some people are choosing to fly less often or even stop flying because of environmental concerns. Although this change can help reduce carbon emissions, I believe that the disadvantages for individuals and businesses are greater than the environmental benefits.",
+      "cn": "航空出行已经成为现代生活的重要组成部分，但出于对环境问题的担忧，一些人开始选择减少乘坐飞机的次数，甚至 完全停止航空出行。尽管这一变化有助于减少碳排放，但我认为，它给个人和企业带来的弊端要大于其产生的环境效 益。",
+      "clozes": [
+        {
+          "start": 11,
+          "end": 49,
+          "answer": "has become an important part of modern"
+        },
+        {
+          "start": 158,
+          "end": 166,
+          "answer": "Although"
+        },
+        {
+          "start": 188,
+          "end": 211,
+          "answer": "reduce carbon emissions"
+        },
+        {
+          "start": 281,
+          "end": 320,
+          "answer": "greater than the environmental benefits"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "There is no doubt that reducing air travel can benefit the environment. Airplanes burn large amounts of fuel and produce greenhouse gases, which contribute to global warming. Compared with other forms of transport, it is also more difficult to replace traditional airplanes with cleaner alternatives. For example, electric cars are becoming increasingly common, while electric passenger planes are not yet widely available. Therefore, people who fly less can reduce their carbon footprint. This choice has also become easier because many activities that once required travel, such as business meetings, can now be carried out online. From this perspective, reducing unnecessary flights is a practical way for individuals to help protect the environment.",
+      "cn": "毫无疑问，减少航空出行能够给环境带来益处。飞机会消耗大量燃料并排放温室气体，从而加剧全球变暖。与其他交 通方式相比，用更加清洁的替代方案取代传统飞机也更加困难。例如，电动汽车正变得越来越普及，而电动客机目前 尚未得到广泛应用。因此，人们减少乘坐飞机的次数可以降低自身的碳足迹。与此同时，由于许多过去需要出行才能 完成的活动，例如商务会议，如今都可以在线进行，因此减少航空出行也变得更加容易。从这个角度来看，减少不必 要的航班出行，是个人为保护环境作出贡献的一种切实可行的方式。",
+      "clozes": [
+        {
+          "start": 113,
+          "end": 137,
+          "answer": "produce greenhouse gases"
+        },
+        {
+          "start": 145,
+          "end": 158,
+          "answer": "contribute to"
+        },
+        {
+          "start": 175,
+          "end": 188,
+          "answer": "Compared with"
+        },
+        {
+          "start": 244,
+          "end": 299,
+          "answer": "replace traditional airplanes with cleaner alternatives"
+        },
+        {
+          "start": 301,
+          "end": 312,
+          "answer": "For example"
+        },
+        {
+          "start": 424,
+          "end": 433,
+          "answer": "Therefore"
+        },
+        {
+          "start": 459,
+          "end": 488,
+          "answer": "reduce their carbon footprint"
+        },
+        {
+          "start": 729,
+          "end": 752,
+          "answer": "protect the environment"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, a major reduction in air travel could create greater problems for individuals and businesses. Modern economies depend heavily on international connections. Companies often have suppliers, employees and customers in different countries, and although online meetings are useful, face-to-face communication is sometimes necessary for important negotiations and business decisions. Air travel allows people to meet quickly despite living thousands of kilometers apart. It is also important for international cooperation, as government officials may need to travel to discuss conflicts or respond to international emergencies. On an individual level, people use air travel to study abroad, visit family members and experience other cultures. These activities can strengthen international connections and also support industries such as tourism and education. Completely avoiding flights would therefore limit both economic opportunities and personal freedom.",
+      "cn": "然而，大幅减少航空出行可能会给个人和企业带来更加严重的问题。现代经济在很大程度上依赖国际间的联系。企业 的供应商、员工和客户往往分布在不同国家。虽然线上会议十分便利，但在重要的谈判和商业决策中，面对面的交流 有时仍然不可或缺。即使人们相隔数千公里，航空出行也能够让他们在短时间内见面。此外，航空出行对于国际合作 同样十分重要，因为政府官员可能需要前往其他国家，就冲突问题进行磋商，或共同应对国际突发事件。从个人层面 来看，人们需要乘坐飞机出国留学、探望家人以及体验其他国家的文化。这些活动不仅能够加强国际间的联系，还能 够推动旅游业和教育等行业的发展。因此，完全避免乘坐飞机将同时限制人们获得经济机会的可能性以及个人自由。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 47,
+          "end": 86,
+          "answer": "create greater problems for individuals"
+        },
+        {
+          "start": 249,
+          "end": 257,
+          "answer": "although"
+        },
+        {
+          "start": 286,
+          "end": 349,
+          "answer": "face-to-face communication is sometimes necessary for important"
+        },
+        {
+          "start": 428,
+          "end": 435,
+          "answer": "despite"
+        },
+        {
+          "start": 813,
+          "end": 847,
+          "answer": "support industries such as tourism"
+        },
+        {
+          "start": 897,
+          "end": 906,
+          "answer": "therefore"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, flying less can reduce carbon emissions and should be encouraged when a journey is unnecessary. However, I believe the disadvantages of greatly reducing air travel outweigh these environmental benefits because international travel remains important for business, cooperation and people's personal lives.",
+      "cn": "总而言之，减少航空出行能够降低碳排放，因此在没有必要出行的情况下，人们应该尽量减少乘坐飞机。然而，我认 为，大幅减少航空出行所带来的弊端超过了其环境效益，因为国际旅行对于商业活动、国际合作以及人们的个人生活 仍然十分重要。",
+      "clozes": [
+        {
+          "start": 31,
+          "end": 54,
+          "answer": "reduce carbon emissions"
+        },
+        {
+          "start": 111,
+          "end": 118,
+          "answer": "However"
+        },
+        {
+          "start": 246,
+          "end": 276,
+          "answer": "remains important for business"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "许多人将其对地球的环境负担作为主要理由 ...",
+      "en": "with many citing its environmental toll on the"
+    },
+    {
+      "zh": "大规模推广电动汽车",
+      "en": "massive adoption of electric vehicles"
+    },
+    {
+      "zh": "供应链、技术，尤其人才的分散化",
+      "en": "the decentralization of supply chains, technology, and,"
+    },
+    {
+      "zh": "技术突破",
+      "en": "technological upheavals/ breakthroughs"
+    },
+    {
+      "zh": "带来经济收益",
+      "en": "generate financial returns"
+    },
+    {
+      "zh": "认为...至关重要",
+      "en": "consider ... crucial for ..."
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

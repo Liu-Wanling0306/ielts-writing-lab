@@ -1,0 +1,319 @@
+{
+  "id": "t2-11",
+  "type": "大作文",
+  "title": "监控摄像头的利与弊",
+  "group": "科技与媒体",
+  "question": "The widespread use of surveillance systems has sparked debate about their impact on society. Some believe that surveillance enhances public safety, while others argue it violates privacy. Discuss both views and give your opinion.",
+  "logic": "▪ 主体段一 讨论反方观点：监控摄像头侵犯隐私①侵犯公众知情权（violation of their right to knowledge） → 原 因：摄像头都是在人们未知的情况下（without individuals’ awareness and consent）跟踪人们的生活行为 →补 充现状：现代社会更看重隐私（greater emphasis on privacy）②摄镜头记录片段可能被滥用 → 举例：如存在社 交平台上发布公众摄像头记录片段（video footage）的情况 → 结果就是人们对自我的自主权降低，权利受侵犯 ▪ 主体段二 讨论正方观点：监控摄像头在打击犯罪中很重要①监控摄像头的存在使得犯罪案件下降（decreased incidence of crimes） → 举例：中国的摄像头广泛分布，犯罪率是最低（lowest criminal rates） → 让步：的确一 定程度侵犯隐私（invades citizens’ privacy），但这是“必要之恶”（necessary evil）②监控摄像头的其他好处 → 举例：找丢失物、解决冲突",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "People’s opinions differ vastly as to whether or not many video cameras should be installed in public places as a deterrent to criminal behaviours. While there are strong arguments against the widespread usage of cameras, I still believe that it is essential in reducing crimes and increasing public safety.",
+      "cn": "关于是否应在公共场所广泛安装摄像头以震慑犯罪行为，人们的观点存在巨大分歧，尽管对于摄像头广泛使用的反对 意见十分有力，但我仍然认为，在减少犯罪和提升公共安全方面，这种做法是必要的。",
+      "clozes": [
+        {
+          "start": 18,
+          "end": 37,
+          "answer": "differ vastly as to"
+        },
+        {
+          "start": 102,
+          "end": 146,
+          "answer": "places as a deterrent to criminal behaviours"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "There are several reasons why many people may regard these monitoring tools as a restriction on our individual freedom. Firstly, they keep track of people’s daily behaviours without individuals’ awareness and consent. In today’s society, people put a far greater emphasis on their privacy; they are likely to view the recordings taken by public video cameras as a severe violation of their right to knowledge. Moreover, citizens may worry that those recorded materials may be used in commercial or even immoral ways that infringe on their reputation. For instance, some people worry that video footage could be misused on social media, potentially damaging their personal images without their knowledge. Undoubtedly, this could mean that people have decreased autonomy over their own freedom and legal rights, as they neither know what is recorded nor can they decide the usage of the content created.",
+      "cn": "许多人之所以将这些监控工具视为对个人自由的限制，有以下几点原因。首先，它们在没有个人知情与同意的情况下 记录人们的日常行为。在当今社会，人们对隐私的重视程度远高于以往，他们往往将公共摄像头所拍摄的内容视为对 自己“知情权”的严重侵犯。此外，市民还可能担心这些录像材料会被用于商业用途，甚至在不道德的场合被滥用， 从而损害个人声誉。例如，有些人担心监控画面可能被上传到社交媒体，在本人毫不知情的情况下使得自身形象受 损。毋庸置疑，这种情况会导致人们对自身自由与法律权利的掌控力下降，他们既不知道自己何时被拍，又无法决定 这些内容将如何被使用。",
+      "clozes": [
+        {
+          "start": 59,
+          "end": 74,
+          "answer": "monitoring tool"
+        },
+        {
+          "start": 329,
+          "end": 370,
+          "answer": "taken by public video cameras as a severe"
+        },
+        {
+          "start": 450,
+          "end": 468,
+          "answer": "recorded materials"
+        },
+        {
+          "start": 551,
+          "end": 563,
+          "answer": "For instance"
+        },
+        {
+          "start": 588,
+          "end": 601,
+          "answer": "video footage"
+        },
+        {
+          "start": 622,
+          "end": 634,
+          "answer": "social media"
+        },
+        {
+          "start": 760,
+          "end": 768,
+          "answer": "autonomy"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "In spite of the above arguments, I still believe that surveillance cameras have an important role to play in diminishing criminal conduct. The main benefit is the dramatically decreased incidence of crimes in areas where many monitors are visibly installed. China, for example, has the most widespread employment of public monitoring systems; it reports the lowest criminal rates among all the countries, and the incidence of felonies like murder is far below the figures for many Western countries. It is true that this to some extent invades citizens’ privacy, but I believe it is a necessary evil where people’s lives and society’s stability are concerned. Furthermore, security cameras not only reduce crimes but also bring several unexpected advantages. These video surveillance tools can help citizens find lost items or pets, can give unbiased evidence to authorities when accidents happen, and can assist with the coordination of human resources to cope with emergency situations.",
+      "cn": "尽管上述观点具有一定合理性，我仍坚信监控摄像头在减少犯罪行为方面具有重要作用。最大优势在于，在摄像头密 集的区域，犯罪发生率显著下降。例如，中国是世界上公共监控系统最为普及的国家，其犯罪率也是全球最低之一， 诸如谋杀等重罪的发生频率远低于许多西方国家。诚然，这在一定程度上确实侵犯了公民隐私，但在涉及人身安全与 社会稳定的问题上，我认为这种“必要之恶”是可以接受的。此外，监控摄像头不仅能预防犯罪，还带来多种意想不 到的好处。它们可以帮助市民找回丢失的物品或宠物，在事故发生时为有关部门提供客观证据，并协助应急资源的调 度与协调。",
+      "clozes": [
+        {
+          "start": 54,
+          "end": 73,
+          "answer": "surveillance camera"
+        },
+        {
+          "start": 75,
+          "end": 120,
+          "answer": "have an important role to play in diminishing"
+        },
+        {
+          "start": 226,
+          "end": 233,
+          "answer": "monitor"
+        },
+        {
+          "start": 265,
+          "end": 276,
+          "answer": "for example"
+        },
+        {
+          "start": 278,
+          "end": 322,
+          "answer": "has the most widespread employment of public"
+        },
+        {
+          "start": 673,
+          "end": 688,
+          "answer": "security camera"
+        },
+        {
+          "start": 699,
+          "end": 712,
+          "answer": "reduce crimes"
+        },
+        {
+          "start": 918,
+          "end": 953,
+          "answer": "the coordination of human resources"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "To conclude, installing many video cameras in public places certainly has its negative implications, but I believe the positive outcomes far outweigh them in the long term, and the risks mentioned can be substantially mitigated by regulations and legislation.",
+      "cn": "总之，在公共场所安装大量摄像头确实存在一定的负面影响，但我认为其长期的积极作用远远超过这些弊端，而前述 风险也可以通过更完善的法规与立法手段来有效规避。",
+      "clozes": [
+        {
+          "start": 53,
+          "end": 99,
+          "answer": "places certainly has its negative implications"
+        },
+        {
+          "start": 155,
+          "end": 171,
+          "answer": "in the long term"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "The widespread use of surveillance cameras has caused debate about their effects on society. Some people believe that these systems can improve public safety, while others are concerned about their privacy. Although these concerns are understandable, I believe that surveillance systems bring more benefits than problems.",
+      "cn": "监控摄像头的广泛使用引发了人们对于其社会影响的讨论。一些人认为，这些监控系统能够提高公共安全，而另一些 人则担忧自己的隐私受到侵犯。尽管这些担忧是可以理解的，但我认为，监控系统所带来的益处大于其引发的问题。",
+      "clozes": [
+        {
+          "start": 22,
+          "end": 41,
+          "answer": "surveillance camera"
+        },
+        {
+          "start": 43,
+          "end": 91,
+          "answer": "has caused debate about their effects on society"
+        },
+        {
+          "start": 136,
+          "end": 157,
+          "answer": "improve public safety"
+        },
+        {
+          "start": 207,
+          "end": 215,
+          "answer": "Although"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "On the one hand, surveillance cameras may reduce people's privacy. Cameras in public places can record people's daily activities without their knowledge or permission. Some people may therefore feel uncomfortable because they do not know exactly what is being recorded or how the information will be used. There is also a risk that video footage may be used for the wrong purposes. For example, if private recordings are shared on social media without permission, they may damage a person's reputation. People may therefore feel that they have less control over their personal information. This is why some people consider widespread surveillance a threat to individual privacy.",
+      "cn": "一方面，监控摄像头可能会减少人们的隐私。公共场所的摄像头可能会在人们不知情或未经他们允许的情况下记录其 日常活动。因此，一些人可能会感到不适，因为他们并不清楚究竟有哪些内容被记录下来，也不知道这些信息将会被 如何使用。此外，监控录像还存在被不当使用的风险。例如，如果涉及个人隐私的录像在未经允许的情况下被分享到 社交媒体上，就可能损害一个人的声誉。因此，人们可能会觉得自己对个人信息的掌控程度有所降低。这正是一些人 将大范围监控视为对个人隐私威胁的原因。",
+      "clozes": [
+        {
+          "start": 17,
+          "end": 36,
+          "answer": "surveillance camera"
+        },
+        {
+          "start": 42,
+          "end": 65,
+          "answer": "reduce people's privacy"
+        },
+        {
+          "start": 85,
+          "end": 136,
+          "answer": "places can record people's daily activities without"
+        },
+        {
+          "start": 184,
+          "end": 193,
+          "answer": "therefore"
+        },
+        {
+          "start": 332,
+          "end": 345,
+          "answer": "video footage"
+        },
+        {
+          "start": 382,
+          "end": 393,
+          "answer": "For example"
+        },
+        {
+          "start": 431,
+          "end": 443,
+          "answer": "social media"
+        },
+        {
+          "start": 568,
+          "end": 588,
+          "answer": "personal information"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "On the other hand, I believe that surveillance cameras play an important role in improving public safety. First, visible cameras can discourage people from committing crimes because they know their actions may be recorded. This can make public places safer. In addition, recordings can provide useful evidence when crimes or accidents happen. Police can use them to identify people involved and understand what actually happened. Surveillance systems can also be useful in other situations. For example, they may help people find lost belongings or help authorities deal with emergencies more effectively. Although surveillance can create privacy problems, these risks can be reduced by clear laws controlling how recordings are collected, stored and used.",
+      "cn": "然而，我认为监控摄像头在提高公共安全方面发挥着重要作用。首先，显眼的监控摄像头能够对潜在的违法犯罪行为 起到震慑作用，因为人们知道自己的行为可能会被记录下来。这可以使公共场所更加安全。此外，当犯罪或事故发生 时，监控录像能够提供有用的证据。警方可以利用这些录像确认相关人员的身份，并了解事件实际发生的经过。监控 系统在其他情况下同样能够发挥作用。例如，它们可以帮助人们寻找遗失的物品，或者帮助有关部门更加有效地处理 突发事件。尽管监控可能会引发隐私问题，但通过制定明确的法律，规范监控录像的收集、存储和使用方式，这些风 险是可以得到降低的。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 17,
+          "answer": "On the other hand"
+        },
+        {
+          "start": 34,
+          "end": 53,
+          "answer": "surveillance camera"
+        },
+        {
+          "start": 60,
+          "end": 80,
+          "answer": "an important role in"
+        },
+        {
+          "start": 258,
+          "end": 269,
+          "answer": "In addition"
+        },
+        {
+          "start": 286,
+          "end": 334,
+          "answer": "provide useful evidence when crimes or accidents"
+        },
+        {
+          "start": 491,
+          "end": 502,
+          "answer": "For example"
+        },
+        {
+          "start": 606,
+          "end": 614,
+          "answer": "Although"
+        },
+        {
+          "start": 676,
+          "end": 724,
+          "answer": "reduced by clear laws controlling how recordings"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, surveillance systems may affect people's privacy and personal information. However, I believe their benefits are greater because they can prevent crime, provide useful evidence and improve public safety. Governments should therefore continue to use them while introducing rules to protect people's privacy.",
+      "cn": "总而言之，监控系统可能会对人们的隐私和个人信息产生影响。然而，我认为其带来的益处更加显著，因为它们能够 预防犯罪、提供有用的证据并提高公共安全。因此，政府应该继续使用监控系统，同时制定相应的规则来保护人们的 隐私。",
+      "clozes": [
+        {
+          "start": 68,
+          "end": 88,
+          "answer": "personal information"
+        },
+        {
+          "start": 90,
+          "end": 97,
+          "answer": "However"
+        },
+        {
+          "start": 168,
+          "end": 191,
+          "answer": "provide useful evidence"
+        },
+        {
+          "start": 238,
+          "end": 247,
+          "answer": "therefore"
+        },
+        {
+          "start": 296,
+          "end": 320,
+          "answer": "protect people's privacy"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "在某方面存在巨大分歧",
+      "en": "differ vastly as to"
+    },
+    {
+      "zh": "没有知情且同意",
+      "en": "without awareness/knowledge and consent"
+    },
+    {
+      "zh": "拍摄片段",
+      "en": "video footage/ recorded materials"
+    },
+    {
+      "zh": "自主权",
+      "en": "autonomy"
+    },
+    {
+      "zh": "监控摄像头",
+      "en": "monitoring tool/ monitor/ surveillance camera/ security camera/"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

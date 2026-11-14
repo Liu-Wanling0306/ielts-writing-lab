@@ -1,0 +1,379 @@
+{
+  "id": "t2-10",
+  "type": "大作文",
+  "title": "私企做科学研究的利弊",
+  "group": "科技与媒体",
+  "question": "In today's world, private companies are doing more scientific research than governments. Do you think the advantages of this development outweigh the disadvantages?",
+  "logic": "▪ 主体段一 私营企业主导科学研究的风险弊端（让步段）① 企业以提升竞争力和增加利润为目标 → 可能夸大研究 结果、忽视负面发现（exaggerate findings / overlook negative results）→ 优先研究具有短期市场价值的领域， 而非公共利益② 缺乏大型公共项目的统筹能力（coordinate large-scale projects） → 疫情防控、气候研究等项目 需要国际合作、公众信任和战略规划 → 私营企业可能缺乏主导这些项目的权威或动力（authority or incentive） ▪ 主体段二 私营企业具有更强的资金优势政府科研资金受到限制（limited state funding） → 公共预算需要兼顾国 防、医疗、教育和福利 → 科研可能无法获得持续稳定（consistent）的资金支持对比：企业能够提供充足且稳定 的科研投入（substantial financial resources） → 大型科技和制药企业能够长期投入巨额资金 → 为科学家提供更 好的设备、团队和稳定支持（stable support） ▪ 主体段三 私营企业的科研效率更高科研目标明确、资源配置高效（more focused and results-oriented） → 政府 项目范围广且容易受到官僚程序影响（bureaucracy）→ 对比：企业围绕明确的商业或战略目标开展研究 → 更精 准地配置资源（allocate resources more precisely）并加快创新 → SpaceX 作为例证",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "In many parts of the world today, private companies are carrying out more scientific research than governments. Although this development may raise concerns about commercial bias and the reduced role in major scientific projects, I believe its advantage are greater than its disadvantages.",
+      "cn": "如今，在世界许多地区，私人企业正在承担越来越多的科学研究工作，其研究活动甚至超过了政府。尽管这一发展趋 势可能引发人们对商业利益影响研究方向，以及政府在重大科研项目中作用减弱的担忧，但我认为，其优势大于劣 势。",
+      "clozes": [
+        {
+          "start": 112,
+          "end": 120,
+          "answer": "Although"
+        },
+        {
+          "start": 187,
+          "end": 228,
+          "answer": "reduced role in major scientific projects"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Admittedly, the growing dominance of private companies in scientific research is not without risks. Since most businesses invest in research in order to improve products, strengthen competitiveness, or increase profits, commercial goals may sometimes distort scientific priorities. In some cases, companies may exaggerate findings, overlook negative results, or focus solely on areas with immediate market value, rather than on research that serves broader public good. In addition, governments are often in a better position to coordinate large-scale, long-term projects that require international cooperation, public trust, and strategic planning, such as pandemic prevention, climate science, or space exploration. These are areas in which private firms may lack either the authority or the incentive to take the lead.",
+      "cn": "不可否认，私人企业在科学研究领域的影响力不断增强，也存在一定风险。由于大多数企业投资科研是为了改进产 品、增强竞争力或提高利润，商业目标有时可能会扭曲科学研究的优先方向。在某些情况下，企业可能夸大研究成 果、忽视不利的实验结果，或者只关注能够立即产生市场价值的研究领域，而不是那些能够服务于更广泛公共利益的 科研项目。此外，政府通常更有能力协调需要国际合作、公众信任和战略规划的大规模长期科研项目，例如疫情防 控、气候科学研究和太空探索。在这些领域，私人企业可能既缺乏主导项目所需的权力，也缺乏足够的动力。",
+      "clozes": [
+        {
+          "start": 12,
+          "end": 54,
+          "answer": "the growing dominance of private companies"
+        },
+        {
+          "start": 251,
+          "end": 280,
+          "answer": "distort scientific priorities"
+        },
+        {
+          "start": 311,
+          "end": 330,
+          "answer": "exaggerate findings"
+        },
+        {
+          "start": 332,
+          "end": 357,
+          "answer": "overlook negative results"
+        },
+        {
+          "start": 413,
+          "end": 424,
+          "answer": "rather than"
+        },
+        {
+          "start": 470,
+          "end": 481,
+          "answer": "In addition"
+        },
+        {
+          "start": 761,
+          "end": 803,
+          "answer": "lack either the authority or the incentive"
+        },
+        {
+          "start": 807,
+          "end": 820,
+          "answer": "take the lead"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, these drawbacks are outweighed by the benefits. One major advantage is that private companies often have substantial financial resources that can be invested directly into research. While government may also have large budgets, public money has to be distributed across a wide range of urgent priorities, including national defence, healthcare, education, and welfare. As a result, scientific research may receive only limited or inconsistent state funding. By contrast, successful companies, especially large technology and pharmaceutical firms, are often able to commit enormous amounts of money to research over sustained periods, giving scientists better equipment, stronger teams, and more stable support.",
+      "cn": "然而，这些弊端所带来的影响远不及私人企业参与科研的优势。其中一个主要优势是，私人企业往往拥有雄厚的资金 实力，可以直接将大量资金投入科学研究。尽管政府也可能拥有庞大的财政预算，但公共资金必须分配到国防、医 疗、教育和社会福利等众多紧迫领域。因此，科学研究能够获得的政府资金支持可能十分有限，或者缺乏稳定性。相 比之下，经营成功的企业，尤其是大型科技公司和制药企业，通常能够长期投入巨额研发资金，为科研人员提供更先 进的设备、更强大的研究团队以及更加稳定的支持。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 126,
+          "end": 145,
+          "answer": "financial resources"
+        },
+        {
+          "start": 217,
+          "end": 235,
+          "answer": "have large budgets"
+        },
+        {
+          "start": 257,
+          "end": 271,
+          "answer": "be distributed"
+        },
+        {
+          "start": 295,
+          "end": 312,
+          "answer": "urgent priorities"
+        },
+        {
+          "start": 378,
+          "end": 389,
+          "answer": "As a result"
+        },
+        {
+          "start": 467,
+          "end": 478,
+          "answer": "By contrast"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Another important advantage is that private-sector research tends to be more focused, efficient, and results-oriented. Governments often support a broad range of programmes and may be slowed down by bureaucracy, whereas companies usually invest in projects closely linked to clear commercial or strategic goals. This enables them to allocate resources more precisely and push innovations forward more rapidly. Space X is a good example. As a private company with abundant funding and a clear mission, it has significantly reduced the cost of rocket launches and made major advances in reusable space technology, achievements that have reshaped the modern space industry.",
+      "cn": "另一个重要优势是，私营部门开展的科学研究通常目标更加明确、效率更高，也更加注重实际成果。政府往往需要支 持范围广泛的科研项目，而且其工作进度可能受到官僚程序的拖慢。相比之下，企业通常会投资那些与明确的商业目 标或战略目标密切相关的项目。这使它们能够更加精准地分配资源，并更快地推动技术创新。SpaceX 就是一个很好的 例子。作为一家拥有充足资金和明确使命的私人企业，SpaceX 显著降低了火箭发射成本，并在可重复使用的航天技术 方面取得了重大突破。这些成就改变了现代航天产业的发展格局。",
+      "clozes": [
+        {
+          "start": 77,
+          "end": 117,
+          "answer": "focused, efficient, and results-oriented"
+        },
+        {
+          "start": 137,
+          "end": 180,
+          "answer": "support a broad range of programmes and may"
+        },
+        {
+          "start": 212,
+          "end": 219,
+          "answer": "whereas"
+        },
+        {
+          "start": 317,
+          "end": 366,
+          "answer": "enables them to allocate resources more precisely"
+        },
+        {
+          "start": 504,
+          "end": 548,
+          "answer": "has significantly reduced the cost of rocket"
+        },
+        {
+          "start": 562,
+          "end": 610,
+          "answer": "made major advances in reusable space technology"
+        },
+        {
+          "start": 630,
+          "end": 669,
+          "answer": "have reshaped the modern space industry"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "In conclusion, although privately funded research can sometimes be influenced by profit motives and may be less suitable for certain large-scale public projects, I believe this is still a positive development overall. The financial strengths, efficiency, and clear direction of private companies often allow them to accelerate scientific progress more effectively than governments.",
+      "cn": "总而言之，尽管私人企业资助的科学研究有时可能受到利润动机的影响，而且未必适合承担某些大型公共科研项目， 但我认为，从整体来看，这仍然是一种积极的发展趋势。私人企业在资金实力、运营效率和目标明确性方面的优势， 往往使它们能够比政府更加有效地推动科学进步。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 186,
+          "end": 208,
+          "answer": "a positive development"
+        },
+        {
+          "start": 316,
+          "end": 346,
+          "answer": "accelerate scientific progress"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "In many countries, private companies are now carrying out more scientific research than governments. Although this development may cause some problems, I believe its advantages are greater because businesses can provide strong financial support and improve research efficiency.",
+      "cn": "在许多国家，私人企业如今开展的科学研究已经超过了政府。尽管这一发展趋势可能带来一些问题，但我认为其优势 更大，因为企业能够提供雄厚的资金支持，并提高科研效率。",
+      "clozes": [
+        {
+          "start": 101,
+          "end": 109,
+          "answer": "Although"
+        },
+        {
+          "start": 131,
+          "end": 150,
+          "answer": "cause some problems"
+        },
+        {
+          "start": 212,
+          "end": 244,
+          "answer": "provide strong financial support"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Admittedly, one disadvantage of this development is that private companies may focus too much on making profits. Since businesses often invest in research to develop products and increase sales, they may pay less attention to projects that benefit society but bring little financial return. In addition, some large scientific projects, such as climate research and disease prevention, require long-term planning and international cooperation. Governments may be better suited to leading these projects because they have greater public responsibilities and authority",
+      "cn": "不可否认，这一趋势的一个弊端是私人企业可能过于注重盈利。由于企业通常投资科研来开发产品和增加销售额，它 们可能不太重视那些虽然有益于社会、却无法带来多少经济回报的研究项目。此外，一些大型科研项目，例如气候研 究和疾病预防，需要长期规划和国际合作。政府可能更适合主导这些项目，因为政府承担着更广泛的公共责任，并拥 有更大的权力。",
+      "clozes": [
+        {
+          "start": 158,
+          "end": 174,
+          "answer": "develop products"
+        },
+        {
+          "start": 291,
+          "end": 302,
+          "answer": "In addition"
+        },
+        {
+          "start": 515,
+          "end": 551,
+          "answer": "have greater public responsibilities"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, I believe these drawbacks are outweighed by the financial benefits of private research. Although governments have large budgets, they must spend money on many areas, including healthcare, education and national defence. As a result, they may not always provide enough funding for scientific research. By contrast, successful private companies can invest large amounts of money in research projects. This allows scientists to use better equipment, employ more skilled researchers and continue their work without frequent funding problems.",
+      "cn": "然而，我认为私人企业在资金方面的优势超过了上述弊端。尽管政府拥有庞大的预算，但它们必须将资金用于医疗、 教育和国防等众多领域。因此，政府未必总能为科学研究提供充足的资金。相比之下，经营成功的私人企业能够向科 研项目投入大量资金。这使科学家能够使用更先进的设备、聘用更多高水平研究人员，并且不必频繁担心资金问题， 从而持续开展研究工作。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 53,
+          "end": 75,
+          "answer": "the financial benefits"
+        },
+        {
+          "start": 97,
+          "end": 105,
+          "answer": "Although"
+        },
+        {
+          "start": 148,
+          "end": 162,
+          "answer": "spend money on"
+        },
+        {
+          "start": 229,
+          "end": 240,
+          "answer": "As a result"
+        },
+        {
+          "start": 262,
+          "end": 308,
+          "answer": "provide enough funding for scientific research"
+        },
+        {
+          "start": 310,
+          "end": 321,
+          "answer": "By contrast"
+        },
+        {
+          "start": 413,
+          "end": 454,
+          "answer": "allows scientists to use better equipment"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Another important advantage is that private companies can often carry out research more efficiently. Unlike governments, which may need to follow complicated procedures, businesses usually have clear goals and can make decisions more quickly. This allows them to focus their resources on specific projects and develop new technologies faster. For example, SpaceX has made significant progress in reusable rockets, helping reduce the cost of space travel. This shows how private investment and clear business goals can support scientific innovation.",
+      "cn": "另一个重要优势是，私人企业通常能够更加高效地开展科学研究。政府可能需要遵循复杂的行政程序，而企业通常拥 有明确的目标，能够更快地作出决策。这使它们能够将资源集中在特定项目上，并更快地开发新技术。例如，SpaceX 在可重复使用火箭技术方面取得了显著进展，有助于降低太空旅行的成本。这表明，私人投资和明确的商业目标能够 促进科技创新。",
+      "clozes": [
+        {
+          "start": 189,
+          "end": 205,
+          "answer": "have clear goals"
+        },
+        {
+          "start": 248,
+          "end": 296,
+          "answer": "allows them to focus their resources on specific"
+        },
+        {
+          "start": 310,
+          "end": 341,
+          "answer": "develop new technologies faster"
+        },
+        {
+          "start": 343,
+          "end": 354,
+          "answer": "For example"
+        },
+        {
+          "start": 363,
+          "end": 412,
+          "answer": "has made significant progress in reusable rockets"
+        },
+        {
+          "start": 422,
+          "end": 453,
+          "answer": "reduce the cost of space travel"
+        },
+        {
+          "start": 518,
+          "end": 547,
+          "answer": "support scientific innovation"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "In conclusion, although private research may be influenced by commercial interests and cannot replace the government's role in every field, I believe its advantages are more significant. Strong financial support and greater efficiency can help speed up scientific progress.",
+      "cn": "总而言之，尽管私人企业开展的科研可能受到商业利益的影响，而且无法在所有领域取代政府的作用，但我认为其优 势更加显著。雄厚的资金支持和更高的效率能够帮助加快科学进步。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 94,
+          "end": 138,
+          "answer": "replace the government's role in every field"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 5,
+    "par7": 5,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "私营企业日益占据主导地位",
+      "en": "the growing dominance of private companies"
+    },
+    {
+      "zh": "扭曲科研优先方向",
+      "en": "distort scientific priorities"
+    },
+    {
+      "zh": "夸大研究结果 / 忽视负面结果",
+      "en": "exaggerate findings / overlook negative results"
+    },
+    {
+      "zh": "更有条件承担某项任务",
+      "en": "be in a better position to do sth."
+    },
+    {
+      "zh": "缺乏权威或动力",
+      "en": "lack either the authority or the incentive"
+    },
+    {
+      "zh": "紧迫的事务",
+      "en": "urgent priorities"
+    },
+    {
+      "zh": "长期投入巨额资金",
+      "en": "commit enormous amounts of money over sustained periods"
+    },
+    {
+      "zh": "目标明确、效率高、结果导向",
+      "en": "focused, efficient, and results-oriented"
+    },
+    {
+      "zh": "加速科学进步",
+      "en": "accelerate scientific progress"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

@@ -1,0 +1,369 @@
+{
+  "id": "t2-22",
+  "type": "大作文",
+  "title": "维护图书馆是浪费资金吗？",
+  "group": "文化与艺术",
+  "question": "Maintaining public libraries is a waste of time since digital technology is now replacing their function. To what extent do you agree or disagree?",
+  "logic": "▪ 主体段一 互联网无法完全取代图书馆的专业知识服务① 网络信息缺乏可靠性（information reliability） → 搜索 引擎提供海量信息 → 用户难以区分可靠证据与虚假内容（distinguish credible evidence from misleading content）→ 社交媒体和生成式人工智能（generative AI）进一步加剧问题② 对比：图书馆提供可靠的知识获取 渠道（a dependable route to knowledge） → 图书资料经过编辑或学术审核（editorial or scholarly review）→ 图 书管理员帮助读者筛选权威、适用的信息（authoritative and appropriate sources）→ 获得有组织且可靠的知识 ▪ 主体段二 公共图书馆具有更广泛的社会价值① 促进教育公平（equal access to education） → 获取网络信息需 要设备、网络和安静的学习环境 → 具体化群体：低收入家庭、老年人及居住拥挤的学生可能缺乏这些条件 → 图书馆免费提供学习资源和专业指导 → 减少个人经济条件对教育机会的影响② 促进社区学习与交流 （community learning and engagement） → 阅读小组、公共讲座和实践工作坊等活动 → 不同年龄和背景的人 交流思想、学习技能 → 促进终身学习（lifelong learning）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "It is true that digital technology gives people instant access to an unprecedented amount of information, leading some to regard public libraries as increasingly redundant. However, I completely disagree that maintaining these institutions is a waste of public money, as the internet cannot fully replace either their professional role in organising knowledge or their wider contribution to society.",
+      "cn": "不可否认，数字技术使人们能够即时获取前所未有的海量信息，因此，一些人认为公共图书馆正变得越来越多余。然 而，我完全不同意维持公共图书馆是一种浪费公共资金的观点，因为互联网既无法完全取代图书馆在知识整理方面的 专业作用，也无法替代其对整个社会所作出的广泛贡献。",
+      "clozes": [
+        {
+          "start": 16,
+          "end": 34,
+          "answer": "digital technology"
+        },
+        {
+          "start": 149,
+          "end": 171,
+          "answer": "increasingly redundant"
+        },
+        {
+          "start": 173,
+          "end": 180,
+          "answer": "However"
+        },
+        {
+          "start": 297,
+          "end": 349,
+          "answer": "replace either their professional role in organising"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The first limitation of the internet is that access to information does not necessarily produce reliable understanding. Search engines can generate thousands of results within seconds, yet users may still struggle to distinguish credible evidence from speculation, commercial promotion or deliberately misleading content. This problem has become even more serious with the growth of social media and generative AI, where inaccurate claims can be presented in a highly convincing form. Libraries, by contrast, provide carefully selected books, academic databases and reference materials, much of which has passed through established editorial or scholarly review. Librarians can also direct readers towards sources that are authoritative, balanced and appropriate for their particular purposes. Libraries therefore offer not simply a greater quantity of information, but a structured and dependable route to knowledge.",
+      "cn": "互联网的第一个局限在于，能够获取信息并不意味着人们一定能够获得可靠的知识和理解。搜索引擎可以在几秒钟内 提供成千上万条搜索结果，但用户仍然可能难以区分可信的证据与猜测、商业宣传或蓄意误导的内容。随着社交媒体 和生成式人工智能的发展，这一问题变得更加严重，因为不准确的信息也可能以极具说服力的形式呈现出来。相比之 下，图书馆提供经过精心筛选的书籍、学术数据库和参考资料，其中许多内容都经过了规范的编辑审核或学术评审。 图书管理员还能够引导读者找到权威、客观且符合其具体需求的信息来源。因此，图书馆提供的并不只是更多的信 息，而是一条有条理、值得信赖的知识获取途径。",
+      "clozes": [
+        {
+          "start": 139,
+          "end": 183,
+          "answer": "generate thousands of results within seconds"
+        },
+        {
+          "start": 351,
+          "end": 379,
+          "answer": "more serious with the growth"
+        },
+        {
+          "start": 383,
+          "end": 395,
+          "answer": "social media"
+        },
+        {
+          "start": 496,
+          "end": 507,
+          "answer": "by contrast"
+        },
+        {
+          "start": 632,
+          "end": 661,
+          "answer": "editorial or scholarly review"
+        },
+        {
+          "start": 804,
+          "end": 813,
+          "answer": "therefore"
+        },
+        {
+          "start": 831,
+          "end": 864,
+          "answer": "a greater quantity of information"
+        },
+        {
+          "start": 870,
+          "end": 916,
+          "answer": "a structured and dependable route to knowledge"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Public libraries also generate wider social benefits by promoting equal access to education and strengthening the intellectual life of local communities. Although online information appears universally available, meaningful access still depends on having a suitable device, a stable internet connection and a quiet place in which to study. These conditions cannot be taken for granted, particularly among low- income families, elderly people and students living in crowded homes. By providing books, computers, study areas and professional guidance free of charge, libraries prevent educational opportunities from being determined solely by personal wealth or living conditions. Their contribution, however, extends beyond assisting individual users. Literacy programmes, public lectures, reading groups and practical workshops bring people of different ages and backgrounds together to exchange ideas and acquire new skills. This not only encourages lifelong learning but also creates a more informed, socially connected and culturally engaged population.",
+      "cn": "公共图书馆还能够通过促进教育机会平等，以及丰富当地社区的知识文化生活，为社会带来更广泛的益处。尽管网络 信息看似人人都可以获取，但要真正有效地利用这些信息，人们仍然需要合适的电子设备、稳定的网络连接以及安静 的学习环境。这些条件并非人人都能具备，尤其是低收入家庭、老年人以及居住环境拥挤的学生。通过免费提供书 籍、电脑、学习空间和专业指导，图书馆能够避免教育机会完全取决于个人的经济条件或居住环境。然而，图书馆的 贡献并不仅限于帮助个体使用者。读写能力培养项目、公共讲座、读书小组和实用技能工作坊，能够将不同年龄和背 景的人聚集在一起，让他们交流思想、学习新技能。这不仅能够鼓励终身学习，还能够培养出知识更加丰富、社会联 系更加紧密、文化参与度更高的群体。",
+      "clozes": [
+        {
+          "start": 66,
+          "end": 81,
+          "answer": "equal access to"
+        },
+        {
+          "start": 135,
+          "end": 152,
+          "answer": "local communities"
+        },
+        {
+          "start": 154,
+          "end": 162,
+          "answer": "Although"
+        },
+        {
+          "start": 367,
+          "end": 384,
+          "answer": "taken for granted"
+        },
+        {
+          "start": 549,
+          "end": 563,
+          "answer": "free of charge"
+        },
+        {
+          "start": 699,
+          "end": 706,
+          "answer": "however"
+        },
+        {
+          "start": 940,
+          "end": 968,
+          "answer": "encourages lifelong learning"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although technology has transformed the way information is obtained, it has not removed the need for institutions that make knowledge reliable, organised and accessible to all. Public libraries should therefore be viewed not as outdated repositories of books, but as essential public institutions that support both individual development and social progress.",
+      "cn": "总而言之，尽管科技已经改变了人们获取信息的方式，但它并没有消除社会对能够确保知识可靠、有序且人人可及的 公共机构的需求。因此，公共图书馆不应被视为过时的图书储存场所，而应被看作支持个人发展和社会进步的重要公 共机构。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 51,
+          "end": 70,
+          "answer": "the way information"
+        },
+        {
+          "start": 87,
+          "end": 128,
+          "answer": "has not removed the need for institutions"
+        },
+        {
+          "start": 134,
+          "end": 157,
+          "answer": "make knowledge reliable"
+        },
+        {
+          "start": 216,
+          "end": 225,
+          "answer": "therefore"
+        },
+        {
+          "start": 317,
+          "end": 352,
+          "answer": "support both individual development"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Nowadays, digital technology allows people to find information quickly and easily, leading some to believe that public libraries are no longer necessary. However, I completely disagree with this view because libraries provide reliable information and bring important benefits to society.",
+      "cn": "如今，数字技术使人们能够快速、便捷地获取信息，因此一些人认为公共图书馆已经没有存在的必要。然而，我完全 不同意这一观点，因为图书馆不仅能够提供可靠的信息，还能为社会带来重要的益处。",
+      "clozes": [
+        {
+          "start": 10,
+          "end": 28,
+          "answer": "digital technology"
+        },
+        {
+          "start": 29,
+          "end": 81,
+          "answer": "allows people to find information quickly and easily"
+        },
+        {
+          "start": 154,
+          "end": 161,
+          "answer": "However"
+        },
+        {
+          "start": 218,
+          "end": 246,
+          "answer": "provide reliable information"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The first reason is that information found online is not always reliable. Although search engines can provide thousands of results within seconds, people may find it difficult to tell whether the information is accurate. In today's increasingly digital world, misleading information can spread quickly through social media and AI-generated content. By contrast, public libraries provide books, academic materials and other resources that have usually been checked by publishers or experts. Librarians can also help readers find trustworthy information that meets their needs. Therefore, libraries remain valuable because they help people obtain reliable knowledge rather than simply giving them access to large amounts of information.",
+      "cn": "第一个原因是，网上的信息并不总是可靠的。虽然搜索引擎能够在几秒钟内提供成千上万条搜索结果，但人们可能很 难判断这些信息是否准确。在当今数字技术日益普及的世界里，误导性信息可以通过社交媒体和人工智能生成的内容 迅速传播。相比之下，公共图书馆提供的书籍、学术资料和其他资源通常经过出版机构或专家的审核。图书管理员也 能够帮助读者找到符合其需求的可信信息。因此，图书馆仍然具有重要价值，因为它们不仅仅让人们接触大量信息， 还能够帮助人们获得可靠的知识。",
+      "clozes": [
+        {
+          "start": 74,
+          "end": 82,
+          "answer": "Although"
+        },
+        {
+          "start": 102,
+          "end": 145,
+          "answer": "provide thousands of results within seconds"
+        },
+        {
+          "start": 310,
+          "end": 322,
+          "answer": "social media"
+        },
+        {
+          "start": 349,
+          "end": 360,
+          "answer": "By contrast"
+        },
+        {
+          "start": 438,
+          "end": 488,
+          "answer": "have usually been checked by publishers or experts"
+        },
+        {
+          "start": 576,
+          "end": 585,
+          "answer": "Therefore"
+        },
+        {
+          "start": 597,
+          "end": 612,
+          "answer": "remain valuable"
+        },
+        {
+          "start": 664,
+          "end": 675,
+          "answer": "rather than"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another important reason is that public libraries make education more accessible and bring communities together. Although much information is available online, not everyone has a computer, a reliable internet connection or a quiet place to study. For people from low-income families, this can be a serious problem. Public libraries provide free books, computers and study areas, allowing more people to learn regardless of their financial situation. In addition, libraries often organise reading groups, public talks and educational activities. These events give local residents opportunities to learn new skills, share ideas and communicate with people from different backgrounds. As a result, libraries can support both individual learning and stronger community relationships.",
+      "cn": "另一个重要原因是，公共图书馆能够让更多人获得教育资源，并促进社区成员之间的交流。尽管网上有大量信息，但 并不是每个人都拥有电脑、稳定的网络连接或安静的学习场所。对于低收入家庭的人来说，这可能是一个严重的问 题。公共图书馆免费提供书籍、电脑和学习区域，使更多人能够不受经济条件的限制而获得学习机会。此外，图书馆 还经常组织读书小组、公共讲座和教育活动。这些活动为当地居民提供了学习新技能、交流想法以及与不同背景的人 沟通的机会。因此，图书馆既能够支持个人学习，也能够加强社区成员之间的联系。",
+      "clozes": [
+        {
+          "start": 65,
+          "end": 102,
+          "answer": "more accessible and bring communities"
+        },
+        {
+          "start": 113,
+          "end": 121,
+          "answer": "Although"
+        },
+        {
+          "start": 332,
+          "end": 350,
+          "answer": "provide free books"
+        },
+        {
+          "start": 450,
+          "end": 461,
+          "answer": "In addition"
+        },
+        {
+          "start": 479,
+          "end": 502,
+          "answer": "organise reading groups"
+        },
+        {
+          "start": 563,
+          "end": 578,
+          "answer": "local residents"
+        },
+        {
+          "start": 682,
+          "end": 693,
+          "answer": "As a result"
+        },
+        {
+          "start": 709,
+          "end": 741,
+          "answer": "support both individual learning"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although digital technology has made information easier to access, I do not believe that maintaining public libraries is a waste of money. Their role in providing reliable information, supporting equal access to education and bringing communities together makes them valuable public institutions.",
+      "cn": "总而言之，尽管数字技术使信息获取变得更加容易，但我并不认为维持公共图书馆是一种资金浪费。图书馆在提供可 靠信息、促进教育机会平等以及加强社区联系方面发挥着重要作用，因此仍然是具有重要价值的公共机构。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 24,
+          "end": 42,
+          "answer": "digital technology"
+        },
+        {
+          "start": 43,
+          "end": 80,
+          "answer": "has made information easier to access"
+        },
+        {
+          "start": 211,
+          "end": 226,
+          "answer": "equal access to"
+        },
+        {
+          "start": 271,
+          "end": 310,
+          "answer": "makes them valuable public institutions"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "即时获取前所未有的大量信息",
+      "en": "give people instant access to an unprecedented amount of"
+    },
+    {
+      "zh": "越来越多余",
+      "en": "increasingly redundant"
+    },
+    {
+      "zh": "区分可靠证据与误导性内容",
+      "en": "distinguish credible evidence from misleading content"
+    },
+    {
+      "zh": "编辑或学术审核",
+      "en": "editorial or scholarly review"
+    },
+    {
+      "zh": "可靠、有组织的知识获取途径",
+      "en": "a structured and dependable route to knowledge"
+    },
+    {
+      "zh": "促进平等获得教育的机会",
+      "en": "promote equal access to education"
+    },
+    {
+      "zh": "免费提供",
+      "en": "free of charge"
+    },
+    {
+      "zh": "由个人财富或生活条件决定",
+      "en": "be determined solely by personal wealth or living conditions"
+    },
+    {
+      "zh": "促进终身学习",
+      "en": "encourage lifelong learning"
+    },
+    {
+      "zh": "促进个人发展与社会进步",
+      "en": "support individual development and social progress"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

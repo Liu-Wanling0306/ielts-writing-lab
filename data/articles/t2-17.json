@@ -1,0 +1,258 @@
+{
+  "id": "t2-17",
+  "type": "大作文",
+  "title": "过度开发自然资源带来的后果和解决办法",
+  "group": "环境与动物",
+  "question": "The natural resources such as oil, forests and fresh water are being consumed at an ever-increasing rate. What danger is caused? How can we solve these problems?",
+  "logic": "▪ 主体段一 回答第一问-后果①对野生动物的影响 → 森林砍伐（deforestation）→动物栖息地（natural habitats） 的破坏 → 后果举例：印尼的野生动物攻击人类②对人类的影响 → 工厂的污水（water contamination from industrial activities）污染饮用水资源（the availability of safe drinking water）；滥砍滥伐（deforestation）加速气 候变化 ▪ 主体段二 回答第二问-措施①政府制定综合性政策（implement comprehensive policies）从根源上解决环境问题 → 具体化：对二氧化碳排放、森林保护、水污染的管理更严格（stricter regulations on carbon emissions, the conservation of forests, and the prevention of water pollution.）；国际峰会组织要促成政府付诸行动②个人采取 绿色的生活方式（adopt environmentally friendly practices） → 具体化：废弃物回收，节约用水，支持可持续产 品；在社区中增强环保意识",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Social media platforms are inundated with countless disturbing revelations that valuable natural resources, oil, forests, and fresh water in particular, are being depleted at an unprecedented rate. This essay will examine the severe consequences of this issue and propose effective solutions to mitigate the damage and ensure environmental sustainability.",
+      "cn": "社交媒体平台上充斥着无数令人震惊的消息，揭示了宝贵的自然资源—尤其石油、森林和淡水—正以前所未有的速度 被消耗。本文将探讨这一问题带来的严重后果，并提出有效的解决方案，以缓解这一现象带来的损害并确保环境的可 持续发展。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 12,
+          "answer": "Social media"
+        },
+        {
+          "start": 27,
+          "end": 41,
+          "answer": "inundated with"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The over-exploitation of natural resources has led to a range of detrimental effects on both wildlife and human populations. The rapid deforestation occurring in numerous regions has left countless animal species without natural habitats. For example, in certain areas of Indonesia, villagers have been constantly attacked by alligators hiding in craters and wells, because the local mining and farming industries have destroyed the ponds and rivers, the natural habitats of these animals. Further, the environmental toll extends to human populations as well. Another serious problem is that water contamination from industrial activities is increasingly jeopardizing the availability of safe drinking water, while deforestation accelerates global warming, one of the most pressing issues threatening the survival of future generations.",
+      "cn": "自然资源的过度开发对野生动物与人类社会都造成了诸多不利影响。在许多地区人们大肆砍伐森林已使无数动物失去 了栖息地。例如，在印度尼西亚某些地区，当地的采矿与农业活动破坏了池塘与河流，导致鳄鱼失去栖息之所，频频 藏身于水坑和井中袭击村民。此外，环境破坏对人类的影响也日益加剧。工业活动导致水源污染，安全饮用水的获取 变得愈加困难，而森林砍伐则进一步加速了全球变暖，这已成为威胁后代生存最严峻的问题之一。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 42,
+          "answer": "The over-exploitation of natural resources"
+        },
+        {
+          "start": 43,
+          "end": 76,
+          "answer": "has led to a range of detrimental"
+        },
+        {
+          "start": 179,
+          "end": 228,
+          "answer": "has left countless animal species without natural"
+        },
+        {
+          "start": 239,
+          "end": 250,
+          "answer": "For example"
+        },
+        {
+          "start": 293,
+          "end": 343,
+          "answer": "have been constantly attacked by alligators hiding"
+        },
+        {
+          "start": 414,
+          "end": 438,
+          "answer": "have destroyed the ponds"
+        },
+        {
+          "start": 668,
+          "end": 687,
+          "answer": "the availability of"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "To reverse these alarming trends and safeguard the planet for future generations, concerted efforts from governments and individuals are essential. Authorities must implement comprehensive policies that address the root causes of environmental degradation. These include stricter regulations on carbon emissions, the conservation of forests, and the prevention of water pollution. Additionally, international climate summits should not only serve as forums for discussion but should lead to tangible commitments and action by governments worldwide. On an individual level, citizens can make a significant contribution by adopting environmentally friendly practices. Simple actions such as reducing waste through recycling, supporting sustainable products, and conserving water can collectively reduce the environmental footprint. Moreover, individuals can raise awareness within their communities to foster a broader culture of sustainability.",
+      "cn": "要扭转这些令人担忧的趋势，为子孙后代保护地球，各国政府与个人的共同努力至关重要。政府应出台全面政策，从 源头解决环境恶化的问题，包括加强对碳排放监管、保护森林资源以及防止水体污染。此外，国际气候峰会不应仅停 留在讨论层面，更应促成全球政府作出切实承诺并付诸行动。在个人层面，每位公民也可通过践行环保行为作出贡 献。例如，通过垃圾分类减少浪费、支持可持续产品、节约用水等简单举措，能够在整体上减少“环境足迹”。此 外，个人还可以在社区中传播环保知识增强环保意识，推动形成更广泛的可持续文化。",
+      "clozes": [
+        {
+          "start": 58,
+          "end": 80,
+          "answer": "for future generations"
+        },
+        {
+          "start": 82,
+          "end": 99,
+          "answer": "concerted efforts"
+        },
+        {
+          "start": 220,
+          "end": 255,
+          "answer": "causes of environmental degradation"
+        },
+        {
+          "start": 483,
+          "end": 490,
+          "answer": "lead to"
+        },
+        {
+          "start": 491,
+          "end": 522,
+          "answer": "tangible commitments and action"
+        },
+        {
+          "start": 586,
+          "end": 645,
+          "answer": "make a significant contribution by adopting environmentally"
+        },
+        {
+          "start": 794,
+          "end": 828,
+          "answer": "reduce the environmental footprint"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, the depletion of natural resources poses significant risks to both the environment and human well-being. To address this, both governmental action and individual responsibility are essential. By taking urgent and collaborative steps, we can begin to reverse the damage and work towards a more sustainable and harmonious relationship with the planet.",
+      "cn": "总之，自然资源的枯竭对环境与人类福祉都构成了巨大威胁。要解决这一问题必须依靠政府的有力措施和公众的责任 意识。唯有通过共同努力，我们才能扭转当前的破坏趋势，并朝着更加可持续、和谐的人地关系迈进。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 49,
+          "answer": "the depletion of natural resources"
+        },
+        {
+          "start": 288,
+          "end": 300,
+          "answer": "work towards"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Natural resources such as oil, forests and fresh water are being used at an increasing rate around the world. This essay will discuss the severe consequences of this issue and propose effective solutions to mitigate the damage.",
+      "cn": "石油、森林和淡水等自然资源正在世界范围内以越来越快的速度被消耗。本文将探讨这一问题所带来的严重后果，并 提出有效的解决方案，以减轻其造成的危害。",
+      "clozes": []
+    },
+    {
+      "idx": 2,
+      "en": "The over-consumption of natural resources has led to a range of harmful effects on both wildlife and human populations. One major danger is the destruction of natural habitats. As forests are cut down and land is used for farming, mining and other industries, many wild animals lose the places where they naturally live. This can bring wildlife into closer contact with humans. For example, in some areas, animals may enter villages in search of food and water after their habitats have been destroyed. The excessive use of natural resources also directly affects human life. Industrial activities can pollute rivers and other sources of fresh water, making safe drinking water more difficult to obtain. In addition, large- scale deforestation contributes to global warming because fewer trees are available to absorb carbon dioxide.",
+      "cn": "自然资源的过度消耗已经给野生动物和人类都带来了一系列有害影响。其中一个主要危害是自然栖息地遭到破坏。随 着森林被砍伐，土地被用于农业、采矿业以及其他工业活动，许多野生动物失去了原本赖以生存的栖息地。这可能导 致野生动物与人类产生更加频繁和密切的接触。例如，在一些地区，栖息地遭到破坏后，动物可能会为了寻找食物和 水而进入村庄。自然资源的过度使用也会直接影响人类的生活。工业活动可能污染河流以及其他淡水资源，使人们更 加难以获得安全的饮用水。此外，大规模砍伐森林还会加剧全球变暖，因为能够吸收二氧化碳的树木越来越少。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 41,
+          "answer": "The over-consumption of natural resources"
+        },
+        {
+          "start": 42,
+          "end": 71,
+          "answer": "has led to a range of harmful"
+        },
+        {
+          "start": 378,
+          "end": 389,
+          "answer": "For example"
+        },
+        {
+          "start": 482,
+          "end": 501,
+          "answer": "have been destroyed"
+        },
+        {
+          "start": 704,
+          "end": 715,
+          "answer": "In addition"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Several measures can be taken to address these problems. Governments should introduce stricter environmental laws to control carbon emissions, protect forests and prevent industries from polluting water. International cooperation is also important because environmental problems often affect more than one country. Governments should therefore make clear commitments at international climate meetings and ensure that these promises lead to real action. Individuals can also make a difference in their daily lives. They can recycle more, avoid wasting water and choose products that cause less environmental damage. People can also encourage family members and friends to adopt similar habits. If large numbers of people make these small changes, their combined effect can be significant.",
+      "cn": "我们可以采取多种措施来解决这些问题。政府应该出台更加严格的环境保护法律，以控制碳排放、保护森林，并防止 工业活动污染水资源。国际合作同样十分重要，因为环境问题往往会影响不止一个国家。因此，各国政府应该在国际 气候会议上作出明确承诺，并确保这些承诺能够真正转化为实际行动。个人在日常生活中同样可以发挥作用。人们可 以更多地进行回收利用、避免浪费水资源，并选择对环境危害较小的产品。此外，人们还可以鼓励家人和朋友养成类 似的环保习惯。如果大量的人都能作出这些微小的改变，那么这些行动所产生的综合影响将会十分显著。",
+      "clozes": [
+        {
+          "start": 24,
+          "end": 55,
+          "answer": "taken to address these problems"
+        },
+        {
+          "start": 76,
+          "end": 131,
+          "answer": "introduce stricter environmental laws to control carbon"
+        },
+        {
+          "start": 334,
+          "end": 343,
+          "answer": "therefore"
+        },
+        {
+          "start": 344,
+          "end": 400,
+          "answer": "make clear commitments at international climate meetings"
+        },
+        {
+          "start": 405,
+          "end": 416,
+          "answer": "ensure that"
+        },
+        {
+          "start": 432,
+          "end": 439,
+          "answer": "lead to"
+        },
+        {
+          "start": 474,
+          "end": 512,
+          "answer": "make a difference in their daily lives"
+        },
+        {
+          "start": 582,
+          "end": 613,
+          "answer": "cause less environmental damage"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, the rapid consumption of natural resources can destroy wildlife habitats and threaten human health and well-being. Governments need to take stronger action, while individuals should also adopt more environmentally friendly lifestyles.",
+      "cn": "总而言之，自然资源的快速消耗可能会破坏野生动物的栖息地，并威胁人类的健康与福祉。政府需要采取更加强有力 的措施，而个人也应该采取更加环保的生活方式。",
+      "clozes": [
+        {
+          "start": 150,
+          "end": 170,
+          "answer": "take stronger action"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "充斥着",
+      "en": "be filled/inundated with"
+    },
+    {
+      "zh": "可及性",
+      "en": "the availability of"
+    },
+    {
+      "zh": "扭转令人担忧的趋势",
+      "en": "reverse alarming trends"
+    },
+    {
+      "zh": "共同努力",
+      "en": "concerted efforts"
+    },
+    {
+      "zh": "切实承诺和行动",
+      "en": "tangible commitments and action"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

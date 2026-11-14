@@ -1,0 +1,349 @@
+{
+  "id": "t2-09",
+  "type": "大作文",
+  "title": "社交媒体的利与弊",
+  "group": "科技与媒体",
+  "question": "Some people believe that social media brings more benefits, such as improved communication and access to information. Other people believe that it causes problems like the spread of fake news and mental health issues.Discuss both these views and give your own opinion.",
+  "logic": "▪ 主体段一 讨论好处一让即时通讯成为可能（enable instant communication）→ 社交媒体平台让人们跨越物理障 碍（regardless of geographical barriers）进行交流 补充背景：当代社会生活复杂度增高，没有时间社交 → 正反 对比：没有社交媒体的结果 ▪ 主体段二 讨论好处二让信息传播速度加快且更广（distributed to wider populations at an unprecedented speed） → 原因：社交媒体更快更便宜更公平的信息推送（cheaper, fairer, and faster access to real-time events） → 举例：发展中国家的人也能读到相同的国际和科技新闻 → 结果：社交媒体让信息时代民主化 （democratized） ▪ 主体段三 讨论弊端①假新闻的猖獗（rampant）→ 结果：网络冲突和诈骗（conflicts and scams）②FOMO → 解 释FOMO（新概念需要解释）→ 结果：心理焦虑+压抑（mental anxiety and depression）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "In today’s society, social media has become an integral part of modern individuals’ lives. These powerful platforms have brought numerous benefits, ranging from higher efficiency in communication to the availability of the latest information to people around the globe. But many critics cite the widespread presence of fake news and the increase in mental problems as major disadvantages. This essay will examine both perspectives and contend that social media, when used responsibly, can bring more benefits than drawbacks.",
+      "cn": "在当今社会，社交媒体已成为现代人生活中不可或缺的一部分。这些强大的平台带来了诸多益处，例如提升沟通效率 和让全球民众获得最新信息。然而，批评者也指出，广泛传播虚假信息以及增加心理问题是社交媒体的两大弊端。本 文将探讨双方观点，并主张：只要合理使用，社交媒体带来的利大于弊。",
+      "clozes": [
+        {
+          "start": 20,
+          "end": 32,
+          "answer": "social media"
+        },
+        {
+          "start": 33,
+          "end": 70,
+          "answer": "has become an integral part of modern"
+        },
+        {
+          "start": 116,
+          "end": 146,
+          "answer": "have brought numerous benefits"
+        },
+        {
+          "start": 219,
+          "end": 241,
+          "answer": "the latest information"
+        },
+        {
+          "start": 296,
+          "end": 328,
+          "answer": "widespread presence of fake news"
+        },
+        {
+          "start": 337,
+          "end": 387,
+          "answer": "increase in mental problems as major disadvantages"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The primary advantage of social media is its ability to enable instant communication between friends and family, regardless of geographical barriers. Social media platforms, such as TikTok, Facebook, and Instagram, help people stay connected despite physical barriers. Undoubtedly, modern people are facing challenges with ever-increasing complexity, leaving them with less time to socialize and keep in contact with those whom they care about. Were it not for social media, they would be far more isolated, leading to solitude and a dramatic decline in their sense of well-being.",
+      "cn": "社交媒体的首要优势在于它打破地理界限，实现了人与人之间的即时沟通。像TikTok、Facebook 和Instagram 这样 的社交平台帮助人们跨越物理障碍保持联系。毫无疑问，当代人面临着日益复杂的生活挑战，能用于社交和与亲友保 持联系的时间越来越少。若没有社交媒体的存在，许多人将陷入孤独，幸福感也会大幅下降。",
+      "clozes": [
+        {
+          "start": 25,
+          "end": 37,
+          "answer": "social media"
+        },
+        {
+          "start": 56,
+          "end": 100,
+          "answer": "enable instant communication between friends"
+        },
+        {
+          "start": 113,
+          "end": 126,
+          "answer": "regardless of"
+        },
+        {
+          "start": 242,
+          "end": 249,
+          "answer": "despite"
+        },
+        {
+          "start": 445,
+          "end": 473,
+          "answer": "Were it not for social media"
+        },
+        {
+          "start": 543,
+          "end": 579,
+          "answer": "decline in their sense of well-being"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another major contribution of social media is that news and information are being distributed to wider populations at an unprecedented speed. The current era is considered “the information era,” highlighting the significance of collecting information for modern people. Social media provides cheaper, fairer, and faster access to real- time events to both the rich and the poor, no matter where they live. This is particularly important for developing countries, where citizens lead everyday lives with lower standards of material conditions. With the power of social media, these people and their children can read the same content concerning global news and the latest developments in technology as those from wealthier nations. In this sense, social media has democratized this information age.",
+      "cn": "社交媒体的另一个重要贡献是，它让新闻与信息以前所未有的速度传递给更广泛的群体。当今时代被称为“信息时 代”，这凸显了信息获取对现代人的重要性。无论身处何处，贫贱与否，社交媒体都能让人们更加廉价、公平且快速 地获取实时事件信息。这对于物质条件较差的发展中国家尤为重要。凭借社交媒体的力量，这些国家的人民及其子女 可以和富裕国家的民众一样，接触到全球新闻，了解科技发展的最新内容。从这个角度看，社交媒体实现了信息时代 的民主化。",
+      "clozes": [
+        {
+          "start": 30,
+          "end": 42,
+          "answer": "social media"
+        },
+        {
+          "start": 208,
+          "end": 250,
+          "answer": "the significance of collecting information"
+        },
+        {
+          "start": 478,
+          "end": 530,
+          "answer": "lead everyday lives with lower standards of material"
+        },
+        {
+          "start": 759,
+          "end": 796,
+          "answer": "has democratized this information age"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "However, the problems caused by social media should not be taken for granted. Fake news has become increasingly rampant on social media platforms, triggering conflicts and scams. Another threat is a new mental condition called FOMO (fear of missing out) among younger generations. This means young people constantly fret that they are left behind in either social activities or technological advancements, creating increased mental anxiety and depression for them.",
+      "cn": "然而，社交媒体所引发的问题也不容忽视。虚假新闻在平台上愈发猖獗，导致各种冲突与诈骗事件频发。另一个值得 关注的问题是年轻一代中日益严重的“错失恐惧症”（FOMO）。这一心理现象指的是，年轻人担心自己在社交活动 或技术发展中被落下，从而产生持续性的焦虑甚至抑郁。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 32,
+          "end": 44,
+          "answer": "social media"
+        },
+        {
+          "start": 59,
+          "end": 76,
+          "answer": "taken for granted"
+        },
+        {
+          "start": 88,
+          "end": 135,
+          "answer": "has become increasingly rampant on social media"
+        },
+        {
+          "start": 415,
+          "end": 439,
+          "answer": "increased mental anxiety"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "To conclude, while the negative impacts of social media are real, the benefits it generates far outweigh its drawbacks. The current issues can be addressed through stricter information regulations and professional mental counselling services. By the same token, the advantages of social media, especially its capacity to promote instant communication and spread information fairly, tremendously benefit the everyday lives of modern people.",
+      "cn": "总而言之，尽管社交媒体确实存在一些负面影响，但其带来的益处远大于弊端。社交媒体所具备的即时沟通功能和信 息公平传播能力，极大地便利了现代人的日常生活；而当前的问题可以通过加强信息监管和提供专业心理咨询服务加 以解决。",
+      "clozes": [
+        {
+          "start": 43,
+          "end": 55,
+          "answer": "social media"
+        },
+        {
+          "start": 82,
+          "end": 118,
+          "answer": "generates far outweigh its drawbacks"
+        },
+        {
+          "start": 321,
+          "end": 350,
+          "answer": "promote instant communication"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Social media has become an important part of modern life. Some people believe that it improves communication and gives people easier access to information, while others are concerned about problems such as fake news and mental health issues. This essay will discuss both views, and I believe that social media brings more benefits than drawbacks when it is used responsibly.",
+      "cn": "社交媒体已经成为现代生活的重要组成部分。一些人认为，它改善了人与人之间的交流，并使人们能够更加便捷地获 取信息；而另一些人则担忧虚假新闻和心理健康问题等负面影响。本文将讨论这两种观点，而我认为，只要人们能够 负责任地使用社交媒体，它所带来的益处就大于弊端。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 12,
+          "answer": "Social media"
+        },
+        {
+          "start": 13,
+          "end": 51,
+          "answer": "has become an important part of modern"
+        },
+        {
+          "start": 86,
+          "end": 108,
+          "answer": "improves communication"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One major advantage of social media is that it allows people to communicate instantly regardless of where they live. Platforms such as Facebook and Instagram make it much easier for friends and family members to stay in contact even when they are far apart. This is particularly useful today because many people are busy with work or study and have limited time for face-to-face social activities. Without social media, some people might have fewer opportunities to communicate with those they care about and may feel more isolated.",
+      "cn": "社交媒体的一个主要优势是，无论人们身处何地，它都能够让他们进行即时交流。Facebook 和 Instagram 等平台使 朋友和家人即使相隔甚远，也能够更加轻松地保持联系。这一点在当今社会尤其重要，因为许多人忙于工作或学习， 能够参与面对面社交活动的时间十分有限。如果没有社交媒体，一些人与自己所关心的人交流的机会可能会减少，并 因此感到更加孤立。",
+      "clozes": [
+        {
+          "start": 23,
+          "end": 35,
+          "answer": "social media"
+        },
+        {
+          "start": 86,
+          "end": 99,
+          "answer": "regardless of"
+        },
+        {
+          "start": 158,
+          "end": 200,
+          "answer": "make it much easier for friends and family"
+        },
+        {
+          "start": 344,
+          "end": 396,
+          "answer": "have limited time for face-to-face social activities"
+        },
+        {
+          "start": 438,
+          "end": 488,
+          "answer": "have fewer opportunities to communicate with those"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another benefit is easier access to information. News and other information can now reach millions of people within a very short time. More importantly, social media gives people from different economic backgrounds access to similar information. For example, people in developing countries can follow international news and learn about the latest developments in science and technology just as people in wealthier countries can. This can reduce the information gap between different groups and help more people understand what is happening around the world.",
+      "cn": "另一个好处是，人们可以更加便捷地获取信息。如今，新闻和其他信息可以在很短的时间内传播给数百万人。更重要 的是，社交媒体让来自不同经济背景的人都有机会接触到类似的信息。例如，发展中国家的人们可以像富裕国家的人 一样关注国际新闻，并了解科学技术领域的最新发展。这有助于缩小不同群体之间的信息差距，并帮助更多人了解世 界各地正在发生的事情。",
+      "clozes": [
+        {
+          "start": 84,
+          "end": 122,
+          "answer": "reach millions of people within a very"
+        },
+        {
+          "start": 135,
+          "end": 151,
+          "answer": "More importantly"
+        },
+        {
+          "start": 153,
+          "end": 165,
+          "answer": "social media"
+        },
+        {
+          "start": 246,
+          "end": 257,
+          "answer": "For example"
+        },
+        {
+          "start": 438,
+          "end": 489,
+          "answer": "reduce the information gap between different groups"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "However, social media can also cause serious problems. False information can spread rapidly online and may lead to scams, confusion or even conflict. In addition, frequent use of social media can affect people's mental well-being. Some young users, for example, constantly compare their lives with others online and worry that they are missing important experiences. This can increase stress and anxiety.",
+      "cn": "然而，社交媒体也可能带来一些严重的问题。虚假信息可以在网络上迅速传播，并可能导致诈骗、社会混乱，甚至冲 突。此外，频繁使用社交媒体还可能影响人们的心理健康。例如，一些年轻用户会不断将自己的生活与网络上的其他 人进行比较，并担心自己错过了一些重要的人生体验。这可能会增加他们的压力和焦虑。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 9,
+          "end": 21,
+          "answer": "social media"
+        },
+        {
+          "start": 31,
+          "end": 53,
+          "answer": "cause serious problems"
+        },
+        {
+          "start": 107,
+          "end": 114,
+          "answer": "lead to"
+        },
+        {
+          "start": 150,
+          "end": 161,
+          "answer": "In addition"
+        },
+        {
+          "start": 212,
+          "end": 229,
+          "answer": "mental well-being"
+        },
+        {
+          "start": 249,
+          "end": 260,
+          "answer": "for example"
+        },
+        {
+          "start": 273,
+          "end": 321,
+          "answer": "compare their lives with others online and worry"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "In conclusion, social media can spread false information and create mental health concerns, but I believe its benefits are greater. With better control of online information and more responsible use, social media can continue to improve communication and provide wider access to information.",
+      "cn": "总而言之，社交媒体可能会传播虚假信息，并引发与心理健康相关的问题，但我认为它所带来的益处更加显著。通过 加强对网络信息的管理，并更加负责任地使用社交媒体，它可以继续改善人与人之间的交流，同时让更多人获得更加 广泛的信息。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 27,
+          "answer": "social media"
+        },
+        {
+          "start": 61,
+          "end": 90,
+          "answer": "create mental health concerns"
+        },
+        {
+          "start": 229,
+          "end": 250,
+          "answer": "improve communication"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 5,
+    "par7": 5,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "...的可及性",
+      "en": "the availability of ... to sb."
+    },
+    {
+      "zh": "假新闻铺天盖地",
+      "en": "widespread presence of fake news"
+    },
+    {
+      "zh": "跨域地理阻隔",
+      "en": "regardless of/ despite geographical barriers"
+    },
+    {
+      "zh": "若不是因为社交媒体",
+      "en": "were it not for social media"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

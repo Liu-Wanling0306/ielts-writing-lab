@@ -1,0 +1,282 @@
+{
+  "id": "t2-16",
+  "type": "大作文",
+  "title": "应该使用动物作为实验对象吗？",
+  "group": "环境与动物",
+  "question": "Nowadays animal experiments are widely used to develop new medicines and to test the safety of other products. Some people argue that these experiments should be banned because it is morally wrong to cause animals to suffer, while others are in favor of them because of their benefits to humanity. Discuss both views and give your own opinion.",
+  "logic": "▪ 主体段一 讨论反方-禁止动物实验① 动物福利问题 → 动物实验造成疼痛（inflict pain on）和巨大压力 → 侵犯 动物基本权利（violation of fundamental animal rights）② 科学有效性问题（scientific validity）→ 人类与动物存 在生理差异（physiological differences）→ 实验结果可能不可靠 → 药物在人体试验中可能无效甚至产生严重副 作用 ▪ 主体段二 讨论正方-支持动物实验① 保障医疗安全 → 人类与动物具有共同的基本生物机制（share fundamental biological mechanisms）→ 动物实验可以观察药物反应、确定安全剂量② 推动医学突破 → 疫苗、抗生素等医学 成果依赖动物实验 → 挽救大量生命③ 缺少可行替代方案（viable alternatives） → 计算机模拟和体外实验无法完 整模拟人体免疫系统（immune system） → 目前完全取代动物实验并不现实",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The issue of animal testing has ignited widespread debate in modern society. While some assert that experimenting on animals should be prohibited due to concerns about animal suffering and morality, others maintain that it is indispensable for medical advancement and human welfare. This essay will explore both perspectives before contending that the benefits of animal testing outweigh the ethical concerns in fostering societal progress.",
+      "cn": "动物实验问题在现代社会引发了广泛争论。一些人认为，出于对动物痛苦和道德问题的担忧，应该禁止在动物身上进 行实验；而另一些人则坚持认为，动物实验对于医学进步和人类福祉而言不可或缺。本文将探讨这两种观点，并进一 步论证，在推动社会进步方面，动物实验带来的益处超过了其引发的伦理问题。",
+      "clozes": [
+        {
+          "start": 28,
+          "end": 75,
+          "answer": "has ignited widespread debate in modern society"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "It is reasonable that some people support banning animal testing, citing concerns such as animal welfare and scientific validity. First, animal testing inherently inflicts pain on sentient beings, which is widely considered a violation of fundamental animal rights. Many animals used in laboratories are subjected to toxic substances and extreme stress, often without adequate anesthesia. This systematic exploitation is deemed unacceptable by animal welfare advocates who argue that living creatures should not be treated as disposable scientific tools. Furthermore, the significant physiological differences between humans and animals can produce misleading results, rendering some experiments scientifically unreliable. For instance, a pharmaceutical drug that successfully cures a disease in mice might fail completely or cause severe side effects during human trials, putting volunteers at grave risk.",
+      "cn": "一些人支持禁止动物实验是有合理依据的，他们主要关注动物福利和科学有效性等问题。首先，动物实验不可避免地 会给具有感知能力的生命造成痛苦，而这被广泛认为是对动物基本权利的侵犯。许多实验室动物被迫接触有毒物质， 并承受极大的压力，而且往往没有得到充分的麻醉。动物福利倡导者认为，这种系统性的剥削是不可接受的，因为生 命不应该被当作可以随意牺牲的科学实验工具。此外，人类与动物之间显著的生理差异可能导致具有误导性的实验结 果，使某些实验在科学上缺乏可靠性。例如，一种能够成功治愈小鼠疾病的药物，在人体试验中可能完全无效，甚至 引发严重的副作用，使参与试验的志愿者面临极大的风险。",
+      "clozes": [
+        {
+          "start": 34,
+          "end": 64,
+          "answer": "support banning animal testing"
+        },
+        {
+          "start": 300,
+          "end": 322,
+          "answer": "are subjected to toxic"
+        },
+        {
+          "start": 338,
+          "end": 352,
+          "answer": "extreme stress"
+        },
+        {
+          "start": 641,
+          "end": 667,
+          "answer": "produce misleading results"
+        },
+        {
+          "start": 723,
+          "end": 735,
+          "answer": "For instance"
+        },
+        {
+          "start": 826,
+          "end": 871,
+          "answer": "cause severe side effects during human trials"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, those in favor of animal testing provide stronger justification, particularly in terms of medical safety, life-saving breakthroughs, and the lack of viable alternatives. First, although animal models are not perfect replicas of the human body, they share fundamental biological mechanisms. A century of medical development has proven that experimenting on these living organisms is essential to observe complex systemic reactions and determine safe dosages before new medicines are given to human patients. Second, these experiments have historically led to lifesaving medical breakthroughs, ultimately safeguarding human health. For example, the development of vaccines for infectious diseases, as well as life-saving antibiotics, relied heavily on animal research, preventing millions of premature deaths globally. Finally, completely replacing animal models is currently impractical, as computer simulations and in-vitro methods lack the capacity to fully mimic a complete immune system. Taken together, these considerations suggest that testing on animals is a necessary evil, as its profound benefits to human survival ultimately outweigh the ethical costs.",
+      "cn": "然而，支持动物实验的人提出了更有说服力的理由，尤其是在医学安全、挽救生命的科研突破以及缺乏可行替代方案 等方面。首先，尽管动物模型并不能完全复制人体的生理结构，但动物与人类仍然具有一些基本的生物学机制。过去 一个世纪的医学发展已经证明，在这些活体生物上进行实验，对于观察复杂的全身性反应，以及在新药用于人类患者 之前确定安全剂量至关重要。其次，动物实验在历史上促成了许多挽救生命的医学突破，最终保障了人类健康。例 如，传染病疫苗以及能够挽救生命的抗生素的研发，都在很大程度上依赖动物研究，从而避免了全球数百万人过早死 亡。最后，目前完全取代动物模型仍然不切实际，因为计算机模拟和体外实验方法尚无法完整模拟一个复杂的免疫系 统。综合这些因素来看，动物实验可以被视为一种不得已而为之的选择，因为它对人类生存所带来的巨大益处，最终 超过了其在伦理方面付出的代价。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 87,
+          "end": 98,
+          "answer": "in terms of"
+        },
+        {
+          "start": 150,
+          "end": 157,
+          "answer": "lack of"
+        },
+        {
+          "start": 158,
+          "end": 177,
+          "answer": "viable alternatives"
+        },
+        {
+          "start": 186,
+          "end": 194,
+          "answer": "although"
+        },
+        {
+          "start": 299,
+          "end": 331,
+          "answer": "A century of medical development"
+        },
+        {
+          "start": 639,
+          "end": 650,
+          "answer": "For example"
+        },
+        {
+          "start": 1072,
+          "end": 1088,
+          "answer": "a necessary evil"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, while it is understandable that the inherent suffering of animals prompts calls for their protection, a blanket ban is neither justified nor practically enforceable. I firmly believe that ultimately, responsible animal testing is not merely a scientific procedure, but a fundamental investment in the long-term stability and health of humanity.",
+      "cn": "总而言之，动物实验不可避免地会给动物造成痛苦，因此人们呼吁保护动物是可以理解的。然而，全面禁止动物实验 既缺乏充分的合理依据，在实际执行中也难以落实。我坚信，从根本上来说，以负责任的方式开展动物实验不仅仅是 一项科学研究程序，更是对人类长期健康与稳定发展的一项重要投资。",
+      "clozes": [
+        {
+          "start": 316,
+          "end": 335,
+          "answer": "long-term stability"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Animal experiments are widely used to develop new medicines and test the safety of different products. While some people believe these experiments should be banned because they cause animals to suffer, others argue that they are necessary for medical development. Although I understand the concerns about animal welfare, I believe animal testing should continue because of its important benefits to human health.",
+      "cn": "动物实验被广泛用于研发新药以及测试不同产品的安全性。一些人认为，这类实验会给动物带来痛苦，因此应该被禁 止；而另一些人则认为，动物实验对于医学发展是必要的。尽管我理解人们对于动物福利的担忧，但我认为动物实验 应该继续进行，因为它能够为人类健康带来重要益处。",
+      "clozes": [
+        {
+          "start": 38,
+          "end": 59,
+          "answer": "develop new medicines"
+        },
+        {
+          "start": 177,
+          "end": 200,
+          "answer": "cause animals to suffer"
+        },
+        {
+          "start": 264,
+          "end": 272,
+          "answer": "Although"
+        },
+        {
+          "start": 373,
+          "end": 395,
+          "answer": "its important benefits"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "On the one hand, there are good reasons to oppose animal testing. The main concern is that laboratory animals may experience pain and stress during experiments. For example, they may be exposed to harmful substances when new medicines or other products are being tested. Many people therefore believe that it is morally wrong to make animals suffer for human benefit. Another problem is that animals and humans are biologically different. A medicine that appears safe and effective when tested on animals may produce different results in humans. Therefore, animal experiments cannot always provide completely reliable information about how a product will affect people.",
+      "cn": "一方面，人们有充分的理由反对动物实验。最主要的担忧是，实验动物在实验过程中可能会经历痛苦和压力。例如， 在测试新药或其他产品时，它们可能会接触有害物质。因此，许多人认为，为了人类的利益而让动物承受痛苦在道德 上是不合理的。另一个问题是，动物和人类在生理结构上存在差异。一种药物即使在动物实验中表现得安全有效，在 人体中也可能产生不同的结果。因此，动物实验并不总能提供完全可靠的信息来说明某种产品会对人体产生怎样的影 响。",
+      "clozes": [
+        {
+          "start": 161,
+          "end": 172,
+          "answer": "For example"
+        },
+        {
+          "start": 283,
+          "end": 292,
+          "answer": "therefore"
+        },
+        {
+          "start": 329,
+          "end": 366,
+          "answer": "make animals suffer for human benefit"
+        },
+        {
+          "start": 509,
+          "end": 544,
+          "answer": "produce different results in humans"
+        },
+        {
+          "start": 590,
+          "end": 649,
+          "answer": "provide completely reliable information about how a product"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "On the other hand, animal testing has played an important role in medical development. Before a new medicine is tested on humans, researchers need to understand how it may affect a living body and whether it could cause serious harm. Testing it on animals can provide useful information and reduce the risks faced by human volunteers. In addition, completely replacing animal testing is currently unrealistic. Although alternatives such as computer models and laboratory tests are developing, they cannot yet fully show how a complete living body will react to a new treatment. Therefore, completely banning animal testing could make medical research more difficult.",
+      "cn": "另一方面，动物实验一直在医学发展中发挥着重要作用。在一种新药被用于人体试验之前，研究人员需要了解它可能 如何影响一个完整的生命体，以及它是否可能造成严重伤害。在动物身上进行测试能够提供有用的信息，并降低人体 试验志愿者所面临的风险。此外，目前完全取代动物实验并不现实。尽管计算机模型和实验室测试等替代方法正在不 断发展，但它们目前仍无法完全展示一个完整的生命体会如何对新的治疗方法作出反应。因此，彻底禁止动物实验可 能会增加医学研究的难度。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 17,
+          "answer": "On the other hand"
+        },
+        {
+          "start": 45,
+          "end": 65,
+          "answer": "an important role in"
+        },
+        {
+          "start": 260,
+          "end": 286,
+          "answer": "provide useful information"
+        },
+        {
+          "start": 308,
+          "end": 333,
+          "answer": "faced by human volunteers"
+        },
+        {
+          "start": 335,
+          "end": 346,
+          "answer": "In addition"
+        },
+        {
+          "start": 410,
+          "end": 418,
+          "answer": "Although"
+        },
+        {
+          "start": 578,
+          "end": 587,
+          "answer": "Therefore"
+        },
+        {
+          "start": 629,
+          "end": 665,
+          "answer": "make medical research more difficult"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, animal testing raises serious ethical concerns because it can cause suffering. However, I believe its benefits to medical research and human health are greater, especially when there are no suitable alternatives. Animal experiments should therefore continue, but unnecessary suffering should be avoided.",
+      "cn": "总而言之，动物实验确实会引发严重的伦理问题，因为它可能给动物造成痛苦。然而，我认为，它对医学研究和人类 健康所带来的益处更加重要，尤其是在缺乏合适替代方法的情况下。因此，动物实验应该继续进行，但同时应该尽可 能避免给动物造成不必要的痛苦。👨",
+      "clozes": [
+        {
+          "start": 94,
+          "end": 101,
+          "answer": "However"
+        },
+        {
+          "start": 254,
+          "end": 263,
+          "answer": "therefore"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "引发广泛争议",
+      "en": "ignite widespread debate"
+    },
+    {
+      "zh": "对……不可或缺",
+      "en": "be indispensable for"
+    },
+    {
+      "zh": "给...造成痛苦",
+      "en": "inflict pain on"
+    },
+    {
+      "zh": "使…遭受有毒物质 / 巨大压力",
+      "en": "be subjected to toxic substances / extreme stress"
+    },
+    {
+      "zh": "产生误导性的结果",
+      "en": "produce misleading results"
+    },
+    {
+      "zh": "可行的替代方案",
+      "en": "viable alternatives"
+    },
+    {
+      "zh": "必要之恶",
+      "en": "a necessary evil"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

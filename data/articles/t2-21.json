@@ -1,0 +1,197 @@
+{
+  "id": "t2-21",
+  "type": "大作文",
+  "title": "气候变化对企业是好是坏?",
+  "group": "环境与动物",
+  "question": "Some people think climate change has a negative impact on business, while others believe it creates more business opportunities.Discuss both views and give your own opinion.",
+  "logic": "▪ 主体段一 反方观点（气候变化给企业造成打击）①极端天气打击环境敏感性产业（climate-sensitive sectors）→ 举 例：农业、物流和旅游业②消费者环保意识增强（growing environmental awareness）+偏好转变 → 碳密集型产 品（carbon-intensive products）需求降低 → 如：化石能源汽车 → 资源密集型产业（resource-heavy industries） 受到影响 → 如：肉类和乳制品类 ▪ 主体段二 正方观点（气候变化促进了产业创新和改革）①新兴产业崛起 → 举例：新能源汽车的行业（electric vehicle sector）的出现 → 结果：带来就业机会②气候变化促进国际合作 → 国际气候框架+气候协议 （agreements） → 新能源科技（green technologies）交流③公众监督的加强促使企业负起环境责任 → 绿色发展 的企业在公众中名望更高（enhance their reputation） → 长久获利（long-term profitability）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The impact of climate change on global business has become a widely debated issue. While some argue that environmental challenges pose serious threats to economic stability, others believe they generate new commercial opportunities. This essay will examine both perspectives before arguing that climate change ultimately acts as a catalyst for business transformation.",
+      "cn": "气候变化对全球商业的影响已成为广泛讨论的话题。一些人认为环境问题对经济稳定构成严重威胁，而另一些人则认 为它创造了新的商业机遇。本文将分析这两种观点，并阐明我认为气候变化在本质上推动了商业转型。",
+      "clozes": [
+        {
+          "start": 48,
+          "end": 81,
+          "answer": "has become a widely debated issue"
+        },
+        {
+          "start": 194,
+          "end": 231,
+          "answer": "generate new commercial opportunities"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Those who hold a pessimistic view often point to the damage inflicted on traditional industries. Climate-sensitive sectors such as agriculture, logistics, and tourism are particularly vulnerable to extreme weather events and environmental disruption. In addition, shifting consumer preferences have reduced demand for carbon-intensive products, such as petrol-powered vehicles, placing pressure on established manufacturers. Similarly, growing environmental awareness has weakened certain resource-heavy industries, including meat and dairy production, raising concerns about job losses and economic instability in affected regions.",
+      "cn": "持悲观态度的人通常强调传统行业所遭受的冲击。农业、物流和旅游等对气候高度敏感的产业，极易受到极端天气和 环境变化的影响。此外，消费者偏好的转变削弱了对高碳产品的需求，使许多传统制造商面临压力。 同样，随着环保意识的增强，肉类和乳制品等资源密集型产业也受到冲击，引发了关于失业和区域经济不稳定的担 忧。",
+      "clozes": [
+        {
+          "start": 60,
+          "end": 72,
+          "answer": "inflicted on"
+        },
+        {
+          "start": 251,
+          "end": 262,
+          "answer": "In addition"
+        },
+        {
+          "start": 294,
+          "end": 343,
+          "answer": "have reduced demand for carbon-intensive products"
+        },
+        {
+          "start": 468,
+          "end": 514,
+          "answer": "has weakened certain resource-heavy industries"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, I align more closely with the optimistic perspective, as climate change has stimulated innovation and long-term business evolution. History shows that major disruptions frequently give rise to new industries. The rapid expansion of the electric vehicle sector, for example, has transformed the automotive market, creating new industry leaders and employment opportunities worldwide. Furthermore, climate challenges have encouraged international cooperation through cross-border frameworks and environmental agreements, facilitating the global exchange of green technologies. At the same time, heightened public scrutiny has pushed companies to adopt more responsible business practices. Firms that embrace sustainability often enhance their reputation among consumers, improving both brand value and long-term profitability.",
+      "cn": "然而，我更倾向于乐观的观点，因为气候变化促进了创新并推动了商业结构的长期演进。历史经验表明，重大挑战往 往催生新兴产业。例如，电动汽车市场的迅速扩张不仅重塑了汽车行业，也创造了大量就业机会。此外，气候问题促 使各国建立跨国合作机制和环境协议，加速了绿色技术的全球流通。同时，公众监督的加强也迫使企业采取更加负责 任的经营方式。积极践行可持续发展的企业，往往能够赢得消费者口碑，从而提升品牌价值和长期盈利能力。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 11,
+          "end": 34,
+          "answer": "align more closely with"
+        },
+        {
+          "start": 111,
+          "end": 120,
+          "answer": "long-term"
+        },
+        {
+          "start": 270,
+          "end": 281,
+          "answer": "for example"
+        },
+        {
+          "start": 283,
+          "end": 320,
+          "answer": "has transformed the automotive market"
+        },
+        {
+          "start": 356,
+          "end": 380,
+          "answer": "employment opportunities"
+        },
+        {
+          "start": 424,
+          "end": 497,
+          "answer": "have encouraged international cooperation through cross-border frameworks"
+        },
+        {
+          "start": 629,
+          "end": 675,
+          "answer": "has pushed companies to adopt more responsible"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although climate change imposes genuine costs on certain industries, its overall impact on business is positive. By driving innovation, strengthening international cooperation, and increasing corporate accountability, climate change reshapes the commercial landscape in ways that promote sustainable growth.",
+      "cn": "总之，尽管气候变化给部分行业带来了现实压力，但其对商业的整体影响是积极的。通过激发创新、加强国际合作以 及提升企业责任意识，气候变化正在以更加可持续的方式重塑商业格局。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 84,
+          "end": 102,
+          "answer": "its overall impact"
+        },
+        {
+          "start": 207,
+          "end": 231,
+          "answer": "corporate accountability"
+        },
+        {
+          "start": 295,
+          "end": 302,
+          "answer": "promote"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that climate change has a negative effect on businesses, while others think it creates new business opportunities. Although climate change can cause serious problems for some industries, I believe it can also encourage the development of new businesses and technologies.",
+      "cn": "一些人认为，气候变化会对企业产生负面影响，而另一些人则认为，它能够创造新的商业机会。尽管气候变化确实会 给某些行业带来严重问题，但我认为，它也能够推动新型企业和新技术的发展。On the one hand, climate change can have a negative impact on many traditional industries. Businesses such as agriculture, tourism and transport are especially affected by extreme weather. For example, droughts and floods can damage crops and reduce farmers' income, while very hot weather or natural disasters may discourage tourists from visiting certain places. In addition, as people become more concerned about the environment, they may buy fewer products that cause heavy pollution. This can reduce demand for products such as petrol-powered cars and put pressure on companies that depend on them. Some businesses may therefore lose customers, and their workers may even lose their jobs.一方面，气候变化可能会对许多传统行业产生负面影响。农业、旅游业 和交通运输业等行业尤其容易受到极端天气的影响。例如，干旱和洪水可能会破坏农作物，并减少农民的收入，而极 端高温或自然灾害则可能使游客不愿前往某些地区。此外，随着人们越来越关注环境问题，他们可能会减少购买造成 严重污染的产品。这可能会降低人们对燃油汽车等产品的需求，并给依赖这些产品的企业带来压力。因此，一些企业 可能会失去顾客，其员工甚至可能因此失业。On the other hand, I believe climate change can also create new business opportunities. As governments and consumers become more concerned about environmental problems, there is growing demand for cleaner products and technologies. The development of electric vehicles is a good example. As more people choose electric cars, companies can enter this growing market and create new jobs. Climate change can also encourage existing businesses to change the way they operate. For example, companies may use cleaner energy, reduce waste or develop more environmentally friendly products. These changes can improve their reputation and attract consumers who care about the environment. Therefore, environmental problems can encourage businesses to develop new ideas and find new markets.另一方面，我认为气候变化也能够创造新的商业机会。随着政府和消费者越来越重视环境问题，市场对 更加清洁的产品和技术的需求也在不断增长。电动汽车的发展就是一个很好的例子。随着越来越多的人选择电动汽 车，企业可以进入这一不断扩大的市场，并创造新的就业机会。气候变化还能够促使现有企业改变自身的经营方式。 例如，企业可能会使用更加清洁的能源、减少浪费，或者开发更加环保的产品。这些改变能够改善企业的声誉，并吸 引重视环境问题的消费者。因此，环境问题能够推动企业提出新的想法，并开拓新的市场。In conclusion, climate change can damage some traditional industries and cause job losses. However, I believe it can also create important opportunities by increasing demand for cleaner technologies and encouraging businesses to develop more sustainable products.总而言之，气候变化可能会损害一些传统行业，并导致部分工作岗位流失。然 而，我认为，它也能够创造重要的商业机会，因为它会增加市场对清洁技术的需求，并推动企业开发更加可持续的产 品。",
+      "clozes": [
+        {
+          "start": 40,
+          "end": 75,
+          "answer": "has a negative effect on businesses"
+        },
+        {
+          "start": 99,
+          "end": 133,
+          "answer": "creates new business opportunities"
+        },
+        {
+          "start": 135,
+          "end": 143,
+          "answer": "Although"
+        },
+        {
+          "start": 163,
+          "end": 205,
+          "answer": "cause serious problems for some industries"
+        },
+        {
+          "start": 229,
+          "end": 289,
+          "answer": "encourage the development of new businesses and technologies"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 1,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [
+    {
+      "zh": "推动",
+      "en": "promote/ drive 或 act as a catalyst for"
+    },
+    {
+      "zh": "施加于",
+      "en": "be imposed/ inflicted on"
+    },
+    {
+      "zh": "更倾向于",
+      "en": "be inclined to/ have a preference for/ align more closely with"
+    },
+    {
+      "zh": "公众监督的加强 (",
+      "en": "strengthened/ tightened/ intensified/ heightened) public (oversight/"
+    },
+    {
+      "zh": "长期盈利",
+      "en": "long-term/ sustained profitability"
+    },
+    {
+      "zh": "企业责任意识",
+      "en": "corporate accountability"
+    }
+  ],
+  "preferred": "nine",
+  "source_note": "源材料的 7+ 版仅包含开头段，已排除残缺版本并显示完整的 9 分版。"
+}

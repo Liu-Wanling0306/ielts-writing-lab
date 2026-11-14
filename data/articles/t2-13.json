@@ -1,0 +1,299 @@
+{
+  "id": "t2-13",
+  "type": "大作文",
+  "title": "老年人使用手机的好处和鼓励措施",
+  "group": "科技与媒体",
+  "question": "Mobile phones and the internet bring a lot of benefits to people nowadays. However, older people use them the least. In what aspects do mobile phones and the internet benefit older people? How can we encourage them to use these technologies?",
+  "logic": "▪ 主体段一 阐述好处①丰富老年人的社会幸福感（the enrichment of their social well-being）→ 原因：手机和互联 网的普及让老年人可以做很多活动（举例） → 总结：这些活动带来的结果：缓解孤寂，提升幸福感 (alleviate loneliness, reduce the risk of depression, and foster a sense of belonging)②可以提升老年人的心理幸福 感（mental well-being）→ 原因：智能手机带来了便利 → 泛例：在线下单（ordering groceries）、医院挂号 （scheduling hospital appointments）→ 结果：增强了老年人的独立性，提升心理幸福感 ▪ 主体段二 阐述措施①从家庭层面考虑（On the family level）→ 年轻人应承担起教授相关技能的责任 → 结果： 增强家庭纽带（strengthens family bonds）②从产业层面考虑（On the industrial side） → 科技公司应该设计年 龄友好型用户界面 → 具体化: 简化菜单、更大的字体和语音指令（simplified menus, larger fonts, and voice- assisted commands）③从政府层面考虑 → 政府可以提供资金，资助相关技能培训（funding community training centres） → 避免网络诈骗（online fraud）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "It is often argued that elderly people reap fewer benefits from smartphones and the internet, given their lower adoption rates compared with younger generations. While this concern is understandable, it overlooks the substantial advantages that these technologies can offer to senior citizens and the range of measures that can be taken to close the digital gap.",
+      "cn": "人们常常认为，老年人从智能手机和互联网中获得的好处最少，因为他们的使用率远低于年轻一代。虽然这种担忧可 以理解，但它忽视了这些技术能够为老年人带来的巨大优势，以及可以采取的一系列措施来缩小数字鸿沟。",
+      "clozes": [
+        {
+          "start": 127,
+          "end": 140,
+          "answer": "compared with"
+        },
+        {
+          "start": 268,
+          "end": 292,
+          "answer": "offer to senior citizens"
+        },
+        {
+          "start": 331,
+          "end": 361,
+          "answer": "taken to close the digital gap"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The most significant benefit of modern technology for the elderly is the enrichment of their social and mental well-being. Long gone are the days when retirement was synonymous with social isolation and inactivity. With smartphones and the internet, older people can video call their children across continents, participate in online communities that share their hobbies, and even join virtual tours to places they might never physically visit. Such activities do not merely occupy their time but also alleviate loneliness, reduce the risk of depression, and foster a sense of belonging. In addition, the daily convenience offered by digital tools is undeniable. From ordering groceries and medicines online to scheduling hospital appointments through mobile applications, these technologies empower the elderly to live more independently, thereby reducing their reliance on family members and boosting their dignity in later life.",
+      "cn": "科技给老年人带来的最大益处是丰富他们的社会和心理福祉。退休等同于孤立和无所事事的日子早已一去不复返。通 过智能手机和互联网，老年人可以与远在世界各地的子女视频通话，参与兴趣相同的线上社群，甚至加入虚拟旅游项 目，参观他们可能永远无法亲身到访的地方。这些活动不仅仅是消遣时间，还能减轻孤独感，降低抑郁风险，并培养 归属感。此外，数字工具提供的日常便利也是不容置疑的。从网上订购食品和药品，到通过手机应用预约医院，这些 技术赋予老年人更强的独立性，从而减少对家庭成员的依赖，并提升他们晚年的尊严。",
+      "clozes": [
+        {
+          "start": 73,
+          "end": 121,
+          "answer": "enrichment of their social and mental well-being"
+        },
+        {
+          "start": 123,
+          "end": 150,
+          "answer": "Long gone are the days when"
+        },
+        {
+          "start": 312,
+          "end": 345,
+          "answer": "participate in online communities"
+        },
+        {
+          "start": 403,
+          "end": 443,
+          "answer": "places they might never physically visit"
+        },
+        {
+          "start": 524,
+          "end": 542,
+          "answer": "reduce the risk of"
+        },
+        {
+          "start": 588,
+          "end": 599,
+          "answer": "In addition"
+        },
+        {
+          "start": 623,
+          "end": 661,
+          "answer": "offered by digital tools is undeniable"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "To encourage greater use of these technologies, coordinated efforts from families, industries, and governments are required. On the family level, younger generations should assume responsibility by patiently guiding their parents or grandparents through the learning process. Their constant interaction not only strengthens family bonds but also gradually builds the confidence of senior learners. On the industrial side, tech companies ought to design more age-friendly interfaces, such as simplified menus, larger fonts, and voice-assisted commands, ensuring that technology does not appear intimidating. Beyond this, governments can play a vital role by funding community training centres, where older citizens can receive free workshops on how to use mobile phones and the internet safely. In some countries, such initiatives have already proved successful, enabling the elderly to protect themselves from online fraud and to fully participate in digital life.",
+      "cn": "为了进一步鼓励老年人使用这些工具，需要家庭、产业和政府的共同努力。在家庭层面，年轻一代应当承担起耐心引 导父母和祖父母学习的责任。这种持续的互动不仅能加强家庭纽带，还能逐步增强老年学习者的信心。在产业层面， 科技公司应该设计更多适合老年人的界面，例如简化菜单、更大的字体和语音指令，确保科技不会显得令人生畏。除 此之外，政府也能发挥重要作用，资助社区培训中心，为老年人提供免费的工作坊，教他们如何安全地使用智能手机 和互联网。在一些国家，这类举措已经取得成功，帮助老年人防范网络诈骗，并积极参与数字生活。",
+      "clozes": [
+        {
+          "start": 3,
+          "end": 46,
+          "answer": "encourage greater use of these technologies"
+        },
+        {
+          "start": 173,
+          "end": 194,
+          "answer": "assume responsibility"
+        },
+        {
+          "start": 636,
+          "end": 674,
+          "answer": "play a vital role by funding community"
+        },
+        {
+          "start": 830,
+          "end": 860,
+          "answer": "have already proved successful"
+        },
+        {
+          "start": 886,
+          "end": 922,
+          "answer": "protect themselves from online fraud"
+        },
+        {
+          "start": 936,
+          "end": 963,
+          "answer": "participate in digital life"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, far from being left behind, older people can greatly enhance their quality of life through the use of smartphones and the internet. By combining the support of families, the innovation of technology companies, and the initiatives of governments, society can ensure that senior citizens enjoy the full benefits of the digital age.",
+      "cn": "总之，老年人绝非被时代抛在身后的人群，相反，他们完全可以通过使用数字工具大大提升生活质量。通过结合家庭 的支持、科技公司的创新，以及政府的政策举措，社会能够确保老年群体同样享受数字时代的全部益处。",
+      "clozes": [
+        {
+          "start": 164,
+          "end": 183,
+          "answer": "support of families"
+        },
+        {
+          "start": 273,
+          "end": 284,
+          "answer": "ensure that"
+        },
+        {
+          "start": 307,
+          "end": 324,
+          "answer": "the full benefits"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Mobile phones and the internet have brought many benefits to modern life, but older people tend to use these technologies less than younger generations. In fact, they can greatly improve elderly people's quality of life, and several measures can be taken to encourage more older people to use them.",
+      "cn": "手机和互联网给现代生活带来了许多便利，但与年轻一代相比，老年人使用这些技术的频率往往较低。事实上，这些 技术能够极大地改善老年人的生活质量，同时，我们也可以采取多种措施来鼓励更多老年人使用它们。",
+      "clozes": [
+        {
+          "start": 31,
+          "end": 72,
+          "answer": "have brought many benefits to modern life"
+        },
+        {
+          "start": 179,
+          "end": 219,
+          "answer": "improve elderly people's quality of life"
+        },
+        {
+          "start": 249,
+          "end": 292,
+          "answer": "taken to encourage more older people to use"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One major benefit is that these technologies can help older people stay socially connected. After retirement, some elderly people may have fewer opportunities to meet others and therefore feel lonely. With smartphones and the internet, they can make video calls with family members who live far away, communicate with friends and join online groups based on their interests. These activities can reduce loneliness and give them a stronger sense of belonging. In addition, digital technology can make their daily lives much more convenient. For example, older people can buy groceries and medicine online or make hospital appointments through mobile apps. As a result, they can complete many daily tasks by themselves and rely less on their family members.",
+      "cn": "一个主要的好处是，这些技术能够帮助老年人与社会保持联系。退休之后，一些老年人与他人见面的机会可能会减 少，因此容易感到孤独。借助智能手机和互联网，他们可以与居住在远方的家人进行视频通话、与朋友保持联系，还 可以根据自己的兴趣加入各种网络社群。这些活动能够缓解孤独感，并增强他们的归属感。此外，数字技术还可以让 老年人的日常生活变得更加便利。例如，他们可以在网上购买食品杂货和药品，也可以通过手机应用预约就医。因 此，他们能够独立完成许多日常事务，从而减少对家人的依赖。",
+      "clozes": [
+        {
+          "start": 178,
+          "end": 187,
+          "answer": "therefore"
+        },
+        {
+          "start": 245,
+          "end": 285,
+          "answer": "make video calls with family members who"
+        },
+        {
+          "start": 459,
+          "end": 470,
+          "answer": "In addition"
+        },
+        {
+          "start": 472,
+          "end": 490,
+          "answer": "digital technology"
+        },
+        {
+          "start": 495,
+          "end": 538,
+          "answer": "make their daily lives much more convenient"
+        },
+        {
+          "start": 540,
+          "end": 551,
+          "answer": "For example"
+        },
+        {
+          "start": 607,
+          "end": 653,
+          "answer": "make hospital appointments through mobile apps"
+        },
+        {
+          "start": 655,
+          "end": 666,
+          "answer": "As a result"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "There are several ways to encourage older people to use these technologies. First, younger family members can teach their parents or grandparents how to use smartphones and the internet. With patient and regular guidance, elderly people can gradually become more confident about using technology. Second, technology companies should make their products easier for older users. Simple menus, larger text and voice control, for example, can make smartphones less difficult to use. Finally, governments can provide free technology courses in local communities. These courses could teach elderly people basic skills such as using mobile apps and protecting themselves from online scams. This would allow them to use digital services more safely and confidently.",
+      "cn": "我们可以通过多种方式鼓励老年人使用这些技术。首先，年轻的家庭成员可以教自己的父母或祖父母如何使用智能手 机和互联网。通过耐心且持续的指导，老年人可以逐渐增强使用科技产品的信心。其次，科技公司应该让自己的产品 对老年用户更加友好。例如，简洁的操作菜单、更大的字体以及语音控制功能，都可以降低智能手机的使用难度。最 后，政府可以在当地社区为老年人提供免费的科技培训课程。这些课程可以教授一些基本技能，例如如何使用手机应 用程序，以及如何防范网络诈骗。这样一来，老年人便能够更加安全、自信地使用各种数字服务。",
+      "clozes": [
+        {
+          "start": 10,
+          "end": 25,
+          "answer": "several ways to"
+        },
+        {
+          "start": 26,
+          "end": 74,
+          "answer": "encourage older people to use these technologies"
+        },
+        {
+          "start": 251,
+          "end": 295,
+          "answer": "become more confident about using technology"
+        },
+        {
+          "start": 333,
+          "end": 375,
+          "answer": "make their products easier for older users"
+        },
+        {
+          "start": 422,
+          "end": 433,
+          "answer": "for example"
+        },
+        {
+          "start": 439,
+          "end": 477,
+          "answer": "make smartphones less difficult to use"
+        },
+        {
+          "start": 539,
+          "end": 556,
+          "answer": "local communities"
+        },
+        {
+          "start": 694,
+          "end": 740,
+          "answer": "allow them to use digital services more safely"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, mobile phones and the internet can help older people maintain social connections and live more independently. With support from families, technology companies and governments, more elderly people can enjoy the benefits of modern technology.",
+      "cn": "总而言之，手机和互联网能够帮助老年人维持社会联系，并让他们过上更加独立的生活。在家庭、科技企业和政府的 共同支持下，更多老年人可以享受到现代科技带来的便利与益处。",
+      "clozes": [
+        {
+          "start": 68,
+          "end": 95,
+          "answer": "maintain social connections"
+        },
+        {
+          "start": 130,
+          "end": 151,
+          "answer": "support from families"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "获取巨大好处/ 不怎么受益",
+      "en": "reap great/few benefits from"
+    },
+    {
+      "zh": "丰富社会和内心福祉",
+      "en": "enrichment of their social and mental well-being"
+    },
+    {
+      "zh": "...日子一去不复返了",
+      "en": "Long gone are the days when ..."
+    },
+    {
+      "zh": "赋予能力去做",
+      "en": "empower sb. to do"
+    },
+    {
+      "zh": "承担责任",
+      "en": "assume responsibility"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

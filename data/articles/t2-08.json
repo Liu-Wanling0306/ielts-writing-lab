@@ -1,0 +1,264 @@
+{
+  "id": "t2-08",
+  "type": "大作文",
+  "title": "机器人发展的利与弊",
+  "group": "科技与媒体",
+  "question": "Some people think that robots are very important for humans' future development. Others, however, think that robots are dangerous inventions that could have negative effects on society.Discuss both views and give your opinion.",
+  "logic": "▪ 主体段一 讨论反方：机器人发展存在的问题①失业风险 → 原因：机器人比人类表现更好 (outperform their human counterparts) → 比如：重复简单性工作 (repetitive and simple work) 、高技术工作 (highly technical jobs) → 结果：老板为了效率和成本选择自动化（automation）②社会风险 → 原因：机器人会越来越 智能（the increasing intelligence of machines）→ 结果：超越人类，脱离控制 ▪ 主体段二 讨论正方：机器人给人类社会带来的好处反驳：以上观点都是来源于人类的揣测（speculation）和科 幻电影（science fiction）→ 转到现实：机器人带来的巨大好处（delivered substantial benefit）→ 举例：机器人 可以在复杂危险的工作环境代替人类工作（排雷灭火）+ 机器人可以在高精密度行业帮助人类（医疗手术）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The integration of robots into human society has recently sparked considerable controversy. While some may argue that these tools pose a growing threat to our society, others view them as essential tools for future development. This essay will examine both perspectives and argue that, on balance, the rise of robotics brings more benefits than drawbacks to individuals and society as a whole.",
+      "cn": "机器人融入人类社会这一现象近来引发了人们的广泛争议。有人认为，这些工具会慢慢对社会构成威胁；而也有人主 张，它们是未来人类社会发展的关键工具。本文将探讨这两种观点，并指出机器人技术的兴起对个人和整个社会总体 上来说是利大于弊的。",
+      "clozes": [
+        {
+          "start": 45,
+          "end": 90,
+          "answer": "has recently sparked considerable controversy"
+        },
+        {
+          "start": 302,
+          "end": 344,
+          "answer": "rise of robotics brings more benefits than"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Those maintaining that robots are a destructive force for humanity oftencite the growing risk of unemployment and social disruption. It is undeniable that robots outperform their human counterparts in various fields, ranging from repetitive and simple work such as serving in restaurants to highly technical jobs once considered irreplaceable, such as software engineering. As a result, many workers are facing the risk of being laid off as their employers turn to automation for greater efficiency and cost-effectiveness. Furthermore, some express concern over the increasing intelligence of machines, fearing a dystopian future in which robots may surpass human control and even dominate the planet.",
+      "cn": "认为机器人对人类具有破坏性的人，往往觉得机器人会带来失业风险和社会动荡。不可否认，在诸多领域中，机器人 在表现上已优于人类：从餐厅服务等重复性简单工作到曾被视为不可替代的高技术岗位，如软件工程。因此，随着企 业为提高效率和降低成本而转向自动化，许多工人正面临被裁员的风险。此外，一些人还担忧机器人会越来越智能， 在未来会出现机器人超越人类控制、甚至统治地球的反乌托邦局面。",
+      "clozes": [
+        {
+          "start": 374,
+          "end": 385,
+          "answer": "As a result"
+        },
+        {
+          "start": 541,
+          "end": 561,
+          "answer": "express concern over"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, such fears are largely speculative and often fueled by science fiction. In reality, the development of robotics has delivered substantial benefits. Robots excel in hazardous environments, taking on roles that are either too dangerous or physically demanding for humans. Examples include defusing landmines, extinguishing fires, and handling toxic substances, tasks that save lives while minimizing human risks. Moreover, in industries that require extreme precision, such as surgery and advanced manufacturing, robotic assistants have significantly improved both outcomes and efficiency.",
+      "cn": "然而，这类担忧大多仍属推测，且往往受科幻作品影响。在现实中，机器人技术的发展已带来诸多实质性好处。机器 人在高危作业中表现出色，能承担那些对人类而言过于危险或艰巨的任务，例如排雷、灭火和处理有毒物质，在这些 任务中，机器人不仅挽救生命，还有效降低了救援人员面临的风险。此外，在对精确度要求极高的行业如外科手术和 先进制造，机器人助手显著提升了成果质量与操作效率。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 121,
+          "end": 155,
+          "answer": "has delivered substantial benefits"
+        },
+        {
+          "start": 246,
+          "end": 266,
+          "answer": "physically demanding"
+        },
+        {
+          "start": 539,
+          "end": 580,
+          "answer": "have significantly improved both outcomes"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Rather than replacing human beings, in conclusion, robots should be viewed as valuable partners that complement human abilities. With thoughtful regulation and ethical oversight, the deployment of robots can enhance productivity, improve safety, and support sustainable development. Ultimately, while the potential risks of robots should not be ignored, their positive contributions to modern society far outweigh the negatives.",
+      "cn": "总之，与其将机器人视为人类的替代者，不如将其看作补充人类能力的有价值的伙伴。在合理监管和伦理监督的前提 下，机器人的应用可以提高生产力、改善安全性并推动可持续发展。因此，尽管不能忽视机器人可能带来的风险，但 其对现代社会的积极贡献远远超过负面影响。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 11,
+          "answer": "Rather than"
+        },
+        {
+          "start": 208,
+          "end": 249,
+          "answer": "enhance productivity, improve safety, and"
+        },
+        {
+          "start": 250,
+          "end": 281,
+          "answer": "support sustainable development"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Robots are becoming increasingly common in modern society. Some people believe that they will play an important role in human development, while others worry that they may have negative effects on society. This essay will discuss both views, and I believe that robots bring more benefits than problems overall.",
+      "cn": "机器人在现代社会中正变得越来越普遍。一些人认为，机器人将在人类发展过程中发挥重要作用，而另一些人则担心 它们可能会对社会产生负面影响。本文将讨论这两种观点，而我认为，总体而言，机器人带来的益处大于其所引发的 问题。",
+      "clozes": [
+        {
+          "start": 99,
+          "end": 119,
+          "answer": "an important role in"
+        },
+        {
+          "start": 172,
+          "end": 204,
+          "answer": "have negative effects on society"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "On the one hand, robots may cause some serious problems, especially unemployment. As technology develops, robots are able to perform a growing number of tasks that were traditionally done by humans. They can not only do simple and repetitive work, such as serving food in restaurants, but also take part in more skilled jobs, including software engineering. Since robots can often work faster and at a lower cost, some companies may choose machines instead of human workers. As a result, many people could lose their jobs or find it more difficult to find work. In addition, some people are worried that robots may become too intelligent in the future. They fear that humans could eventually lose control of advanced machines, although this possibility is still largely based on speculation.",
+      "cn": "一方面，机器人可能会带来一些严重的问题，其中最突出的是失业问题。随着科技的发展，机器人能够完成越来越多 过去通常由人类承担的工作。它们不仅可以从事简单且重复性的工作，例如在餐厅提供服务，还可以参与一些对专业 技能要求更高的工作，包括软件工程。由于机器人通常能够以更快的速度和更低的成本完成工作，一些公司可能会选 择使用机器来取代人类员工。因此，许多人可能会失去工作，或者发现就业变得更加困难。此外，一些人还担心，未 来机器人可能会变得过于智能。他们担忧人类最终可能失去对先进机器的控制，尽管目前这种可能性在很大程度上仍 然只是一种推测。",
+      "clozes": [
+        {
+          "start": 28,
+          "end": 55,
+          "answer": "cause some serious problems"
+        },
+        {
+          "start": 133,
+          "end": 152,
+          "answer": "a growing number of"
+        },
+        {
+          "start": 294,
+          "end": 324,
+          "answer": "take part in more skilled jobs"
+        },
+        {
+          "start": 475,
+          "end": 486,
+          "answer": "As a result"
+        },
+        {
+          "start": 562,
+          "end": 573,
+          "answer": "In addition"
+        },
+        {
+          "start": 615,
+          "end": 651,
+          "answer": "become too intelligent in the future"
+        },
+        {
+          "start": 727,
+          "end": 735,
+          "answer": "although"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "On the other hand, robots can make an important contribution to society. One major advantage is that they can replace humans in dangerous working environments. For example, robots can be used to remove landmines, fight fires and deal with toxic materials. This can reduce the risks faced by workers and even save lives. Robots are also useful in areas where a high level of accuracy is required. In medical operations and advanced manufacturing, for instance, robotic technology can help people complete difficult tasks more accurately and efficiently. Therefore, robots can improve both safety and productivity.",
+      "cn": "另一方面，机器人能够为社会作出重要贡献。其中一个主要优势是，它们可以在危险的工作环境中代替人类。例如， 机器人可以被用于排除地雷、扑灭火灾以及处理有毒物质。这样不仅可以降低工作人员面临的风险，甚至还能够挽救 生命。此外，在一些对精确度要求极高的领域，机器人也非常有用。例如，在医疗手术和先进制造业中，机器人技术 可以帮助人们更加准确、高效地完成复杂任务。因此，机器人能够同时提高安全性和生产效率。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 17,
+          "answer": "On the other hand"
+        },
+        {
+          "start": 30,
+          "end": 71,
+          "answer": "make an important contribution to society"
+        },
+        {
+          "start": 110,
+          "end": 158,
+          "answer": "replace humans in dangerous working environments"
+        },
+        {
+          "start": 160,
+          "end": 171,
+          "answer": "For example"
+        },
+        {
+          "start": 265,
+          "end": 307,
+          "answer": "reduce the risks faced by workers and even"
+        },
+        {
+          "start": 446,
+          "end": 458,
+          "answer": "for instance"
+        },
+        {
+          "start": 553,
+          "end": 562,
+          "answer": "Therefore"
+        },
+        {
+          "start": 575,
+          "end": 594,
+          "answer": "improve both safety"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although robots may lead to job losses and create concerns about their future development, I believe their advantages are greater. If governments introduce proper rules to control their use, robots can work alongside humans and help create a safer and more efficient society.",
+      "cn": "总而言之，尽管机器人可能导致部分工作岗位流失，并引发人们对其未来发展的担忧，但我认为它们的优势更加显 著。如果政府能够制定适当的规则来规范机器人的使用，那么机器人就能够与人类协同工作，并帮助我们建设一个更 加安全、高效的社会。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 35,
+          "end": 42,
+          "answer": "lead to"
+        },
+        {
+          "start": 80,
+          "end": 104,
+          "answer": "their future development"
+        },
+        {
+          "start": 161,
+          "end": 204,
+          "answer": "introduce proper rules to control their use"
+        },
+        {
+          "start": 248,
+          "end": 262,
+          "answer": "create a safer"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "面对...的风险",
+      "en": "face the risk of"
+    },
+    {
+      "zh": "表达对...的担忧",
+      "en": "express concern over"
+    },
+    {
+      "zh": "产生可观好处",
+      "en": "deliver substantial benefits"
+    },
+    {
+      "zh": "体力要求高的",
+      "en": "physically demanding"
+    },
+    {
+      "zh": "提高生产力，改善安全性，推动可持续发展",
+      "en": "enhance productivity, improve safety, and"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

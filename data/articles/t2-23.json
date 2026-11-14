@@ -1,0 +1,329 @@
+{
+  "id": "t2-23",
+  "type": "大作文",
+  "title": "本地人不愿意参观博物馆的原因及措施",
+  "group": "文化与艺术",
+  "question": "Many museums and historical sites are mainly visited by tourists and not local people. Why is this the case? What can be done to attract local people?",
+  "logic": "▪ 主体段一 回答第一问-为什么本地人不参观本地博物馆①曾经参观过（“one-off” mentality） → 学生时代曾经 去过 + 博物馆的展品不曾改变（display the same artifacts for decades） = 本地人再次去没兴趣②过度旅游化 （overtourism） → 博物馆周边经常是：排长队 + 拥挤 + 有压力的氛围 → 举例：卢浮宫和紫禁城 → 本地人去 过不愿再去 ▪ 主体段二 回答第二问-怎么吸引本地人①轮换展品（organise rotating exhibitions） → 具体做法：与国际机构合 作开展主题展览（host themed exhibitions）②行政策略（administrative measures） → 提高本地人去的意愿：门 票打折、年卡",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "It is often observed that museums and historical landmarks are predominantly frequented by tourists, while local residents rarely visit them. This situation is mainly caused by the static nature of many exhibitions and the inconvenience created by overcrowding. However, by redefining museums as dynamic community spaces and adopting resident-oriented policies, this trend can be effectively reversed.",
+      "cn": "人们常常发现，博物馆和历史遗址主要由游客参观，而当地居民却很少前往。这一现象主要源于展览内容的静态特征 以及过度旅游所带来的不便。然而，只要将博物馆重新定位为充满活力的社区文化空间，并采取更偏向本地居民的政 策，这一趋势是可以有效扭转的。",
+      "clozes": [
+        {
+          "start": 107,
+          "end": 122,
+          "answer": "local residents"
+        },
+        {
+          "start": 167,
+          "end": 202,
+          "answer": "caused by the static nature of many"
+        },
+        {
+          "start": 248,
+          "end": 260,
+          "answer": "overcrowding"
+        },
+        {
+          "start": 262,
+          "end": 269,
+          "answer": "However"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One major reason for the lack of local engagement is the so-called “one-off” mentality. Many residents associate museums with compulsory school trips during their formative years and feel that once they have seen the permanent collections, there is little reason to return. Unlike cinemas or theatres, which constantly update their content, historical sites often display the same artifacts for decades. As a result, locals believe they have already exhausted what these venues have to offer. Another equally influential factor is overtourism. Iconic sites such as the Louvre or the Forbidden City are widely associated with long queues, dense crowds, and a stressful atmosphere. For residents seeking relaxation, these places become areas to avoid rather than revisit, with parks or shopping centres offering a more comfortable alternative.",
+      "cn": "当地居民缺乏参观意愿的一个主要原因是所谓的“一次性参观”心理。许多人将博物馆与学生时期的学校组织的强制 参观活动联系在一起，认为永久展览看过一次便已足够，也就没什么理由再来了。与不断更新内容的电影院或剧院不 同，许多历史场馆几十年如一日地展示同样的文物，导致居民认为这些场所的吸引力已经被消耗殆尽。与此同时，当 地人认为这些场所能带给他们的体验已经一览无余。过度旅游也是一个不可忽视的因素，像卢浮宫或故宫这样的著名 景点，往往伴随着漫长的排队和拥挤的环境。对于想要放松休闲的本地居民而言，这些地方成了避之不及的去处，而 不是愿意重游的地方；公园或者购物中心反倒成了更舒适的选择。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 16,
+          "answer": "One major reason"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "answer": "lack of"
+        },
+        {
+          "start": 163,
+          "end": 178,
+          "answer": "formative years"
+        },
+        {
+          "start": 203,
+          "end": 238,
+          "answer": "have seen the permanent collections"
+        },
+        {
+          "start": 240,
+          "end": 265,
+          "answer": "there is little reason to"
+        },
+        {
+          "start": 404,
+          "end": 415,
+          "answer": "As a result"
+        },
+        {
+          "start": 437,
+          "end": 482,
+          "answer": "have already exhausted what these venues have"
+        },
+        {
+          "start": 749,
+          "end": 760,
+          "answer": "rather than"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "To attract local people, museums must move beyond their identity as tourist attractions and function as active cultural centres. One effective strategy is to organise temporary and rotating exhibitions that provide novelty. By collaborating with international institutions or hosting themed exhibitions, museums can give residents fresh incentives to return. In addition, administrative measures should be introduced to prioritise local accessibility. For instance, many major cities offer discounted entry, annual passes, or special visiting hours for residents, allowing them to enjoy exhibitions without the pressure of tourist crowds. Such initiatives reinforce the idea that museums belong to the local community rather than to transient visitors alone.",
+      "cn": "为了重新吸引本地居民，博物馆需要超越单纯的旅游功能，转型为积极参与社区生活的文化中心。定期推出临时或轮 换展览是一个行之有效的办法。通过与国际机构合作或者举办主题特展，博物馆能够为本地居民提供新的重游动力。 此外，管理层还可以推出面向居民的优惠政策，例如提供年度会员卡、折扣门票或专属参观时段，让当地人能够在更 舒适的环境中参观。这些举措有助于强化博物馆“属于社区”的理念。",
+      "clozes": [
+        {
+          "start": 3,
+          "end": 23,
+          "answer": "attract local people"
+        },
+        {
+          "start": 129,
+          "end": 151,
+          "answer": "One effective strategy"
+        },
+        {
+          "start": 284,
+          "end": 302,
+          "answer": "themed exhibitions"
+        },
+        {
+          "start": 359,
+          "end": 370,
+          "answer": "In addition"
+        },
+        {
+          "start": 420,
+          "end": 450,
+          "answer": "prioritise local accessibility"
+        },
+        {
+          "start": 452,
+          "end": 464,
+          "answer": "For instance"
+        },
+        {
+          "start": 484,
+          "end": 506,
+          "answer": "offer discounted entry"
+        },
+        {
+          "start": 718,
+          "end": 729,
+          "answer": "rather than"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, local people tend to avoid museums due to a lack of novelty and the discomfort caused by overcrowding. Nevertheless, by refreshing their content and implementing resident-friendly policies, museums can reclaim their role as vibrant cultural spaces at the heart of local life.",
+      "cn": "总而言之，当地居民对博物馆兴趣不高，主要是因为内容缺乏新意以及游客过度集中带来的不适感。然而，通过不断 更新展览内容并推行居民友好型政策，博物馆完全可以重新成为本地生活中不可或缺的文化空间。",
+      "clozes": [
+        {
+          "start": 57,
+          "end": 66,
+          "answer": "a lack of"
+        },
+        {
+          "start": 104,
+          "end": 116,
+          "answer": "overcrowding"
+        },
+        {
+          "start": 118,
+          "end": 130,
+          "answer": "Nevertheless"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Museums and historical sites are often more popular with tourists than local residents. This is mainly because their exhibitions rarely change and these places can become too crowded. However, several measures can be taken to encourage more local people to visit them.",
+      "cn": "博物馆和历史遗址往往更受游客欢迎，而不是当地居民。这主要是因为它们的展览很少更新，而且这些场所可能变得 过于拥挤。然而，可以采取多种措施来鼓励更多当地居民前来参观。",
+      "clozes": [
+        {
+          "start": 71,
+          "end": 86,
+          "answer": "local residents"
+        },
+        {
+          "start": 153,
+          "end": 182,
+          "answer": "places can become too crowded"
+        },
+        {
+          "start": 184,
+          "end": 191,
+          "answer": "However"
+        },
+        {
+          "start": 217,
+          "end": 262,
+          "answer": "taken to encourage more local people to visit"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One reason is that local residents may feel there is little reason to visit the same museum or historical site again. Many people have already visited these places during school trips or with their families. Since the exhibitions often remain unchanged for many years, they may believe that they have already seen everything. Unlike cinemas, which regularly show new films, museums may offer few new experiences. Another reason is that popular historical sites often attract large numbers of tourists. Local people may not want to spend their free time waiting in long queues or walking through crowded exhibition halls. Instead, they may prefer more relaxing places, such as parks or shopping centres.",
+      "cn": "一个原因是，当地居民可能认为没有必要再次参观同一家博物馆或同一处历史遗址。许多人在学校组织的参观活动 中，或者与家人一起出游时，就已经去过这些地方。由于展览往往多年保持不变，他们可能觉得自己已经看过了所有 展品。与定期上映新电影的电影院不同，博物馆可能很少提供新的参观体验。另一个原因是，热门历史遗址通常会吸 引大量游客。当地居民可能不愿意在闲暇时间排长队，或者穿行于拥挤的展厅之中。相比之下，他们可能更喜欢公园 或购物中心等能够让人放松的场所。",
+      "clozes": [
+        {
+          "start": 19,
+          "end": 34,
+          "answer": "local residents"
+        },
+        {
+          "start": 44,
+          "end": 69,
+          "answer": "there is little reason to"
+        },
+        {
+          "start": 130,
+          "end": 183,
+          "answer": "have already visited these places during school trips"
+        },
+        {
+          "start": 236,
+          "end": 267,
+          "answer": "remain unchanged for many years"
+        },
+        {
+          "start": 296,
+          "end": 324,
+          "answer": "have already seen everything"
+        },
+        {
+          "start": 386,
+          "end": 411,
+          "answer": "offer few new experiences"
+        },
+        {
+          "start": 413,
+          "end": 427,
+          "answer": "Another reason"
+        },
+        {
+          "start": 467,
+          "end": 500,
+          "answer": "attract large numbers of tourists"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "There are several ways to address these problems. First, museums should regularly introduce new exhibitions to give local residents a reason to return. For example, they could display different collections or organise special exhibitions on local history and culture. This would make each visit more interesting and encourage people to come back. Second, museums and historical sites could offer discounts or annual passes to local residents, making regular visits more affordable. They could also introduce special visiting hours for residents so that they can enjoy the exhibitions without large tourist crowds. These measures would make museums more convenient and attractive to people living nearby.",
+      "cn": "有几种方法可以解决这些问题。首先，博物馆应该定期推出新的展览，让当地居民有理由再次参观。例如，博物馆可 以轮流展出不同的馆藏，或者举办以当地历史和文化为主题的特别展览。这能够让每次参观都变得更加有趣，并鼓励 人们再次到访。其次，博物馆和历史遗址可以为当地居民提供门票折扣或年票，使定期参观更加经济实惠。它们还可 以设置居民专属参观时段，让当地居民能够避开大量游客，更舒适地欣赏展览。这些措施能够让博物馆对附近居民而 言更加便利，也更具吸引力。",
+      "clozes": [
+        {
+          "start": 10,
+          "end": 25,
+          "answer": "several ways to"
+        },
+        {
+          "start": 111,
+          "end": 140,
+          "answer": "give local residents a reason"
+        },
+        {
+          "start": 152,
+          "end": 163,
+          "answer": "For example"
+        },
+        {
+          "start": 209,
+          "end": 266,
+          "answer": "organise special exhibitions on local history and culture"
+        },
+        {
+          "start": 316,
+          "end": 335,
+          "answer": "encourage people to"
+        },
+        {
+          "start": 390,
+          "end": 441,
+          "answer": "offer discounts or annual passes to local residents"
+        },
+        {
+          "start": 465,
+          "end": 480,
+          "answer": "more affordable"
+        },
+        {
+          "start": 498,
+          "end": 547,
+          "answer": "introduce special visiting hours for residents so"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, local people may avoid museums and historical sites because they have already seen the exhibitions or want to avoid large crowds. By offering new exhibitions and introducing policies that meet local residents' needs, these places can attract more local visitors.",
+      "cn": "总而言之，当地居民可能因为已经看过相关展览，或者希望避开拥挤的人群，而不愿意参观博物馆和历史遗址。通过 推出新的展览，并实施符合当地居民需求的政策，这些场所能够吸引更多本地游客。",
+      "clozes": [
+        {
+          "start": 80,
+          "end": 121,
+          "answer": "have already seen the exhibitions or want"
+        },
+        {
+          "start": 208,
+          "end": 223,
+          "answer": "local residents"
+        },
+        {
+          "start": 238,
+          "end": 276,
+          "answer": "places can attract more local visitors"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "过度拥挤",
+      "en": "overcrowding"
+    },
+    {
+      "zh": "年少时期",
+      "en": "formative years"
+    },
+    {
+      "zh": "把...和...联系起来",
+      "en": "associate ... with ..."
+    },
+    {
+      "zh": "主题展览",
+      "en": "themed exhibitions"
+    },
+    {
+      "zh": "提高当地人的可及性",
+      "en": "make it more accessible for locals/ prioritise local accessibility"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

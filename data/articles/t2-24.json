@@ -1,0 +1,290 @@
+{
+  "id": "t2-24",
+  "type": "大作文",
+  "title": "博物馆应该只展示本地文物吗？",
+  "group": "文化与艺术",
+  "question": "Some people think that museums and art galleries should concentrate on local works rather than showing the cultures or artworks from other parts of the world. To what extent do you agree or disagree?",
+  "logic": "▪ 主体段一题中观点误解了（misread）当代博物馆所扮演的角色（让步：的确博物馆需要展出本地文物，但这只是一部 分one piece of a larger picture）→ 博物馆是跨文化交流的平台（a platform for cross-cultural communication） → 举例：罗浮宫，展出了不仅是法国的历史文物，也包括世界各地的展品 ▪ 主体段二题中观点忽视了博物馆运行的实际（ignores the norms and practices） → 博物馆管理者无法决定只展出 什么 → 原因：展品来源渠道多样（考古发现、私人捐赠、企业赞助和国际交换） → 如果只关注本地会造成关键来源 缺失 → 举例：纽约博物馆的展品来源非常多样 ▪ 主体段三题中观点削弱了博物馆的吸引力（weaken the long-term appeal）→ 对比：相较于不论换的本地展品， 国际展品会让博物馆游览体验保持新鲜感（keep the experience fresh）→ 举例：大英博物馆展出丝绸之路相关展 品",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Some individuals argue that cultural institutions should focus solely on exhibiting local works, rather than incorporating art from other parts of the world. I totally disagree, because such a restriction narrows the purpose of these venues, overlooks how modern museums actually operate, and ultimately reduces their appeal to local residents.",
+      "cn": "有些人认为，文化机构应当只专注于展示本地艺术作品，而不应将世界其他地区的艺术纳入展览之中。对此，我完全 不同意这一观点，因为这种限制不仅会缩小这些场所的功能定位，还忽视了现代博物馆的实际运行方式，最终也会削 弱其对本地居民的吸引力。",
+      "clozes": [
+        {
+          "start": 97,
+          "end": 108,
+          "answer": "rather than"
+        },
+        {
+          "start": 328,
+          "end": 343,
+          "answer": "local residents"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "My first objection is that this view misreads the role of museums and galleries in contemporary society. Undeniably, these institutions have a responsibility to preserve and present local cultural and historical heritage, but this is only one piece of a larger picture. Museums and galleries also function as a platform for cross-cultural communication: they not only illuminate the diversity of the past, but also offer inspiration for future creators and visitors through works originating in different regions. The Louvre in Paris, for example, owes its global standing not merely to displays of France’s history, but also to outstanding collections drawn from around the world.",
+      "cn": "我反对这一看法的首要原因在于，它误解了当代博物馆和美术馆的社会角色。不可否认，这类机构确实承担着保存和 呈现本地文化与历史遗产的责任，但这仅仅是整体功能中的一部分。博物馆和美术馆同样是跨文化交流的重要平台： 它们不仅展现了人类历史的多样性，也通过来自不同地区的艺术作品，为未来的创作者和参观者提供灵感。以巴黎卢 浮宫为例，其国际声誉并非仅源于对法国历史的展示，更得益于其汇集自世界各地的杰出艺术藏品。",
+      "clozes": [
+        {
+          "start": 105,
+          "end": 115,
+          "answer": "Undeniably"
+        },
+        {
+          "start": 136,
+          "end": 169,
+          "answer": "have a responsibility to preserve"
+        },
+        {
+          "start": 297,
+          "end": 308,
+          "answer": "function as"
+        },
+        {
+          "start": 415,
+          "end": 452,
+          "answer": "offer inspiration for future creators"
+        },
+        {
+          "start": 535,
+          "end": 546,
+          "answer": "for example"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "My second argument is that the proposal ignores the norms and practices through which museums are organised and run. It assumes that administrators have complete discretion over what is exhibited. In reality, the operation of major art venues is far more complex. Collections are expanded and refreshed through archaeological discoveries, private donations, corporate sponsorships, and international loan or exchange programmes. Insisting on a purely local focus would therefore exclude other crucial sources that support their operations and enrich their holdings. Many museums and galleries in New York, for instance, are widely regarded as vibrant cultural sanctuaries precisely because they curate collections through diverse channels.",
+      "cn": "其次，这一主张忽视了现代博物馆在组织和运营层面的现实情况。它假定管理者对展出内容拥有完全的自主决定权。 而事实上，大型艺术机构的运作远比这复杂得多。其馆藏往往通过考古发现、私人捐赠、企业赞助以及国际借展或交 流项目不断丰富和更新。如果强行要求只展示本地文化，无疑会排除这些同样至关重要、支撑机构正常运转并提升馆 藏质量的来源。纽约的许多博物馆和美术馆之所以被视为充满活力的文化殿堂，正是因为它们通过多元渠道策划并构 建了丰富的艺术收藏。",
+      "clozes": [
+        {
+          "start": 148,
+          "end": 195,
+          "answer": "have complete discretion over what is exhibited"
+        },
+        {
+          "start": 358,
+          "end": 379,
+          "answer": "corporate sponsorship"
+        },
+        {
+          "start": 469,
+          "end": 478,
+          "answer": "therefore"
+        },
+        {
+          "start": 514,
+          "end": 538,
+          "answer": "support their operations"
+        },
+        {
+          "start": 606,
+          "end": 618,
+          "answer": "for instance"
+        },
+        {
+          "start": 695,
+          "end": 713,
+          "answer": "curate collections"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "A third reason I reject this proposal is that it would likely weaken the long-term appeal of some museums to residents, who are also an indispensable component of the local art community. If exhibitions rarely rotate, museums can gradually lose their appeal to local visitors; by contrast, collaboration with overseas institutions makes it possible to host time-limited, special-themed collections that keep the experience fresh. The British Museum, for example, has boosted public interest by staging themed exhibitions on topics such as the Silk Road and modern visual culture. This offers an actionable strategy for other institutions: embracing a wider range of artistic traditions, rather than confining displays to local culture alone.",
+      "cn": "第三，我反对该提议的原因在于，它可能削弱博物馆对本地居民的长期吸引力，而这些居民本身正是本地艺术生态中 不可或缺的一部分。如果展览内容长期缺乏更新，博物馆很容易逐渐失去本地观众的兴趣；相比之下，与海外艺术机 构的合作则能够引入限时或专题展览，使参观体验保持新鲜感。以大英博物馆为例，其通过举办诸如“丝绸之路”或 现代视觉文化等主题展览，有效提升了公众的参与度。这也为其他机构提供了一条切实可行的路径：与其局限于本地 文化，不如主动接纳更广泛的艺术传统。",
+      "clozes": [
+        {
+          "start": 277,
+          "end": 288,
+          "answer": "by contrast"
+        },
+        {
+          "start": 331,
+          "end": 369,
+          "answer": "makes it possible to host time-limited"
+        },
+        {
+          "start": 450,
+          "end": 461,
+          "answer": "for example"
+        },
+        {
+          "start": 463,
+          "end": 508,
+          "answer": "has boosted public interest by staging themed"
+        },
+        {
+          "start": 585,
+          "end": 637,
+          "answer": "offers an actionable strategy for other institutions"
+        },
+        {
+          "start": 687,
+          "end": 698,
+          "answer": "rather than"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "In conclusion, museums and art galleries should exhibit works not only from their own regions but also from around the world. This reflects the modern mission of cultural institutions, aligns with how the art world functions, and enhances the experience for both residents and visitors from elsewhere.",
+      "cn": "综上所述，我认为博物馆和美术馆理应同时展示本地及世界各地的艺术作品。这不仅符合当代文化机构的功能定位， 也契合艺术界的实际运行逻辑，并能为本地居民及外来游客共同带来更具吸引力的参观体验。",
+      "clozes": []
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that museums and art galleries should mainly display local works instead of showing art and culture from other parts of the world. I disagree with this view because museums should both protect local culture and give people opportunities to learn about other cultures.",
+      "cn": "一些人认为，博物馆和美术馆应该主要展示本地作品，而不是展出来自世界其他地区的艺术和文化作品。我不同意这 一观点，因为博物馆既应该保护本地文化，也应该为人们提供了解其他文化的机会。",
+      "clozes": [
+        {
+          "start": 205,
+          "end": 226,
+          "answer": "protect local culture"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "First, museums and art galleries have a wider role than simply protecting local history. It is certainly important for them to display local artworks and historical objects because these can help people understand their own culture. However, works from other countries are also valuable. They allow visitors to learn about different traditions, lifestyles and ideas without travelling abroad. They can also provide inspiration for local artists and students. For example, many famous museums display collections from different parts of the world, giving visitors the chance to experience several cultures in one place. Therefore, focusing only on local works would limit the educational value of museums.",
+      "cn": "首先，博物馆和美术馆所承担的作用并不仅仅是保护本地历史。它们展示本地艺术品和历史文物当然十分重要，因为 这些展品能够帮助人们了解自己的文化。然而，来自其他国家的作品同样具有价值。它们能够让参观者无需出国，就 可以了解不同的传统、生活方式和思想。此外，这些作品还可以为本地艺术家和学生提供灵感。例如，许多著名博物 馆都会展示来自世界不同地区的藏品，使参观者能够在同一个地方接触到多种文化。因此，如果博物馆只关注本地作 品，就会限制其教育价值。",
+      "clozes": [
+        {
+          "start": 33,
+          "end": 73,
+          "answer": "have a wider role than simply protecting"
+        },
+        {
+          "start": 233,
+          "end": 240,
+          "answer": "However"
+        },
+        {
+          "start": 293,
+          "end": 343,
+          "answer": "allow visitors to learn about different traditions"
+        },
+        {
+          "start": 407,
+          "end": 444,
+          "answer": "provide inspiration for local artists"
+        },
+        {
+          "start": 459,
+          "end": 470,
+          "answer": "For example"
+        },
+        {
+          "start": 563,
+          "end": 587,
+          "answer": "the chance to experience"
+        },
+        {
+          "start": 619,
+          "end": 628,
+          "answer": "Therefore"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another reason is that museums often obtain their collections from different sources. Some works are donated by individuals, while others may be borrowed from museums in other countries for special exhibitions. International cooperation allows museums to regularly introduce new collections instead of showing the same objects for many years. This is especially important for local residents, who may have already seen the permanent exhibitions. If museums offer new exhibitions from other countries, local people may have more reasons to return. As a result, displaying international works can make museums more interesting and help them attract more visitors.",
+      "cn": "另一个原因是，博物馆的藏品往往来自不同的渠道。一些作品由个人捐赠，而另一些则可能从其他国家的博物馆借 来，用于举办特别展览。国际合作使博物馆能够定期引入新的藏品，而不是多年展示相同的展品。这一点对于当地居 民尤其重要，因为他们可能已经参观过博物馆的常设展览。如果博物馆能够推出来自其他国家的新展览，当地居民就 会有更多理由再次前来参观。因此，展示国际作品能够使博物馆更具吸引力，并帮助其吸引更多参观者。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 14,
+          "answer": "Another reason"
+        },
+        {
+          "start": 237,
+          "end": 290,
+          "answer": "allows museums to regularly introduce new collections"
+        },
+        {
+          "start": 376,
+          "end": 391,
+          "answer": "local residents"
+        },
+        {
+          "start": 401,
+          "end": 444,
+          "answer": "have already seen the permanent exhibitions"
+        },
+        {
+          "start": 457,
+          "end": 499,
+          "answer": "offer new exhibitions from other countries"
+        },
+        {
+          "start": 518,
+          "end": 545,
+          "answer": "have more reasons to return"
+        },
+        {
+          "start": 547,
+          "end": 558,
+          "answer": "As a result"
+        },
+        {
+          "start": 595,
+          "end": 624,
+          "answer": "make museums more interesting"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although museums and art galleries should protect and display local culture, they should not concentrate on local works alone. International collections can help visitors understand other cultures, provide educational value and keep museums attractive to both local people and tourists.",
+      "cn": "总而言之，尽管博物馆和美术馆应该保护并展示本地文化，但它们不应该只关注本地作品。国际藏品能够帮助参观者 了解其他文化，提升博物馆的教育价值，并使博物馆持续吸引当地居民和游客。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 213,
+          "end": 238,
+          "answer": "provide educational value"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 5,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "不可否认",
+      "en": "There is no denying that .../ undeniably"
+    },
+    {
+      "zh": "作为",
+      "en": "serve/ act/ function as"
+    },
+    {
+      "zh": "企业赞助",
+      "en": "corporate sponsorship"
+    },
+    {
+      "zh": "策划构建艺术收藏",
+      "en": "curate collections"
+    },
+    {
+      "zh": "举办主题展览",
+      "en": "stage themed exhibitions"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

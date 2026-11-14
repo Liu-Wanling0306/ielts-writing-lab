@@ -1,0 +1,264 @@
+{
+  "id": "t2-14",
+  "type": "大作文",
+  "title": "通过传统媒体看新闻还有必要吗？",
+  "group": "科技与媒体",
+  "question": "Some people think news has no connection to people’s lives, so it is a waste of time to read the news in the newspaper and watch television news programs. To what extent do you agree or disagree?",
+  "logic": "▪ 主体段一 新闻和人们的日常决策（decision-making）紧密相关 → 传统新闻媒体比网络信息更可靠（reliable） → 原因追溯历史：长久以来建立起的规范专业流程（long-established professional standards） → 很多人据此作 为决策的依据 → 举例：疫情期间，人们通过电视新闻获取信息来决策 ▪ 主体段二 阅读新闻绝非毫无意义：①有助于培养必要能力 → 具体化：阅读报纸有助于培养专注力、耐心和批 判性思维（concentration, patience, and critical thinking） → 在当代社会碎片化信息时代非常必要②作为家庭集 体活动（shared family activity） → 结果：家长和孩子可以交换观点 → 增强家庭纽带（strengthen family bonds）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "News consumption remains an integral part of modern life, despite claims that reading newspapers or watching television news is a waste of time. I strongly disagree with this view, as it overlooks both the practical relevance of news and its broader social value.",
+      "cn": "尽管有人认为阅读报纸或观看电视新闻毫无意义，但新闻消费依然是现代生活中不可或缺的一部分。我强烈反对这一 观点，因为它忽视了新闻的现实关联性以及更广泛的社会价值。",
+      "clozes": [
+        {
+          "start": 17,
+          "end": 56,
+          "answer": "remains an integral part of modern life"
+        },
+        {
+          "start": 58,
+          "end": 65,
+          "answer": "despite"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Firstly, news is closely intertwined with people’s daily decision-making. In an era dominated by digital platforms, traditional news outlets such as newspapers and television programmes are often more reliable than unregulated online sources. This credibility stems from long-established professional standards, including fact-checking and editorial oversight. As a result, many individuals continue to base their opinions and actions on journalistic reporting. During the COVID-19 pandemic, for instance, people across the world relied on television news to access public-health updates and government guidance, which directly influenced their behaviour. It is therefore unreasonable to suggest that news is detached from real life.",
+      "cn": "首先，新闻与人们的日常决策密切相关。在以数字平台为主导的时代，传统媒体往往比未经监管的网络信息更可靠， 如事实核查和编辑审查。这源于其长期形成的专业规范，因此，许多人仍然依据新闻报道来形成观点并采取行动。以 新冠疫情为例，全球大量民众通过电视新闻获取公共卫生信息和政府指引，这些内容直接影响了他们的现实行为。因 此，说新闻与现实生活毫无关联显然站不住脚。",
+      "clozes": [
+        {
+          "start": 361,
+          "end": 372,
+          "answer": "As a result"
+        },
+        {
+          "start": 492,
+          "end": 504,
+          "answer": "for instance"
+        },
+        {
+          "start": 566,
+          "end": 587,
+          "answer": "public-health updates"
+        },
+        {
+          "start": 662,
+          "end": 671,
+          "answer": "therefore"
+        },
+        {
+          "start": 709,
+          "end": 722,
+          "answer": "detached from"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Moreover, even when certain news stories appear unrelated to personal routines, engaging with traditional media is far from pointless. Reading newspapers encourages sustained concentration, patience, and critical thinking—skills that are increasingly rare in an age of fragmented social media content. Meanwhile, watching news programmes often serves as a shared family activity, allowing parents and children or different generations to exchange views and reflect on social issues together. In these moments, news acts as a common reference point that strengthens family bonds and promotes civic awareness.",
+      "cn": "此外，即便某些新闻看似与个人生活关系不大，接触传统媒体也绝非浪费时间。阅读报纸有助于培养专注力、耐心和 批判性思维，而这些能力在碎片化信息泛滥的环境中愈发珍贵。同时，观看新闻节目往往成为家庭成员共同参与的活 动，不同世代的人可以借此交流观点、讨论社会问题。在这些时刻，新闻充当一个共同的参照载体，能够增进家庭联 结，并提升公民意识。",
+      "clozes": [
+        {
+          "start": 41,
+          "end": 60,
+          "answer": "appear unrelated to"
+        },
+        {
+          "start": 154,
+          "end": 188,
+          "answer": "encourages sustained concentration"
+        },
+        {
+          "start": 280,
+          "end": 292,
+          "answer": "social media"
+        },
+        {
+          "start": 302,
+          "end": 311,
+          "answer": "Meanwhile"
+        },
+        {
+          "start": 582,
+          "end": 606,
+          "answer": "promotes civic awareness"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, news is deeply connected to people’s lives and provides trustworthy information that many digital platforms fail to offer. Rather than being a waste of time, reading and watching the news contributes to intellectual development, informed citizenship, and social cohesion.",
+      "cn": "总而言之，新闻不仅与人们的生活息息相关，还提供了许多数字平台难以替代的可靠信息。阅读和观看新闻并非浪费 时间，而是有助于个人的智识成长、理性判断以及社会凝聚力的形成。",
+      "clozes": [
+        {
+          "start": 62,
+          "end": 94,
+          "answer": "provides trustworthy information"
+        },
+        {
+          "start": 138,
+          "end": 149,
+          "answer": "Rather than"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Some people believe that reading newspapers and watching television news is a waste of time because news has little to do with their daily lives. I strongly disagree with this view because news provides useful information and can bring other benefits to individuals and families.",
+      "cn": "一些人认为，阅读报纸和观看电视新闻是在浪费时间，因为新闻与他们的日常生活几乎没有关系。我坚决反对这一观 点，因为新闻不仅能够提供有用的信息，还能为个人和家庭带来其他益处。",
+      "clozes": [
+        {
+          "start": 105,
+          "end": 138,
+          "answer": "has little to do with their daily"
+        },
+        {
+          "start": 194,
+          "end": 221,
+          "answer": "provides useful information"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The first reason is that news is closely connected to people's everyday lives. Newspapers and television news programmes can provide important information about health, the economy and government policies. Compared with information shared on social media, reports from established news organisations are often more reliable because they usually go through fact-checking before being published. This helps people make better decisions in their daily lives. For example, during the COVID- 19 pandemic, many people watched television news to learn about health advice and changes in public rules. They could then use this information to protect themselves and make plans for work or travel. Therefore, it is wrong to say that news has no connection to people's lives.",
+      "cn": "第一个原因是，新闻与人们的日常生活密切相关。报纸和电视新闻节目能够提供有关健康、经济和政府政策的重要信 息。与社交媒体上分享的信息相比，成熟新闻机构发布的报道通常更加可靠，因为这些报道在发表之前一般会经过事 实核查。这有助于人们在日常生活中作出更明智的决定。例如，在新冠疫情期间，许多人通过观看电视新闻来了解健 康建议以及公共管理规定的变化。随后，他们可以利用这些信息保护自己，并安排工作或旅行。因此，认为新闻与人 们的生活毫无关联是不正确的。",
+      "clozes": [
+        {
+          "start": 125,
+          "end": 167,
+          "answer": "provide important information about health"
+        },
+        {
+          "start": 206,
+          "end": 219,
+          "answer": "Compared with"
+        },
+        {
+          "start": 242,
+          "end": 254,
+          "answer": "social media"
+        },
+        {
+          "start": 412,
+          "end": 454,
+          "answer": "make better decisions in their daily lives"
+        },
+        {
+          "start": 456,
+          "end": 467,
+          "answer": "For example"
+        },
+        {
+          "start": 634,
+          "end": 652,
+          "answer": "protect themselves"
+        },
+        {
+          "start": 688,
+          "end": 697,
+          "answer": "Therefore"
+        },
+        {
+          "start": 728,
+          "end": 763,
+          "answer": "has no connection to people's lives"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another reason is that reading and watching the news can be valuable even when the information does not directly affect us. Reading newspaper articles requires people to concentrate on longer pieces of writing and think carefully about different issues. This can help them develop their reading and thinking skills. In addition, watching television news can bring family members together. For example, parents and children may watch a news programme and then discuss important events or social problems. Such conversations allow them to share opinions and understand each other better. News can therefore help people develop useful skills and improve communication within families.",
+      "cn": "另一个原因是，即使新闻信息不会直接影响我们，阅读和观看新闻仍然具有价值。阅读报纸文章需要人们集中注意 力，阅读篇幅较长的内容，并认真思考不同的问题。这能够帮助他们提高阅读能力和思维能力。此外，观看电视新闻 还可以让家庭成员有机会聚在一起。例如，父母和孩子可以共同观看一档新闻节目，然后讨论重要事件或社会问题。 这样的交流能够让他们分享各自的观点，并加深彼此之间的理解。因此，新闻既可以帮助人们培养有用的能力，也能 够改善家庭成员之间的沟通。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 14,
+          "answer": "Another reason"
+        },
+        {
+          "start": 281,
+          "end": 314,
+          "answer": "their reading and thinking skills"
+        },
+        {
+          "start": 316,
+          "end": 327,
+          "answer": "In addition"
+        },
+        {
+          "start": 389,
+          "end": 400,
+          "answer": "For example"
+        },
+        {
+          "start": 523,
+          "end": 551,
+          "answer": "allow them to share opinions"
+        },
+        {
+          "start": 595,
+          "end": 604,
+          "answer": "therefore"
+        },
+        {
+          "start": 617,
+          "end": 638,
+          "answer": "develop useful skills"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, I strongly disagree that reading newspapers and watching television news is a waste of time. News not only provides reliable information that helps people make decisions but also improves their thinking skills and encourages communication among family members.",
+      "cn": "总而言之，我坚决反对阅读报纸和观看电视新闻是在浪费时间这一观点。新闻不仅能够提供可靠的信息，帮助人们作 出决定，还能提高他们的思维能力，并促进家庭成员之间的交流。",
+      "clozes": [
+        {
+          "start": 122,
+          "end": 151,
+          "answer": "provides reliable information"
+        },
+        {
+          "start": 203,
+          "end": 224,
+          "answer": "their thinking skills"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "源于",
+      "en": "result from/ come from/ stem from"
+    },
+    {
+      "zh": "公共卫生信息",
+      "en": "public-health information/ public-health updates"
+    },
+    {
+      "zh": "与...脱离",
+      "en": "detached from"
+    },
+    {
+      "zh": "看起来与...无关",
+      "en": "appear unrelated to"
+    },
+    {
+      "zh": "有助于个人的智识成长、理性判断以及社会凝聚力的形成",
+      "en": "contribute to intellectual"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

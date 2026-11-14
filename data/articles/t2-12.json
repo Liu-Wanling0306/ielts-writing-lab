@@ -1,0 +1,298 @@
+{
+  "id": "t2-12",
+  "type": "大作文",
+  "title": "机器人参与工作的利与弊",
+  "group": "科技与媒体",
+  "question": "Today, many tasks at home or work are performed by robots. Is this a positive or negative development?",
+  "logic": "▪ 主体段一 让步讨论缺点①机器人对就业和人类安全造成威胁（undermine human security） → 自动化 （automation）的发展导致劳动力密集型工作（labour-intensive sectors）会面临威胁②机器人的发展会造成隐私 问题（concerns over privacy） → 社会失信（public distrust） ▪ 主体段二 讨论优点1 机器人的发展带来实用上的便利性（enhanced efficiency） → AI 的好处：支持学习、产生 观点、提供信息 → 举例：在医疗上AI 提供的信息能让更多人知悉某些风险 ▪ 主体段三 讨论优点2 机器人的发展加快科技医疗进步（medical progress）→ 医疗的发展依赖于超出人类算力的 AI 智能分析（AI-assisted analysis）AI 解决就业短缺问题（offer solutions to labour shortages） → 总结：AI 并非 替代，而是补充",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The rapid integration of robots into domestic life and the workplace has sparked widespread debate. While concerns about automation are understandable, I believe this trend represents a largely positive development with substantial benefits for individuals and society.",
+      "cn": "机器人迅速进入家庭和职场，引发了广泛讨论。尽管人们对自动化的担忧可以理解，但我认为这一趋势总体上是积极 的，并为个人和社会带来了显著益处。",
+      "clozes": [
+        {
+          "start": 10,
+          "end": 50,
+          "answer": "integration of robots into domestic life"
+        },
+        {
+          "start": 69,
+          "end": 98,
+          "answer": "has sparked widespread debate"
+        },
+        {
+          "start": 184,
+          "end": 214,
+          "answer": "a largely positive development"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Critics often argue that robots threaten employment and undermine human security. As automation advances, labour-intensive sectors such as clerical work, hospitality, and even certain technical fields face increasing pressure. In addition, concerns over privacy and accountability have emerged. Robotic systems may collect sensitive personal data, and when automated decisions cause harm, responsibility becomes blurred among developers, employers, and regulators.These anxieties contribute to public distrust towards intelligent machines.",
+      "cn": "反对者普遍担心机器人会威胁就业并削弱人类安全感。随着自动化程度不断提高，文职、服务业乃至部分技术岗位面 临被取代的风险。此外，隐私和责任归属问题也日益突出。机器人系统可能收集敏感个人数据，而当自动化决策造成 损害时，责任在开发者、雇主和监管者之间变得模糊。这进一步加剧了公众的不信任。",
+      "clozes": [
+        {
+          "start": 106,
+          "end": 130,
+          "answer": "labour-intensive sectors"
+        },
+        {
+          "start": 201,
+          "end": 225,
+          "answer": "face increasing pressure"
+        },
+        {
+          "start": 227,
+          "end": 238,
+          "answer": "In addition"
+        },
+        {
+          "start": 404,
+          "end": 436,
+          "answer": "becomes blurred among developers"
+        },
+        {
+          "start": 480,
+          "end": 509,
+          "answer": "contribute to public distrust"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Despite these concerns, the long-term advantages of robotics are more compelling. On a practical level, robots—particularly AI-powered tools—have dramatically enhanced efficiency in both work and daily life. Acting as always-available assistants, they support learning, generate ideas, and improve access to information, especially for people in remote or disadvantaged areas. There have been reported cases in which AI-assisted tools helped identify serious medical risks that local systems initially overlooked, illustrating how automation can expand access to expertise.",
+      "cn": "然而，从长期来看，机器人的优势更加明显。在实际层面，尤其是人工智能工具，大幅提升了工作和生活效率。它们 作为随时可用的助手，支持学习、生成创意，并改善信息获取，尤其有利于偏远地区或资源匮乏的人群。已有案例表 明，AI 辅助系统能够发现传统医疗体系忽视的健康风险，凸显了自动化在拓展专业服务方面的潜力。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "Despite"
+        },
+        {
+          "start": 141,
+          "end": 191,
+          "answer": "have dramatically enhanced efficiency in both work"
+        },
+        {
+          "start": 290,
+          "end": 319,
+          "answer": "improve access to information"
+        },
+        {
+          "start": 346,
+          "end": 375,
+          "answer": "remote or disadvantaged areas"
+        },
+        {
+          "start": 383,
+          "end": 416,
+          "answer": "have been reported cases in which"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "More importantly, robots are accelerating scientific and medical progress. Breakthroughs in disease treatment increasingly rely on AI-assisted analysis beyond human capacity alone. In ageing societies, robots also offer solutions to labour shortages by supporting elderly care and improving quality of life. Rather than replacing humans, robots function as powerful complements that extend human capability.",
+      "cn": "更重要的是，机器人正在加速科学与医学进步。许多疾病治疗的突破越来越依赖于 AI 的分析能力。此外，在人口老龄 化社会中，机器人能够缓解劳动力短缺，支持养老护理并提升生活质量。机器人并非取代人类，而是扩展人类能力的 重要工具。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 16,
+          "answer": "More importantly"
+        },
+        {
+          "start": 123,
+          "end": 130,
+          "answer": "rely on"
+        },
+        {
+          "start": 214,
+          "end": 263,
+          "answer": "offer solutions to labour shortages by supporting"
+        },
+        {
+          "start": 308,
+          "end": 319,
+          "answer": "Rather than"
+        },
+        {
+          "start": 345,
+          "end": 377,
+          "answer": "function as powerful complements"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "In conclusion, although automation raises legitimate concerns, its benefits far outweigh its drawbacks. Robots should be regarded not as competitors to humanity, but as indispensable partners in advancing social progress.",
+      "cn": "总而言之，尽管自动化带来了一些合理的担忧，但其益处明显大于弊端。机器人应被视为推动社会进步的重要伙伴， 而非人类的对手。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Nowadays, robots are being used to perform more tasks both at home and in the workplace. Although this development may cause some problems, I believe it is generally positive because robots can make people's lives easier and help society develop.",
+      "cn": "如今，机器人正在家庭和工作场所中被用于完成越来越多的任务。尽管这一发展趋势可能会带来一些问题，但我认为 总体而言它是积极的，因为机器人能够让人们的生活更加便利，并推动社会发展。",
+      "clozes": [
+        {
+          "start": 71,
+          "end": 87,
+          "answer": "in the workplace"
+        },
+        {
+          "start": 89,
+          "end": 97,
+          "answer": "Although"
+        },
+        {
+          "start": 119,
+          "end": 138,
+          "answer": "cause some problems"
+        },
+        {
+          "start": 194,
+          "end": 220,
+          "answer": "make people's lives easier"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One possible problem is that robots may replace some human workers. As technology develops, machines can now perform many simple and repeated tasks that were traditionally done by people. As a result, workers in some industries may lose their jobs or find it more difficult to find work. Another concern is privacy. Some modern robots and AI systems need to collect personal information in order to provide services. If this information is not properly protected, it could be used in harmful ways.",
+      "cn": "一个可能的问题是，机器人可能会取代一部分人类劳动者。随着科技的发展，机器如今已经能够完成许多过去通常由 人类承担的简单、重复性工作。因此，一些行业的劳动者可能会失去工作，或者发现就业变得更加困难。另一个令人 担忧的问题是隐私。一些现代机器人和人工智能系统需要收集个人信息才能提供相应的服务。如果这些信息没有得到 妥善保护，就可能被用于有害的用途。",
+      "clozes": [
+        {
+          "start": 40,
+          "end": 66,
+          "answer": "replace some human workers"
+        },
+        {
+          "start": 188,
+          "end": 199,
+          "answer": "As a result"
+        },
+        {
+          "start": 366,
+          "end": 386,
+          "answer": "personal information"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, robots can bring many benefits to people's daily lives and work. They can complete simple tasks quickly and accurately, allowing people to save time and focus on more important work. AI tools can also help people find information, learn new skills and solve problems. This can be especially useful for people who live in areas where educational or professional services are limited. In this way, technology can make useful information and services available to more people.",
+      "cn": "然而，机器人能够给人们的日常生活和工作带来许多益处。它们可以快速、准确地完成简单任务，从而帮助人们节省 时间，并将精力集中在更加重要的工作上。人工智能工具还可以帮助人们查找信息、学习新技能以及解决问题。这对 于生活在教育资源或专业服务较为匮乏地区的人而言尤其有帮助。通过这种方式，科技可以让更多人获得有用的信息 和服务。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 420,
+          "end": 443,
+          "answer": "make useful information"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Robots can also support the development of society. In medicine, for example, AI can help doctors analyse large amounts of information and identify health problems. Robots can also perform some tasks in elderly care, which is particularly useful in countries with ageing populations and labour shortages. Therefore, robots do not always have to replace humans. Instead, they can work with people and help them perform their jobs more effectively.",
+      "cn": "机器人还能够推动社会的发展。例如，在医疗领域，人工智能可以帮助医生分析大量信息并识别健康问题。机器人还 可以承担养老护理中的一些工作，这对于那些面临人口老龄化和劳动力短缺问题的国家尤其有用。因此，机器人并不 一定总是要取代人类。相反，它们可以与人类协同工作，帮助人们更加高效地完成自己的工作。",
+      "clozes": [
+        {
+          "start": 16,
+          "end": 50,
+          "answer": "support the development of society"
+        },
+        {
+          "start": 65,
+          "end": 76,
+          "answer": "for example"
+        },
+        {
+          "start": 264,
+          "end": 281,
+          "answer": "ageing population"
+        },
+        {
+          "start": 305,
+          "end": 314,
+          "answer": "Therefore"
+        },
+        {
+          "start": 337,
+          "end": 359,
+          "answer": "have to replace humans"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "In conclusion, robots may cause job losses and privacy concerns, but I believe their advantages are greater. They can improve efficiency, increase access to useful services and support progress in areas such as healthcare.",
+      "cn": "总而言之，机器人可能会造成部分工作岗位流失，并引发隐私方面的担忧，但我认为它们的优势更加显著。机器人能 够提高效率，让更多人获得有用的服务，并推动医疗等领域的发展。",
+      "clozes": [
+        {
+          "start": 26,
+          "end": 42,
+          "answer": "cause job losses"
+        },
+        {
+          "start": 47,
+          "end": 63,
+          "answer": "privacy concerns"
+        },
+        {
+          "start": 118,
+          "end": 136,
+          "answer": "improve efficiency"
+        },
+        {
+          "start": 138,
+          "end": 172,
+          "answer": "increase access to useful services"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 5,
+    "par7": 5,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "机器人融入家庭生活",
+      "en": "integration of robots into domestic life"
+    },
+    {
+      "zh": "劳动密集型产业",
+      "en": "labour-intensive sectors"
+    },
+    {
+      "zh": "导致公众不信任",
+      "en": "contribute to public distrust"
+    },
+    {
+      "zh": "偏远贫困地区",
+      "en": "remote or disadvantaged areas"
+    },
+    {
+      "zh": "作为强力补充",
+      "en": "function as powerful complements"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

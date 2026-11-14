@@ -1,0 +1,415 @@
+{
+  "id": "t2-07",
+  "type": "大作文",
+  "title": "个人信息放在网上的利弊",
+  "group": "科技与媒体",
+  "question": "Today more people put personal and private information online (address, telephone number,...) to do everyday activities such as banking, shopping, and socializing. Is this a positive or negative development?",
+  "logic": "▪ 主体段一 承认网络存储个人信息的便利性（让步段）两个场景：①保存地址和支付信息（saved addresses and payment details）→ 无需重复填写 → 更快完成网上购物②银行及预约系统保存个人信息 → 减少重复操作 → 方 便忙碌的成年人和不熟悉复杂操作的老年人 ▪ 主体段二 个人信息泄露带来的安全风险① 信息泄露与网络诈骗（data breaches and online fraud） → 个人信息 可能被诈骗团伙利用（be exploited by scam networks）→ 导致诈骗、身份盗用和经济损失（identity theft and financial deception）→ 跟特殊人群：老年人更容易受到侵害（be particularly vulnerable to） → 造成严重的经济 和情感伤害（financial and emotional harm） ▪ 主体段三 个人信息滥用造成更广泛的社会影响① 公众信任下降（declining public trust） → 越来越多人遭遇个 人信息滥用（misuse of personal data）→ 对数字平台的信任降低② 隐私与名誉受损（privacy violations and reputational damage） → 社交媒体和人工智能工具使照片篡改、身份模仿更加容易 → 侵犯隐私、损害名誉 → 网络环境变得更加不安全、不可信",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "In modern society, an increasing amount of personal information is shared and stored online in order to support everyday activities such as shopping, banking, and social interaction. While this trend undoubtedly makes daily life more efficient, I believe it is overall a negative development because it exposes individuals to serious security risks and creates wider social problems related to privacy and trust.",
+      "cn": "在现代社会，越来越多的个人信息被分享和储存在网络上，以方便人们进行购物、银行业务和社交等日常活动。尽管 这一趋势无疑提高了日常生活的效率，但我认为，从整体来看，这是一种消极的发展趋势，因为它不仅使个人面临严 重的安全风险，还会引发与隐私和信任有关的更广泛的社会问题。",
+      "clozes": [
+        {
+          "start": 43,
+          "end": 63,
+          "answer": "personal information"
+        },
+        {
+          "start": 104,
+          "end": 148,
+          "answer": "support everyday activities such as shopping"
+        },
+        {
+          "start": 163,
+          "end": 181,
+          "answer": "social interaction"
+        },
+        {
+          "start": 212,
+          "end": 243,
+          "answer": "makes daily life more efficient"
+        },
+        {
+          "start": 269,
+          "end": 291,
+          "answer": "a negative development"
+        },
+        {
+          "start": 353,
+          "end": 401,
+          "answer": "creates wider social problems related to privacy"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Admittedly, storing personal details on websites and apps can make digital life far more convenient. When people shop online regularly, for instance, saved addresses and payment details allow them to complete transactions much more quickly. Similarly, storing personal information in banking apps or appointment systems reduces the need to repeatedly enter the same details, making these services easier and more accessible, especially for busy adults and older users who may struggle with complicated procedures. In this sense, the practice can save time and improve user experience.",
+      "cn": "不可否认，在网站和应用程序上储存个人信息能够让数字生活变得更加便利。例如，当人们经常在网上购物时，提前 保存的地址和支付信息可以让他们更快地完成交易。同样，在银行应用程序或预约系统中保存个人信息，可以减少反 复填写相同资料的麻烦，使这些服务更加方便、易于使用。这对于生活忙碌的成年人，以及可能难以应对复杂操作流 程的老年用户而言尤其有帮助。从这个意义上来说，这种做法能够节省时间并改善用户体验。",
+      "clozes": [
+        {
+          "start": 62,
+          "end": 99,
+          "answer": "make digital life far more convenient"
+        },
+        {
+          "start": 136,
+          "end": 148,
+          "answer": "for instance"
+        },
+        {
+          "start": 200,
+          "end": 221,
+          "answer": "complete transactions"
+        },
+        {
+          "start": 260,
+          "end": 280,
+          "answer": "personal information"
+        },
+        {
+          "start": 320,
+          "end": 365,
+          "answer": "reduces the need to repeatedly enter the same"
+        },
+        {
+          "start": 560,
+          "end": 583,
+          "answer": "improve user experience"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, these benefits are outweighed by the dangers associated with data breaches and online fraud. Once sensitive information is stored online, it may be stolen, leaked, or sold without the users’knowledge. In recent years, there have been many cases where personal data has been exploited by scam networks to carry out fraud, identity theft, and financial deception. Elderly people are particularly vulnerable to such crimes, often losing large sums of money after being targeted through leaked contact details or banking information. Therefore, what appears to be a simple matter of convenience can, in reality, expose individuals to severe financial and emotional harm.",
+      "cn": "然而，与数据泄露和网络诈骗相关的风险远远超过了这些便利。一旦敏感信息被储存在网络上，就可能在用户不知情 的情况下被盗取、泄露或出售。近年来，已经出现了许多个人数据被诈骗团伙利用的案例，这些团伙通过非法获取的 信息实施诈骗、身份盗用和金融欺诈。老年人尤其容易成为此类犯罪的受害者，他们常常因为泄露的联系方式或银行 信息被不法分子利用，最终损失大量金钱。因此，看似只是为了方便生活而采取的做法，实际上可能使个人遭受严重 的经济损失和精神伤害。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 70,
+          "end": 100,
+          "answer": "data breaches and online fraud"
+        },
+        {
+          "start": 181,
+          "end": 208,
+          "answer": "without the users’knowledge"
+        },
+        {
+          "start": 233,
+          "end": 253,
+          "answer": "have been many cases"
+        },
+        {
+          "start": 274,
+          "end": 318,
+          "answer": "has been exploited by scam networks to carry"
+        },
+        {
+          "start": 539,
+          "end": 548,
+          "answer": "Therefore"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Another major concern is the broader social impact of putting private information online. As more people experience the misuse of their personal data, public trust in digital platforms is likely to decline. This is particularly worrying at a time when social media and AI-based tools make it easier than ever to manipulate photos, imitate identities, or misuse personal content for dishonest or even criminal purposes. When individuals’ images or private details are used without their consent, their privacy is violated and their reputations may also be damaged. As a result, the online environment can become less secure, less trustworthy, and more harmful to ordinary users.",
+      "cn": "另一个主要问题是，将私人信息放到网上可能产生更广泛的社会影响。随着越来越多的人经历个人数据被滥用的情 况，公众对数字平台的信任很可能逐渐下降。在当今时代，这一点尤其令人担忧，因为社交媒体和人工智能工具使篡 改照片、冒用他人身份或将个人内容用于欺骗甚至犯罪活动变得前所未有的容易。当个人照片或私人信息在未经本人 同意的情况下被使用时，不仅其隐私权会受到侵犯，个人声誉也可能遭到损害。因此，网络环境可能变得更加不安 全、更缺乏可信度，并对普通用户造成更大的伤害。",
+      "clozes": [
+        {
+          "start": 25,
+          "end": 50,
+          "answer": "the broader social impact"
+        },
+        {
+          "start": 93,
+          "end": 115,
+          "answer": "more people experience"
+        },
+        {
+          "start": 252,
+          "end": 264,
+          "answer": "social media"
+        },
+        {
+          "start": 312,
+          "end": 329,
+          "answer": "manipulate photos"
+        },
+        {
+          "start": 331,
+          "end": 349,
+          "answer": "imitate identities"
+        },
+        {
+          "start": 564,
+          "end": 575,
+          "answer": "As a result"
+        },
+        {
+          "start": 577,
+          "end": 599,
+          "answer": "the online environment"
+        },
+        {
+          "start": 604,
+          "end": 622,
+          "answer": "become less secure"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "In conclusion, although storing personal information online can make everyday tasks faster and more convenient, it is ultimately a negative development. The risks of fraud, privacy violation, and declining trust in digital services are too serious to ignore, and these consequences far outweigh the practical benefits.",
+      "cn": "总而言之，尽管在网上储存个人信息能够让日常事务的处理更加快捷便利，但从根本上来说，这仍然是一种消极的发 展趋势。网络诈骗、隐私侵犯以及公众对数字服务信任下降等风险都不容忽视，而这些负面后果远远超过了其带来的 实际便利。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 32,
+          "end": 52,
+          "answer": "personal information"
+        },
+        {
+          "start": 64,
+          "end": 90,
+          "answer": "make everyday tasks faster"
+        },
+        {
+          "start": 129,
+          "end": 151,
+          "answer": "a negative development"
+        },
+        {
+          "start": 282,
+          "end": 317,
+          "answer": "far outweigh the practical benefits"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Nowadays, more people store their personal information online when shopping, banking and communicating with others. Although this makes everyday life more convenient, I believe it is a negative development because it increases the risks of online fraud and privacy problems.",
+      "cn": "如今，越来越多的人在网上购物、办理银行业务以及与他人交流时，将个人信息储存在网络上。尽管这种做法让日常 生活变得更加便利，但我认为这是一种消极的发展趋势，因为它增加了网络诈骗和隐私问题的风险。",
+      "clozes": [
+        {
+          "start": 34,
+          "end": 54,
+          "answer": "personal information"
+        },
+        {
+          "start": 116,
+          "end": 124,
+          "answer": "Although"
+        },
+        {
+          "start": 130,
+          "end": 165,
+          "answer": "makes everyday life more convenient"
+        },
+        {
+          "start": 183,
+          "end": 205,
+          "answer": "a negative development"
+        },
+        {
+          "start": 217,
+          "end": 264,
+          "answer": "increases the risks of online fraud and privacy"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Admittedly, storing personal information online can make daily activities easier. When people shop online, saved addresses and payment details allow them to complete purchases more quickly without entering the same information again. Similarly, banking apps can save users' personal details, making it easier for them to use financial services. This is particularly helpful for busy people and older users who may find complicated online procedures difficult. Therefore, keeping personal information online can save time and make digital services more convenient.",
+      "cn": "不可否认，在网上储存个人信息能够让日常活动变得更加方便。当人们在网上购物时，提前保存的地址和支付信息可 以让他们更快地完成购买，而不需要反复输入相同的资料。同样，银行应用程序可以保存用户的个人信息，使他们能 够更加方便地使用金融服务。这对于生活忙碌的人，以及可能觉得复杂网络操作流程难以应对的老年用户来说尤其有 帮助。因此，在网上保存个人信息能够节省时间，让数字服务更加便捷。",
+      "clozes": [
+        {
+          "start": 20,
+          "end": 40,
+          "answer": "personal information"
+        },
+        {
+          "start": 52,
+          "end": 80,
+          "answer": "make daily activities easier"
+        },
+        {
+          "start": 143,
+          "end": 188,
+          "answer": "allow them to complete purchases more quickly"
+        },
+        {
+          "start": 206,
+          "end": 226,
+          "answer": "the same information"
+        },
+        {
+          "start": 460,
+          "end": 469,
+          "answer": "Therefore"
+        },
+        {
+          "start": 525,
+          "end": 562,
+          "answer": "make digital services more convenient"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, I believe these benefits are outweighed by the risks of information leaks and online fraud. Once personal information is stored online, it may be stolen or shared without the user's permission. In recent years, there have been many cases where criminals have used stolen personal information to carry out online scams. Older people may be particularly vulnerable because they are sometimes less familiar with online fraud. As a result, storing personal information online can expose users to serious financial losses.",
+      "cn": "然而，我认为这些便利所带来的好处远不及信息泄露和网络诈骗的风险。一旦个人信息被储存在网络上，就可能在未 经用户允许的情况下被盗取或传播。近年来，已经出现了许多犯罪分子利用盗取的个人信息实施网络诈骗的案例。老 年人可能尤其容易成为此类犯罪的受害者，因为他们有时对网络诈骗的了解相对有限。因此，在网上储存个人信息可 能使用户遭受严重的经济损失。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 52,
+          "end": 76,
+          "answer": "the risks of information"
+        },
+        {
+          "start": 106,
+          "end": 126,
+          "answer": "personal information"
+        },
+        {
+          "start": 226,
+          "end": 246,
+          "answer": "have been many cases"
+        },
+        {
+          "start": 432,
+          "end": 443,
+          "answer": "As a result"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "Another major concern is the loss of privacy and public trust. At a time when social media and AI technology are developing rapidly, it has become easier to copy people's photos, create fake identities and misuse private information. When personal details or images are shared without permission, individuals may suffer damage to their reputations. Such experiences can also make people less willing to trust online platforms, creating wider problems for society.",
+      "cn": "另一个主要问题是个人隐私受到侵犯，以及公众信任的下降。在社交媒体和人工智能技术快速发展的时代，复制他人 的照片、伪造身份以及滥用私人信息变得更加容易。当个人资料或照片在未经允许的情况下被传播时，当事人的声誉 可能受到损害。这类经历也可能使人们不再愿意信任网络平台，从而给整个社会带来更广泛的问题。",
+      "clozes": [
+        {
+          "start": 78,
+          "end": 90,
+          "answer": "social media"
+        },
+        {
+          "start": 136,
+          "end": 177,
+          "answer": "has become easier to copy people's photos"
+        },
+        {
+          "start": 179,
+          "end": 201,
+          "answer": "create fake identities"
+        },
+        {
+          "start": 375,
+          "end": 415,
+          "answer": "make people less willing to trust online"
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "en": "In conclusion, although storing personal information online brings convenience, I believe its disadvantages are more significant. The risks of financial loss, privacy violations and declining public trust make this an overall negative development.",
+      "cn": "总而言之，尽管在网上储存个人信息能够带来便利，但我认为其弊端更加显著。经济损失、隐私侵犯以及公众信任下 降等风险，使这一趋势总体上成为一种消极的发展。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 32,
+          "end": 52,
+          "answer": "personal information"
+        },
+        {
+          "start": 205,
+          "end": 246,
+          "answer": "make this an overall negative development"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 5,
+    "par7": 5,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "使个人面临严重的安全风险",
+      "en": "expose individuals to serious security risks"
+    },
+    {
+      "zh": "完成交易",
+      "en": "complete transactions"
+    },
+    {
+      "zh": "改善用户体验",
+      "en": "improve user experience"
+    },
+    {
+      "zh": "数据泄露与网络诈骗",
+      "en": "data breaches and online fraud"
+    },
+    {
+      "zh": "未经用户知情",
+      "en": "without the users’knowledge"
+    },
+    {
+      "zh": "被诈骗团伙利用",
+      "en": "be exploited by scam networks"
+    },
+    {
+      "zh": "特别容易受到……的侵害",
+      "en": "be particularly vulnerable to ..."
+    },
+    {
+      "zh": "个人数据滥用",
+      "en": "the misuse of personal data"
+    },
+    {
+      "zh": "公众对数字平台的信任下降",
+      "en": "public trust in digital platforms is likely to decline"
+    },
+    {
+      "zh": "篡改照片、模仿身份",
+      "en": "manipulate photos / imitate identities"
+    },
+    {
+      "zh": "未经本人同意",
+      "en": "without sb’s consent"
+    },
+    {
+      "zh": "侵犯隐私、损害名誉",
+      "en": "violate privacy / damage reputations"
+    },
+    {
+      "zh": "远远超过实际好处",
+      "en": "far outweigh the practical benefits"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

@@ -1,0 +1,292 @@
+{
+  "id": "t2-20",
+  "type": "大作文",
+  "title": "保护濒危动物vs 专注人类自身问题",
+  "group": "环境与动物",
+  "question": "Many animal species in the world are becoming extinct nowadays. Some people say that countries and individuals should protect these animals from dying out, while others say we should concentrate more on problems of human beings.Discuss both views and give your opinion.",
+  "logic": "▪ 主体段一 反方—应该优先解决人类问题，而不是投入大量资源保护濒危动物①保护成本过高（prohibitive costs）需要跨学科专家（cross-disciplinary specialists）+ 多国共同合作（concerted efforts） → 产生巨额财政投 入 → 有限公共资金应该优先用于更紧迫的人类问题 → 如消除极端贫困、医学研究、公平教育（eradicating extreme poverty, funding medical research, or improving equitable education）②保护成功率较低（low success rates）部分物种灭绝可能属于自然选择 → 动物不适应导致③物种数量庞大（the vast number of existing species）地球存在数百万物种 → 个别物种灭绝在部分人看来不会对人类社会产生明显影响 ▪ 主体段二 己方—保护濒危动物具有更广泛的个人、生态和科学价值①个人层面（on a personal level）体现公民 意识、同情心和责任感（civic awareness, compassion and a sense of responsibility） → 父母进一步把动物保护意 识传递给孩子 ②生态层面（from an ecological perspective）每个物种都承担生态功能 → 某一物种消失可能打破 生态平衡 ③科学层面（on a scientific level）保护濒危动物成为共同目标 → 促进国际科学合作（international scientific collaboration）→ 熊猫案例 → 进一步产生额外价值：加强国际合作 + 提升动物保护意识",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Animals constitute an essential component of the Earth’s ecosystems, yet an increasing number of species are now facing extinction. Many people thus feel obliged to conserve the endangered species, while others maintain that the challenges of humanity itself should remain the priorities of society. This essay will examine the reasons for both perspectives before arguing that human beings should play a vital role in the protection of animals in danger.",
+      "cn": "动物是地球生态系统中不可或缺的组成部分，然而，如今越来越多的物种正面临灭绝的威胁。因此，许多人认为自己 有责任保护濒危物种，而另一些人则坚持认为，人类自身面临的挑战应该始终是社会优先关注的问题。本文将探讨这 两种观点背后的原因，并论证人类应该在保护濒危动物方面发挥重要作用。",
+      "clozes": [
+        {
+          "start": 266,
+          "end": 298,
+          "answer": "remain the priorities of society"
+        },
+        {
+          "start": 398,
+          "end": 418,
+          "answer": "play a vital role in"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Opponents of animal conservation mainly point to prohibitive costs of the rescue projects, the low success rates in saving endangered animals, and the vast number of existing species. Such projects often require cross-disciplinary specialists to work together and concerted efforts from many nations, and many people believe the financial investment is too enormous and unfair to be borne by taxpayers. Instead, they believe that limited public funding should be redirected to address more pressing human crises, such as eradicating extreme poverty, funding medical research, or improving equitable education. Meanwhile, some argue that certain species are dying out because of Darwinian natural selection, claiming these animals are no longer suited to the modern environment. They may cite some failed attempts to rescue a few endangered birds and aquatic mammals to illustrate their case. Besides, many make the point that millions of species exist on the planet, believing that the extinction of some would not produce negative implications for society.",
+      "cn": "反对动物保护的人主要强调保护项目高昂的成本、拯救濒危动物较低的成功率，以及地球上现存物种数量极其庞大等 问题。这类项目往往需要不同学科领域的专家共同合作，以及多个国家的协调努力。许多人认为，所需的资金投入过 于巨大，让纳税人承担这些费用并不公平。相反，他们认为，有限的公共资金应该被重新分配，用于解决更加紧迫的 人类危机，例如消除极端贫困、资助医学研究或改善教育公平。此外，一些人认为，某些物种的灭绝是达尔文自然选 择的结果，说明这些动物已经无法适应现代环境。他们可能会引用一些拯救濒危鸟类和水生哺乳动物失败的案例来支 持自己的观点。除此之外，还有许多人指出，地球上存在数百万种生物，因此认为部分物种的灭绝并不会对社会产生 负面影响。",
+      "clozes": [
+        {
+          "start": 49,
+          "end": 66,
+          "answer": "prohibitive costs"
+        },
+        {
+          "start": 246,
+          "end": 259,
+          "answer": "work together"
+        },
+        {
+          "start": 380,
+          "end": 401,
+          "answer": "be borne by taxpayers"
+        },
+        {
+          "start": 438,
+          "end": 452,
+          "answer": "public funding"
+        },
+        {
+          "start": 610,
+          "end": 619,
+          "answer": "Meanwhile"
+        },
+        {
+          "start": 754,
+          "end": 776,
+          "answer": "the modern environment"
+        },
+        {
+          "start": 906,
+          "end": 920,
+          "answer": "make the point"
+        },
+        {
+          "start": 1015,
+          "end": 1056,
+          "answer": "produce negative implications for society"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, advocates for conserving endangered species make stronger justifications, and I completely align myself with them. On a personal level, the growing demand for more attention to animals in danger reflects huge improvements in civic awareness, compassion, and a sense of responsibility — qualities that drive humanity forward. Meanwhile, when parents guide their children to care for animals, especially those facing the possibility of extinction, the younger generations will likely invest more financial and intellectual resources in the efforts to rescue these species. From an ecological perspective, the disappearance of any species may destabilize ecosystems, as each organism plays a role in maintaining environmental balance. On a scientific level, the goal of protecting endangered species serves as a common mission that fosters international scientific collaboration to overcome genetic and ecological challenges. Even though these efforts may not be able to save every endangered species, the innovations generated through this process and the technological breakthroughs achieved through collaboration will surely benefit many other fields. The Giant Panda, a national treasure in China, is a case in point. Scientists from home and abroad have been working together for decades, and their efforts have enabled this species to reproduce successfully, even though it was once believed unable to live in the modern world. Equally important are the enhanced international cooperation and increased awareness of protecting animals that the common goal promotes.",
+      "cn": "然而，支持保护濒危物种的人提出了更有说服力的理由，而我完全赞同他们的观点。从个人层面来看，人们越来越重 视濒危动物保护，反映出公民意识、同情心和责任感的显著提升，而这些品质正是推动人类社会进步的重要力量。与 此同时，当父母引导孩子关爱动物，尤其是那些面临灭绝危险的物种时，年轻一代未来便更有可能投入更多资金和智 力资源，参与拯救这些物种的工作。从生态角度来看，任何物种的消失都可能破坏生态系统的稳定性，因为每一种生 物都在维持环境平衡方面发挥着一定作用。从科学角度来看，保护濒危物种这一共同目标能够促进国际科研合作，帮 助科学家共同克服遗传学和生态学方面的难题。即使这些努力未必能够拯救所有濒危物种，在这一过程中产生的创新 成果，以及通过合作实现的技术突破，也必将使许多其他领域受益。中国的国宝大熊猫就是一个很好的例子。国内外 科学家已经合作了数十年，他们的努力使这一物种得以成功繁殖，尽管人们曾经认为它无法在现代环境中生存。同样 重要的是，这一共同目标还促进了国际合作，并提高了人们保护动物的意识。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 7,
+          "answer": "However"
+        },
+        {
+          "start": 234,
+          "end": 292,
+          "answer": "civic awareness, compassion, and a sense of responsibility"
+        },
+        {
+          "start": 334,
+          "end": 343,
+          "answer": "Meanwhile"
+        },
+        {
+          "start": 498,
+          "end": 539,
+          "answer": "more financial and intellectual resources"
+        },
+        {
+          "start": 649,
+          "end": 671,
+          "answer": "destabilize ecosystems"
+        },
+        {
+          "start": 690,
+          "end": 739,
+          "answer": "plays a role in maintaining environmental balance"
+        },
+        {
+          "start": 1208,
+          "end": 1226,
+          "answer": "is a case in point"
+        },
+        {
+          "start": 1318,
+          "end": 1369,
+          "answer": "have enabled this species to reproduce successfully"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, while some may consider it unnecessary to protect endangered species by pointing to financial strains and low success rates, I firmly believe that ultimately, protecting endangered animals is not merely an environmental responsibility, but a fundamental investment in the long-term stability of life on Earth.",
+      "cn": "总而言之，尽管一些人以资金压力和保护成功率较低为由，认为没有必要保护濒危物种，但我坚信，从根本上来说， 保护濒危动物不仅仅是一项环境责任，更是对地球生命长期稳定发展的一项根本性投资。",
+      "clozes": [
+        {
+          "start": 57,
+          "end": 108,
+          "answer": "protect endangered species by pointing to financial"
+        },
+        {
+          "start": 287,
+          "end": 306,
+          "answer": "long-term stability"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Many animal species are facing extinction, and there is debate about whether people should protect them or focus more on human problems. Although protecting endangered animals can be expensive, I believe it is still necessary because animals are important to the environment and humans have a responsibility to protect them.",
+      "cn": "许多动物物种正面临灭绝的危险，而人们对于究竟应该保护这些动物，还是将更多精力放在人类自身的问题上存在争 议。尽管保护濒危动物可能需要投入大量资金，但我认为这仍然是必要的，因为动物对自然环境十分重要，而且人类 有责任保护它们。",
+      "clozes": [
+        {
+          "start": 91,
+          "end": 126,
+          "answer": "protect them or focus more on human"
+        },
+        {
+          "start": 137,
+          "end": 145,
+          "answer": "Although"
+        },
+        {
+          "start": 286,
+          "end": 323,
+          "answer": "have a responsibility to protect them"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "On the one hand, some people believe that human problems should receive more attention because public money is limited. Protecting endangered animals can be very expensive, as governments may need to create protected areas, employ scientists and provide long-term care for certain species. Moreover, these efforts are not always successful, especially when only a small number of animals remain. Some people therefore argue that this money should instead be spent on more urgent human needs, such as reducing poverty, improving healthcare and providing better education. From this point of view, solving problems that directly affect people's lives should be the priority.",
+      "cn": "一方面，一些人认为，人类自身的问题应该得到更多关注，因为公共资金是有限的。保护濒危动物可能需要投入大量 资金，因为政府可能需要建立自然保护区、雇用科学家，并为某些物种提供长期的保护和照料。此外，这些保护措施 并不总能取得成功，尤其是在某一物种只剩下极少数量的情况下。因此，一些人认为，这些资金应该用于解决更加紧 迫的人类问题，例如减少贫困、改善医疗服务以及提供更好的教育。从这一角度来看，解决那些直接影响人们生活的 问题应该成为首要任务。",
+      "clozes": [
+        {
+          "start": 200,
+          "end": 222,
+          "answer": "create protected areas"
+        },
+        {
+          "start": 246,
+          "end": 288,
+          "answer": "provide long-term care for certain species"
+        },
+        {
+          "start": 408,
+          "end": 417,
+          "answer": "therefore"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "On the other hand, I believe protecting endangered animals is also important. The main reason is that different species are connected within ecosystems. If one species disappears, other animals or plants that depend on it may also be affected, which could damage the natural environment. In addition, humans are partly responsible for the decline of many species because activities such as hunting, deforestation and pollution have destroyed their habitats. It is therefore reasonable for us to take action to protect them. Conservation programmes can also encourage scientists from different countries to work together and develop better ways of protecting wildlife. Although it may not be possible to save every endangered species, this does not mean that conservation efforts are unnecessary.",
+      "cn": "另一方面，我认为保护濒危动物同样十分重要。主要原因是，不同物种在生态系统中彼此联系。如果一个物种消失， 依赖它生存的其他动物或植物也可能受到影响，从而对自然环境造成破坏。此外，人类应该为许多物种数量的减少承 担部分责任，因为狩猎、森林砍伐和污染等人类活动已经破坏了它们的栖息地。因此，由我们采取行动保护这些动物 是合理的。野生动物保护项目还能够鼓励来自不同国家的科学家开展合作，并研究出更有效的野生动物保护方式。尽 管我们可能无法拯救每一个濒危物种，但这并不意味着动物保护工作没有必要。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 17,
+          "answer": "On the other hand"
+        },
+        {
+          "start": 78,
+          "end": 93,
+          "answer": "The main reason"
+        },
+        {
+          "start": 263,
+          "end": 286,
+          "answer": "the natural environment"
+        },
+        {
+          "start": 288,
+          "end": 299,
+          "answer": "In addition"
+        },
+        {
+          "start": 464,
+          "end": 473,
+          "answer": "therefore"
+        },
+        {
+          "start": 606,
+          "end": 619,
+          "answer": "work together"
+        },
+        {
+          "start": 624,
+          "end": 666,
+          "answer": "develop better ways of protecting wildlife"
+        },
+        {
+          "start": 668,
+          "end": 676,
+          "answer": "Although"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, I understand why some people believe that limited resources should be used to solve human problems. However, I believe endangered animals should also be protected because they play an important role in ecosystems and humans have a responsibility to reduce the environmental damage they cause.",
+      "cn": "总而言之，我能够理解为什么一些人认为有限的资源应该用于解决人类自身的问题。然而，我认为濒危动物也应该得 到保护，因为它们在生态系统中发挥着重要作用，而且人类有责任减少自身活动所造成的环境破坏。",
+      "clozes": [
+        {
+          "start": 115,
+          "end": 122,
+          "answer": "However"
+        },
+        {
+          "start": 196,
+          "end": 216,
+          "answer": "an important role in"
+        },
+        {
+          "start": 239,
+          "end": 288,
+          "answer": "have a responsibility to reduce the environmental"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "高昂的成本",
+      "en": "prohibitive costs"
+    },
+    {
+      "zh": "由纳税人承担",
+      "en": "be borne by taxpayers"
+    },
+    {
+      "zh": "将有限公共资金重新用于…",
+      "en": "redirect limited public funding to ..."
+    },
+    {
+      "zh": "公民意识、同情心和责任感",
+      "en": "civic awareness, compassion, and a sense of responsibility"
+    },
+    {
+      "zh": "破坏生态系统的稳定",
+      "en": "destabilize ecosystems"
+    },
+    {
+      "zh": "促进国际科学合作",
+      "en": "foster international scientific collaboration"
+    },
+    {
+      "zh": "…就是一个很好的例子 ...",
+      "en": "is a case in point"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}

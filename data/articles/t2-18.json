@@ -1,0 +1,268 @@
+{
+  "id": "t2-18",
+  "type": "大作文",
+  "title": "水资源应该免费提供吗？",
+  "group": "环境与动物",
+  "question": "Access to clean water is a basic human right. Therefore every home should have a water supply that is provided free of charge. Do you agree or disagree?",
+  "logic": "▪ 主体段1（拥有清洁水供应的权利并不代表就应该免费获取）原因：基本权利的保证需要资源和资金支撑 → 举例：隐 私权和人生安全都需要经济资源的支持 → （likewise）延申到清洁用水权 → 细节解释：水资源的保护、清洁、 分配都需要政府投资建厂开设管道（enormous investment in infrastructure and labour） → 举例：新加坡对水收 费 ▪ 主体段2（免费供水并不现实）①举例：富有国家如美国加拿大还有更多事务要平衡（经典方面：教育、医疗和基建） → 水资源免费会造成很大压力（unsustainable burden）②部分发展中国家和受战争灾害国家（war-torn regions）在提供清洁用水上还存在困难 → 举例：常见贫困地区撒哈拉以南（sub-Saharan Africa）人民还需要走 路去取水 → 水资源免费既不现实也不公平（politically unrealistic and socially unfair）",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Access to clean water is universally recognised as a basic human right. Some therefore argue that households should be supplied with water free of charge. I completely disagree with this view, as it overlooks the cost of water provision and ignores the realities of global inequalities.",
+      "cn": "获取清洁用水被普遍认为是基本人权。因此，有人主张家庭应该免费获得供水。我完全不同意这种观点，因为它忽视 了供水的成本，也无视全球不平等的现实。",
+      "clozes": [
+        {
+          "start": 77,
+          "end": 86,
+          "answer": "therefore"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The primary reason is that the right to clean water does not mean that it should be exempt from cost. Guaranteeing fundamental rights always requires significant resources and funding. For instance, privacy is safeguarded through surveillance and data protection systems, while the right to safety is upheld by police forces and emergency services, all of which demand considerable financial input. Likewise, the preservation, purification, and distribution of water require enormous investment in infrastructure and labour. Without water bills, governments would struggle to maintain treatment plants, pipelines, and monitoring systems. A vivid example is Singapore, where water pricing ensures both quality and sustainability; without user contributions, the country’s advanced desalination and recycling facilities would be impossible to operate.",
+      "cn": "首先，享有清洁用水的权利并不意味着它应该免于付费。保障基本权利始终需要大量资源和资金。例如，隐私权是通 过监控和数据保护系统来维护的；安全权则依靠警察部队和应急服务来保障，而这些都需要巨额财政投入。同样，水 资源的保存、净化和分配需要在基础设施和人力上进行巨额投资。如果没有水费收入，政府将难以维持水厂、管道和 监测系统的运作。一个鲜明的例子就是新加坡，该国通过水价制度确保水质和可持续性；如果没有用户缴费，先进的 海水淡化和再生利用设施根本不可能运转。",
+      "clozes": [
+        {
+          "start": 185,
+          "end": 197,
+          "answer": "For instance"
+        },
+        {
+          "start": 362,
+          "end": 397,
+          "answer": "demand considerable financial input"
+        },
+        {
+          "start": 409,
+          "end": 466,
+          "answer": "the preservation, purification, and distribution of water"
+        },
+        {
+          "start": 467,
+          "end": 494,
+          "answer": "require enormous investment"
+        },
+        {
+          "start": 576,
+          "end": 601,
+          "answer": "maintain treatment plants"
+        },
+        {
+          "start": 674,
+          "end": 687,
+          "answer": "water pricing"
+        },
+        {
+          "start": 797,
+          "end": 817,
+          "answer": "recycling facilities"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another compelling reason is that free water supply is simply impractical given global disparities. Even affluent nations such as Canada and the United States, despite their strong economies, must balance competing demands such as healthcare, education, and infrastructure. Providing unlimited free water would place an unsustainable burden on public budgets. More importantly, in developing or war-torn regions, governments often lack the capacity to supply clean water at all, let alone for free. In sub-Saharan Africa, for example, millions of people still walk several kilometres daily to fetch water. To expect these countries to guarantee free household water is both politically unrealistic and socially unfair.",
+      "cn": "另一个有力的理由是，考虑到全球差距，免费供水在现实中根本不可行。即便是加拿大、美国这样的富裕国家，尽管 经济实力雄厚，也必须在医疗、教育和基础设施等方面平衡各种竞争性需求。提供无限量的免费用水将对公共预算造 成难以承受的负担。更重要的是，在一些发展中国家或战乱地区，政府往往连基本的供水能力都没有，更不可能做到 免费。在撒哈拉以南的非洲，例如，数百万人至今仍需每天步行数公里取水。要求这些国家向家庭保证免费清洁用 水，不仅在政治上不现实，而且在社会上也不公平。",
+      "clozes": [
+        {
+          "start": 160,
+          "end": 190,
+          "answer": "despite their strong economies"
+        },
+        {
+          "start": 311,
+          "end": 358,
+          "answer": "place an unsustainable burden on public budgets"
+        },
+        {
+          "start": 360,
+          "end": 376,
+          "answer": "More importantly"
+        },
+        {
+          "start": 479,
+          "end": 488,
+          "answer": "let alone"
+        },
+        {
+          "start": 522,
+          "end": 533,
+          "answer": "for example"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, while access to clean water is a fundamental human right, this does not justify providing it free of charge. Sustainable funding is essential to maintain water systems, and global inequalities make the idea unfeasible.",
+      "cn": "总之，虽然获取清洁用水是一项基本人权，但这并不能成为其免费的理由。维持水资源系统需要可持续的资金支持， 而全球的不平等现状也使这一理想无法实现。",
+      "clozes": [
+        {
+          "start": 160,
+          "end": 182,
+          "answer": "maintain water systems"
+        },
+        {
+          "start": 208,
+          "end": 232,
+          "answer": "make the idea unfeasible"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Access to clean water is a basic human right, so some people believe that every household should receive water free of charge. I disagree with this view because providing clean water costs money and many governments cannot afford to offer it for free.",
+      "cn": "获得清洁用水是一项基本人权，因此一些人认为，每个家庭都应该免费获得生活用水。我不同意这一观点，因为提供 清洁用水需要资金，而且许多政府无力承担免费供水的成本。",
+      "clozes": [
+        {
+          "start": 233,
+          "end": 250,
+          "answer": "offer it for free"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The first reason is that having the right to clean water does not mean that water should always be free. Supplying clean water requires a large amount of money. Water needs to be collected, cleaned and transported to people's homes. Governments also need to build and maintain water treatment plants and pipelines. If households did not pay water bills, governments would have to cover all these costs through taxes or reduce spending in other areas. This could make it more difficult to provide a reliable water supply. Charging people a reasonable amount can help governments maintain water systems and provide clean water in the long term.",
+      "cn": "第一个原因是，享有清洁用水的权利并不意味着用水就应该始终免费。提供清洁用水需要投入大量资金。水需要经过 收集、净化，然后输送到人们的家中。政府还需要建设并维护水处理设施和输水管道。如果家庭不需要缴纳水费，那 么政府就必须通过税收来承担所有这些成本，或者削减其他领域的支出。这可能会使政府更难以提供稳定可靠的供水 服务。向居民收取合理的水费，可以帮助政府维护供水系统，并从长远来看持续提供清洁用水。",
+      "clozes": [
+        {
+          "start": 268,
+          "end": 299,
+          "answer": "maintain water treatment plants"
+        },
+        {
+          "start": 372,
+          "end": 409,
+          "answer": "have to cover all these costs through"
+        },
+        {
+          "start": 419,
+          "end": 449,
+          "answer": "reduce spending in other areas"
+        },
+        {
+          "start": 462,
+          "end": 506,
+          "answer": "make it more difficult to provide a reliable"
+        },
+        {
+          "start": 578,
+          "end": 600,
+          "answer": "maintain water systems"
+        },
+        {
+          "start": 625,
+          "end": 641,
+          "answer": "in the long term"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Another reason is that countries have very different economic conditions. Even wealthy governments have limited budgets and need to spend money on healthcare, education, transport and many other public services. Providing free water to every household would increase this financial pressure. The situation is even more difficult in poorer countries. In some developing regions, many people still do not have easy access to clean water, and governments may not have enough money to build basic water systems. Their first priority should therefore be to make clean water available to more people rather than provide unlimited water free of charge.",
+      "cn": "另一个原因是，不同国家的经济状况存在很大差异。即使是富裕国家的政府，预算也是有限的，而且还需要在医疗、 教育、交通以及许多其他公共服务上投入资金。向每个家庭免费供水会进一步增加政府的财政压力。而在较贫困的国 家，这一问题更加严峻。在一些发展中地区，许多人仍然无法方便地获得清洁用水，而政府可能连建设基本供水系统 所需要的资金都不足。因此，这些政府的首要任务应该是让更多人能够获得清洁用水，而不是无限量地免费提供用 水。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 14,
+          "answer": "Another reason"
+        },
+        {
+          "start": 33,
+          "end": 72,
+          "answer": "have very different economic conditions"
+        },
+        {
+          "start": 132,
+          "end": 146,
+          "answer": "spend money on"
+        },
+        {
+          "start": 195,
+          "end": 210,
+          "answer": "public services"
+        },
+        {
+          "start": 460,
+          "end": 498,
+          "answer": "have enough money to build basic water"
+        },
+        {
+          "start": 536,
+          "end": 545,
+          "answer": "therefore"
+        },
+        {
+          "start": 552,
+          "end": 593,
+          "answer": "make clean water available to more people"
+        },
+        {
+          "start": 594,
+          "end": 605,
+          "answer": "rather than"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although everyone should have access to clean water, I do not believe that every household should receive it for free. Water systems are expensive to build and maintain, and many governments do not have enough money to cover the full cost.",
+      "cn": "总而言之，尽管每个人都应该能够获得清洁用水，但我并不认为每个家庭都应该免费获得生活用水。供水系统的建设 和维护成本高昂，而且许多政府没有足够的资金来承担全部费用。",
+      "clozes": [
+        {
+          "start": 15,
+          "end": 23,
+          "answer": "although"
+        },
+        {
+          "start": 40,
+          "end": 54,
+          "answer": "have access to"
+        },
+        {
+          "start": 213,
+          "end": 248,
+          "answer": "have enough money to cover the full"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "zh": "需求资金支持",
+      "en": "demand considerable financial input/ require enormous investment"
+    },
+    {
+      "zh": "水资源的保护、净化和分配",
+      "en": "the preservation, purification, and distribution of water"
+    },
+    {
+      "zh": "水资源收费",
+      "en": "water pricing"
+    },
+    {
+      "zh": "尽管经济实力强大",
+      "en": "despite their strong economies"
+    },
+    {
+      "zh": "造成难以承受的负担",
+      "en": "place an unsustainable burden on public budgets"
+    },
+    {
+      "zh": "更不用说",
+      "en": "let alone"
+    }
+  ],
+  "preferred": "seven",
+  "source_note": ""
+}
