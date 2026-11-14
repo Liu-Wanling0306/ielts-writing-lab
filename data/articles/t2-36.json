@@ -203,5 +203,92 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "public safety",
+        "cn": "改善路灯照明可以提高公共安全。",
+        "answer": "Improving street lighting can enhance public safety.",
+        "source_paragraph": 2,
+        "source": "The second significant reason why community service is a more suitable punishment is that a majority of people who commit vandalism are young people or even teenagers. Hence, punishments such as paying a penalty or even a judicial conviction are far too severe for them. Studies from many major metropolises indicate that over 70% of people who are caught or monitored by public cameras damaging public property are under 21, mostly under 18. For these age groups, many categories of crimes that entail severe repercussions for the perpetrators may exempt teenagers from serious punishments, let alone the relatively less severe juvenile delinquencies, such as painting graffiti on a statue. Juveniles are not mature enough to always act responsibly, so when they commit errors that do not greatly harm other people or public safety, a moderate level of punishment is sufficient to rectify their actions.",
+        "source_phrase": "public safety",
+        "id": "1"
+      },
+      {
+        "phrase": "contribute to",
+        "cn": "安全的步行路线可以帮助改善儿童健康。",
+        "answer": "Safe walking routes can contribute to better health among children.",
+        "source_paragraph": 1,
+        "source": "The primary reason for my perspective is that the harm to public property should be compensated through actions to restore the damaged items and improve the environment of the affected communities. In reality, most vandalistic behaviors involve only painting and messing statues and other public properties, which can mostly be cleaned, if not completely, by immediate efforts. Those who commit vandalism directly are obviously the ones who should take the blame and rectify their reckless behaviors. Furthermore, apart from cleaning and repairing the damage they cause, they can also be given an additional amount of extended community service, such as cleaning public parks and squares, or even providing assistance to people in need. These mild punishments are not only a sign of a civilized society and the advancement of the legal system, but can help the culprits learn a lesson and contribute to the community affected by their delinquencies.",
+        "source_phrase": "contribute to",
+        "id": "2"
+      },
+      {
+        "phrase": "vandalism",
+        "cn": "组织青年活动可能有助于减少当地的破坏公物行为。",
+        "answer": "Organising youth activities may help reduce vandalism in the area.",
+        "source_paragraph": 0,
+        "source": "One of the major issues that threaten modern cities’ historical heritages, such as their traditional properties and sculptures, is the prevalence of vandalism.Some people argue that the culprits should be given community work as a punishment rather than be fined or sentenced to prison. In my opinion, I strongly agree with this statement because it is the damaged party that should receive compensation, and a large number of vandalism cases are committed by juveniles.",
+        "source_phrase": "vandalism",
+        "id": "3"
+      },
+      {
+        "phrase": "rather than",
+        "cn": "学校应奖励持续的努力，而不是只奖励高分。",
+        "answer": "Schools should reward sustained effort rather than only high scores.",
+        "source_paragraph": 0,
+        "source": "One of the major issues that threaten modern cities’ historical heritages, such as their traditional properties and sculptures, is the prevalence of vandalism.Some people argue that the culprits should be given community work as a punishment rather than be fined or sentenced to prison. In my opinion, I strongly agree with this statement because it is the damaged party that should receive compensation, and a large number of vandalism cases are committed by juveniles.",
+        "source_phrase": "rather than",
+        "id": "4"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "public safety",
+        "cn": "改善路灯照明可以提高公共安全。",
+        "answer": "Improving street lighting can enhance public safety.",
+        "source_paragraph": 2,
+        "source": "Another reason is that many cases of vandalism are committed by young people or teenagers. For these offenders, prison may be too severe, especially when their actions have not caused serious harm to other people or public safety. Young people are sometimes not mature enough to fully consider the consequences before they act. Sending them to prison could also have a negative effect on their future. Community service, by contrast, provides a more suitable level of punishment. It makes young offenders face the results of their actions while giving them an opportunity to learn from their mistakes and contribute positively to society.",
+        "source_phrase": "public safety",
+        "id": "1"
+      },
+      {
+        "phrase": "local communities",
+        "cn": "公共艺术项目可以把当地社区凝聚在一起。",
+        "answer": "Public art projects can bring local communities together.",
+        "source_paragraph": 3,
+        "source": "In conclusion, I agree that community service is generally a better punishment for people who damage public property than fines or imprisonment. It can help repair the damage, benefit local communities and encourage offenders, particularly young people, to behave more responsibly in the future.",
+        "source_phrase": "local communities",
+        "id": "2"
+      },
+      {
+        "phrase": "responsibility",
+        "cn": "网络平台应对删除欺诈广告承担责任。",
+        "answer": "Online platforms should take responsibility for removing fraudulent advertisements.",
+        "source_paragraph": 1,
+        "source": "The first reason is that community service allows offenders to make up for the harm they have caused. In many cases, damage to public property involves graffiti or minor damage to buildings, statues and other public facilities. Instead of simply paying a fine, offenders could be required to clean or repair the property they have damaged. This would make them take direct responsibility for their actions. They could also be asked to do additional community work, such as cleaning parks and public squares or helping people in need. Such punishment can benefit the local community while also teaching offenders an important lesson. By spending their own time and effort correcting their mistakes, they may better understand the consequences of their behaviour and be less likely to repeat it.",
+        "source_phrase": "responsibility",
+        "id": "3"
+      },
+      {
+        "phrase": "vandalism",
+        "cn": "组织青年活动可能有助于减少当地的破坏公物行为。",
+        "answer": "Organising youth activities may help reduce vandalism in the area.",
+        "source_paragraph": 2,
+        "source": "Another reason is that many cases of vandalism are committed by young people or teenagers. For these offenders, prison may be too severe, especially when their actions have not caused serious harm to other people or public safety. Young people are sometimes not mature enough to fully consider the consequences before they act. Sending them to prison could also have a negative effect on their future. Community service, by contrast, provides a more suitable level of punishment. It makes young offenders face the results of their actions while giving them an opportunity to learn from their mistakes and contribute positively to society.",
+        "source_phrase": "vandalism",
+        "id": "4"
+      },
+      {
+        "phrase": "By contrast",
+        "cn": "2020年，公交车使用量增加。相比之下，出租车使用量下降。",
+        "answer": "Bus use increased in 2020. By contrast, taxi use declined.",
+        "source_paragraph": 2,
+        "source": "Another reason is that many cases of vandalism are committed by young people or teenagers. For these offenders, prison may be too severe, especially when their actions have not caused serious harm to other people or public safety. Young people are sometimes not mature enough to fully consider the consequences before they act. Sending them to prison could also have a negative effect on their future. Community service, by contrast, provides a more suitable level of punishment. It makes young offenders face the results of their actions while giving them an opportunity to learn from their mistakes and contribute positively to society.",
+        "source_phrase": "by contrast",
+        "id": "5"
+      }
+    ]
+  }
 }

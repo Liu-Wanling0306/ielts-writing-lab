@@ -110,5 +110,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "rose from",
+        "cn": "公交车出行的比例从20%上升到了35%。",
+        "answer": "The proportion of journeys made by bus rose from 20% to 35%.",
+        "source_paragraph": 3,
+        "source": "The four smaller airlines, by contrast, all more than doubled their passenger numbers. American Airlines rose from 150,000 to 340,000, while Alaska and Hawaiian Airlines increased from 120,000 and 100,000 to 257,000 and 250,000 respectively. The most dramatic change was seen in JetBlue: despite having the lowest starting figure, at only 86,000, it recorded growth of 249% and reached 300,000 passengers in 2005.",
+        "source_phrase": "rose from",
+        "id": "1"
+      },
+      {
+        "phrase": "growth",
+        "cn": "幼苗随后被转移到温室，继续生长。",
+        "answer": "The seedlings are then transferred to a greenhouse for further growth.",
+        "source_paragraph": 0,
+        "source": "The table compares the numbers of passengers travelling with the seven most popular airlines in the US in 1995 and 2005, together with their growth rates over the period.",
+        "source_phrase": "growth",
+        "id": "2"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 2,
+        "source": "The three leading airlines in 1995 retained their positions a decade later, although their rates of growth varied considerably. Delta carried just over 500,000 passengers in 1995, and this figure more than doubled to 1.064 million by 2005. Southwest remained second, with passenger numbers rising more moderately from 400,000 to 640,000.Growth was even slower for United, whose figure increased from 300,000 to 400,000, equivalent to just 33%.",
+        "source_phrase": "although",
+        "id": "3"
+      },
+      {
+        "phrase": "By contrast",
+        "cn": "2020年，公交车使用量增加。相比之下，出租车使用量下降。",
+        "answer": "Bus use increased in 2020. By contrast, taxi use declined.",
+        "source_paragraph": 1,
+        "source": "Overall, passenger numbers increased for all seven airlines. Delta Air Lines remained by far the largest carrier in both years, while JetBlue Airways recorded the fastest growth. By contrast, United Airlines experienced the smallest proportional increase.",
+        "source_phrase": "By contrast",
+        "id": "4"
+      },
+      {
+        "phrase": "despite",
+        "cn": "尽管费用较高，夜间课程仍然很受欢迎。",
+        "answer": "Despite their higher cost, evening classes remained popular.",
+        "source_paragraph": 3,
+        "source": "The four smaller airlines, by contrast, all more than doubled their passenger numbers. American Airlines rose from 150,000 to 340,000, while Alaska and Hawaiian Airlines increased from 120,000 and 100,000 to 257,000 and 250,000 respectively. The most dramatic change was seen in JetBlue: despite having the lowest starting figure, at only 86,000, it recorded growth of 249% and reached 300,000 passengers in 2005.",
+        "source_phrase": "despite",
+        "id": "5"
+      }
+    ]
+  }
 }

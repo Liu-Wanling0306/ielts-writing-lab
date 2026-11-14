@@ -214,5 +214,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "public safety",
+        "cn": "改善路灯照明可以提高公共安全。",
+        "answer": "Improving street lighting can enhance public safety.",
+        "source_paragraph": 0,
+        "source": "There is a growing trend for countries to adopt driverless cars and for individuals to utilise such functions on their journeys. While some laud this technology as a revolutionary invention that promises convenience, I completely disagree with its widespread adoption. I contend that any efficiency gains pale in comparison to the grave threats it poses to the labour market and public safety.",
+        "source_phrase": "public safety",
+        "id": "1"
+      },
+      {
+        "phrase": "public trust",
+        "cn": "透明的决策有助于建立公众对地方政府的信任。",
+        "answer": "Transparent decision-making helps build public trust in local government.",
+        "source_paragraph": 2,
+        "source": "A second, equally critical drawback concerns personal and public safety. In recent years, a growing body of evidence suggests that over-reliance on driverless technology may lead to more frequent and serious traffic accidents, costing lives and eroding public trust. When people blindly adopt automated features, they often neglect the necessity of human intervention under extreme conditions, fueling the incidence of such tragedies. Moreover, liability becomes contested; when an algorithm contributes to a fatality, the lines of responsibility between the car owner, the software developer, and the manufacturer are blurred. This creates a regulatory vacuum that not only strains law enforcement but also leaves victims without clear avenues for justice.",
+        "source_phrase": "public trust",
+        "id": "2"
+      },
+      {
+        "phrase": "lead to",
+        "cn": "更便宜的电力可能导致更高的家庭用电量。",
+        "answer": "Cheaper electricity may lead to higher household consumption.",
+        "source_paragraph": 2,
+        "source": "A second, equally critical drawback concerns personal and public safety. In recent years, a growing body of evidence suggests that over-reliance on driverless technology may lead to more frequent and serious traffic accidents, costing lives and eroding public trust. When people blindly adopt automated features, they often neglect the necessity of human intervention under extreme conditions, fueling the incidence of such tragedies. Moreover, liability becomes contested; when an algorithm contributes to a fatality, the lines of responsibility between the car owner, the software developer, and the manufacturer are blurred. This creates a regulatory vacuum that not only strains law enforcement but also leaves victims without clear avenues for justice.",
+        "source_phrase": "lead to",
+        "id": "3"
+      },
+      {
+        "phrase": "employment",
+        "cn": "清洁能源投资可以创造新的就业机会。",
+        "answer": "Investment in clean energy can create new employment opportunities.",
+        "source_paragraph": 1,
+        "source": "The primary reason for my opposition is the destabilising effect this technology has on the workforce and social equity. It is a harsh reality that global development is manifestly uneven. Many regions rely heavily on basic industries, such as transport services, to provide employment for citizens with lower levels of education, thereby sustaining economic resilience. Even in affluent countries like Japan, the taxi sector provides countless jobs for septuagenarian workers who might otherwise face social isolation. Therefore, the wholesale replacement of human drivers with robotic counterparts—often touted as \"progress\"—is, in reality, socially untenable and economically damaging for vulnerable populations.",
+        "source_phrase": "employment",
+        "id": "4"
+      },
+      {
+        "phrase": "rely",
+        "cn": "偏远地区的学生往往依赖在线课程。",
+        "answer": "Students in remote areas often rely on online courses.",
+        "source_paragraph": 1,
+        "source": "The primary reason for my opposition is the destabilising effect this technology has on the workforce and social equity. It is a harsh reality that global development is manifestly uneven. Many regions rely heavily on basic industries, such as transport services, to provide employment for citizens with lower levels of education, thereby sustaining economic resilience. Even in affluent countries like Japan, the taxi sector provides countless jobs for septuagenarian workers who might otherwise face social isolation. Therefore, the wholesale replacement of human drivers with robotic counterparts—often touted as \"progress\"—is, in reality, socially untenable and economically damaging for vulnerable populations.",
+        "source_phrase": "rely",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "public safety",
+        "cn": "改善路灯照明可以提高公共安全。",
+        "answer": "Improving street lighting can enhance public safety.",
+        "source_paragraph": 2,
+        "source": "Another concern is public safety. Driverless cars depend heavily on cameras, sensors and computer systems, and these technologies may sometimes fail. Unexpected situations on the road, such as extreme weather or unusual behaviour from other drivers, may also be difficult for automated systems to deal with. In addition, people may rely too heavily on the technology and pay less attention to the road, making it harder for them to react when human control is needed. There is also the question of responsibility. If a driverless car causes an accident, it may be difficult to decide whether the owner, the car company or the software developer should be responsible.",
+        "source_phrase": "public safety",
+        "id": "1"
+      },
+      {
+        "phrase": "employment opportunities",
+        "cn": "新的铁路连接可以为小城镇创造就业机会。",
+        "answer": "New rail connections can create employment opportunities in small towns.",
+        "source_paragraph": 1,
+        "source": "The first problem is that driverless cars may replace many human drivers. Transport provides jobs for millions of people, including taxi, bus and delivery drivers. Many of these workers depend on driving as their main source of income and may not have the skills needed to move easily into other types of work. If driverless vehicles become widely used, a large number of them could lose their jobs. This problem may be particularly serious in places where there are already limited employment opportunities. Although new technology can create new types of jobs, these positions may require technical skills that many professional drivers do not have. Therefore, the widespread use of driverless cars could create financial difficulties for many workers and their families.",
+        "source_phrase": "employment opportunities",
+        "id": "2"
+      },
+      {
+        "phrase": "employment",
+        "cn": "清洁能源投资可以创造新的就业机会。",
+        "answer": "Investment in clean energy can create new employment opportunities.",
+        "source_paragraph": 1,
+        "source": "The first problem is that driverless cars may replace many human drivers. Transport provides jobs for millions of people, including taxi, bus and delivery drivers. Many of these workers depend on driving as their main source of income and may not have the skills needed to move easily into other types of work. If driverless vehicles become widely used, a large number of them could lose their jobs. This problem may be particularly serious in places where there are already limited employment opportunities. Although new technology can create new types of jobs, these positions may require technical skills that many professional drivers do not have. Therefore, the widespread use of driverless cars could create financial difficulties for many workers and their families.",
+        "source_phrase": "employment",
+        "id": "3"
+      },
+      {
+        "phrase": "rely",
+        "cn": "偏远地区的学生往往依赖在线课程。",
+        "answer": "Students in remote areas often rely on online courses.",
+        "source_paragraph": 2,
+        "source": "Another concern is public safety. Driverless cars depend heavily on cameras, sensors and computer systems, and these technologies may sometimes fail. Unexpected situations on the road, such as extreme weather or unusual behaviour from other drivers, may also be difficult for automated systems to deal with. In addition, people may rely too heavily on the technology and pay less attention to the road, making it harder for them to react when human control is needed. There is also the question of responsibility. If a driverless car causes an accident, it may be difficult to decide whether the owner, the car company or the software developer should be responsible.",
+        "source_phrase": "rely",
+        "id": "4"
+      },
+      {
+        "phrase": "responsibility",
+        "cn": "网络平台应对删除欺诈广告承担责任。",
+        "answer": "Online platforms should take responsibility for removing fraudulent advertisements.",
+        "source_paragraph": 2,
+        "source": "Another concern is public safety. Driverless cars depend heavily on cameras, sensors and computer systems, and these technologies may sometimes fail. Unexpected situations on the road, such as extreme weather or unusual behaviour from other drivers, may also be difficult for automated systems to deal with. In addition, people may rely too heavily on the technology and pay less attention to the road, making it harder for them to react when human control is needed. There is also the question of responsibility. If a driverless car causes an accident, it may be difficult to decide whether the owner, the car company or the software developer should be responsible.",
+        "source_phrase": "responsibility",
+        "id": "5"
+      }
+    ]
+  }
 }

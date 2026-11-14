@@ -269,5 +269,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "long-term development",
+        "cn": "可靠的交通网络对农村地区的长期发展至关重要。",
+        "answer": "Reliable transport networks are essential for the long-term development of rural areas.",
+        "source_paragraph": 2,
+        "source": "In my opinion, however, although teaching employability skills is essential, academic study and intellectual advancement are of paramount importance for modern universities. Unlike primary schools and secondary education, higher education shapes the strength and resilience of a nation and determines its capacity for long-term development. Without a solid academic foundation, even the most prestigious universities would struggle to nurture talented people, drive innovation, or address global challenges such as sustainability. A defining feature of elite universities lies in their top scientists, world-class laboratories and high-impact academic publications — all of which highlight the critical role of academic research. Should colleges overly focus on teaching practical skills, they would risk becoming indistinguishable from vocational schools or job training centres.",
+        "source_phrase": "long-term development",
+        "id": "1"
+      },
+      {
+        "phrase": "academic study",
+        "cn": "平衡学术学习与课外活动有助于学生成长。",
+        "answer": "Balancing academic study with extracurricular activities supports students' development.",
+        "source_paragraph": 0,
+        "source": "In today’s college education, increasing emphasis has been placed on fostering students’ practical skills. But many people argue that academic study should remain the primary focus of modern universities. This essay will examine both perspectives and contend that it is more important for college education to prioritize academic pursuits.",
+        "source_phrase": "academic study",
+        "id": "2"
+      },
+      {
+        "phrase": "academic",
+        "cn": "学校应在提供学术支持的同时鼓励创造力。",
+        "answer": "Schools should encourage creativity while providing academic support.",
+        "source_paragraph": 0,
+        "source": "In today’s college education, increasing emphasis has been placed on fostering students’ practical skills. But many people argue that academic study should remain the primary focus of modern universities. This essay will examine both perspectives and contend that it is more important for college education to prioritize academic pursuits.",
+        "source_phrase": "academic",
+        "id": "3"
+      },
+      {
+        "phrase": "responsibility",
+        "cn": "网络平台应对删除欺诈广告承担责任。",
+        "answer": "Online platforms should take responsibility for removing fraudulent advertisements.",
+        "source_paragraph": 1,
+        "source": "It is undeniable that the cultivation of work-related skills is necessary in higher education. In reality, some colleges and educators often neglect their responsibility to prepare their students for the job market, as they are committed to academic education. Modern individuals tend to view college education as an investment, expecting substantial returns in the future. But due to the insufficient supply of career-related courses and practical tutorials in many universities, an increasing number of young people and their parents express their dissatisfaction, claiming that university education fails to meet their expectations and results in a waste of both time and money. As a result, the outcry for academic institutions to focus on teaching practical skills has become increasingly prevalent.",
+        "source_phrase": "responsibility",
+        "id": "4"
+      },
+      {
+        "phrase": "long-term",
+        "cn": "当地企业应重视长期稳定，而非短期利润。",
+        "answer": "Local businesses should value long-term stability over short-term profit.",
+        "source_paragraph": 2,
+        "source": "In my opinion, however, although teaching employability skills is essential, academic study and intellectual advancement are of paramount importance for modern universities. Unlike primary schools and secondary education, higher education shapes the strength and resilience of a nation and determines its capacity for long-term development. Without a solid academic foundation, even the most prestigious universities would struggle to nurture talented people, drive innovation, or address global challenges such as sustainability. A defining feature of elite universities lies in their top scientists, world-class laboratories and high-impact academic publications — all of which highlight the critical role of academic research. Should colleges overly focus on teaching practical skills, they would risk becoming indistinguishable from vocational schools or job training centres.",
+        "source_phrase": "long-term",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "long-term development",
+        "cn": "可靠的交通网络对农村地区的长期发展至关重要。",
+        "answer": "Reliable transport networks are essential for the long-term development of rural areas.",
+        "source_paragraph": 2,
+        "source": "On the other hand, I believe that academic study should be the main focus of universities. Universities are different from vocational schools or job training centres. Their purpose is not simply to prepare students for a particular job, but also to develop knowledge, conduct research and encourage new ideas. For example, universities have scientists and research teams working on important problems in areas such as medicine, technology and the environment. Their research can lead to new discoveries and contribute to the long-term development of society. If universities spend too much time teaching specific job skills, they may have fewer resources for academic research. Students can also learn many practical skills after entering the workplace, while universities provide them with academic knowledge that may be more difficult to gain elsewhere.",
+        "source_phrase": "long-term development",
+        "id": "1"
+      },
+      {
+        "phrase": "lead to",
+        "cn": "更便宜的电力可能导致更高的家庭用电量。",
+        "answer": "Cheaper electricity may lead to higher household consumption.",
+        "source_paragraph": 2,
+        "source": "On the other hand, I believe that academic study should be the main focus of universities. Universities are different from vocational schools or job training centres. Their purpose is not simply to prepare students for a particular job, but also to develop knowledge, conduct research and encourage new ideas. For example, universities have scientists and research teams working on important problems in areas such as medicine, technology and the environment. Their research can lead to new discoveries and contribute to the long-term development of society. If universities spend too much time teaching specific job skills, they may have fewer resources for academic research. Students can also learn many practical skills after entering the workplace, while universities provide them with academic knowledge that may be more difficult to gain elsewhere.",
+        "source_phrase": "lead to",
+        "id": "2"
+      },
+      {
+        "phrase": "contribute to",
+        "cn": "安全的步行路线可以帮助改善儿童健康。",
+        "answer": "Safe walking routes can contribute to better health among children.",
+        "source_paragraph": 2,
+        "source": "On the other hand, I believe that academic study should be the main focus of universities. Universities are different from vocational schools or job training centres. Their purpose is not simply to prepare students for a particular job, but also to develop knowledge, conduct research and encourage new ideas. For example, universities have scientists and research teams working on important problems in areas such as medicine, technology and the environment. Their research can lead to new discoveries and contribute to the long-term development of society. If universities spend too much time teaching specific job skills, they may have fewer resources for academic research. Students can also learn many practical skills after entering the workplace, while universities provide them with academic knowledge that may be more difficult to gain elsewhere.",
+        "source_phrase": "contribute to",
+        "id": "3"
+      },
+      {
+        "phrase": "academic study",
+        "cn": "平衡学术学习与课外活动有助于学生成长。",
+        "answer": "Balancing academic study with extracurricular activities supports students' development.",
+        "source_paragraph": 0,
+        "source": "Some people believe that universities should teach students practical skills for their future jobs, while others think they should mainly focus on academic study. Although job-related skills are important, I believe that academic study should remain the main purpose of university education.",
+        "source_phrase": "academic study",
+        "id": "4"
+      },
+      {
+        "phrase": "academic",
+        "cn": "学校应在提供学术支持的同时鼓励创造力。",
+        "answer": "Schools should encourage creativity while providing academic support.",
+        "source_paragraph": 0,
+        "source": "Some people believe that universities should teach students practical skills for their future jobs, while others think they should mainly focus on academic study. Although job-related skills are important, I believe that academic study should remain the main purpose of university education.",
+        "source_phrase": "academic",
+        "id": "5"
+      }
+    ]
+  }
 }

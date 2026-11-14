@@ -94,5 +94,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "stood at",
+        "cn": "最年轻群体的自行车拥有率约为40%。",
+        "answer": "Bicycle ownership among the youngest group stood at around 40%.",
+        "source_paragraph": 2,
+        "source": "In 1967, the average Briton emitted around 11 metric tonnes of CO₂, making the UK the largest emitter among the four countries. Although this figure gradually declined over the 40-year period, it still stood at approximately 9 tonnes by 2007. Sweden started with a slightly lower figure of about 8.5 tonnes, which peaked at over 10 tonnes in 1977 before steadily falling to around 5.5 tonnes at the end of the period.",
+        "source_phrase": "stood at",
+        "id": "1"
+      },
+      {
+        "phrase": "significant increase",
+        "cn": "这十年间，太阳能发电量显著增加。",
+        "answer": "There was a significant increase in solar power generation over the decade.",
+        "source_paragraph": 1,
+        "source": "Overall, while the UK and Sweden experienced a general downward trend in individual CO₂ emissions, Italy and Portugal showed a steady rise. Throughout the period, the United Kingdom remained the largest per capita emitter, whereas Portugal recorded the lowest emissions, despite a significant increase.",
+        "source_phrase": "significant increase",
+        "id": "2"
+      },
+      {
+        "phrase": "throughout the period",
+        "cn": "在整个时期，铁路都是最受欢迎的出行方式。",
+        "answer": "Rail remained the most popular means of travel throughout the period.",
+        "source_paragraph": 1,
+        "source": "Overall, while the UK and Sweden experienced a general downward trend in individual CO₂ emissions, Italy and Portugal showed a steady rise. Throughout the period, the United Kingdom remained the largest per capita emitter, whereas Portugal recorded the lowest emissions, despite a significant increase.",
+        "source_phrase": "Throughout the period",
+        "id": "3"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 2,
+        "source": "In 1967, the average Briton emitted around 11 metric tonnes of CO₂, making the UK the largest emitter among the four countries. Although this figure gradually declined over the 40-year period, it still stood at approximately 9 tonnes by 2007. Sweden started with a slightly lower figure of about 8.5 tonnes, which peaked at over 10 tonnes in 1977 before steadily falling to around 5.5 tonnes at the end of the period.",
+        "source_phrase": "Although",
+        "id": "4"
+      },
+      {
+        "phrase": "By contrast",
+        "cn": "2020年，公交车使用量增加。相比之下，出租车使用量下降。",
+        "answer": "Bus use increased in 2020. By contrast, taxi use declined.",
+        "source_paragraph": 3,
+        "source": "By contrast, both Italy and Portugal saw continuous increases in per capita emissions. Italy began at just over 4 metric tonnes in 1967, with this amount nearly doubling by 2007. Portugal started with a much lower level, at approximately 1.2 metric tonnes, but this figure more than quadrupled, matching the level of Sweden (at 5.5 tonnes) by 2007.",
+        "source_phrase": "By contrast",
+        "id": "5"
+      }
+    ]
+  }
 }

@@ -90,5 +90,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "more modestly",
+        "cn": "同期，小城镇的房租涨幅较为温和。",
+        "answer": "Over the same period, rents in small towns increased more modestly.",
+        "source_paragraph": 2,
+        "source": "In 1960, the manufacturing sector employed 15 million people, considerably more than any of the other three sectors. Its figure then rose to a peak of 20 million in 1980 before falling steadily to around 17 million in 2000 and 13 million in 2020. Retail followed the opposite trajectory, with employment rising steadily from around 6 million in 1960 to 15 million by 2000. It then increased more modestly, eventually overtaking manufacturing and reaching approximately 16 million in 2020.",
+        "source_phrase": "more modestly",
+        "id": "1"
+      },
+      {
+        "phrase": "before falling to",
+        "cn": "博物馆的月参观人数达到8000人，随后降至6000人。",
+        "answer": "Monthly visitor numbers at the museum reached 8,000 before falling to 6,000.",
+        "source_paragraph": 3,
+        "source": "Health started with the lowest figure, at only around 2 million jobs, but grew rapidly to 5 million in 1980 and 11 million in 2000. By 2020, it had risen further to roughly 16 million, equaling retail. Agriculture, meanwhile, began at about 6 million jobs before falling to around 3 million in 1980. This figure remained unchanged until 2000 and then declined further to about 2 million by 2020.",
+        "source_phrase": "before falling to",
+        "id": "2"
+      },
+      {
+        "phrase": "the lowest figure",
+        "cn": "约克的家庭用电量最低。",
+        "answer": "York recorded the lowest figure for household electricity consumption.",
+        "source_paragraph": 3,
+        "source": "Health started with the lowest figure, at only around 2 million jobs, but grew rapidly to 5 million in 1980 and 11 million in 2000. By 2020, it had risen further to roughly 16 million, equaling retail. Agriculture, meanwhile, began at about 6 million jobs before falling to around 3 million in 1980. This figure remained unchanged until 2000 and then declined further to about 2 million by 2020.",
+        "source_phrase": "the lowest figure",
+        "id": "3"
+      },
+      {
+        "phrase": "remained unchanged",
+        "cn": "在这十年里，学校的主入口保持不变。",
+        "answer": "The school's main entrance remained unchanged over the decade.",
+        "source_paragraph": 3,
+        "source": "Health started with the lowest figure, at only around 2 million jobs, but grew rapidly to 5 million in 1980 and 11 million in 2000. By 2020, it had risen further to roughly 16 million, equaling retail. Agriculture, meanwhile, began at about 6 million jobs before falling to around 3 million in 1980. This figure remained unchanged until 2000 and then declined further to about 2 million by 2020.",
+        "source_phrase": "remained unchanged",
+        "id": "4"
+      },
+      {
+        "phrase": "growth",
+        "cn": "幼苗随后被转移到温室，继续生长。",
+        "answer": "The seedlings are then transferred to a greenhouse for further growth.",
+        "source_paragraph": 1,
+        "source": "Overall, manufacturing was the largest employer for most of the period. By contrast, healthcare experienced the most substantial growth and caught up with retail by 2020. Agriculture was the only sector to record an overall decline and ended with by far the fewest jobs.",
+        "source_phrase": "growth",
+        "id": "5"
+      }
+    ]
+  }
 }

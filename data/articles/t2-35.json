@@ -240,5 +240,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "standard of living",
+        "cn": "廉价而可靠的能源可以提高居民的生活水平。",
+        "answer": "Affordable and reliable energy can improve residents' standard of living.",
+        "source_paragraph": 1,
+        "source": "The primary reason for my view lies in the impracticality of this proposal. In reality, there is hardly any country with the financial resources or institutional capacity to truly narrow the wealth gap among its people. Even in affluent nations such as Saudi Arabia or those in Northern Europe, where governments are known for generous welfare systems, most citizens still have to work hard to maintain a decent standard of living. National governments shoulder a wide range of responsibilities from providing education and creating employment to pursuing sustainable development and investing in infrastructure. Diminishing the income gap is neither a priority in their policy agenda nor within their operational capabilities. Moreover, the level of economic development varies significantly across the globe. Many African nations are still struggling to reduce infant mortality rates, while in war-torn parts of the Middle East, protecting civilians from violence is a far more urgent concern. For such countries, narrowing the wealth gap in the name of building a happy society would not only be unrealistic but also painfully out of touch with their pressing needs.",
+        "source_phrase": "standard of living",
+        "id": "1"
+      },
+      {
+        "phrase": "wealth gap",
+        "cn": "负担得起的教育有助于缩小社区内部的贫富差距。",
+        "answer": "Affordable education can help narrow the wealth gap within communities.",
+        "source_paragraph": 1,
+        "source": "The primary reason for my view lies in the impracticality of this proposal. In reality, there is hardly any country with the financial resources or institutional capacity to truly narrow the wealth gap among its people. Even in affluent nations such as Saudi Arabia or those in Northern Europe, where governments are known for generous welfare systems, most citizens still have to work hard to maintain a decent standard of living. National governments shoulder a wide range of responsibilities from providing education and creating employment to pursuing sustainable development and investing in infrastructure. Diminishing the income gap is neither a priority in their policy agenda nor within their operational capabilities. Moreover, the level of economic development varies significantly across the globe. Many African nations are still struggling to reduce infant mortality rates, while in war-torn parts of the Middle East, protecting civilians from violence is a far more urgent concern. For such countries, narrowing the wealth gap in the name of building a happy society would not only be unrealistic but also painfully out of touch with their pressing needs.",
+        "source_phrase": "wealth gap",
+        "id": "2"
+      },
+      {
+        "phrase": "growth",
+        "cn": "幼苗随后被转移到温室，继续生长。",
+        "answer": "The seedlings are then transferred to a greenhouse for further growth.",
+        "source_paragraph": 2,
+        "source": "Another reason I disagree with this idea is that happiness itself is highly subjective and cannot be universally defined by economic equality. Those who view narrowing the wealth gap as the best route to happiness are, in essence, equating well-being with material conditions. However, the days when wealth was the sole determinant of happiness are long gone. For instance, the United Kingdom once enjoyed one of the fastest GDP growth rates in the Western world, and yet the discontent among its citizens eventually led to Brexit. This example highlights the fact that modern societies value a broad range of factors in their pursuit of happiness such as autonomy, cultural identity, and sustainability. Therefore, governments aiming to foster a happier society should not fixate solely on reducing income disparity, but instead address a more diverse set of social expectations.",
+        "source_phrase": "growth",
+        "id": "3"
+      },
+      {
+        "phrase": "employment",
+        "cn": "清洁能源投资可以创造新的就业机会。",
+        "answer": "Investment in clean energy can create new employment opportunities.",
+        "source_paragraph": 1,
+        "source": "The primary reason for my view lies in the impracticality of this proposal. In reality, there is hardly any country with the financial resources or institutional capacity to truly narrow the wealth gap among its people. Even in affluent nations such as Saudi Arabia or those in Northern Europe, where governments are known for generous welfare systems, most citizens still have to work hard to maintain a decent standard of living. National governments shoulder a wide range of responsibilities from providing education and creating employment to pursuing sustainable development and investing in infrastructure. Diminishing the income gap is neither a priority in their policy agenda nor within their operational capabilities. Moreover, the level of economic development varies significantly across the globe. Many African nations are still struggling to reduce infant mortality rates, while in war-torn parts of the Middle East, protecting civilians from violence is a far more urgent concern. For such countries, narrowing the wealth gap in the name of building a happy society would not only be unrealistic but also painfully out of touch with their pressing needs.",
+        "source_phrase": "employment",
+        "id": "4"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 1,
+        "source": "The primary reason for my view lies in the impracticality of this proposal. In reality, there is hardly any country with the financial resources or institutional capacity to truly narrow the wealth gap among its people. Even in affluent nations such as Saudi Arabia or those in Northern Europe, where governments are known for generous welfare systems, most citizens still have to work hard to maintain a decent standard of living. National governments shoulder a wide range of responsibilities from providing education and creating employment to pursuing sustainable development and investing in infrastructure. Diminishing the income gap is neither a priority in their policy agenda nor within their operational capabilities. Moreover, the level of economic development varies significantly across the globe. Many African nations are still struggling to reduce infant mortality rates, while in war-torn parts of the Middle East, protecting civilians from violence is a far more urgent concern. For such countries, narrowing the wealth gap in the name of building a happy society would not only be unrealistic but also painfully out of touch with their pressing needs.",
+        "source_phrase": "financial",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "standard of living",
+        "cn": "廉价而可靠的能源可以提高居民的生活水平。",
+        "answer": "Affordable and reliable energy can improve residents' standard of living.",
+        "source_paragraph": 1,
+        "source": "The first reason is that reducing the wealth gap may not be a practical goal for every government. Governments have many responsibilities, such as providing education, creating jobs and improving public services. Even wealthy countries with strong welfare systems cannot completely remove large differences in income, and most people still need to work to maintain a good standard of living. More importantly, countries at different stages of development face different problems. Some developing countries, for example, are still struggling with poverty and poor healthcare, while countries affected by war may need to focus on protecting people's lives. In these cases, reducing the wealth gap may be less urgent than dealing with these basic problems.",
+        "source_phrase": "standard of living",
+        "id": "1"
+      },
+      {
+        "phrase": "wealth gap",
+        "cn": "负担得起的教育有助于缩小社区内部的贫富差距。",
+        "answer": "Affordable education can help narrow the wealth gap within communities.",
+        "source_paragraph": 1,
+        "source": "The first reason is that reducing the wealth gap may not be a practical goal for every government. Governments have many responsibilities, such as providing education, creating jobs and improving public services. Even wealthy countries with strong welfare systems cannot completely remove large differences in income, and most people still need to work to maintain a good standard of living. More importantly, countries at different stages of development face different problems. Some developing countries, for example, are still struggling with poverty and poor healthcare, while countries affected by war may need to focus on protecting people's lives. In these cases, reducing the wealth gap may be less urgent than dealing with these basic problems.",
+        "source_phrase": "wealth gap",
+        "id": "2"
+      },
+      {
+        "phrase": "contribute to",
+        "cn": "安全的步行路线可以帮助改善儿童健康。",
+        "answer": "Safe walking routes can contribute to better health among children.",
+        "source_paragraph": 3,
+        "source": "In conclusion, reducing the gap between rich and poor may contribute to a happier society, but it is neither realistic in every country nor sufficient by itself. Governments should consider their own circumstances and address a wider range of people's needs.",
+        "source_phrase": "contribute to",
+        "id": "3"
+      },
+      {
+        "phrase": "quality of life",
+        "cn": "安全的公共空间可以改善老年人的生活质量。",
+        "answer": "Safe public spaces can improve older people's quality of life.",
+        "source_paragraph": 2,
+        "source": "Another reason is that happiness cannot simply be measured by economic equality. Although money is important for people's quality of life, many other factors also influence how satisfied they are. For example, people may care about personal freedom, cultural identity, the environment and their relationships with others. A society with a relatively small income gap may therefore still have unhappy citizens if these needs are not properly addressed. Governments should focus on different aspects of people's well-being instead of treating income equality as the main solution.",
+        "source_phrase": "quality of life",
+        "id": "4"
+      },
+      {
+        "phrase": "public services",
+        "cn": "更好的宽带网络可以改善偏远村庄的公共服务。",
+        "answer": "Better broadband networks can improve public services in remote villages.",
+        "source_paragraph": 1,
+        "source": "The first reason is that reducing the wealth gap may not be a practical goal for every government. Governments have many responsibilities, such as providing education, creating jobs and improving public services. Even wealthy countries with strong welfare systems cannot completely remove large differences in income, and most people still need to work to maintain a good standard of living. More importantly, countries at different stages of development face different problems. Some developing countries, for example, are still struggling with poverty and poor healthcare, while countries affected by war may need to focus on protecting people's lives. In these cases, reducing the wealth gap may be less urgent than dealing with these basic problems.",
+        "source_phrase": "public services",
+        "id": "5"
+      }
+    ]
+  }
 }

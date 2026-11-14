@@ -45,6 +45,42 @@ for i in ids:
     if not (i.startswith("t1-") or i.startswith("t2-")):
         problems.append(f"{i}.json: id 要以 t1-（小作文）或 t2-（大作文）开头")
 
+# All selectable editions must support the same complete training flow.
+for i in ids:
+    if i not in files:
+        continue
+    a = load(f"data/articles/{i}.json")
+    if not a:
+        continue
+    for edition in ("nine", "seven"):
+        if not a.get("meta", {}).get(edition + "_complete"):
+            continue
+        paragraphs = a.get("source_" + edition, [])
+        if len(paragraphs) < 4:
+            problems.append(f"{i}/{edition}: 完整版本至少需要4段")
+        for n, paragraph in enumerate(paragraphs):
+            if not paragraph.get("en", "").strip() or not paragraph.get("cn", "").strip():
+                problems.append(f"{i}/{edition}/段{n+1}: 缺少英文或中文")
+        exercises = a.get("transfer", {}).get(edition, [])
+        if len(exercises) < 3:
+            problems.append(f"{i}/{edition}: 至少需要3道搭配迁移题")
+        exercise_ids = [x.get("id") for x in exercises]
+        if len(exercise_ids) != len(set(exercise_ids)):
+            problems.append(f"{i}/{edition}: 迁移题id重复")
+        for exercise in exercises:
+            n = exercise.get("source_paragraph", -1)
+            if not 0 <= n < len(paragraphs):
+                problems.append(f"{i}/{edition}: 迁移题出处段落无效")
+                continue
+            source = paragraphs[n]["en"]
+            phrase = exercise.get("source_phrase", "")
+            if not phrase or phrase.lower() not in source.lower() or exercise.get("source") != source:
+                problems.append(f"{i}/{edition}: 迁移搭配未对应到范文出处")
+            if not all(exercise.get(k, "").strip() for k in ("phrase", "cn", "answer")):
+                problems.append(f"{i}/{edition}: 迁移题缺少搭配、中文题目或参考答案")
+            if any(exercise.get("answer", "") in p["en"] for p in paragraphs):
+                problems.append(f"{i}/{edition}: 迁移题不能直接复用范文原句")
+
 for name in ["essays", "errors", "connectors", "connector-library"]:
     load(f"data/{name}.json")
 

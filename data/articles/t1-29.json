@@ -99,5 +99,45 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "remained unchanged",
+        "cn": "在这十年里，学校的主入口保持不变。",
+        "answer": "The school's main entrance remained unchanged over the decade.",
+        "source_paragraph": 2,
+        "source": "In 1950, the northern area was mainly occupied by sheep, but it has now been divided into a large camping field and a solar panel installation, each with a small parking lot nearby. Meanwhile, the tracksthat once separated the northern and southern sections have been upgraded to paved roads, while the main road in the northwest corner has remained unchanged.",
+        "source_phrase": "remained unchanged",
+        "id": "1"
+      },
+      {
+        "phrase": "make way for",
+        "cn": "旧停车场将被拆除，为新的操场腾出空间。",
+        "answer": "The old car park will be removed to make way for a new playground.",
+        "source_paragraph": 3,
+        "source": "In the southern part of the farm, the old barn adjacent to the farmhouse has been demolished and replaced with holiday cottages, while a smaller barn has been built further south, close to the triangular road junction. Additionally, some fruit trees near the road have been cleared to make way for a farm shop, though the areas for soft fruits, vegetables, and chickens have remained unchanged in both size and location.",
+        "source_phrase": "make way for",
+        "id": "2"
+      },
+      {
+        "phrase": "has been demolished",
+        "cn": "旧仓库已被拆除，停车场已建在原址。",
+        "answer": "The old warehouse has been demolished, and a car park has been built on the site.",
+        "source_paragraph": 3,
+        "source": "In the southern part of the farm, the old barn adjacent to the farmhouse has been demolished and replaced with holiday cottages, while a smaller barn has been built further south, close to the triangular road junction. Additionally, some fruit trees near the road have been cleared to make way for a farm shop, though the areas for soft fruits, vegetables, and chickens have remained unchanged in both size and location.",
+        "source_phrase": "has been demolished",
+        "id": "3"
+      },
+      {
+        "phrase": "Meanwhile",
+        "cn": "学校新建了一座体育馆。与此同时，旧图书馆得到了翻新。",
+        "answer": "The school built a new sports hall. Meanwhile, the old library was renovated.",
+        "source_paragraph": 2,
+        "source": "In 1950, the northern area was mainly occupied by sheep, but it has now been divided into a large camping field and a solar panel installation, each with a small parking lot nearby. Meanwhile, the tracksthat once separated the northern and southern sections have been upgraded to paved roads, while the main road in the northwest corner has remained unchanged.",
+        "source_phrase": "Meanwhile",
+        "id": "4"
+      }
+    ]
+  }
 }

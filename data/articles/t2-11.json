@@ -315,5 +315,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "public safety",
+        "cn": "改善路灯照明可以提高公共安全。",
+        "answer": "Improving street lighting can enhance public safety.",
+        "source_paragraph": 0,
+        "source": "People’s opinions differ vastly as to whether or not many video cameras should be installed in public places as a deterrent to criminal behaviours. While there are strong arguments against the widespread usage of cameras, I still believe that it is essential in reducing crimes and increasing public safety.",
+        "source_phrase": "public safety",
+        "id": "1"
+      },
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 1,
+        "source": "There are several reasons why many people may regard these monitoring tools as a restriction on our individual freedom. Firstly, they keep track of people’s daily behaviours without individuals’ awareness and consent. In today’s society, people put a far greater emphasis on their privacy; they are likely to view the recordings taken by public video cameras as a severe violation of their right to knowledge. Moreover, citizens may worry that those recorded materials may be used in commercial or even immoral ways that infringe on their reputation. For instance, some people worry that video footage could be misused on social media, potentially damaging their personal images without their knowledge. Undoubtedly, this could mean that people have decreased autonomy over their own freedom and legal rights, as they neither know what is recorded nor can they decide the usage of the content created.",
+        "source_phrase": "social media",
+        "id": "2"
+      },
+      {
+        "phrase": "in the long term",
+        "cn": "在长期来看，预防性医疗可以降低公共支出。",
+        "answer": "Preventive healthcare can reduce public spending in the long term.",
+        "source_paragraph": 3,
+        "source": "To conclude, installing many video cameras in public places certainly has its negative implications, but I believe the positive outcomes far outweigh them in the long term, and the risks mentioned can be substantially mitigated by regulations and legislation.",
+        "source_phrase": "in the long term",
+        "id": "3"
+      },
+      {
+        "phrase": "knowledge",
+        "cn": "公共广播可以帮助听众拓宽科学知识。",
+        "answer": "Public broadcasting can help listeners broaden their scientific knowledge.",
+        "source_paragraph": 1,
+        "source": "There are several reasons why many people may regard these monitoring tools as a restriction on our individual freedom. Firstly, they keep track of people’s daily behaviours without individuals’ awareness and consent. In today’s society, people put a far greater emphasis on their privacy; they are likely to view the recordings taken by public video cameras as a severe violation of their right to knowledge. Moreover, citizens may worry that those recorded materials may be used in commercial or even immoral ways that infringe on their reputation. For instance, some people worry that video footage could be misused on social media, potentially damaging their personal images without their knowledge. Undoubtedly, this could mean that people have decreased autonomy over their own freedom and legal rights, as they neither know what is recorded nor can they decide the usage of the content created.",
+        "source_phrase": "knowledge",
+        "id": "4"
+      },
+      {
+        "phrase": "employment",
+        "cn": "清洁能源投资可以创造新的就业机会。",
+        "answer": "Investment in clean energy can create new employment opportunities.",
+        "source_paragraph": 2,
+        "source": "In spite of the above arguments, I still believe that surveillance cameras have an important role to play in diminishing criminal conduct. The main benefit is the dramatically decreased incidence of crimes in areas where many monitors are visibly installed. China, for example, has the most widespread employment of public monitoring systems; it reports the lowest criminal rates among all the countries, and the incidence of felonies like murder is far below the figures for many Western countries. It is true that this to some extent invades citizens’ privacy, but I believe it is a necessary evil where people’s lives and society’s stability are concerned. Furthermore, security cameras not only reduce crimes but also bring several unexpected advantages. These video surveillance tools can help citizens find lost items or pets, can give unbiased evidence to authorities when accidents happen, and can assist with the coordination of human resources to cope with emergency situations.",
+        "source_phrase": "employment",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "public safety",
+        "cn": "改善路灯照明可以提高公共安全。",
+        "answer": "Improving street lighting can enhance public safety.",
+        "source_paragraph": 0,
+        "source": "The widespread use of surveillance cameras has caused debate about their effects on society. Some people believe that these systems can improve public safety, while others are concerned about their privacy. Although these concerns are understandable, I believe that surveillance systems bring more benefits than problems.",
+        "source_phrase": "public safety",
+        "id": "1"
+      },
+      {
+        "phrase": "personal information",
+        "cn": "医院应保护患者的个人信息。",
+        "answer": "Hospitals should protect patients' personal information.",
+        "source_paragraph": 1,
+        "source": "On the one hand, surveillance cameras may reduce people's privacy. Cameras in public places can record people's daily activities without their knowledge or permission. Some people may therefore feel uncomfortable because they do not know exactly what is being recorded or how the information will be used. There is also a risk that video footage may be used for the wrong purposes. For example, if private recordings are shared on social media without permission, they may damage a person's reputation. People may therefore feel that they have less control over their personal information. This is why some people consider widespread surveillance a threat to individual privacy.",
+        "source_phrase": "personal information",
+        "id": "2"
+      },
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 1,
+        "source": "On the one hand, surveillance cameras may reduce people's privacy. Cameras in public places can record people's daily activities without their knowledge or permission. Some people may therefore feel uncomfortable because they do not know exactly what is being recorded or how the information will be used. There is also a risk that video footage may be used for the wrong purposes. For example, if private recordings are shared on social media without permission, they may damage a person's reputation. People may therefore feel that they have less control over their personal information. This is why some people consider widespread surveillance a threat to individual privacy.",
+        "source_phrase": "social media",
+        "id": "3"
+      },
+      {
+        "phrase": "an important role in",
+        "cn": "同伴支持在帮助新生适应大学生活方面发挥重要作用。",
+        "answer": "Peer support plays an important role in helping new students adjust to university life.",
+        "source_paragraph": 2,
+        "source": "On the other hand, I believe that surveillance cameras play an important role in improving public safety. First, visible cameras can discourage people from committing crimes because they know their actions may be recorded. This can make public places safer. In addition, recordings can provide useful evidence when crimes or accidents happen. Police can use them to identify people involved and understand what actually happened. Surveillance systems can also be useful in other situations. For example, they may help people find lost belongings or help authorities deal with emergencies more effectively. Although surveillance can create privacy problems, these risks can be reduced by clear laws controlling how recordings are collected, stored and used.",
+        "source_phrase": "an important role in",
+        "id": "4"
+      },
+      {
+        "phrase": "knowledge",
+        "cn": "公共广播可以帮助听众拓宽科学知识。",
+        "answer": "Public broadcasting can help listeners broaden their scientific knowledge.",
+        "source_paragraph": 1,
+        "source": "On the one hand, surveillance cameras may reduce people's privacy. Cameras in public places can record people's daily activities without their knowledge or permission. Some people may therefore feel uncomfortable because they do not know exactly what is being recorded or how the information will be used. There is also a risk that video footage may be used for the wrong purposes. For example, if private recordings are shared on social media without permission, they may damage a person's reputation. People may therefore feel that they have less control over their personal information. This is why some people consider widespread surveillance a threat to individual privacy.",
+        "source_phrase": "knowledge",
+        "id": "5"
+      }
+    ]
+  }
 }

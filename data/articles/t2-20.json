@@ -288,5 +288,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "concerted efforts",
+        "cn": "减少食品浪费需要商店和家庭共同努力。",
+        "answer": "Reducing food waste requires concerted efforts from shops and households.",
+        "source_paragraph": 1,
+        "source": "Opponents of animal conservation mainly point to prohibitive costs of the rescue projects, the low success rates in saving endangered animals, and the vast number of existing species. Such projects often require cross-disciplinary specialists to work together and concerted efforts from many nations, and many people believe the financial investment is too enormous and unfair to be borne by taxpayers. Instead, they believe that limited public funding should be redirected to address more pressing human crises, such as eradicating extreme poverty, funding medical research, or improving equitable education. Meanwhile, some argue that certain species are dying out because of Darwinian natural selection, claiming these animals are no longer suited to the modern environment. They may cite some failed attempts to rescue a few endangered birds and aquatic mammals to illustrate their case. Besides, many make the point that millions of species exist on the planet, believing that the extinction of some would not produce negative implications for society.",
+        "source_phrase": "concerted efforts",
+        "id": "1"
+      },
+      {
+        "phrase": "public funding",
+        "cn": "更多公共资金应投入预防性医疗。",
+        "answer": "More public funding should be directed towards preventive healthcare.",
+        "source_paragraph": 1,
+        "source": "Opponents of animal conservation mainly point to prohibitive costs of the rescue projects, the low success rates in saving endangered animals, and the vast number of existing species. Such projects often require cross-disciplinary specialists to work together and concerted efforts from many nations, and many people believe the financial investment is too enormous and unfair to be borne by taxpayers. Instead, they believe that limited public funding should be redirected to address more pressing human crises, such as eradicating extreme poverty, funding medical research, or improving equitable education. Meanwhile, some argue that certain species are dying out because of Darwinian natural selection, claiming these animals are no longer suited to the modern environment. They may cite some failed attempts to rescue a few endangered birds and aquatic mammals to illustrate their case. Besides, many make the point that millions of species exist on the planet, believing that the extinction of some would not produce negative implications for society.",
+        "source_phrase": "public funding",
+        "id": "2"
+      },
+      {
+        "phrase": "a case in point",
+        "cn": "数字化可以改善公共服务；在线预约就是一个典型例子。",
+        "answer": "Digitalisation can improve public services; online appointment booking is a case in point.",
+        "source_paragraph": 2,
+        "source": "However, advocates for conserving endangered species make stronger justifications, and I completely align myself with them. On a personal level, the growing demand for more attention to animals in danger reflects huge improvements in civic awareness, compassion, and a sense of responsibility — qualities that drive humanity forward. Meanwhile, when parents guide their children to care for animals, especially those facing the possibility of extinction, the younger generations will likely invest more financial and intellectual resources in the efforts to rescue these species. From an ecological perspective, the disappearance of any species may destabilize ecosystems, as each organism plays a role in maintaining environmental balance. On a scientific level, the goal of protecting endangered species serves as a common mission that fosters international scientific collaboration to overcome genetic and ecological challenges. Even though these efforts may not be able to save every endangered species, the innovations generated through this process and the technological breakthroughs achieved through collaboration will surely benefit many other fields. The Giant Panda, a national treasure in China, is a case in point. Scientists from home and abroad have been working together for decades, and their efforts have enabled this species to reproduce successfully, even though it was once believed unable to live in the modern world. Equally important are the enhanced international cooperation and increased awareness of protecting animals that the common goal promotes.",
+        "source_phrase": "a case in point",
+        "id": "3"
+      },
+      {
+        "phrase": "work together",
+        "cn": "学校和家长应共同努力，防止网络欺凌。",
+        "answer": "Schools and parents should work together to prevent online bullying.",
+        "source_paragraph": 1,
+        "source": "Opponents of animal conservation mainly point to prohibitive costs of the rescue projects, the low success rates in saving endangered animals, and the vast number of existing species. Such projects often require cross-disciplinary specialists to work together and concerted efforts from many nations, and many people believe the financial investment is too enormous and unfair to be borne by taxpayers. Instead, they believe that limited public funding should be redirected to address more pressing human crises, such as eradicating extreme poverty, funding medical research, or improving equitable education. Meanwhile, some argue that certain species are dying out because of Darwinian natural selection, claiming these animals are no longer suited to the modern environment. They may cite some failed attempts to rescue a few endangered birds and aquatic mammals to illustrate their case. Besides, many make the point that millions of species exist on the planet, believing that the extinction of some would not produce negative implications for society.",
+        "source_phrase": "work together",
+        "id": "4"
+      },
+      {
+        "phrase": "scientific",
+        "cn": "国际合作可以加快医学研究的科学进步。",
+        "answer": "International cooperation can accelerate scientific progress in medical research.",
+        "source_paragraph": 2,
+        "source": "However, advocates for conserving endangered species make stronger justifications, and I completely align myself with them. On a personal level, the growing demand for more attention to animals in danger reflects huge improvements in civic awareness, compassion, and a sense of responsibility — qualities that drive humanity forward. Meanwhile, when parents guide their children to care for animals, especially those facing the possibility of extinction, the younger generations will likely invest more financial and intellectual resources in the efforts to rescue these species. From an ecological perspective, the disappearance of any species may destabilize ecosystems, as each organism plays a role in maintaining environmental balance. On a scientific level, the goal of protecting endangered species serves as a common mission that fosters international scientific collaboration to overcome genetic and ecological challenges. Even though these efforts may not be able to save every endangered species, the innovations generated through this process and the technological breakthroughs achieved through collaboration will surely benefit many other fields. The Giant Panda, a national treasure in China, is a case in point. Scientists from home and abroad have been working together for decades, and their efforts have enabled this species to reproduce successfully, even though it was once believed unable to live in the modern world. Equally important are the enhanced international cooperation and increased awareness of protecting animals that the common goal promotes.",
+        "source_phrase": "scientific",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "an important role in",
+        "cn": "同伴支持在帮助新生适应大学生活方面发挥重要作用。",
+        "answer": "Peer support plays an important role in helping new students adjust to university life.",
+        "source_paragraph": 3,
+        "source": "In conclusion, I understand why some people believe that limited resources should be used to solve human problems. However, I believe endangered animals should also be protected because they play an important role in ecosystems and humans have a responsibility to reduce the environmental damage they cause.",
+        "source_phrase": "an important role in",
+        "id": "1"
+      },
+      {
+        "phrase": "work together",
+        "cn": "学校和家长应共同努力，防止网络欺凌。",
+        "answer": "Schools and parents should work together to prevent online bullying.",
+        "source_paragraph": 2,
+        "source": "On the other hand, I believe protecting endangered animals is also important. The main reason is that different species are connected within ecosystems. If one species disappears, other animals or plants that depend on it may also be affected, which could damage the natural environment. In addition, humans are partly responsible for the decline of many species because activities such as hunting, deforestation and pollution have destroyed their habitats. It is therefore reasonable for us to take action to protect them. Conservation programmes can also encourage scientists from different countries to work together and develop better ways of protecting wildlife. Although it may not be possible to save every endangered species, this does not mean that conservation efforts are unnecessary.",
+        "source_phrase": "work together",
+        "id": "2"
+      },
+      {
+        "phrase": "long-term care",
+        "cn": "独居老年人可能需要长期照护。",
+        "answer": "Older people living alone may need long-term care.",
+        "source_paragraph": 1,
+        "source": "On the one hand, some people believe that human problems should receive more attention because public money is limited. Protecting endangered animals can be very expensive, as governments may need to create protected areas, employ scientists and provide long-term care for certain species. Moreover, these efforts are not always successful, especially when only a small number of animals remain. Some people therefore argue that this money should instead be spent on more urgent human needs, such as reducing poverty, improving healthcare and providing better education. From this point of view, solving problems that directly affect people's lives should be the priority.",
+        "source_phrase": "long-term care",
+        "id": "3"
+      },
+      {
+        "phrase": "responsibility",
+        "cn": "网络平台应对删除欺诈广告承担责任。",
+        "answer": "Online platforms should take responsibility for removing fraudulent advertisements.",
+        "source_paragraph": 0,
+        "source": "Many animal species are facing extinction, and there is debate about whether people should protect them or focus more on human problems. Although protecting endangered animals can be expensive, I believe it is still necessary because animals are important to the environment and humans have a responsibility to protect them.",
+        "source_phrase": "responsibility",
+        "id": "4"
+      },
+      {
+        "phrase": "long-term",
+        "cn": "当地企业应重视长期稳定，而非短期利润。",
+        "answer": "Local businesses should value long-term stability over short-term profit.",
+        "source_paragraph": 1,
+        "source": "On the one hand, some people believe that human problems should receive more attention because public money is limited. Protecting endangered animals can be very expensive, as governments may need to create protected areas, employ scientists and provide long-term care for certain species. Moreover, these efforts are not always successful, especially when only a small number of animals remain. Some people therefore argue that this money should instead be spent on more urgent human needs, such as reducing poverty, improving healthcare and providing better education. From this point of view, solving problems that directly affect people's lives should be the priority.",
+        "source_phrase": "long-term",
+        "id": "5"
+      }
+    ]
+  }
 }

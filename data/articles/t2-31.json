@@ -276,5 +276,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "impressionable",
+        "cn": "广告可能影响容易受外界影响的儿童。",
+        "answer": "Advertising can influence impressionable children.",
+        "source_paragraph": 1,
+        "source": "Admittedly, extensive crime coverage may exert a negative influence on certain individuals, impressionable youths in particular. Exposure to explicit criminal methods can encourage imitation and may even provide potential offenders with insights into how crimes are carried out. In addition, detailed media reports sometimes reveal investigative techniques used by law enforcement, which could allow criminals to learn how to evade detection. Given these risks, it is understandable that some people view unrestricted crime reporting as socially irresponsible.",
+        "source_phrase": "impressionable",
+        "id": "1"
+      },
+      {
+        "phrase": "deterrent",
+        "cn": "更频繁的检查可以有效威慑危险驾驶行为。",
+        "answer": "More frequent checks can act as a powerful deterrent to dangerous driving.",
+        "source_paragraph": 2,
+        "source": "Nevertheless, the benefits of transparent crime reporting outweigh these drawbacks. First, news reports often highlight the severe legal consequences faced by offenders, which can act as a powerful deterrent. When people are confronted with the reality of lengthy prison sentences or life imprisonment, they are more likely to reconsider impulsive or unlawful behaviour. More importantly, detailed crime coverage enhances public awareness and personal safety. Families frequently use news reports as reference points to discuss risk awareness and basic safety practices with younger members. Furthermore, public exposure of crime often accelerates legislative reform. Without detailed accounts of victims’ suffering and systemic failures, many safety regulations and legal amendments would never gain sufficient public attention to be implemented.",
+        "source_phrase": "deterrent",
+        "id": "2"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 3,
+        "source": "In conclusion, although crime reporting may carry certain risks, restricting it would undermine its educational and social value. Rather than imposing bans, media outlets should focus on responsible reporting that informs the public while minimising unnecessary sensationalism.",
+        "source_phrase": "although",
+        "id": "3"
+      },
+      {
+        "phrase": "In addition",
+        "cn": "图书馆提供免费网络。此外，它还组织读书小组。",
+        "answer": "The library provides free internet access. In addition, it organises reading groups.",
+        "source_paragraph": 1,
+        "source": "Admittedly, extensive crime coverage may exert a negative influence on certain individuals, impressionable youths in particular. Exposure to explicit criminal methods can encourage imitation and may even provide potential offenders with insights into how crimes are carried out. In addition, detailed media reports sometimes reveal investigative techniques used by law enforcement, which could allow criminals to learn how to evade detection. Given these risks, it is understandable that some people view unrestricted crime reporting as socially irresponsible.",
+        "source_phrase": "In addition",
+        "id": "4"
+      },
+      {
+        "phrase": "rather than",
+        "cn": "学校应奖励持续的努力，而不是只奖励高分。",
+        "answer": "Schools should reward sustained effort rather than only high scores.",
+        "source_paragraph": 3,
+        "source": "In conclusion, although crime reporting may carry certain risks, restricting it would undermine its educational and social value. Rather than imposing bans, media outlets should focus on responsible reporting that informs the public while minimising unnecessary sensationalism.",
+        "source_phrase": "Rather than",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "public safety",
+        "cn": "改善路灯照明可以提高公共安全。",
+        "answer": "Improving street lighting can enhance public safety.",
+        "source_paragraph": 0,
+        "source": "Some people believe that newspapers and television programmes should be restricted from reporting crimes in too much detail because this may harm society. Although I understand these concerns, I largely disagree with this view because crime reporting can educate the public and help improve public safety.",
+        "source_phrase": "public safety",
+        "id": "1"
+      },
+      {
+        "phrase": "public awareness of",
+        "cn": "学校活动可以提高公众对食品浪费的认识。",
+        "answer": "School campaigns can increase public awareness of food waste.",
+        "source_paragraph": 2,
+        "source": "However, I believe crime reporting has important benefits. First, it can help people understand the serious consequences of breaking the law. When news reports explain that criminals have received prison sentences, they may discourage others from committing similar offences. Furthermore, crime reports can increase public awareness of safety issues. For example, parents may discuss news stories with their children and teach them how to recognise dangerous situations and protect themselves. Such information can help people become more careful in their daily lives.",
+        "source_phrase": "public awareness of",
+        "id": "2"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "Some people believe that newspapers and television programmes should be restricted from reporting crimes in too much detail because this may harm society. Although I understand these concerns, I largely disagree with this view because crime reporting can educate the public and help improve public safety.",
+        "source_phrase": "Although",
+        "id": "3"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 2,
+        "source": "However, I believe crime reporting has important benefits. First, it can help people understand the serious consequences of breaking the law. When news reports explain that criminals have received prison sentences, they may discourage others from committing similar offences. Furthermore, crime reports can increase public awareness of safety issues. For example, parents may discuss news stories with their children and teach them how to recognise dangerous situations and protect themselves. Such information can help people become more careful in their daily lives.",
+        "source_phrase": "However",
+        "id": "4"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 2,
+        "source": "However, I believe crime reporting has important benefits. First, it can help people understand the serious consequences of breaking the law. When news reports explain that criminals have received prison sentences, they may discourage others from committing similar offences. Furthermore, crime reports can increase public awareness of safety issues. For example, parents may discuss news stories with their children and teach them how to recognise dangerous situations and protect themselves. Such information can help people become more careful in their daily lives.",
+        "source_phrase": "For example",
+        "id": "5"
+      }
+    ]
+  }
 }

@@ -90,5 +90,36 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "significant increase",
+        "cn": "这十年间，太阳能发电量显著增加。",
+        "answer": "There was a significant increase in solar power generation over the decade.",
+        "source_paragraph": 3,
+        "source": "June witnessed the heaviest precipitation across the board. Guangzhou reached the peak of the data at nearly 280 mm, while rainfall in Shanghai increased by half to 180 mm. Chengdu also saw a substantial rise to 150 mm, marking the most significant increase among the cities. In Beijing, rainfall jumped almost sixfold to 70 mm, whereas Urumqi’s figure climbed modestly to under 30 mm.",
+        "source_phrase": "significant increase",
+        "id": "1"
+      },
+      {
+        "phrase": "Meanwhile",
+        "cn": "学校新建了一座体育馆。与此同时，旧图书馆得到了翻新。",
+        "answer": "The school built a new sports hall. Meanwhile, the old library was renovated.",
+        "source_paragraph": 1,
+        "source": "Overall, Guangzhou and Shanghai consistently recorded higher levels of rainfall across the period, while Beijing and Urumqi experienced much lower figures. Chengdu, meanwhile, showed the most dramatic fluctuation.",
+        "source_phrase": "meanwhile",
+        "id": "2"
+      },
+      {
+        "phrase": "whereas",
+        "cn": "2010年，A城回收了40%的垃圾，而B城只回收了20%。",
+        "answer": "In 2010, City A recycled 40% of its waste, whereas City B recycled only 20%.",
+        "source_paragraph": 3,
+        "source": "June witnessed the heaviest precipitation across the board. Guangzhou reached the peak of the data at nearly 280 mm, while rainfall in Shanghai increased by half to 180 mm. Chengdu also saw a substantial rise to 150 mm, marking the most significant increase among the cities. In Beijing, rainfall jumped almost sixfold to 70 mm, whereas Urumqi’s figure climbed modestly to under 30 mm.",
+        "source_phrase": "whereas",
+        "id": "3"
+      }
+    ]
+  }
 }

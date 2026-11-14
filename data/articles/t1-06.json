@@ -95,5 +95,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "with age",
+        "cn": "在这项调查中，平均睡眠时间随年龄增长而下降。",
+        "answer": "In this survey, average sleep duration declined with age.",
+        "source_paragraph": 3,
+        "source": "The percentage of children playing computer games decreased with age. Exactly 60% of those aged 5 to 8 played games, compared with around 55% of 9-to-11-year-olds and 40% of the oldest group. Turning to reading, slightly more than 60% of children aged 5 to 8 engaged in this activity, the lowest figure in its category, while the figures for the two older groups were similar, at around 70%.",
+        "source_phrase": "with age",
+        "id": "1"
+      },
+      {
+        "phrase": "stood at",
+        "cn": "最年轻群体的自行车拥有率约为40%。",
+        "answer": "Bicycle ownership among the youngest group stood at around 40%.",
+        "source_paragraph": 2,
+        "source": "More than 90% of children aged 5 to 8 watched TV, representing the highest figure across the board. Meanwhile, the proportions for the two older groups both stood at exactly 80%. By comparison, just over 80% of those aged 12 to 16 rode a bike, compared with approximately 65% of the youngest group and around 62% of those aged 9 to 11.",
+        "source_phrase": "stood at",
+        "id": "2"
+      },
+      {
+        "phrase": "compared with",
+        "cn": "2020年，A城有40%的居民骑车，而B城为25%。",
+        "answer": "In 2020, 40% of residents in City A cycled, compared with 25% in City B.",
+        "source_paragraph": 2,
+        "source": "More than 90% of children aged 5 to 8 watched TV, representing the highest figure across the board. Meanwhile, the proportions for the two older groups both stood at exactly 80%. By comparison, just over 80% of those aged 12 to 16 rode a bike, compared with approximately 65% of the youngest group and around 62% of those aged 9 to 11.",
+        "source_phrase": "compared with",
+        "id": "3"
+      },
+      {
+        "phrase": "the lowest figure",
+        "cn": "约克的家庭用电量最低。",
+        "answer": "York recorded the lowest figure for household electricity consumption.",
+        "source_paragraph": 3,
+        "source": "The percentage of children playing computer games decreased with age. Exactly 60% of those aged 5 to 8 played games, compared with around 55% of 9-to-11-year-olds and 40% of the oldest group. Turning to reading, slightly more than 60% of children aged 5 to 8 engaged in this activity, the lowest figure in its category, while the figures for the two older groups were similar, at around 70%.",
+        "source_phrase": "the lowest figure",
+        "id": "4"
+      },
+      {
+        "phrase": "the highest figure",
+        "cn": "在三个城市中，布里斯托尔的汽车拥有量最高。",
+        "answer": "Bristol recorded the highest figure for car ownership among the three cities.",
+        "source_paragraph": 2,
+        "source": "More than 90% of children aged 5 to 8 watched TV, representing the highest figure across the board. Meanwhile, the proportions for the two older groups both stood at exactly 80%. By comparison, just over 80% of those aged 12 to 16 rode a bike, compared with approximately 65% of the youngest group and around 62% of those aged 9 to 11.",
+        "source_phrase": "the highest figure",
+        "id": "5"
+      }
+    ]
+  }
 }

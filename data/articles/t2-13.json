@@ -295,5 +295,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "compared with",
+        "cn": "2020年，A城有40%的居民骑车，而B城为25%。",
+        "answer": "In 2020, 40% of residents in City A cycled, compared with 25% in City B.",
+        "source_paragraph": 0,
+        "source": "It is often argued that elderly people reap fewer benefits from smartphones and the internet, given their lower adoption rates compared with younger generations. While this concern is understandable, it overlooks the substantial advantages that these technologies can offer to senior citizens and the range of measures that can be taken to close the digital gap.",
+        "source_phrase": "compared with",
+        "id": "1"
+      },
+      {
+        "phrase": "mental well-being",
+        "cn": "社区园艺可以改善退休人员的心理健康。",
+        "answer": "Community gardening can improve the mental well-being of retired people.",
+        "source_paragraph": 1,
+        "source": "The most significant benefit of modern technology for the elderly is the enrichment of their social and mental well-being. Long gone are the days when retirement was synonymous with social isolation and inactivity. With smartphones and the internet, older people can video call their children across continents, participate in online communities that share their hobbies, and even join virtual tours to places they might never physically visit. Such activities do not merely occupy their time but also alleviate loneliness, reduce the risk of depression, and foster a sense of belonging. In addition, the daily convenience offered by digital tools is undeniable. From ordering groceries and medicines online to scheduling hospital appointments through mobile applications, these technologies empower the elderly to live more independently, thereby reducing their reliance on family members and boosting their dignity in later life.",
+        "source_phrase": "mental well-being",
+        "id": "2"
+      },
+      {
+        "phrase": "a sense of belonging",
+        "cn": "社区花园可以增强新居民的归属感。",
+        "answer": "Community gardens can strengthen new residents' sense of belonging.",
+        "source_paragraph": 1,
+        "source": "The most significant benefit of modern technology for the elderly is the enrichment of their social and mental well-being. Long gone are the days when retirement was synonymous with social isolation and inactivity. With smartphones and the internet, older people can video call their children across continents, participate in online communities that share their hobbies, and even join virtual tours to places they might never physically visit. Such activities do not merely occupy their time but also alleviate loneliness, reduce the risk of depression, and foster a sense of belonging. In addition, the daily convenience offered by digital tools is undeniable. From ordering groceries and medicines online to scheduling hospital appointments through mobile applications, these technologies empower the elderly to live more independently, thereby reducing their reliance on family members and boosting their dignity in later life.",
+        "source_phrase": "a sense of belonging",
+        "id": "3"
+      },
+      {
+        "phrase": "quality of life",
+        "cn": "安全的公共空间可以改善老年人的生活质量。",
+        "answer": "Safe public spaces can improve older people's quality of life.",
+        "source_paragraph": 3,
+        "source": "In conclusion, far from being left behind, older people can greatly enhance their quality of life through the use of smartphones and the internet. By combining the support of families, the innovation of technology companies, and the initiatives of governments, society can ensure that senior citizens enjoy the full benefits of the digital age.",
+        "source_phrase": "quality of life",
+        "id": "4"
+      },
+      {
+        "phrase": "responsibility",
+        "cn": "网络平台应对删除欺诈广告承担责任。",
+        "answer": "Online platforms should take responsibility for removing fraudulent advertisements.",
+        "source_paragraph": 2,
+        "source": "To encourage greater use of these technologies, coordinated efforts from families, industries, and governments are required. On the family level, younger generations should assume responsibility by patiently guiding their parents or grandparents through the learning process. Their constant interaction not only strengthens family bonds but also gradually builds the confidence of senior learners. On the industrial side, tech companies ought to design more age-friendly interfaces, such as simplified menus, larger fonts, and voice-assisted commands, ensuring that technology does not appear intimidating. Beyond this, governments can play a vital role by funding community training centres, where older citizens can receive free workshops on how to use mobile phones and the internet safely. In some countries, such initiatives have already proved successful, enabling the elderly to protect themselves from online fraud and to fully participate in digital life.",
+        "source_phrase": "responsibility",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "quality of life",
+        "cn": "安全的公共空间可以改善老年人的生活质量。",
+        "answer": "Safe public spaces can improve older people's quality of life.",
+        "source_paragraph": 0,
+        "source": "Mobile phones and the internet have brought many benefits to modern life, but older people tend to use these technologies less than younger generations. In fact, they can greatly improve elderly people's quality of life, and several measures can be taken to encourage more older people to use them.",
+        "source_phrase": "quality of life",
+        "id": "1"
+      },
+      {
+        "phrase": "digital technology",
+        "cn": "数字技术可以让小型农场更高效地销售产品。",
+        "answer": "Digital technology can help small farms sell their products more efficiently.",
+        "source_paragraph": 1,
+        "source": "One major benefit is that these technologies can help older people stay socially connected. After retirement, some elderly people may have fewer opportunities to meet others and therefore feel lonely. With smartphones and the internet, they can make video calls with family members who live far away, communicate with friends and join online groups based on their interests. These activities can reduce loneliness and give them a stronger sense of belonging. In addition, digital technology can make their daily lives much more convenient. For example, older people can buy groceries and medicine online or make hospital appointments through mobile apps. As a result, they can complete many daily tasks by themselves and rely less on their family members.",
+        "source_phrase": "digital technology",
+        "id": "2"
+      },
+      {
+        "phrase": "local communities",
+        "cn": "公共艺术项目可以把当地社区凝聚在一起。",
+        "answer": "Public art projects can bring local communities together.",
+        "source_paragraph": 2,
+        "source": "There are several ways to encourage older people to use these technologies. First, younger family members can teach their parents or grandparents how to use smartphones and the internet. With patient and regular guidance, elderly people can gradually become more confident about using technology. Second, technology companies should make their products easier for older users. Simple menus, larger text and voice control, for example, can make smartphones less difficult to use. Finally, governments can provide free technology courses in local communities. These courses could teach elderly people basic skills such as using mobile apps and protecting themselves from online scams. This would allow them to use digital services more safely and confidently.",
+        "source_phrase": "local communities",
+        "id": "3"
+      },
+      {
+        "phrase": "rely",
+        "cn": "偏远地区的学生往往依赖在线课程。",
+        "answer": "Students in remote areas often rely on online courses.",
+        "source_paragraph": 1,
+        "source": "One major benefit is that these technologies can help older people stay socially connected. After retirement, some elderly people may have fewer opportunities to meet others and therefore feel lonely. With smartphones and the internet, they can make video calls with family members who live far away, communicate with friends and join online groups based on their interests. These activities can reduce loneliness and give them a stronger sense of belonging. In addition, digital technology can make their daily lives much more convenient. For example, older people can buy groceries and medicine online or make hospital appointments through mobile apps. As a result, they can complete many daily tasks by themselves and rely less on their family members.",
+        "source_phrase": "rely",
+        "id": "4"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 1,
+        "source": "One major benefit is that these technologies can help older people stay socially connected. After retirement, some elderly people may have fewer opportunities to meet others and therefore feel lonely. With smartphones and the internet, they can make video calls with family members who live far away, communicate with friends and join online groups based on their interests. These activities can reduce loneliness and give them a stronger sense of belonging. In addition, digital technology can make their daily lives much more convenient. For example, older people can buy groceries and medicine online or make hospital appointments through mobile apps. As a result, they can complete many daily tasks by themselves and rely less on their family members.",
+        "source_phrase": "For example",
+        "id": "5"
+      }
+    ]
+  }
 }

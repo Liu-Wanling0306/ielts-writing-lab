@@ -303,5 +303,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "linguistic barriers",
+        "cn": "多语种标识可以减少游客面临的语言障碍。",
+        "answer": "Multilingual signs can reduce linguistic barriers for visitors.",
+        "source_paragraph": 1,
+        "source": "The most significant downside is that promoting a new global language would be both prohibitively costly and increasingly unnecessary in an age of AI- powered translation. English has served as a universal language for the past century, yet many non-native speakers still struggle to master it. In nations like South Korea and Japan, where English has been compulsory for decades, achieving widespread fluency remains challenging. Imposing an entirely new language would be economically impractical and socially disruptive. Furthermore, AI tools and real- time translation devices have largely removed linguistic barriers. In China, language majors now find it increasingly challenging to secure desirable employment due to this rapid technological advancement. Since even the most widely used language is losing its absolute career advantage to AI, investing heavily to promote a new language is an absurd waste of intellectual effort.",
+        "source_phrase": "linguistic barriers",
+        "id": "1"
+      },
+      {
+        "phrase": "employment",
+        "cn": "清洁能源投资可以创造新的就业机会。",
+        "answer": "Investment in clean energy can create new employment opportunities.",
+        "source_paragraph": 1,
+        "source": "The most significant downside is that promoting a new global language would be both prohibitively costly and increasingly unnecessary in an age of AI- powered translation. English has served as a universal language for the past century, yet many non-native speakers still struggle to master it. In nations like South Korea and Japan, where English has been compulsory for decades, achieving widespread fluency remains challenging. Imposing an entirely new language would be economically impractical and socially disruptive. Furthermore, AI tools and real- time translation devices have largely removed linguistic barriers. In China, language majors now find it increasingly challenging to secure desirable employment due to this rapid technological advancement. Since even the most widely used language is losing its absolute career advantage to AI, investing heavily to promote a new language is an absurd waste of intellectual effort.",
+        "source_phrase": "employment",
+        "id": "2"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 3,
+        "source": "In conclusion, creating a new global language would prove far more harmful than helpful. It would produce a tremendous waste of financial and intellectual resources, fail to keep pace with the technological age, and ultimately hinder humanity’s search for genuine solutions to global communication challenges.",
+        "source_phrase": "financial",
+        "id": "3"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 0,
+        "source": "In this interconnected world, some propose inventing a new language to bolster international communication. I completely oppose this idea, as its negative implications for society far outweigh any potential benefits. Admittedly, a newly created language could be more logical. However, this limited advantage is outweighed by the enormous cost of global adoption and by the proposal’s failure to identify either the real causes of global communication problems or the most effective ways of addressing them.",
+        "source_phrase": "However",
+        "id": "4"
+      },
+      {
+        "phrase": "therefore",
+        "cn": "这座桥需要维修。因此，它将在冬季关闭。",
+        "answer": "The bridge needs repairs. Therefore, it will close during winter.",
+        "source_paragraph": 2,
+        "source": "Another major drawback is that the proposal misidentifies the root causes of international communication failures and consequently promotes an ineffective solution. The proposal falsely assumes that a common language guarantees fruitful interaction. Reality proves otherwise: people in the same region—such as many Middle Eastern countries sharing Arabic—speak a common tongue, yet misunderstandings, distrust, and cultural clashes still prevail. Breakdowns in international communication seldom stem from the absence of a shared language; they predominantly derive from disparities in geopolitical interests and historical grievances. Therefore, hoping a new language will solve these issues is naive. It would merely deplete resources that should be directed toward resolving these deeper, systemic challenges.",
+        "source_phrase": "Therefore",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "place a heavy burden on",
+        "cn": "过高的学费可能给低收入家庭带来沉重负担。",
+        "answer": "Excessive tuition fees may place a heavy burden on low-income families.",
+        "source_paragraph": 1,
+        "source": "The first problem is that introducing a new international language would require enormous amounts of time and money. English is already widely used around the world, but many people still find it difficult to learn. If governments introduced another language, schools would need new teaching materials and qualified teachers, while millions of people would have to spend years learning it. This would place a heavy burden on society. More importantly, in an era of rapid technological development, AI translation tools are making communication between speakers of different languages much easier. People can now use these tools to translate conversations and written information without learning another language. Therefore, spending large amounts of money promoting a new language may be unnecessary.",
+        "source_phrase": "place a heavy burden on",
+        "id": "1"
+      },
+      {
+        "phrase": "cultural understanding",
+        "cn": "一起做志愿服务有助于增进不同背景人群之间的文化理解。",
+        "answer": "Volunteering together can improve cultural understanding among people from different backgrounds.",
+        "source_paragraph": 2,
+        "source": "Another major problem is that language differences are not always the main cause of international communication difficulties. Even when people speak the same language, they may still disagree because of different cultural values, political interests or historical experiences. For example, countries that share a common language can still experience serious disagreements and misunderstandings. Creating a new language would not remove these differences. Instead, improving cultural understanding and cooperation would be more effective in addressing such problems.",
+        "source_phrase": "cultural understanding",
+        "id": "2"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "Some people believe that creating a new language could improve international communication. Although a newly designed language might be easier to learn, I believe its disadvantages would be greater because introducing it worldwide would be expensive and it would not solve the main causes of international misunderstandings.",
+        "source_phrase": "Although",
+        "id": "3"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 2,
+        "source": "Another major problem is that language differences are not always the main cause of international communication difficulties. Even when people speak the same language, they may still disagree because of different cultural values, political interests or historical experiences. For example, countries that share a common language can still experience serious disagreements and misunderstandings. Creating a new language would not remove these differences. Instead, improving cultural understanding and cooperation would be more effective in addressing such problems.",
+        "source_phrase": "For example",
+        "id": "4"
+      },
+      {
+        "phrase": "therefore",
+        "cn": "这座桥需要维修。因此，它将在冬季关闭。",
+        "answer": "The bridge needs repairs. Therefore, it will close during winter.",
+        "source_paragraph": 1,
+        "source": "The first problem is that introducing a new international language would require enormous amounts of time and money. English is already widely used around the world, but many people still find it difficult to learn. If governments introduced another language, schools would need new teaching materials and qualified teachers, while millions of people would have to spend years learning it. This would place a heavy burden on society. More importantly, in an era of rapid technological development, AI translation tools are making communication between speakers of different languages much easier. People can now use these tools to translate conversations and written information without learning another language. Therefore, spending large amounts of money promoting a new language may be unnecessary.",
+        "source_phrase": "Therefore",
+        "id": "5"
+      }
+    ]
+  }
 }

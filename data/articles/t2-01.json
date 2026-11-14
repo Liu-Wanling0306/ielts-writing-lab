@@ -230,5 +230,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "are expected to",
+        "cn": "到2035年，公交乘客人数预计将增加一倍。",
+        "answer": "Bus passenger numbers are expected to double by 2035.",
+        "source_paragraph": 1,
+        "source": "There are multiple reasons why teachers are considered responsible only for students’ academic study. Firstly, the defining feature of teachers as a job is that they are expected to help students acquire knowledge in academic fields. In an era that values professionalism and work division, every working professional should prioritize their main duty. Should teachers allocate much of their time and wisdom to moral education, they would risk becoming indistinguishable from parents. Furthermore, moral education often leads to negative outcomes, both physically and psychologically. There are some disturbing instances where teachers are violently attacked by their students, just because these juveniles hold grudges against their teachers after being lectured about their misconduct.",
+        "source_phrase": "are expected to",
+        "id": "1"
+      },
+      {
+        "phrase": "ethical values",
+        "cn": "体育活动可以帮助孩子培养道德价值观。",
+        "answer": "Sporting activities can help children develop ethical values.",
+        "source_paragraph": 0,
+        "source": "Teachers are the most integral part of the modern educational system. Some people believe that teachers should focus solely on teaching academic subjects, while others argue that they play a major role in imparting ethical values to the younger generations. This essay will examine both views and argue that teachers have the responsibility for students’ moral education.",
+        "source_phrase": "ethical values",
+        "id": "2"
+      },
+      {
+        "phrase": "academic study",
+        "cn": "平衡学术学习与课外活动有助于学生成长。",
+        "answer": "Balancing academic study with extracurricular activities supports students' development.",
+        "source_paragraph": 1,
+        "source": "There are multiple reasons why teachers are considered responsible only for students’ academic study. Firstly, the defining feature of teachers as a job is that they are expected to help students acquire knowledge in academic fields. In an era that values professionalism and work division, every working professional should prioritize their main duty. Should teachers allocate much of their time and wisdom to moral education, they would risk becoming indistinguishable from parents. Furthermore, moral education often leads to negative outcomes, both physically and psychologically. There are some disturbing instances where teachers are violently attacked by their students, just because these juveniles hold grudges against their teachers after being lectured about their misconduct.",
+        "source_phrase": "academic study",
+        "id": "3"
+      },
+      {
+        "phrase": "acquire knowledge",
+        "cn": "互动展览可以帮助孩子获取科学知识。",
+        "answer": "Interactive exhibitions can help children acquire knowledge about science.",
+        "source_paragraph": 1,
+        "source": "There are multiple reasons why teachers are considered responsible only for students’ academic study. Firstly, the defining feature of teachers as a job is that they are expected to help students acquire knowledge in academic fields. In an era that values professionalism and work division, every working professional should prioritize their main duty. Should teachers allocate much of their time and wisdom to moral education, they would risk becoming indistinguishable from parents. Furthermore, moral education often leads to negative outcomes, both physically and psychologically. There are some disturbing instances where teachers are violently attacked by their students, just because these juveniles hold grudges against their teachers after being lectured about their misconduct.",
+        "source_phrase": "acquire knowledge",
+        "id": "4"
+      },
+      {
+        "phrase": "academic",
+        "cn": "学校应在提供学术支持的同时鼓励创造力。",
+        "answer": "Schools should encourage creativity while providing academic support.",
+        "source_paragraph": 0,
+        "source": "Teachers are the most integral part of the modern educational system. Some people believe that teachers should focus solely on teaching academic subjects, while others argue that they play a major role in imparting ethical values to the younger generations. This essay will examine both views and argue that teachers have the responsibility for students’ moral education.",
+        "source_phrase": "academic",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "academic",
+        "cn": "学校应在提供学术支持的同时鼓励创造力。",
+        "answer": "Schools should encourage creativity while providing academic support.",
+        "source_paragraph": 0,
+        "source": "Some people believe that teachers should only teach academic subjects, while others think they should also teach students how to behave well and tell right from wrong. This essay will discuss both views and argue that teachers should also play a role in students' moral education.",
+        "source_phrase": "academic",
+        "id": "1"
+      },
+      {
+        "phrase": "knowledge",
+        "cn": "公共广播可以帮助听众拓宽科学知识。",
+        "answer": "Public broadcasting can help listeners broaden their scientific knowledge.",
+        "source_paragraph": 1,
+        "source": "On the one hand, teachers are mainly employed to help students gain academic knowledge. At school, they need to teach subjects such as mathematics, science and languages and help students prepare for exams. Their teaching time is limited, so spending too much time on other matters may affect students' academic progress. In addition, parents are usually considered mainly responsible for their children's behaviour and values. Children spend a large amount of time with their families, and parents can teach them basic rules such as respecting others and being honest. From this point of view, teachers should focus mainly on education, while parents should take greater responsibility for children's behaviour.",
+        "source_phrase": "knowledge",
+        "id": "2"
+      },
+      {
+        "phrase": "responsibility",
+        "cn": "网络平台应对删除欺诈广告承担责任。",
+        "answer": "Online platforms should take responsibility for removing fraudulent advertisements.",
+        "source_paragraph": 1,
+        "source": "On the one hand, teachers are mainly employed to help students gain academic knowledge. At school, they need to teach subjects such as mathematics, science and languages and help students prepare for exams. Their teaching time is limited, so spending too much time on other matters may affect students' academic progress. In addition, parents are usually considered mainly responsible for their children's behaviour and values. Children spend a large amount of time with their families, and parents can teach them basic rules such as respecting others and being honest. From this point of view, teachers should focus mainly on education, while parents should take greater responsibility for children's behaviour.",
+        "source_phrase": "responsibility",
+        "id": "3"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 3,
+        "source": "In conclusion, teachers should certainly help students develop their academic knowledge. However, I believe they should also teach students how to behave properly and make responsible choices.",
+        "source_phrase": "However",
+        "id": "4"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 2,
+        "source": "On the other hand, I believe teachers should also help students develop good values. Students spend many hours at school and communicate with their teachers every day. As a result, teachers have a strong influence on the way young people think and behave. For example, when students cheat in an exam, bully others or behave badly in class, teachers should not simply ignore such behaviour. They should explain why it is wrong and encourage students to behave better. Moreover, education is not only about getting good grades. Schools should also prepare young people to become responsible members of society. Teaching students values such as honesty, respect and responsibility is therefore an important part of education.",
+        "source_phrase": "For example",
+        "id": "5"
+      }
+    ]
+  }
 }

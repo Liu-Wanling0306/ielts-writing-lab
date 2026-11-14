@@ -345,5 +345,92 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 0,
+        "source": "In today’s society, social media has become an integral part of modern individuals’ lives. These powerful platforms have brought numerous benefits, ranging from higher efficiency in communication to the availability of the latest information to people around the globe. But many critics cite the widespread presence of fake news and the increase in mental problems as major disadvantages. This essay will examine both perspectives and contend that social media, when used responsibly, can bring more benefits than drawbacks.",
+        "source_phrase": "social media",
+        "id": "1"
+      },
+      {
+        "phrase": "regardless of",
+        "cn": "公共图书馆应向所有居民开放，不论其收入如何。",
+        "answer": "Public libraries should be open to all residents, regardless of their income.",
+        "source_paragraph": 1,
+        "source": "The primary advantage of social media is its ability to enable instant communication between friends and family, regardless of geographical barriers. Social media platforms, such as TikTok, Facebook, and Instagram, help people stay connected despite physical barriers. Undoubtedly, modern people are facing challenges with ever-increasing complexity, leaving them with less time to socialize and keep in contact with those whom they care about. Were it not for social media, they would be far more isolated, leading to solitude and a dramatic decline in their sense of well-being.",
+        "source_phrase": "regardless of",
+        "id": "2"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 3,
+        "source": "However, the problems caused by social media should not be taken for granted. Fake news has become increasingly rampant on social media platforms, triggering conflicts and scams. Another threat is a new mental condition called FOMO (fear of missing out) among younger generations. This means young people constantly fret that they are left behind in either social activities or technological advancements, creating increased mental anxiety and depression for them.",
+        "source_phrase": "However",
+        "id": "3"
+      },
+      {
+        "phrase": "despite",
+        "cn": "尽管费用较高，夜间课程仍然很受欢迎。",
+        "answer": "Despite their higher cost, evening classes remained popular.",
+        "source_paragraph": 1,
+        "source": "The primary advantage of social media is its ability to enable instant communication between friends and family, regardless of geographical barriers. Social media platforms, such as TikTok, Facebook, and Instagram, help people stay connected despite physical barriers. Undoubtedly, modern people are facing challenges with ever-increasing complexity, leaving them with less time to socialize and keep in contact with those whom they care about. Were it not for social media, they would be far more isolated, leading to solitude and a dramatic decline in their sense of well-being.",
+        "source_phrase": "despite",
+        "id": "4"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 0,
+        "source": "Social media has become an important part of modern life. Some people believe that it improves communication and gives people easier access to information, while others are concerned about problems such as fake news and mental health issues. This essay will discuss both views, and I believe that social media brings more benefits than drawbacks when it is used responsibly.",
+        "source_phrase": "Social media",
+        "id": "1"
+      },
+      {
+        "phrase": "regardless of",
+        "cn": "公共图书馆应向所有居民开放，不论其收入如何。",
+        "answer": "Public libraries should be open to all residents, regardless of their income.",
+        "source_paragraph": 1,
+        "source": "One major advantage of social media is that it allows people to communicate instantly regardless of where they live. Platforms such as Facebook and Instagram make it much easier for friends and family members to stay in contact even when they are far apart. This is particularly useful today because many people are busy with work or study and have limited time for face-to-face social activities. Without social media, some people might have fewer opportunities to communicate with those they care about and may feel more isolated.",
+        "source_phrase": "regardless of",
+        "id": "2"
+      },
+      {
+        "phrase": "mental well-being",
+        "cn": "社区园艺可以改善退休人员的心理健康。",
+        "answer": "Community gardening can improve the mental well-being of retired people.",
+        "source_paragraph": 3,
+        "source": "However, social media can also cause serious problems. False information can spread rapidly online and may lead to scams, confusion or even conflict. In addition, frequent use of social media can affect people's mental well-being. Some young users, for example, constantly compare their lives with others online and worry that they are missing important experiences. This can increase stress and anxiety.",
+        "source_phrase": "mental well-being",
+        "id": "3"
+      },
+      {
+        "phrase": "lead to",
+        "cn": "更便宜的电力可能导致更高的家庭用电量。",
+        "answer": "Cheaper electricity may lead to higher household consumption.",
+        "source_paragraph": 3,
+        "source": "However, social media can also cause serious problems. False information can spread rapidly online and may lead to scams, confusion or even conflict. In addition, frequent use of social media can affect people's mental well-being. Some young users, for example, constantly compare their lives with others online and worry that they are missing important experiences. This can increase stress and anxiety.",
+        "source_phrase": "lead to",
+        "id": "4"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 3,
+        "source": "However, social media can also cause serious problems. False information can spread rapidly online and may lead to scams, confusion or even conflict. In addition, frequent use of social media can affect people's mental well-being. Some young users, for example, constantly compare their lives with others online and worry that they are missing important experiences. This can increase stress and anxiety.",
+        "source_phrase": "However",
+        "id": "5"
+      }
+    ]
+  }
 }

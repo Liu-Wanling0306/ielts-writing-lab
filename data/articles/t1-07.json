@@ -125,5 +125,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "before falling to",
+        "cn": "博物馆的月参观人数达到8000人，随后降至6000人。",
+        "answer": "Monthly visitor numbers at the museum reached 8,000 before falling to 6,000.",
+        "source_paragraph": 3,
+        "source": "In 1991, the figure for teachers’ salaries rose to 50% before slipping to 45% in 2001. By comparison, spending on other workers’ salaries fell from 28% in 1981 to 22% in 1991 and then to 15% in 2001. Furniture and equipment dropped to 5% in 1991, but then rose sharply to 23% by 2001, becoming the second largest item. Resources increased from 15% to 20% before falling to 9% in the final year. Insurance, meanwhile, went up gradually from 2% to 3% and then to 8%, although it remained the smallest share.",
+        "source_phrase": "before falling to",
+        "id": "1"
+      },
+      {
+        "phrase": "accounted for",
+        "cn": "2020年，交通占该市总支出的四分之一。",
+        "answer": "Transport accounted for a quarter of the city's total spending in 2020.",
+        "source_paragraph": 1,
+        "source": "Overall, teachers’ salaries accounted for the largest share in all three years. By contrast, the proportion spent on other workers’ salaries declined steadily over time, while spending on furniture and equipment and on resources showed more noticeable changes. Insurance remained the smallest category throughout.",
+        "source_phrase": "accounted for",
+        "id": "2"
+      },
+      {
+        "phrase": "made up",
+        "cn": "国际学生占该校总人数的30%。",
+        "answer": "International students made up 30% of the university's total enrolment.",
+        "source_paragraph": 2,
+        "source": "In 1981, teachers’ salaries made up 40% of total school spending, followed by other workers’ salaries at 28%. Furniture and equipment and resources each accounted for 15%, while insurance represented just 2%.",
+        "source_phrase": "made up",
+        "id": "3"
+      },
+      {
+        "phrase": "the largest share",
+        "cn": "在三种燃料中，煤炭占能源使用的最大份额。",
+        "answer": "Of the three fuels, coal accounted for the largest share of energy use.",
+        "source_paragraph": 1,
+        "source": "Overall, teachers’ salaries accounted for the largest share in all three years. By contrast, the proportion spent on other workers’ salaries declined steadily over time, while spending on furniture and equipment and on resources showed more noticeable changes. Insurance remained the smallest category throughout.",
+        "source_phrase": "the largest share",
+        "id": "4"
+      },
+      {
+        "phrase": "the figure for",
+        "cn": "自行车使用者的数值在2020年达到了两万人。",
+        "answer": "The figure for bicycle users reached 20,000 in 2020.",
+        "source_paragraph": 3,
+        "source": "In 1991, the figure for teachers’ salaries rose to 50% before slipping to 45% in 2001. By comparison, spending on other workers’ salaries fell from 28% in 1981 to 22% in 1991 and then to 15% in 2001. Furniture and equipment dropped to 5% in 1991, but then rose sharply to 23% by 2001, becoming the second largest item. Resources increased from 15% to 20% before falling to 9% in the final year. Insurance, meanwhile, went up gradually from 2% to 3% and then to 8%, although it remained the smallest share.",
+        "source_phrase": "the figure for",
+        "id": "5"
+      }
+    ]
+  }
 }

@@ -244,5 +244,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "communication skills",
+        "cn": "在诊所做志愿服务可以提高学生的沟通技能。",
+        "answer": "Volunteering at a clinic can improve students' communication skills.",
+        "source_paragraph": 2,
+        "source": "Another equally compelling justification is that a well-rounded education aligns more closely with the realities of contemporary employment. Long gone are the days when expertise in a single discipline guaranteed career success. In today’s interconnected world, professional excellence often requires an integration of specialised knowledge with complementary skills. Consider a top surgeon: beyond mastering intricate medical procedures, they must understand patient psychology to foster trust, encourage compliance, and ultimately aid recovery. Similarly, a software engineer’s technical prowess may not suffice without strong communication skills, which enable effective teamwork and client interaction. It is precisely through optional courses such as public speaking or psychology, often outside their major, that students acquire these essential capabilities.",
+        "source_phrase": "communication skills",
+        "id": "1"
+      },
+      {
+        "phrase": "academic",
+        "cn": "学校应在提供学术支持的同时鼓励创造力。",
+        "answer": "Schools should encourage creativity while providing academic support.",
+        "source_paragraph": 1,
+        "source": "The first reason why exposure to diverse subjects is beneficial lies in the formative nature of university years. Many adolescents enter higher education without a clear understanding of their own academic potential or personal interests. In East Asia, for instance, a considerable number of students in China and Japan select their majors largely based on parental expectations, teachers’ recommendations, or even the opinions of online influencers. It is therefore unsurprising that a portion of them later find their initial choice ill-suited. By studying supplementary courses, these students are given the opportunity to explore new fields and possibly uncover their genuine enthusiasm. Moreover, such breadth of learning can expand their intellectual horizons. The American higher education system exemplifies this approach: most undergraduates are required to take general education courses in the arts, humanities, and sciences, a system that has contributed to the international prestige and success of US universities.",
+        "source_phrase": "academic",
+        "id": "2"
+      },
+      {
+        "phrase": "knowledge",
+        "cn": "公共广播可以帮助听众拓宽科学知识。",
+        "answer": "Public broadcasting can help listeners broaden their scientific knowledge.",
+        "source_paragraph": 2,
+        "source": "Another equally compelling justification is that a well-rounded education aligns more closely with the realities of contemporary employment. Long gone are the days when expertise in a single discipline guaranteed career success. In today’s interconnected world, professional excellence often requires an integration of specialised knowledge with complementary skills. Consider a top surgeon: beyond mastering intricate medical procedures, they must understand patient psychology to foster trust, encourage compliance, and ultimately aid recovery. Similarly, a software engineer’s technical prowess may not suffice without strong communication skills, which enable effective teamwork and client interaction. It is precisely through optional courses such as public speaking or psychology, often outside their major, that students acquire these essential capabilities.",
+        "source_phrase": "knowledge",
+        "id": "3"
+      },
+      {
+        "phrase": "employment",
+        "cn": "清洁能源投资可以创造新的就业机会。",
+        "answer": "Investment in clean energy can create new employment opportunities.",
+        "source_paragraph": 2,
+        "source": "Another equally compelling justification is that a well-rounded education aligns more closely with the realities of contemporary employment. Long gone are the days when expertise in a single discipline guaranteed career success. In today’s interconnected world, professional excellence often requires an integration of specialised knowledge with complementary skills. Consider a top surgeon: beyond mastering intricate medical procedures, they must understand patient psychology to foster trust, encourage compliance, and ultimately aid recovery. Similarly, a software engineer’s technical prowess may not suffice without strong communication skills, which enable effective teamwork and client interaction. It is precisely through optional courses such as public speaking or psychology, often outside their major, that students acquire these essential capabilities.",
+        "source_phrase": "employment",
+        "id": "4"
+      },
+      {
+        "phrase": "indispensable",
+        "cn": "获得干净的水是预防疾病不可缺少的条件。",
+        "answer": "Access to clean water is indispensable for preventing disease.",
+        "source_paragraph": 3,
+        "source": "In conclusion, I firmly believe that universities should advocate for a more interdisciplinary approach. By doing so, they not only help students discover their authentic academic interests but also equip them with a more adaptable skill set that is indispensable for thriving in today’s competitive world.",
+        "source_phrase": "indispensable",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "benefit from",
+        "cn": "小企业可以从更可靠的宽带服务中获益。",
+        "answer": "Small businesses can benefit from more reliable broadband services.",
+        "source_paragraph": 2,
+        "source": "Another reason is that modern jobs often require more than knowledge of one subject. Although students need to develop a strong understanding of their main field, they may also need skills from other areas to perform well at work. For example, doctors need medical knowledge, but learning psychology can help them understand their patients and communicate with them more effectively. Similarly, software engineers may benefit from studying communication because they often need to work in teams and explain their ideas to others. Universities can help students develop these abilities by offering courses outside their majors. This can make graduates better prepared for different challenges in the workplace.",
+        "source_phrase": "benefit from",
+        "id": "1"
+      },
+      {
+        "phrase": "knowledge",
+        "cn": "公共广播可以帮助听众拓宽科学知识。",
+        "answer": "Public broadcasting can help listeners broaden their scientific knowledge.",
+        "source_paragraph": 1,
+        "source": "The first reason is that many students are unsure about their interests when they enter university. Some choose their majors based on advice from their parents or teachers rather than their own preferences. As a result, they may later realise that their chosen subject is not suitable for them. By taking courses in other fields, students can explore different subjects and discover what they truly enjoy. For example, a student studying business may take an art course and realise that they are more interested in design. This could help them make better decisions about their future studies and careers. Learning different subjects can also give students a wider range of knowledge and help them understand the world from different perspectives.",
+        "source_phrase": "knowledge",
+        "id": "2"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 2,
+        "source": "Another reason is that modern jobs often require more than knowledge of one subject. Although students need to develop a strong understanding of their main field, they may also need skills from other areas to perform well at work. For example, doctors need medical knowledge, but learning psychology can help them understand their patients and communicate with them more effectively. Similarly, software engineers may benefit from studying communication because they often need to work in teams and explain their ideas to others. Universities can help students develop these abilities by offering courses outside their majors. This can make graduates better prepared for different challenges in the workplace.",
+        "source_phrase": "Although",
+        "id": "3"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 1,
+        "source": "The first reason is that many students are unsure about their interests when they enter university. Some choose their majors based on advice from their parents or teachers rather than their own preferences. As a result, they may later realise that their chosen subject is not suitable for them. By taking courses in other fields, students can explore different subjects and discover what they truly enjoy. For example, a student studying business may take an art course and realise that they are more interested in design. This could help them make better decisions about their future studies and careers. Learning different subjects can also give students a wider range of knowledge and help them understand the world from different perspectives.",
+        "source_phrase": "For example",
+        "id": "4"
+      },
+      {
+        "phrase": "As a result",
+        "cn": "火车票变得更便宜。因此，更多游客选择了铁路出行。",
+        "answer": "Train tickets became cheaper. As a result, more tourists chose to travel by rail.",
+        "source_paragraph": 1,
+        "source": "The first reason is that many students are unsure about their interests when they enter university. Some choose their majors based on advice from their parents or teachers rather than their own preferences. As a result, they may later realise that their chosen subject is not suitable for them. By taking courses in other fields, students can explore different subjects and discover what they truly enjoy. For example, a student studying business may take an art course and realise that they are more interested in design. This could help them make better decisions about their future studies and careers. Learning different subjects can also give students a wider range of knowledge and help them understand the world from different perspectives.",
+        "source_phrase": "As a result",
+        "id": "5"
+      }
+    ]
+  }
 }

@@ -278,5 +278,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "In terms of",
+        "cn": "就总收入而言，旅游业在三个行业中排名第一。",
+        "answer": "In terms of total revenue, tourism ranked first among the three sectors.",
+        "source_paragraph": 2,
+        "source": "However, those in favor of animal testing provide stronger justification, particularly in terms of medical safety, life-saving breakthroughs, and the lack of viable alternatives. First, although animal models are not perfect replicas of the human body, they share fundamental biological mechanisms. A century of medical development has proven that experimenting on these living organisms is essential to observe complex systemic reactions and determine safe dosages before new medicines are given to human patients. Second, these experiments have historically led to lifesaving medical breakthroughs, ultimately safeguarding human health. For example, the development of vaccines for infectious diseases, as well as life-saving antibiotics, relied heavily on animal research, preventing millions of premature deaths globally. Finally, completely replacing animal models is currently impractical, as computer simulations and in-vitro methods lack the capacity to fully mimic a complete immune system. Taken together, these considerations suggest that testing on animals is a necessary evil, as its profound benefits to human survival ultimately outweigh the ethical costs.",
+        "source_phrase": "in terms of",
+        "id": "1"
+      },
+      {
+        "phrase": "viable alternatives",
+        "cn": "扩大自行车网络可以提供可行的驾车替代方案。",
+        "answer": "Expanding cycle networks can provide viable alternatives to driving.",
+        "source_paragraph": 2,
+        "source": "However, those in favor of animal testing provide stronger justification, particularly in terms of medical safety, life-saving breakthroughs, and the lack of viable alternatives. First, although animal models are not perfect replicas of the human body, they share fundamental biological mechanisms. A century of medical development has proven that experimenting on these living organisms is essential to observe complex systemic reactions and determine safe dosages before new medicines are given to human patients. Second, these experiments have historically led to lifesaving medical breakthroughs, ultimately safeguarding human health. For example, the development of vaccines for infectious diseases, as well as life-saving antibiotics, relied heavily on animal research, preventing millions of premature deaths globally. Finally, completely replacing animal models is currently impractical, as computer simulations and in-vitro methods lack the capacity to fully mimic a complete immune system. Taken together, these considerations suggest that testing on animals is a necessary evil, as its profound benefits to human survival ultimately outweigh the ethical costs.",
+        "source_phrase": "viable alternatives",
+        "id": "2"
+      },
+      {
+        "phrase": "ethical concerns",
+        "cn": "在学校使用面部识别引发了伦理方面的担忧。",
+        "answer": "The use of facial recognition in schools raises ethical concerns.",
+        "source_paragraph": 0,
+        "source": "The issue of animal testing has ignited widespread debate in modern society. While some assert that experimenting on animals should be prohibited due to concerns about animal suffering and morality, others maintain that it is indispensable for medical advancement and human welfare. This essay will explore both perspectives before contending that the benefits of animal testing outweigh the ethical concerns in fostering societal progress.",
+        "source_phrase": "ethical concerns",
+        "id": "3"
+      },
+      {
+        "phrase": "scientific",
+        "cn": "国际合作可以加快医学研究的科学进步。",
+        "answer": "International cooperation can accelerate scientific progress in medical research.",
+        "source_paragraph": 1,
+        "source": "It is reasonable that some people support banning animal testing, citing concerns such as animal welfare and scientific validity. First, animal testing inherently inflicts pain on sentient beings, which is widely considered a violation of fundamental animal rights. Many animals used in laboratories are subjected to toxic substances and extreme stress, often without adequate anesthesia. This systematic exploitation is deemed unacceptable by animal welfare advocates who argue that living creatures should not be treated as disposable scientific tools. Furthermore, the significant physiological differences between humans and animals can produce misleading results, rendering some experiments scientifically unreliable. For instance, a pharmaceutical drug that successfully cures a disease in mice might fail completely or cause severe side effects during human trials, putting volunteers at grave risk.",
+        "source_phrase": "scientific",
+        "id": "4"
+      },
+      {
+        "phrase": "long-term",
+        "cn": "当地企业应重视长期稳定，而非短期利润。",
+        "answer": "Local businesses should value long-term stability over short-term profit.",
+        "source_paragraph": 3,
+        "source": "In conclusion, while it is understandable that the inherent suffering of animals prompts calls for their protection, a blanket ban is neither justified nor practically enforceable. I firmly believe that ultimately, responsible animal testing is not merely a scientific procedure, but a fundamental investment in the long-term stability and health of humanity.",
+        "source_phrase": "long-term",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "ethical concerns",
+        "cn": "在学校使用面部识别引发了伦理方面的担忧。",
+        "answer": "The use of facial recognition in schools raises ethical concerns.",
+        "source_paragraph": 3,
+        "source": "In conclusion, animal testing raises serious ethical concerns because it can cause suffering. However, I believe its benefits to medical research and human health are greater, especially when there are no suitable alternatives. Animal experiments should therefore continue, but unnecessary suffering should be avoided.",
+        "source_phrase": "ethical concerns",
+        "id": "1"
+      },
+      {
+        "phrase": "an important role in",
+        "cn": "同伴支持在帮助新生适应大学生活方面发挥重要作用。",
+        "answer": "Peer support plays an important role in helping new students adjust to university life.",
+        "source_paragraph": 2,
+        "source": "On the other hand, animal testing has played an important role in medical development. Before a new medicine is tested on humans, researchers need to understand how it may affect a living body and whether it could cause serious harm. Testing it on animals can provide useful information and reduce the risks faced by human volunteers. In addition, completely replacing animal testing is currently unrealistic. Although alternatives such as computer models and laboratory tests are developing, they cannot yet fully show how a complete living body will react to a new treatment. Therefore, completely banning animal testing could make medical research more difficult.",
+        "source_phrase": "an important role in",
+        "id": "2"
+      },
+      {
+        "phrase": "reliable information",
+        "cn": "消费者需要关于产品安全的可靠信息。",
+        "answer": "Consumers need reliable information about product safety.",
+        "source_paragraph": 1,
+        "source": "On the one hand, there are good reasons to oppose animal testing. The main concern is that laboratory animals may experience pain and stress during experiments. For example, they may be exposed to harmful substances when new medicines or other products are being tested. Many people therefore believe that it is morally wrong to make animals suffer for human benefit. Another problem is that animals and humans are biologically different. A medicine that appears safe and effective when tested on animals may produce different results in humans. Therefore, animal experiments cannot always provide completely reliable information about how a product will affect people.",
+        "source_phrase": "reliable information",
+        "id": "3"
+      },
+      {
+        "phrase": "develop new",
+        "cn": "大学与当地企业可以共同开发新技术。",
+        "answer": "Universities and local businesses can work together to develop new technologies.",
+        "source_paragraph": 0,
+        "source": "Animal experiments are widely used to develop new medicines and test the safety of different products. While some people believe these experiments should be banned because they cause animals to suffer, others argue that they are necessary for medical development. Although I understand the concerns about animal welfare, I believe animal testing should continue because of its important benefits to human health.",
+        "source_phrase": "develop new",
+        "id": "4"
+      },
+      {
+        "phrase": "reduce the risks",
+        "cn": "更清晰的路标可以降低道路使用者面临的风险。",
+        "answer": "Clearer road signs can reduce the risks faced by road users.",
+        "source_paragraph": 2,
+        "source": "On the other hand, animal testing has played an important role in medical development. Before a new medicine is tested on humans, researchers need to understand how it may affect a living body and whether it could cause serious harm. Testing it on animals can provide useful information and reduce the risks faced by human volunteers. In addition, completely replacing animal testing is currently unrealistic. Although alternatives such as computer models and laboratory tests are developing, they cannot yet fully show how a complete living body will react to a new treatment. Therefore, completely banning animal testing could make medical research more difficult.",
+        "source_phrase": "reduce the risks",
+        "id": "5"
+      }
+    ]
+  }
 }

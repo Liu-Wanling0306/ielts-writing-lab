@@ -110,5 +110,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "compared with",
+        "cn": "2020年，A城有40%的居民骑车，而B城为25%。",
+        "answer": "In 2020, 40% of residents in City A cycled, compared with 25% in City B.",
+        "source_paragraph": 2,
+        "source": "Chinese students formed the largest group in both countries. In 2002-2003, the US had 200,000 Chinese students, compared with just 5,400 in Canada. However, in the following year, Canada experienced a sharp 45% rise in this figure, to 7,850, whereas the US saw a 9% decrease. The overall number of international students in the US also declined by 2% to 570,000. By contrast, Canada’s total rose by 17% to 70,004 .",
+        "source_phrase": "compared with",
+        "id": "1"
+      },
+      {
+        "phrase": "academic",
+        "cn": "学校应在提供学术支持的同时鼓励创造力。",
+        "answer": "Schools should encourage creativity while providing academic support.",
+        "source_paragraph": 0,
+        "source": "The tables compare the numbers of international students from three countries studying in Canada and the US in the academic years 2002-2003 and 2003-2004.",
+        "source_phrase": "academic",
+        "id": "2"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 3,
+        "source": "Although India recorded the lowest figures in both years, the number of Indian students increased in both destinations, rising by 35% in Canada to 2,835 and by 7% in the US. Meanwhile, the numbers of American students in Canada and Canadian students in the US also grew slightly, by 9% and 6% respectively.",
+        "source_phrase": "Although",
+        "id": "3"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 2,
+        "source": "Chinese students formed the largest group in both countries. In 2002-2003, the US had 200,000 Chinese students, compared with just 5,400 in Canada. However, in the following year, Canada experienced a sharp 45% rise in this figure, to 7,850, whereas the US saw a 9% decrease. The overall number of international students in the US also declined by 2% to 570,000. By contrast, Canada’s total rose by 17% to 70,004 .",
+        "source_phrase": "However",
+        "id": "4"
+      },
+      {
+        "phrase": "By contrast",
+        "cn": "2020年，公交车使用量增加。相比之下，出租车使用量下降。",
+        "answer": "Bus use increased in 2020. By contrast, taxi use declined.",
+        "source_paragraph": 2,
+        "source": "Chinese students formed the largest group in both countries. In 2002-2003, the US had 200,000 Chinese students, compared with just 5,400 in Canada. However, in the following year, Canada experienced a sharp 45% rise in this figure, to 7,850, whereas the US saw a 9% decrease. The overall number of international students in the US also declined by 2% to 570,000. By contrast, Canada’s total rose by 17% to 70,004 .",
+        "source_phrase": "By contrast",
+        "id": "5"
+      }
+    ]
+  }
 }

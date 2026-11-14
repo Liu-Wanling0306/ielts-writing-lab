@@ -375,5 +375,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "public trust",
+        "cn": "透明的决策有助于建立公众对地方政府的信任。",
+        "answer": "Transparent decision-making helps build public trust in local government.",
+        "source_paragraph": 1,
+        "source": "Admittedly, the growing dominance of private companies in scientific research is not without risks. Since most businesses invest in research in order to improve products, strengthen competitiveness, or increase profits, commercial goals may sometimes distort scientific priorities. In some cases, companies may exaggerate findings, overlook negative results, or focus solely on areas with immediate market value, rather than on research that serves broader public good. In addition, governments are often in a better position to coordinate large-scale, long-term projects that require international cooperation, public trust, and strategic planning, such as pandemic prevention, climate science, or space exploration. These are areas in which private firms may lack either the authority or the incentive to take the lead.",
+        "source_phrase": "public trust",
+        "id": "1"
+      },
+      {
+        "phrase": "scientific",
+        "cn": "国际合作可以加快医学研究的科学进步。",
+        "answer": "International cooperation can accelerate scientific progress in medical research.",
+        "source_paragraph": 0,
+        "source": "In many parts of the world today, private companies are carrying out more scientific research than governments. Although this development may raise concerns about commercial bias and the reduced role in major scientific projects, I believe its advantage are greater than its disadvantages.",
+        "source_phrase": "scientific",
+        "id": "2"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 2,
+        "source": "However, these drawbacks are outweighed by the benefits. One major advantage is that private companies often have substantial financial resources that can be invested directly into research. While government may also have large budgets, public money has to be distributed across a wide range of urgent priorities, including national defence, healthcare, education, and welfare. As a result, scientific research may receive only limited or inconsistent state funding. By contrast, successful companies, especially large technology and pharmaceutical firms, are often able to commit enormous amounts of money to research over sustained periods, giving scientists better equipment, stronger teams, and more stable support.",
+        "source_phrase": "financial",
+        "id": "3"
+      },
+      {
+        "phrase": "long-term",
+        "cn": "当地企业应重视长期稳定，而非短期利润。",
+        "answer": "Local businesses should value long-term stability over short-term profit.",
+        "source_paragraph": 1,
+        "source": "Admittedly, the growing dominance of private companies in scientific research is not without risks. Since most businesses invest in research in order to improve products, strengthen competitiveness, or increase profits, commercial goals may sometimes distort scientific priorities. In some cases, companies may exaggerate findings, overlook negative results, or focus solely on areas with immediate market value, rather than on research that serves broader public good. In addition, governments are often in a better position to coordinate large-scale, long-term projects that require international cooperation, public trust, and strategic planning, such as pandemic prevention, climate science, or space exploration. These are areas in which private firms may lack either the authority or the incentive to take the lead.",
+        "source_phrase": "long-term",
+        "id": "4"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "In many parts of the world today, private companies are carrying out more scientific research than governments. Although this development may raise concerns about commercial bias and the reduced role in major scientific projects, I believe its advantage are greater than its disadvantages.",
+        "source_phrase": "Although",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "develop new",
+        "cn": "大学与当地企业可以共同开发新技术。",
+        "answer": "Universities and local businesses can work together to develop new technologies.",
+        "source_paragraph": 3,
+        "source": "Another important advantage is that private companies can often carry out research more efficiently. Unlike governments, which may need to follow complicated procedures, businesses usually have clear goals and can make decisions more quickly. This allows them to focus their resources on specific projects and develop new technologies faster. For example, SpaceX has made significant progress in reusable rockets, helping reduce the cost of space travel. This shows how private investment and clear business goals can support scientific innovation.",
+        "source_phrase": "develop new",
+        "id": "1"
+      },
+      {
+        "phrase": "scientific",
+        "cn": "国际合作可以加快医学研究的科学进步。",
+        "answer": "International cooperation can accelerate scientific progress in medical research.",
+        "source_paragraph": 0,
+        "source": "In many countries, private companies are now carrying out more scientific research than governments. Although this development may cause some problems, I believe its advantages are greater because businesses can provide strong financial support and improve research efficiency.",
+        "source_phrase": "scientific",
+        "id": "2"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 0,
+        "source": "In many countries, private companies are now carrying out more scientific research than governments. Although this development may cause some problems, I believe its advantages are greater because businesses can provide strong financial support and improve research efficiency.",
+        "source_phrase": "financial",
+        "id": "3"
+      },
+      {
+        "phrase": "long-term",
+        "cn": "当地企业应重视长期稳定，而非短期利润。",
+        "answer": "Local businesses should value long-term stability over short-term profit.",
+        "source_paragraph": 1,
+        "source": "Admittedly, one disadvantage of this development is that private companies may focus too much on making profits. Since businesses often invest in research to develop products and increase sales, they may pay less attention to projects that benefit society but bring little financial return. In addition, some large scientific projects, such as climate research and disease prevention, require long-term planning and international cooperation. Governments may be better suited to leading these projects because they have greater public responsibilities and authority",
+        "source_phrase": "long-term",
+        "id": "4"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "In many countries, private companies are now carrying out more scientific research than governments. Although this development may cause some problems, I believe its advantages are greater because businesses can provide strong financial support and improve research efficiency.",
+        "source_phrase": "Although",
+        "id": "5"
+      }
+    ]
+  }
 }

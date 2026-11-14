@@ -316,5 +316,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "public funding",
+        "cn": "更多公共资金应投入预防性医疗。",
+        "answer": "More public funding should be directed towards preventive healthcare.",
+        "source_paragraph": 0,
+        "source": "Many people argue that greater public funding should be devoted to the display of artistic works in communal spaces. While I concede that such initiatives may enhance a city’s aesthetic charm, I strongly oppose the diversion of substantial resources to these projects, as the proposal is neither pragmatic nor indispensable.",
+        "source_phrase": "public funding",
+        "id": "1"
+      },
+      {
+        "phrase": "cultural heritage",
+        "cn": "数字档案可以为后代保存文化遗产。",
+        "answer": "Digital archives can preserve cultural heritage for future generations.",
+        "source_paragraph": 1,
+        "source": "The foremost reason for my objection is that this suggestion disregards the glaring developmental disparities across the globe. Undoubtedly, public exhibitions of cultural heritage can elevate a city's reputation, attract residents, and stimulate tourism. Yet although municipalities in affluent regions, such as Northern Europe, can afford to invest in sculptures or galleries, this remains only one fragment of broader urban progress. By contrast, burgeoning metropolises in emerging economies such as China and Brazil must concentrate on far more pressing priorities, ranging from modernising infrastructure to broadening educational access. More critically, in remote towns of the Global South—especially in sub-Saharan Africa— governments still struggle to curb infant mortality and secure basic necessities like clean water and safe food. Expecting such regions to allocate scarce funds to art installations is not only politically unfeasible but also manifestly inequitable.",
+        "source_phrase": "cultural heritage",
+        "id": "2"
+      },
+      {
+        "phrase": "corporate sponsorship",
+        "cn": "这个年度科学节依靠企业赞助支付部分费用。",
+        "answer": "The annual science festival relies on corporate sponsorship to cover part of its costs.",
+        "source_paragraph": 2,
+        "source": "Equally problematic is the assumption that government alone should shoulder the responsibility for cultivating the arts. In economic terms, while cultural heritage can attract interest, other domains exert a far greater influence on where people choose to live. For instance, robust investment in public security and modern service industries fosters a far stronger sense of belonging than statues in a square. Moreover, artistic projects can be financed through commercial ventures and philanthropic donations rather than taxpayer money. Paris epitomises this dynamic: it draws millions of admirers for its artistic splendour, yet much of the financial underpinning derives from revenue generation and corporate sponsorship rather than heavy reliance on public funds.",
+        "source_phrase": "corporate sponsorship",
+        "id": "3"
+      },
+      {
+        "phrase": "remote",
+        "cn": "移动诊所可以为偏远地区提供医疗服务。",
+        "answer": "Mobile clinics can provide healthcare in remote areas.",
+        "source_paragraph": 1,
+        "source": "The foremost reason for my objection is that this suggestion disregards the glaring developmental disparities across the globe. Undoubtedly, public exhibitions of cultural heritage can elevate a city's reputation, attract residents, and stimulate tourism. Yet although municipalities in affluent regions, such as Northern Europe, can afford to invest in sculptures or galleries, this remains only one fragment of broader urban progress. By contrast, burgeoning metropolises in emerging economies such as China and Brazil must concentrate on far more pressing priorities, ranging from modernising infrastructure to broadening educational access. More critically, in remote towns of the Global South—especially in sub-Saharan Africa— governments still struggle to curb infant mortality and secure basic necessities like clean water and safe food. Expecting such regions to allocate scarce funds to art installations is not only politically unfeasible but also manifestly inequitable.",
+        "source_phrase": "remote",
+        "id": "4"
+      },
+      {
+        "phrase": "responsibility",
+        "cn": "网络平台应对删除欺诈广告承担责任。",
+        "answer": "Online platforms should take responsibility for removing fraudulent advertisements.",
+        "source_paragraph": 2,
+        "source": "Equally problematic is the assumption that government alone should shoulder the responsibility for cultivating the arts. In economic terms, while cultural heritage can attract interest, other domains exert a far greater influence on where people choose to live. For instance, robust investment in public security and modern service industries fosters a far stronger sense of belonging than statues in a square. Moreover, artistic projects can be financed through commercial ventures and philanthropic donations rather than taxpayer money. Paris epitomises this dynamic: it draws millions of admirers for its artistic splendour, yet much of the financial underpinning derives from revenue generation and corporate sponsorship rather than heavy reliance on public funds.",
+        "source_phrase": "responsibility",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "employment opportunities",
+        "cn": "新的铁路连接可以为小城镇创造就业机会。",
+        "answer": "New rail connections can create employment opportunities in small towns.",
+        "source_paragraph": 2,
+        "source": "Another reason is that artworks are not the only factor that makes a city attractive. When people choose where to live, they usually consider safety, job opportunities and the quality of public services. A city with beautiful statues but poor transport and limited employment opportunities may still struggle to attract residents. Therefore, governments should give greater attention to these basic needs. Moreover, public art does not always have to depend on government funding. Businesses and wealthy individuals can support art projects through donations or sponsorship. For example, a company could pay for a sculpture in a public square. This would allow cities to develop their cultural attractions without placing too much pressure on public budgets.",
+        "source_phrase": "employment opportunities",
+        "id": "1"
+      },
+      {
+        "phrase": "public services",
+        "cn": "更好的宽带网络可以改善偏远村庄的公共服务。",
+        "answer": "Better broadband networks can improve public services in remote villages.",
+        "source_paragraph": 2,
+        "source": "Another reason is that artworks are not the only factor that makes a city attractive. When people choose where to live, they usually consider safety, job opportunities and the quality of public services. A city with beautiful statues but poor transport and limited employment opportunities may still struggle to attract residents. Therefore, governments should give greater attention to these basic needs. Moreover, public art does not always have to depend on government funding. Businesses and wealthy individuals can support art projects through donations or sponsorship. For example, a company could pay for a sculpture in a public square. This would allow cities to develop their cultural attractions without placing too much pressure on public budgets.",
+        "source_phrase": "public services",
+        "id": "2"
+      },
+      {
+        "phrase": "private funding",
+        "cn": "私人资金可以支持独立的社区剧院。",
+        "answer": "Private funding can support independent community theatres.",
+        "source_paragraph": 3,
+        "source": "In conclusion, although artworks can make cities more beautiful, I do not believe governments should spend more money on them. Improving basic services is more important, and private funding can also help support public art.",
+        "source_phrase": "private funding",
+        "id": "3"
+      },
+      {
+        "phrase": "public budgets",
+        "cn": "维护使用率低的道路可能给公共预算带来压力。",
+        "answer": "Maintaining rarely used roads may put pressure on public budgets.",
+        "source_paragraph": 2,
+        "source": "Another reason is that artworks are not the only factor that makes a city attractive. When people choose where to live, they usually consider safety, job opportunities and the quality of public services. A city with beautiful statues but poor transport and limited employment opportunities may still struggle to attract residents. Therefore, governments should give greater attention to these basic needs. Moreover, public art does not always have to depend on government funding. Businesses and wealthy individuals can support art projects through donations or sponsorship. For example, a company could pay for a sculpture in a public square. This would allow cities to develop their cultural attractions without placing too much pressure on public budgets.",
+        "source_phrase": "public budgets",
+        "id": "4"
+      },
+      {
+        "phrase": "employment",
+        "cn": "清洁能源投资可以创造新的就业机会。",
+        "answer": "Investment in clean energy can create new employment opportunities.",
+        "source_paragraph": 2,
+        "source": "Another reason is that artworks are not the only factor that makes a city attractive. When people choose where to live, they usually consider safety, job opportunities and the quality of public services. A city with beautiful statues but poor transport and limited employment opportunities may still struggle to attract residents. Therefore, governments should give greater attention to these basic needs. Moreover, public art does not always have to depend on government funding. Businesses and wealthy individuals can support art projects through donations or sponsorship. For example, a company could pay for a sculpture in a public square. This would allow cities to develop their cultural attractions without placing too much pressure on public budgets.",
+        "source_phrase": "employment",
+        "id": "5"
+      }
+    ]
+  }
 }

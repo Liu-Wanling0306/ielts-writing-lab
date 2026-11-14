@@ -115,5 +115,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "stood at",
+        "cn": "最年轻群体的自行车拥有率约为40%。",
+        "answer": "Bicycle ownership among the youngest group stood at around 40%.",
+        "source_paragraph": 3,
+        "source": "Regarding the overall borrowing trend, the number of loans stood at around 16,000 in 2007 and rose steadily to some 21,000 by 2011. Although the following years witnessed modest fluctuations, with figures dipping below 20,000 in 2013 before climbing again, the overall trend was upward. By 2016, the total reached just above 22,000, the highest point during the period.",
+        "source_phrase": "stood at",
+        "id": "1"
+      },
+      {
+        "phrase": "highest point",
+        "cn": "电影院的参观人数在八月达到最高点。",
+        "answer": "Cinema attendance reached its highest point in August.",
+        "source_paragraph": 3,
+        "source": "Regarding the overall borrowing trend, the number of loans stood at around 16,000 in 2007 and rose steadily to some 21,000 by 2011. Although the following years witnessed modest fluctuations, with figures dipping below 20,000 in 2013 before climbing again, the overall trend was upward. By 2016, the total reached just above 22,000, the highest point during the period.",
+        "source_phrase": "highest point",
+        "id": "2"
+      },
+      {
+        "phrase": "accounted for",
+        "cn": "2020年，交通占该市总支出的四分之一。",
+        "answer": "Transport accounted for a quarter of the city's total spending in 2020.",
+        "source_paragraph": 2,
+        "source": "In terms of membership, adults aged 18-64 accounted for just over half (51%) of the library members, while children under 13 made up 22%. Young adults aged 13-17 and seniors over 65 represented smaller proportions, at 15% and 12% respectively. These distributions were broadly reflected in borrowing patterns. Children’s and adult fiction each represented 38% of total loans, followed by adult non-fiction at 13% and children’s non-fiction at 6%. By contrast, the shares of young adult book, adult audio books, and children’s DVDs were very minor, at only 2%, 2% and 1% respectively.",
+        "source_phrase": "accounted for",
+        "id": "3"
+      },
+      {
+        "phrase": "made up",
+        "cn": "国际学生占该校总人数的30%。",
+        "answer": "International students made up 30% of the university's total enrolment.",
+        "source_paragraph": 1,
+        "source": "Overall, in 2016, adults aged 18-64 made up the largest share of members, and both children’s and adult fiction dominated loan categories. Over the decade, the total number of loans showed a general upward trend with some fluctuations.",
+        "source_phrase": "made up",
+        "id": "4"
+      },
+      {
+        "phrase": "the largest share",
+        "cn": "在三种燃料中，煤炭占能源使用的最大份额。",
+        "answer": "Of the three fuels, coal accounted for the largest share of energy use.",
+        "source_paragraph": 1,
+        "source": "Overall, in 2016, adults aged 18-64 made up the largest share of members, and both children’s and adult fiction dominated loan categories. Over the decade, the total number of loans showed a general upward trend with some fluctuations.",
+        "source_phrase": "the largest share",
+        "id": "5"
+      }
+    ]
+  }
 }

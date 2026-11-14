@@ -248,5 +248,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "labour shortages",
+        "cn": "灵活的退休安排可能缓解医院的劳动力短缺。",
+        "answer": "Flexible retirement arrangements may ease labour shortages in hospitals.",
+        "source_paragraph": 1,
+        "source": "An extended life expectancy entails multiple personal and societal gains. On the individual level, modern people enjoy a longer life, which was even the pursuit of countless ancient monarchs. The right to life is the most important right of human beings. Thus, living longer ensures a more fulfilling life experience for people of modern times. Further, it is reassuring for many families to witness older relatives live longer, healthier lives. From an economic perspective, the elderly generally have strong purchasing power, which helps sustain the development of many industries ranging from tourism to medical services. Meanwhile, in some countries facing labour shortages, such as Japan and some Nordic countries, septuagenarian workers to some extent help alleviate workforce gaps.",
+        "source_phrase": "labour shortages",
+        "id": "1"
+      },
+      {
+        "phrase": "quality of life",
+        "cn": "安全的公共空间可以改善老年人的生活质量。",
+        "answer": "Safe public spaces can improve older people's quality of life.",
+        "source_paragraph": 2,
+        "source": "However, the negative impacts brought by longer life expectancy can be observed from the opposite angles. While individuals in many nations live longer, their quality of life does not necessarily increase accordingly. A series of diseases caused by ageing, such as Alzheimer’s disease and a variety of cancers, not only make elderly people suffer, but also burden their families emotionally and financially. From a financial point of view, longevity and its subsequent ageing population harm the long-term economic development of many countries. An increasing number of young people are unwilling to give birth, as they are afraid to shoulder the immense pressures from both sustaining their parents and rearing their children. The severe labour shortage caused is not likely to be counteracted by more elderly people filling some job vacancies. A pessimistic example is that South Korea is predicted to disappear from the world map if it were not to address its ageing population and low fertility.",
+        "source_phrase": "quality of life",
+        "id": "2"
+      },
+      {
+        "phrase": "academic",
+        "cn": "学校应在提供学术支持的同时鼓励创造力。",
+        "answer": "Schools should encourage creativity while providing academic support.",
+        "source_paragraph": 0,
+        "source": "An encouraging trend supported by some academic evidence is that the life expectancy in many countries is longer. However, I believe that this trend brings equally beneficial and detrimental effects on individuals and on our society.",
+        "source_phrase": "academic",
+        "id": "3"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 2,
+        "source": "However, the negative impacts brought by longer life expectancy can be observed from the opposite angles. While individuals in many nations live longer, their quality of life does not necessarily increase accordingly. A series of diseases caused by ageing, such as Alzheimer’s disease and a variety of cancers, not only make elderly people suffer, but also burden their families emotionally and financially. From a financial point of view, longevity and its subsequent ageing population harm the long-term economic development of many countries. An increasing number of young people are unwilling to give birth, as they are afraid to shoulder the immense pressures from both sustaining their parents and rearing their children. The severe labour shortage caused is not likely to be counteracted by more elderly people filling some job vacancies. A pessimistic example is that South Korea is predicted to disappear from the world map if it were not to address its ageing population and low fertility.",
+        "source_phrase": "financial",
+        "id": "4"
+      },
+      {
+        "phrase": "long-term",
+        "cn": "当地企业应重视长期稳定，而非短期利润。",
+        "answer": "Local businesses should value long-term stability over short-term profit.",
+        "source_paragraph": 2,
+        "source": "However, the negative impacts brought by longer life expectancy can be observed from the opposite angles. While individuals in many nations live longer, their quality of life does not necessarily increase accordingly. A series of diseases caused by ageing, such as Alzheimer’s disease and a variety of cancers, not only make elderly people suffer, but also burden their families emotionally and financially. From a financial point of view, longevity and its subsequent ageing population harm the long-term economic development of many countries. An increasing number of young people are unwilling to give birth, as they are afraid to shoulder the immense pressures from both sustaining their parents and rearing their children. The severe labour shortage caused is not likely to be counteracted by more elderly people filling some job vacancies. A pessimistic example is that South Korea is predicted to disappear from the world map if it were not to address its ageing population and low fertility.",
+        "source_phrase": "long-term",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "labour shortages",
+        "cn": "灵活的退休安排可能缓解医院的劳动力短缺。",
+        "answer": "Flexible retirement arrangements may ease labour shortages in hospitals.",
+        "source_paragraph": 2,
+        "source": "However, living longer can also cause problems. Although people may live to an older age, they may suffer from health problems in the later years of their lives. Some elderly people develop serious diseases and need long-term care. This can reduce their quality of life and also create emotional and financial pressure for their families. Society can face problems as well. As the elderly population grows, governments need to spend more money on healthcare and pensions. At the same time, there may be fewer young people working and paying taxes. Young adults may also have to support their elderly parents while raising their own children. Although some older people can continue working, they cannot completely solve the problem of labour shortages.",
+        "source_phrase": "labour shortages",
+        "id": "1"
+      },
+      {
+        "phrase": "quality of life",
+        "cn": "安全的公共空间可以改善老年人的生活质量。",
+        "answer": "Safe public spaces can improve older people's quality of life.",
+        "source_paragraph": 2,
+        "source": "However, living longer can also cause problems. Although people may live to an older age, they may suffer from health problems in the later years of their lives. Some elderly people develop serious diseases and need long-term care. This can reduce their quality of life and also create emotional and financial pressure for their families. Society can face problems as well. As the elderly population grows, governments need to spend more money on healthcare and pensions. At the same time, there may be fewer young people working and paying taxes. Young adults may also have to support their elderly parents while raising their own children. Although some older people can continue working, they cannot completely solve the problem of labour shortages.",
+        "source_phrase": "quality of life",
+        "id": "2"
+      },
+      {
+        "phrase": "long-term care",
+        "cn": "独居老年人可能需要长期照护。",
+        "answer": "Older people living alone may need long-term care.",
+        "source_paragraph": 2,
+        "source": "However, living longer can also cause problems. Although people may live to an older age, they may suffer from health problems in the later years of their lives. Some elderly people develop serious diseases and need long-term care. This can reduce their quality of life and also create emotional and financial pressure for their families. Society can face problems as well. As the elderly population grows, governments need to spend more money on healthcare and pensions. At the same time, there may be fewer young people working and paying taxes. Young adults may also have to support their elderly parents while raising their own children. Although some older people can continue working, they cannot completely solve the problem of labour shortages.",
+        "source_phrase": "long-term care",
+        "id": "3"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 2,
+        "source": "However, living longer can also cause problems. Although people may live to an older age, they may suffer from health problems in the later years of their lives. Some elderly people develop serious diseases and need long-term care. This can reduce their quality of life and also create emotional and financial pressure for their families. Society can face problems as well. As the elderly population grows, governments need to spend more money on healthcare and pensions. At the same time, there may be fewer young people working and paying taxes. Young adults may also have to support their elderly parents while raising their own children. Although some older people can continue working, they cannot completely solve the problem of labour shortages.",
+        "source_phrase": "financial",
+        "id": "4"
+      },
+      {
+        "phrase": "long-term",
+        "cn": "当地企业应重视长期稳定，而非短期利润。",
+        "answer": "Local businesses should value long-term stability over short-term profit.",
+        "source_paragraph": 2,
+        "source": "However, living longer can also cause problems. Although people may live to an older age, they may suffer from health problems in the later years of their lives. Some elderly people develop serious diseases and need long-term care. This can reduce their quality of life and also create emotional and financial pressure for their families. Society can face problems as well. As the elderly population grows, governments need to spend more money on healthcare and pensions. At the same time, there may be fewer young people working and paying taxes. Young adults may also have to support their elderly parents while raising their own children. Although some older people can continue working, they cannot completely solve the problem of labour shortages.",
+        "source_phrase": "long-term",
+        "id": "5"
+      }
+    ]
+  }
 }

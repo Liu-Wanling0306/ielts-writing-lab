@@ -130,5 +130,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "throughout the period",
+        "cn": "在整个时期，铁路都是最受欢迎的出行方式。",
+        "answer": "Rail remained the most popular means of travel throughout the period.",
+        "source_paragraph": 1,
+        "source": "Overall, the film club remained the most popular activity throughout the period, while table tennis experienced the most significant growth. In contrast, amateur dramatics declined substantially, whereas martial arts remained relatively stable.",
+        "source_phrase": "throughout the period",
+        "id": "1"
+      },
+      {
+        "phrase": "remained relatively stable",
+        "cn": "相比之下，电力需求在冬季保持相对稳定。",
+        "answer": "By contrast, demand for electricity remained relatively stable in winter.",
+        "source_paragraph": 1,
+        "source": "Overall, the film club remained the most popular activity throughout the period, while table tennis experienced the most significant growth. In contrast, amateur dramatics declined substantially, whereas martial arts remained relatively stable.",
+        "source_phrase": "remained relatively stable",
+        "id": "2"
+      },
+      {
+        "phrase": "remained unchanged",
+        "cn": "在这十年里，学校的主入口保持不变。",
+        "answer": "The school's main entrance remained unchanged over the decade.",
+        "source_paragraph": 2,
+        "source": "The film club consistently attracted the highest number of participants, with figures staying at around 60 –65 before increasing slightly to approximately 66 in 2020. By comparison, table tennis started with fewer than 20 participants and remained unchanged until 2010, after which it saw a dramatic increase, reaching over 50 participants by the end of the period and becoming the second most popular activity.",
+        "source_phrase": "remained unchanged",
+        "id": "3"
+      },
+      {
+        "phrase": "by the end of",
+        "cn": "到该时期结束时，图书馆的借阅量已达三万册。",
+        "answer": "Library loans had reached 30,000 by the end of the period.",
+        "source_paragraph": 2,
+        "source": "The film club consistently attracted the highest number of participants, with figures staying at around 60 –65 before increasing slightly to approximately 66 in 2020. By comparison, table tennis started with fewer than 20 participants and remained unchanged until 2010, after which it saw a dramatic increase, reaching over 50 participants by the end of the period and becoming the second most popular activity.",
+        "source_phrase": "by the end of",
+        "id": "4"
+      },
+      {
+        "phrase": "growth",
+        "cn": "幼苗随后被转移到温室，继续生长。",
+        "answer": "The seedlings are then transferred to a greenhouse for further growth.",
+        "source_paragraph": 1,
+        "source": "Overall, the film club remained the most popular activity throughout the period, while table tennis experienced the most significant growth. In contrast, amateur dramatics declined substantially, whereas martial arts remained relatively stable.",
+        "source_phrase": "growth",
+        "id": "5"
+      }
+    ]
+  }
 }

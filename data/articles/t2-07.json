@@ -411,5 +411,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "personal information",
+        "cn": "医院应保护患者的个人信息。",
+        "answer": "Hospitals should protect patients' personal information.",
+        "source_paragraph": 0,
+        "source": "In modern society, an increasing amount of personal information is shared and stored online in order to support everyday activities such as shopping, banking, and social interaction. While this trend undoubtedly makes daily life more efficient, I believe it is overall a negative development because it exposes individuals to serious security risks and creates wider social problems related to privacy and trust.",
+        "source_phrase": "personal information",
+        "id": "1"
+      },
+      {
+        "phrase": "data breaches",
+        "cn": "较小的公司也可能面临数据泄露的风险。",
+        "answer": "Smaller companies can also face the risk of data breaches.",
+        "source_paragraph": 2,
+        "source": "However, these benefits are outweighed by the dangers associated with data breaches and online fraud. Once sensitive information is stored online, it may be stolen, leaked, or sold without the users’knowledge. In recent years, there have been many cases where personal data has been exploited by scam networks to carry out fraud, identity theft, and financial deception. Elderly people are particularly vulnerable to such crimes, often losing large sums of money after being targeted through leaked contact details or banking information. Therefore, what appears to be a simple matter of convenience can, in reality, expose individuals to severe financial and emotional harm.",
+        "source_phrase": "data breaches",
+        "id": "2"
+      },
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 3,
+        "source": "Another major concern is the broader social impact of putting private information online. As more people experience the misuse of their personal data, public trust in digital platforms is likely to decline. This is particularly worrying at a time when social media and AI-based tools make it easier than ever to manipulate photos, imitate identities, or misuse personal content for dishonest or even criminal purposes. When individuals’ images or private details are used without their consent, their privacy is violated and their reputations may also be damaged. As a result, the online environment can become less secure, less trustworthy, and more harmful to ordinary users.",
+        "source_phrase": "social media",
+        "id": "3"
+      },
+      {
+        "phrase": "public trust",
+        "cn": "透明的决策有助于建立公众对地方政府的信任。",
+        "answer": "Transparent decision-making helps build public trust in local government.",
+        "source_paragraph": 3,
+        "source": "Another major concern is the broader social impact of putting private information online. As more people experience the misuse of their personal data, public trust in digital platforms is likely to decline. This is particularly worrying at a time when social media and AI-based tools make it easier than ever to manipulate photos, imitate identities, or misuse personal content for dishonest or even criminal purposes. When individuals’ images or private details are used without their consent, their privacy is violated and their reputations may also be damaged. As a result, the online environment can become less secure, less trustworthy, and more harmful to ordinary users.",
+        "source_phrase": "public trust",
+        "id": "4"
+      },
+      {
+        "phrase": "knowledge",
+        "cn": "公共广播可以帮助听众拓宽科学知识。",
+        "answer": "Public broadcasting can help listeners broaden their scientific knowledge.",
+        "source_paragraph": 2,
+        "source": "However, these benefits are outweighed by the dangers associated with data breaches and online fraud. Once sensitive information is stored online, it may be stolen, leaked, or sold without the users’knowledge. In recent years, there have been many cases where personal data has been exploited by scam networks to carry out fraud, identity theft, and financial deception. Elderly people are particularly vulnerable to such crimes, often losing large sums of money after being targeted through leaked contact details or banking information. Therefore, what appears to be a simple matter of convenience can, in reality, expose individuals to severe financial and emotional harm.",
+        "source_phrase": "knowledge",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "personal information",
+        "cn": "医院应保护患者的个人信息。",
+        "answer": "Hospitals should protect patients' personal information.",
+        "source_paragraph": 0,
+        "source": "Nowadays, more people store their personal information online when shopping, banking and communicating with others. Although this makes everyday life more convenient, I believe it is a negative development because it increases the risks of online fraud and privacy problems.",
+        "source_phrase": "personal information",
+        "id": "1"
+      },
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 3,
+        "source": "Another major concern is the loss of privacy and public trust. At a time when social media and AI technology are developing rapidly, it has become easier to copy people's photos, create fake identities and misuse private information. When personal details or images are shared without permission, individuals may suffer damage to their reputations. Such experiences can also make people less willing to trust online platforms, creating wider problems for society.",
+        "source_phrase": "social media",
+        "id": "2"
+      },
+      {
+        "phrase": "public trust",
+        "cn": "透明的决策有助于建立公众对地方政府的信任。",
+        "answer": "Transparent decision-making helps build public trust in local government.",
+        "source_paragraph": 3,
+        "source": "Another major concern is the loss of privacy and public trust. At a time when social media and AI technology are developing rapidly, it has become easier to copy people's photos, create fake identities and misuse private information. When personal details or images are shared without permission, individuals may suffer damage to their reputations. Such experiences can also make people less willing to trust online platforms, creating wider problems for society.",
+        "source_phrase": "public trust",
+        "id": "3"
+      },
+      {
+        "phrase": "privacy",
+        "cn": "雇主在使用监控工具时应尊重员工隐私。",
+        "answer": "Employers should respect workers' privacy when using monitoring tools.",
+        "source_paragraph": 0,
+        "source": "Nowadays, more people store their personal information online when shopping, banking and communicating with others. Although this makes everyday life more convenient, I believe it is a negative development because it increases the risks of online fraud and privacy problems.",
+        "source_phrase": "privacy",
+        "id": "4"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 1,
+        "source": "Admittedly, storing personal information online can make daily activities easier. When people shop online, saved addresses and payment details allow them to complete purchases more quickly without entering the same information again. Similarly, banking apps can save users' personal details, making it easier for them to use financial services. This is particularly helpful for busy people and older users who may find complicated online procedures difficult. Therefore, keeping personal information online can save time and make digital services more convenient.",
+        "source_phrase": "financial",
+        "id": "5"
+      }
+    ]
+  }
 }

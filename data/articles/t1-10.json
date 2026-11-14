@@ -96,5 +96,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "the figure for",
+        "cn": "自行车使用者的数值在2020年达到了两万人。",
+        "answer": "The figure for bicycle users reached 20,000 in 2020.",
+        "source_paragraph": 4,
+        "source": "Internet access also grew substantially. Starting at a mere 10%, it doubled by 1997 before rising sharply to 50% in 1999. Conversely, the figure for DVD players initially dropped from 25% to roughly 15% in 1996, before recovering to 40% by the final year. Notably, although DVD players were initially more popular, their adoption rates intersected at 30% in 1998, after which the Internet eventually overtook DVD players.",
+        "source_phrase": "the figure for",
+        "id": "1"
+      },
+      {
+        "phrase": "the percentage of",
+        "cn": "2010年，拥有自行车的家庭百分比升至45%。",
+        "answer": "The percentage of households owning a bicycle rose to 45% in 2010.",
+        "source_paragraph": 3,
+        "source": "Phones demonstrated the most dramatic rise. Starting at just under 20% in 1995 and increasing marginally the following year, the percentage of families with phones surged from 1996 onwards. By 1999, they reached approximately 75%, surpassing computers to become the second most widely owned technology.",
+        "source_phrase": "the percentage of",
+        "id": "2"
+      },
+      {
+        "phrase": "growth",
+        "cn": "幼苗随后被转移到温室，继续生长。",
+        "answer": "The seedlings are then transferred to a greenhouse for further growth.",
+        "source_paragraph": 2,
+        "source": "Specifically, washing machines remained the most popular item, starting with a penetration of 60% in 1995 and rising steadily to 80% by 1999. Computers began as the second at 40%, seeing continuous growth to finish at 70%.",
+        "source_phrase": "growth",
+        "id": "3"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 4,
+        "source": "Internet access also grew substantially. Starting at a mere 10%, it doubled by 1997 before rising sharply to 50% in 1999. Conversely, the figure for DVD players initially dropped from 25% to roughly 15% in 1996, before recovering to 40% by the final year. Notably, although DVD players were initially more popular, their adoption rates intersected at 30% in 1998, after which the Internet eventually overtook DVD players.",
+        "source_phrase": "although",
+        "id": "4"
+      },
+      {
+        "phrase": "Meanwhile",
+        "cn": "学校新建了一座体育馆。与此同时，旧图书馆得到了翻新。",
+        "answer": "The school built a new sports hall. Meanwhile, the old library was renovated.",
+        "source_paragraph": 1,
+        "source": "Overall, it is clear that washing machines were consistently the most commonly owned appliance, while phones witnessed the most noticeable increase in adoption. Meanwhile, DVD players were the only technology to experience an initial downturn.",
+        "source_phrase": "Meanwhile",
+        "id": "5"
+      }
+    ]
+  }
 }

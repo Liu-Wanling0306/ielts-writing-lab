@@ -182,5 +182,92 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "linguistic barriers",
+        "cn": "多语种标识可以减少游客面临的语言障碍。",
+        "answer": "Multilingual signs can reduce linguistic barriers for visitors.",
+        "source_paragraph": 1,
+        "source": "One primary reason for this perspective lies in music’s ability to facilitate emotional expression and bonding from the earliest stages of human life, transcending the need for spoken words. Research in developmental psychology shows that prenatal exposure to melodies calms expectant mothers and strengthens the emotional link with the fetus, underscoring music’s role as a fundamental mode of interaction. After birth, lullabies—ubiquitous across the globe—soothe infants by relying on rhythm and tone rather than lyrics to regulate sleep and comfort. Furthermore, in childhood, the melodies of nursery rhymes often outlast their words in memory, enabling children from diverse backgrounds to connect effortlessly over familiar tunes. This illustrates how music operates as a primordial language, uniting individuals where conventional communication may fail due to age or linguistic barriers.",
+        "source_phrase": "linguistic barriers",
+        "id": "1"
+      },
+      {
+        "phrase": "cross-cultural understanding",
+        "cn": "学生交流项目可以促进跨文化理解。",
+        "answer": "Student exchange programmes can promote cross-cultural understanding.",
+        "source_paragraph": 2,
+        "source": "Equally compelling is music’s ability to unite adults across varied social and national contexts, irrespective of linguistic differences. In the post-pandemic era, while many forms of entertainment have declined, global concert tours by artists such as Taylor Swift from the United States and Blackpink from South Korea continue to attract millions worldwide. These audiences, though speaking distinct languages, resonate collectively with the same harmonies and rhythms, proving music’s power to evoke shared emotions—joy, nostalgia, empowerment— without translation. Likewise, travellers often form instant bonds when singing along to familiar melodies in shared spaces, such as on public transport, underscoring music’s role as an effortless bridge for interpersonal harmony. Such examples highlight how music functions as a common code that promotes cross-cultural understanding and fosters social cohesion.",
+        "source_phrase": "cross-cultural understanding",
+        "id": "2"
+      },
+      {
+        "phrase": "cultural understanding",
+        "cn": "一起做志愿服务有助于增进不同背景人群之间的文化理解。",
+        "answer": "Volunteering together can improve cultural understanding among people from different backgrounds.",
+        "source_paragraph": 2,
+        "source": "Equally compelling is music’s ability to unite adults across varied social and national contexts, irrespective of linguistic differences. In the post-pandemic era, while many forms of entertainment have declined, global concert tours by artists such as Taylor Swift from the United States and Blackpink from South Korea continue to attract millions worldwide. These audiences, though speaking distinct languages, resonate collectively with the same harmonies and rhythms, proving music’s power to evoke shared emotions—joy, nostalgia, empowerment— without translation. Likewise, travellers often form instant bonds when singing along to familiar melodies in shared spaces, such as on public transport, underscoring music’s role as an effortless bridge for interpersonal harmony. Such examples highlight how music functions as a common code that promotes cross-cultural understanding and fosters social cohesion.",
+        "source_phrase": "cultural understanding",
+        "id": "3"
+      },
+      {
+        "phrase": "emotional",
+        "cn": "同伴支持可以满足新生的情感需求。",
+        "answer": "Peer support can address the emotional needs of new students.",
+        "source_paragraph": 1,
+        "source": "One primary reason for this perspective lies in music’s ability to facilitate emotional expression and bonding from the earliest stages of human life, transcending the need for spoken words. Research in developmental psychology shows that prenatal exposure to melodies calms expectant mothers and strengthens the emotional link with the fetus, underscoring music’s role as a fundamental mode of interaction. After birth, lullabies—ubiquitous across the globe—soothe infants by relying on rhythm and tone rather than lyrics to regulate sleep and comfort. Furthermore, in childhood, the melodies of nursery rhymes often outlast their words in memory, enabling children from diverse backgrounds to connect effortlessly over familiar tunes. This illustrates how music operates as a primordial language, uniting individuals where conventional communication may fail due to age or linguistic barriers.",
+        "source_phrase": "emotional",
+        "id": "4"
+      },
+      {
+        "phrase": "resonate",
+        "cn": "有关家庭生活的故事可以引起不同文化背景读者的共鸣。",
+        "answer": "Stories about family life can resonate with readers from different cultures.",
+        "source_paragraph": 2,
+        "source": "Equally compelling is music’s ability to unite adults across varied social and national contexts, irrespective of linguistic differences. In the post-pandemic era, while many forms of entertainment have declined, global concert tours by artists such as Taylor Swift from the United States and Blackpink from South Korea continue to attract millions worldwide. These audiences, though speaking distinct languages, resonate collectively with the same harmonies and rhythms, proving music’s power to evoke shared emotions—joy, nostalgia, empowerment— without translation. Likewise, travellers often form instant bonds when singing along to familiar melodies in shared spaces, such as on public transport, underscoring music’s role as an effortless bridge for interpersonal harmony. Such examples highlight how music functions as a common code that promotes cross-cultural understanding and fosters social cohesion.",
+        "source_phrase": "resonate",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "share emotions",
+        "cn": "集体讲故事让孩子们能够分享情感。",
+        "answer": "Group storytelling allows children to share emotions.",
+        "source_paragraph": 0,
+        "source": "Music has long been considered a universal language that can connect people from different countries and cultures. Although people around the world speak different languages, I strongly agree that music can be seen as a global form of communication because it allows people to share emotions and build connections without using words.",
+        "source_phrase": "share emotions",
+        "id": "1"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "Music has long been considered a universal language that can connect people from different countries and cultures. Although people around the world speak different languages, I strongly agree that music can be seen as a global form of communication because it allows people to share emotions and build connections without using words.",
+        "source_phrase": "Although",
+        "id": "2"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 2,
+        "source": "Music can also bring adults from different cultures together. International singers and groups such as Taylor Swift and Blackpink attract millions of fans from different parts of the world. Although these fans may not speak the same language or fully understand the lyrics, they can still enjoy the same melodies and rhythms and experience similar feelings, such as happiness, excitement or nostalgia. Music can also create connections between strangers. For example, people from different countries may sing along to a familiar song and quickly feel connected to each other. In this way, music can reduce cultural and language barriers and help people share common experiences.",
+        "source_phrase": "For example",
+        "id": "3"
+      },
+      {
+        "phrase": "therefore",
+        "cn": "这座桥需要维修。因此，它将在冬季关闭。",
+        "answer": "The bridge needs repairs. Therefore, it will close during winter.",
+        "source_paragraph": 1,
+        "source": "One reason is that music helps people express and understand emotions from a very early age. Even before babies can understand language, they can respond to different sounds and melodies. After they are born, parents around the world often sing lullabies to help their babies relax and sleep. In this situation, babies do not need to understand the words because the rhythm and tone of the music can make them feel calm and safe. Similarly, young children often remember the melodies of nursery rhymes more easily than the actual words. Children from different backgrounds may therefore enjoy the same tune even if they speak different languages. This shows that music can communicate feelings when spoken language is not possible.",
+        "source_phrase": "therefore",
+        "id": "4"
+      }
+    ]
+  }
 }

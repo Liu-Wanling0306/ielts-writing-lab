@@ -365,5 +365,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 1,
+        "source": "The first limitation of the internet is that access to information does not necessarily produce reliable understanding. Search engines can generate thousands of results within seconds, yet users may still struggle to distinguish credible evidence from speculation, commercial promotion or deliberately misleading content. This problem has become even more serious with the growth of social media and generative AI, where inaccurate claims can be presented in a highly convincing form. Libraries, by contrast, provide carefully selected books, academic databases and reference materials, much of which has passed through established editorial or scholarly review. Librarians can also direct readers towards sources that are authoritative, balanced and appropriate for their particular purposes. Libraries therefore offer not simply a greater quantity of information, but a structured and dependable route to knowledge.",
+        "source_phrase": "social media",
+        "id": "1"
+      },
+      {
+        "phrase": "equal access",
+        "cn": "高速互联网有助于促进教育机会平等。",
+        "answer": "High-speed internet can help promote equal access to education.",
+        "source_paragraph": 2,
+        "source": "Public libraries also generate wider social benefits by promoting equal access to education and strengthening the intellectual life of local communities. Although online information appears universally available, meaningful access still depends on having a suitable device, a stable internet connection and a quiet place in which to study. These conditions cannot be taken for granted, particularly among low- income families, elderly people and students living in crowded homes. By providing books, computers, study areas and professional guidance free of charge, libraries prevent educational opportunities from being determined solely by personal wealth or living conditions. Their contribution, however, extends beyond assisting individual users. Literacy programmes, public lectures, reading groups and practical workshops bring people of different ages and backgrounds together to exchange ideas and acquire new skills. This not only encourages lifelong learning but also creates a more informed, socially connected and culturally engaged population.",
+        "source_phrase": "equal access",
+        "id": "2"
+      },
+      {
+        "phrase": "free of charge",
+        "cn": "这个社区中心免费提供语言课程。",
+        "answer": "The community centre offers language classes free of charge.",
+        "source_paragraph": 2,
+        "source": "Public libraries also generate wider social benefits by promoting equal access to education and strengthening the intellectual life of local communities. Although online information appears universally available, meaningful access still depends on having a suitable device, a stable internet connection and a quiet place in which to study. These conditions cannot be taken for granted, particularly among low- income families, elderly people and students living in crowded homes. By providing books, computers, study areas and professional guidance free of charge, libraries prevent educational opportunities from being determined solely by personal wealth or living conditions. Their contribution, however, extends beyond assisting individual users. Literacy programmes, public lectures, reading groups and practical workshops bring people of different ages and backgrounds together to exchange ideas and acquire new skills. This not only encourages lifelong learning but also creates a more informed, socially connected and culturally engaged population.",
+        "source_phrase": "free of charge",
+        "id": "3"
+      },
+      {
+        "phrase": "digital technology",
+        "cn": "数字技术可以让小型农场更高效地销售产品。",
+        "answer": "Digital technology can help small farms sell their products more efficiently.",
+        "source_paragraph": 0,
+        "source": "It is true that digital technology gives people instant access to an unprecedented amount of information, leading some to regard public libraries as increasingly redundant. However, I completely disagree that maintaining these institutions is a waste of public money, as the internet cannot fully replace either their professional role in organising knowledge or their wider contribution to society.",
+        "source_phrase": "digital technology",
+        "id": "4"
+      },
+      {
+        "phrase": "local communities",
+        "cn": "公共艺术项目可以把当地社区凝聚在一起。",
+        "answer": "Public art projects can bring local communities together.",
+        "source_paragraph": 2,
+        "source": "Public libraries also generate wider social benefits by promoting equal access to education and strengthening the intellectual life of local communities. Although online information appears universally available, meaningful access still depends on having a suitable device, a stable internet connection and a quiet place in which to study. These conditions cannot be taken for granted, particularly among low- income families, elderly people and students living in crowded homes. By providing books, computers, study areas and professional guidance free of charge, libraries prevent educational opportunities from being determined solely by personal wealth or living conditions. Their contribution, however, extends beyond assisting individual users. Literacy programmes, public lectures, reading groups and practical workshops bring people of different ages and backgrounds together to exchange ideas and acquire new skills. This not only encourages lifelong learning but also creates a more informed, socially connected and culturally engaged population.",
+        "source_phrase": "local communities",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 1,
+        "source": "The first reason is that information found online is not always reliable. Although search engines can provide thousands of results within seconds, people may find it difficult to tell whether the information is accurate. In today's increasingly digital world, misleading information can spread quickly through social media and AI-generated content. By contrast, public libraries provide books, academic materials and other resources that have usually been checked by publishers or experts. Librarians can also help readers find trustworthy information that meets their needs. Therefore, libraries remain valuable because they help people obtain reliable knowledge rather than simply giving them access to large amounts of information.",
+        "source_phrase": "social media",
+        "id": "1"
+      },
+      {
+        "phrase": "regardless of",
+        "cn": "公共图书馆应向所有居民开放，不论其收入如何。",
+        "answer": "Public libraries should be open to all residents, regardless of their income.",
+        "source_paragraph": 2,
+        "source": "Another important reason is that public libraries make education more accessible and bring communities together. Although much information is available online, not everyone has a computer, a reliable internet connection or a quiet place to study. For people from low-income families, this can be a serious problem. Public libraries provide free books, computers and study areas, allowing more people to learn regardless of their financial situation. In addition, libraries often organise reading groups, public talks and educational activities. These events give local residents opportunities to learn new skills, share ideas and communicate with people from different backgrounds. As a result, libraries can support both individual learning and stronger community relationships.",
+        "source_phrase": "regardless of",
+        "id": "2"
+      },
+      {
+        "phrase": "equal access",
+        "cn": "高速互联网有助于促进教育机会平等。",
+        "answer": "High-speed internet can help promote equal access to education.",
+        "source_paragraph": 3,
+        "source": "In conclusion, although digital technology has made information easier to access, I do not believe that maintaining public libraries is a waste of money. Their role in providing reliable information, supporting equal access to education and bringing communities together makes them valuable public institutions.",
+        "source_phrase": "equal access",
+        "id": "3"
+      },
+      {
+        "phrase": "local residents",
+        "cn": "更好的公交服务可以让当地居民更方便地前往海岸。",
+        "answer": "Better bus services can make the coast more accessible to local residents.",
+        "source_paragraph": 2,
+        "source": "Another important reason is that public libraries make education more accessible and bring communities together. Although much information is available online, not everyone has a computer, a reliable internet connection or a quiet place to study. For people from low-income families, this can be a serious problem. Public libraries provide free books, computers and study areas, allowing more people to learn regardless of their financial situation. In addition, libraries often organise reading groups, public talks and educational activities. These events give local residents opportunities to learn new skills, share ideas and communicate with people from different backgrounds. As a result, libraries can support both individual learning and stronger community relationships.",
+        "source_phrase": "local residents",
+        "id": "4"
+      },
+      {
+        "phrase": "digital technology",
+        "cn": "数字技术可以让小型农场更高效地销售产品。",
+        "answer": "Digital technology can help small farms sell their products more efficiently.",
+        "source_paragraph": 0,
+        "source": "Nowadays, digital technology allows people to find information quickly and easily, leading some to believe that public libraries are no longer necessary. However, I completely disagree with this view because libraries provide reliable information and bring important benefits to society.",
+        "source_phrase": "digital technology",
+        "id": "5"
+      }
+    ]
+  }
 }

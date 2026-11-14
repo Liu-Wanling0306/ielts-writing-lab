@@ -100,5 +100,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "remain largely unchanged",
+        "cn": "根据该规划，东侧的花园将基本保持不变。",
+        "answer": "Under the plan, the garden on the eastern side will remain largely unchanged.",
+        "source_paragraph": 1,
+        "source": "Overall, the campus is expected to become more built-up, with several new academic facilities and two separate car parks being added. The most significant changes will take place in the northern green area, while some existing facilities, including the laboratories and the central walkway, will remain largely unchanged.",
+        "source_phrase": "remain largely unchanged",
+        "id": "1"
+      },
+      {
+        "phrase": "are expected to",
+        "cn": "到2035年，公交乘客人数预计将增加一倍。",
+        "answer": "Bus passenger numbers are expected to double by 2035.",
+        "source_paragraph": 3,
+        "source": "In the southern half of the campus, more changes are planned around the existing academic buildings. The current Genetics building will become Genetics 2, while the Biochemistry and Biotechnology buildings will both be enlarged, with the latter extending further to the east. A new staff car park will also be constructed in the southwest corner, separated from the main academic area by a new diagonal road. By contrast, the two laboratories and the central walkway are expected to stay in their original positions.",
+        "source_phrase": "are expected to",
+        "id": "2"
+      },
+      {
+        "phrase": "make way for",
+        "cn": "旧停车场将被拆除，为新的操场腾出空间。",
+        "answer": "The old car park will be removed to make way for a new playground.",
+        "source_paragraph": 2,
+        "source": "At present, the northern part of the campus is mainly occupied by a biosciences green area and a car park. Under the new plan, most of this open space will be cleared to make way for a new Genetics 1 building and a Bio-imaging facility. The existing car park in the northeast will be retained but designated specifically as a student car park.",
+        "source_phrase": "make way for",
+        "id": "3"
+      },
+      {
+        "phrase": "become more built-up",
+        "cn": "新住房建成后，该村的建筑将更加密集。",
+        "answer": "The village will become more built-up after the new housing is completed.",
+        "source_paragraph": 1,
+        "source": "Overall, the campus is expected to become more built-up, with several new academic facilities and two separate car parks being added. The most significant changes will take place in the northern green area, while some existing facilities, including the laboratories and the central walkway, will remain largely unchanged.",
+        "source_phrase": "become more built-up",
+        "id": "4"
+      },
+      {
+        "phrase": "academic",
+        "cn": "学校应在提供学术支持的同时鼓励创造力。",
+        "answer": "Schools should encourage creativity while providing academic support.",
+        "source_paragraph": 1,
+        "source": "Overall, the campus is expected to become more built-up, with several new academic facilities and two separate car parks being added. The most significant changes will take place in the northern green area, while some existing facilities, including the laboratories and the central walkway, will remain largely unchanged.",
+        "source_phrase": "academic",
+        "id": "5"
+      }
+    ]
+  }
 }

@@ -257,5 +257,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "compared with",
+        "cn": "2020年，A城有40%的居民骑车，而B城为25%。",
+        "answer": "In 2020, 40% of residents in City A cycled, compared with 25% in City B.",
+        "source_paragraph": 1,
+        "source": "The chief motivations of people’s adoption of plant-based diets lie in ethical and environmental concerns. In recent years, disturbing revelations regarding the animal and dairy production, including the inhumane conditions under which many animals are bred, transported, and slaughtered, make more people find it ethically indefensible to continue consuming meat products as they once did.Moreover, awareness has grown significantly regarding the fragile ecosystem of our planet. Compared with plant agriculture, livestock farming is far more energy-intensive, directly contributing to deforestation and greenhouse gas emissions. Taken together, these factors are prompting more people to embrace a plant-focused lifestyle.",
+        "source_phrase": "Compared with",
+        "id": "1"
+      },
+      {
+        "phrase": "plant-based diets",
+        "cn": "一些运动员出于环境方面的原因选择植物性饮食。",
+        "answer": "Some athletes opt for plant-based diets for environmental reasons.",
+        "source_paragraph": 0,
+        "source": "For centuries, people around the world have adhered to meat-based diets. However, there is a growing tendency to opt for plant-based diets among modern individuals, as they gradually move away from their age-long eating habits. This essay will explore the main drivers for this shift and argue that it is, on balance, a highly positive development.",
+        "source_phrase": "plant-based diets",
+        "id": "2"
+      },
+      {
+        "phrase": "economic burden",
+        "cn": "免费学校餐可以减轻低收入家庭的经济负担。",
+        "answer": "Free school meals can ease the economic burden on low-income families.",
+        "source_paragraph": 2,
+        "source": "This trend is undoubtedly beneficial for both human health and long-term sustainability of our planet. Nutritionally, plant-based diets are rich in fibres and essential vitamins, and can drastically reduce the risk of diet-related diseases, such as cardiovascular disease and type 2 diabetes. Beyond individual health benefits, the economic burden of treating chronic diet-related illnesses may be eased through widespread dietary change. Further, animals are vital components of this beautiful planet and its ecological balance. The less we exploit them, the more we contribute to the sustainability and stability of life on our shared homeland.",
+        "source_phrase": "economic burden",
+        "id": "3"
+      },
+      {
+        "phrase": "contribute to",
+        "cn": "安全的步行路线可以帮助改善儿童健康。",
+        "answer": "Safe walking routes can contribute to better health among children.",
+        "source_paragraph": 2,
+        "source": "This trend is undoubtedly beneficial for both human health and long-term sustainability of our planet. Nutritionally, plant-based diets are rich in fibres and essential vitamins, and can drastically reduce the risk of diet-related diseases, such as cardiovascular disease and type 2 diabetes. Beyond individual health benefits, the economic burden of treating chronic diet-related illnesses may be eased through widespread dietary change. Further, animals are vital components of this beautiful planet and its ecological balance. The less we exploit them, the more we contribute to the sustainability and stability of life on our shared homeland.",
+        "source_phrase": "contribute to",
+        "id": "4"
+      },
+      {
+        "phrase": "responsibility",
+        "cn": "网络平台应对删除欺诈广告承担责任。",
+        "answer": "Online platforms should take responsibility for removing fraudulent advertisements.",
+        "source_paragraph": 3,
+        "source": "In conclusion, the global transition from animal consumption to plant-based diets represents a significant step forward for modern society. The increasing consciousness of ethical responsibility and environmental protection is the primary force driving this trend, which will play a pivotal role in ensuring long-term human health and ecological well-being.",
+        "source_phrase": "responsibility",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "plant-based diets",
+        "cn": "一些运动员出于环境方面的原因选择植物性饮食。",
+        "answer": "Some athletes opt for plant-based diets for environmental reasons.",
+        "source_paragraph": 0,
+        "source": "In recent years, more people have chosen to follow plant-based diets instead of eating meat. This essay will explore the main reasons for this trend and argue that it is a positive development.",
+        "source_phrase": "plant-based diets",
+        "id": "1"
+      },
+      {
+        "phrase": "public health",
+        "cn": "更清洁的家庭燃料可以改善公共健康。",
+        "answer": "Cleaner household fuels can improve public health.",
+        "source_paragraph": 3,
+        "source": "In conclusion, people are increasingly choosing plant-based diets because of concerns about animal welfare and environmental protection. I believe this is a positive trend because it can improve public health and reduce environmental damage.",
+        "source_phrase": "public health",
+        "id": "2"
+      },
+      {
+        "phrase": "in the long term",
+        "cn": "在长期来看，预防性医疗可以降低公共支出。",
+        "answer": "Preventive healthcare can reduce public spending in the long term.",
+        "source_paragraph": 2,
+        "source": "I believe this change brings significant benefits. First, a well-planned plant-based diet can improve people's health. Vegetables, fruits and whole grains are rich in fibre and essential nutrients, and eating more of these foods may reduce the risk of diseases such as heart disease and type 2 diabetes. If more people adopt healthier diets, governments may also spend less money treating diet-related illnesses. More importantly, reducing meat consumption can help protect the environment. When fewer animals are raised for food, less land and water may be needed for farming, and greenhouse gas emissions can also be reduced. This can help protect natural ecosystems in the long term.",
+        "source_phrase": "in the long term",
+        "id": "3"
+      },
+      {
+        "phrase": "As a result",
+        "cn": "火车票变得更便宜。因此，更多游客选择了铁路出行。",
+        "answer": "Train tickets became cheaper. As a result, more tourists chose to travel by rail.",
+        "source_paragraph": 1,
+        "source": "There are two main reasons why people are choosing plant-based diets. First, many people have become more concerned about animal welfare. In recent years, reports about poor conditions on animal farms have made consumers more aware of how animals are raised and killed for food. As a result, some people have decided to reduce their meat consumption. Another reason is growing environmental awareness. Raising animals for food requires large amounts of land, water and energy. It also contributes to deforestation and greenhouse gas emissions. Therefore, people who want to reduce their environmental impact may choose to eat more plant-based foods.",
+        "source_phrase": "As a result",
+        "id": "4"
+      },
+      {
+        "phrase": "therefore",
+        "cn": "这座桥需要维修。因此，它将在冬季关闭。",
+        "answer": "The bridge needs repairs. Therefore, it will close during winter.",
+        "source_paragraph": 1,
+        "source": "There are two main reasons why people are choosing plant-based diets. First, many people have become more concerned about animal welfare. In recent years, reports about poor conditions on animal farms have made consumers more aware of how animals are raised and killed for food. As a result, some people have decided to reduce their meat consumption. Another reason is growing environmental awareness. Raising animals for food requires large amounts of land, water and energy. It also contributes to deforestation and greenhouse gas emissions. Therefore, people who want to reduce their environmental impact may choose to eat more plant-based foods.",
+        "source_phrase": "Therefore",
+        "id": "5"
+      }
+    ]
+  }
 }

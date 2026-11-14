@@ -264,5 +264,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "free of charge",
+        "cn": "这个社区中心免费提供语言课程。",
+        "answer": "The community centre offers language classes free of charge.",
+        "source_paragraph": 0,
+        "source": "Access to clean water is universally recognised as a basic human right. Some therefore argue that households should be supplied with water free of charge. I completely disagree with this view, as it overlooks the cost of water provision and ignores the realities of global inequalities.",
+        "source_phrase": "free of charge",
+        "id": "1"
+      },
+      {
+        "phrase": "public budgets",
+        "cn": "维护使用率低的道路可能给公共预算带来压力。",
+        "answer": "Maintaining rarely used roads may put pressure on public budgets.",
+        "source_paragraph": 2,
+        "source": "Another compelling reason is that free water supply is simply impractical given global disparities. Even affluent nations such as Canada and the United States, despite their strong economies, must balance competing demands such as healthcare, education, and infrastructure. Providing unlimited free water would place an unsustainable burden on public budgets. More importantly, in developing or war-torn regions, governments often lack the capacity to supply clean water at all, let alone for free. In sub-Saharan Africa, for example, millions of people still walk several kilometres daily to fetch water. To expect these countries to guarantee free household water is both politically unrealistic and socially unfair.",
+        "source_phrase": "public budgets",
+        "id": "2"
+      },
+      {
+        "phrase": "privacy",
+        "cn": "雇主在使用监控工具时应尊重员工隐私。",
+        "answer": "Employers should respect workers' privacy when using monitoring tools.",
+        "source_paragraph": 1,
+        "source": "The primary reason is that the right to clean water does not mean that it should be exempt from cost. Guaranteeing fundamental rights always requires significant resources and funding. For instance, privacy is safeguarded through surveillance and data protection systems, while the right to safety is upheld by police forces and emergency services, all of which demand considerable financial input. Likewise, the preservation, purification, and distribution of water require enormous investment in infrastructure and labour. Without water bills, governments would struggle to maintain treatment plants, pipelines, and monitoring systems. A vivid example is Singapore, where water pricing ensures both quality and sustainability; without user contributions, the country’s advanced desalination and recycling facilities would be impossible to operate.",
+        "source_phrase": "privacy",
+        "id": "3"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 1,
+        "source": "The primary reason is that the right to clean water does not mean that it should be exempt from cost. Guaranteeing fundamental rights always requires significant resources and funding. For instance, privacy is safeguarded through surveillance and data protection systems, while the right to safety is upheld by police forces and emergency services, all of which demand considerable financial input. Likewise, the preservation, purification, and distribution of water require enormous investment in infrastructure and labour. Without water bills, governments would struggle to maintain treatment plants, pipelines, and monitoring systems. A vivid example is Singapore, where water pricing ensures both quality and sustainability; without user contributions, the country’s advanced desalination and recycling facilities would be impossible to operate.",
+        "source_phrase": "financial",
+        "id": "4"
+      },
+      {
+        "phrase": "infrastructure",
+        "cn": "对数字基础设施的投资可以支持偏远地区的企业。",
+        "answer": "Investment in digital infrastructure can support businesses in remote areas.",
+        "source_paragraph": 1,
+        "source": "The primary reason is that the right to clean water does not mean that it should be exempt from cost. Guaranteeing fundamental rights always requires significant resources and funding. For instance, privacy is safeguarded through surveillance and data protection systems, while the right to safety is upheld by police forces and emergency services, all of which demand considerable financial input. Likewise, the preservation, purification, and distribution of water require enormous investment in infrastructure and labour. Without water bills, governments would struggle to maintain treatment plants, pipelines, and monitoring systems. A vivid example is Singapore, where water pricing ensures both quality and sustainability; without user contributions, the country’s advanced desalination and recycling facilities would be impossible to operate.",
+        "source_phrase": "infrastructure",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "transported to",
+        "cn": "接着，收获的橄榄被运往加工厂。",
+        "answer": "The harvested olives are then transported to a processing plant.",
+        "source_paragraph": 1,
+        "source": "The first reason is that having the right to clean water does not mean that water should always be free. Supplying clean water requires a large amount of money. Water needs to be collected, cleaned and transported to people's homes. Governments also need to build and maintain water treatment plants and pipelines. If households did not pay water bills, governments would have to cover all these costs through taxes or reduce spending in other areas. This could make it more difficult to provide a reliable water supply. Charging people a reasonable amount can help governments maintain water systems and provide clean water in the long term.",
+        "source_phrase": "transported to",
+        "id": "1"
+      },
+      {
+        "phrase": "free of charge",
+        "cn": "这个社区中心免费提供语言课程。",
+        "answer": "The community centre offers language classes free of charge.",
+        "source_paragraph": 0,
+        "source": "Access to clean water is a basic human right, so some people believe that every household should receive water free of charge. I disagree with this view because providing clean water costs money and many governments cannot afford to offer it for free.",
+        "source_phrase": "free of charge",
+        "id": "2"
+      },
+      {
+        "phrase": "public services",
+        "cn": "更好的宽带网络可以改善偏远村庄的公共服务。",
+        "answer": "Better broadband networks can improve public services in remote villages.",
+        "source_paragraph": 2,
+        "source": "Another reason is that countries have very different economic conditions. Even wealthy governments have limited budgets and need to spend money on healthcare, education, transport and many other public services. Providing free water to every household would increase this financial pressure. The situation is even more difficult in poorer countries. In some developing regions, many people still do not have easy access to clean water, and governments may not have enough money to build basic water systems. Their first priority should therefore be to make clean water available to more people rather than provide unlimited water free of charge.",
+        "source_phrase": "public services",
+        "id": "3"
+      },
+      {
+        "phrase": "in the long term",
+        "cn": "在长期来看，预防性医疗可以降低公共支出。",
+        "answer": "Preventive healthcare can reduce public spending in the long term.",
+        "source_paragraph": 1,
+        "source": "The first reason is that having the right to clean water does not mean that water should always be free. Supplying clean water requires a large amount of money. Water needs to be collected, cleaned and transported to people's homes. Governments also need to build and maintain water treatment plants and pipelines. If households did not pay water bills, governments would have to cover all these costs through taxes or reduce spending in other areas. This could make it more difficult to provide a reliable water supply. Charging people a reasonable amount can help governments maintain water systems and provide clean water in the long term.",
+        "source_phrase": "in the long term",
+        "id": "4"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 2,
+        "source": "Another reason is that countries have very different economic conditions. Even wealthy governments have limited budgets and need to spend money on healthcare, education, transport and many other public services. Providing free water to every household would increase this financial pressure. The situation is even more difficult in poorer countries. In some developing regions, many people still do not have easy access to clean water, and governments may not have enough money to build basic water systems. Their first priority should therefore be to make clean water available to more people rather than provide unlimited water free of charge.",
+        "source_phrase": "financial",
+        "id": "5"
+      }
+    ]
+  }
 }

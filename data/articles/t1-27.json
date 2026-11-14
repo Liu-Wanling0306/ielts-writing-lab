@@ -99,5 +99,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "throughout the period",
+        "cn": "在整个时期，铁路都是最受欢迎的出行方式。",
+        "answer": "Rail remained the most popular means of travel throughout the period.",
+        "source_paragraph": 3,
+        "source": "Changes in the southern half were less extensive. The ancient temple, located close to the sea in the southeast, remained in its original position throughout the period. However, a new ancient palace was built to its west on land that had previously been open. Although some greenery was retained in the southwest, the western side of the site as a whole became more built-up than it had been in 2004.",
+        "source_phrase": "throughout the period",
+        "id": "1"
+      },
+      {
+        "phrase": "remained unchanged",
+        "cn": "在这十年里，学校的主入口保持不变。",
+        "answer": "The school's main entrance remained unchanged over the decade.",
+        "source_paragraph": 1,
+        "source": "Overall, the site became considerably more developed over the ten-year period, with several new buildings and visitor facilities added, particularly in the northern and western areas. At the same time, some natural features were removed, while the ancient temple and the coastline remained unchanged.",
+        "source_phrase": "remained unchanged",
+        "id": "2"
+      },
+      {
+        "phrase": "had been removed",
+        "cn": "到2015年，学校西侧的树木已经被移除。",
+        "answer": "By 2015, the trees on the western side of the school had been removed.",
+        "source_paragraph": 2,
+        "source": "In 2004, the northern part of the site was relatively undeveloped, containing mountains, a small group of ancient houses and some greenery. By 2014, this area had undergone substantial redevelopment. The mountains had been removed, while the residential area in the northeast had been expanded to accommodate a much larger cluster of ancient houses. Immediately to the west, an ancient toilet was added, and a stadium was constructed in the northwest, replacing part of the previously open, tree-covered area.",
+        "source_phrase": "had been removed",
+        "id": "3"
+      },
+      {
+        "phrase": "substantial redevelopment",
+        "cn": "旧火车站已经经历了大规模改造。",
+        "answer": "The old railway station has undergone substantial redevelopment.",
+        "source_paragraph": 2,
+        "source": "In 2004, the northern part of the site was relatively undeveloped, containing mountains, a small group of ancient houses and some greenery. By 2014, this area had undergone substantial redevelopment. The mountains had been removed, while the residential area in the northeast had been expanded to accommodate a much larger cluster of ancient houses. Immediately to the west, an ancient toilet was added, and a stadium was constructed in the northwest, replacing part of the previously open, tree-covered area.",
+        "source_phrase": "substantial redevelopment",
+        "id": "4"
+      },
+      {
+        "phrase": "redevelopment",
+        "cn": "到2020年，旧港口已经经历了大规模改造。",
+        "answer": "By 2020, the old harbour had undergone substantial redevelopment.",
+        "source_paragraph": 2,
+        "source": "In 2004, the northern part of the site was relatively undeveloped, containing mountains, a small group of ancient houses and some greenery. By 2014, this area had undergone substantial redevelopment. The mountains had been removed, while the residential area in the northeast had been expanded to accommodate a much larger cluster of ancient houses. Immediately to the west, an ancient toilet was added, and a stadium was constructed in the northwest, replacing part of the previously open, tree-covered area.",
+        "source_phrase": "redevelopment",
+        "id": "5"
+      }
+    ]
+  }
 }

@@ -306,5 +306,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "physical activity",
+        "cn": "经常进行体育活动可以改善睡眠质量。",
+        "answer": "Regular physical activity can improve sleep quality.",
+        "source_paragraph": 2,
+        "source": "Mitigating this trend requires a multi-pronged approach involving both employers and urban planners. In the workplace, employers can encourage staff to incorporate more movement into the working day by introducing walking meetings, regular activity breaks and more flexible working arrangements. Such measures would enable employees to remain physically active without requiring them to set aside substantial additional time for exercise. From a structural perspective, municipal governments should make walking a practical and attractive part of urban life. This can be achieved by investing in safe and well-designed pedestrian paths, creating pedestrian-only zones and developing mixed-use neighbourhoods in which homes, workplaces and essential services are located closer together. These infrastructural changes would create more opportunities for incidental walkingand gradually restore physical activity to people’s everyday routines.",
+        "source_phrase": "physical activity",
+        "id": "1"
+      },
+      {
+        "phrase": "mental fatigue",
+        "cn": "定期短暂休息可以减轻办公室工作人员的心理疲劳。",
+        "answer": "Regular short breaks can reduce mental fatigue among office workers.",
+        "source_paragraph": 1,
+        "source": "A combination of increasingly sedentary working patterns and car-oriented urban development primarily accounts for this decline. Foremost is modern work culture, which frequently prioritises career advancement over physical well-being. Consequently, a significant proportion of the urban workforce is tethered to their desks for prolonged periods, fostering deeply ingrained sedentary habits. Even during their limited leisure time, mental fatigue often leads people to choose sedentary forms of relaxation at home rather than more active pursuits. Furthermore, continued urban sprawl has made walking impractical for many. As the distance between where people live and work increases, commuters become increasingly dependent on private vehicles or public transport, leaving far fewer opportunities for walking as part of their daily routines.",
+        "source_phrase": "mental fatigue",
+        "id": "2"
+      },
+      {
+        "phrase": "sedentary",
+        "cn": "长时间驾车可能导致久坐的生活方式。",
+        "answer": "Long hours of driving may contribute to a sedentary lifestyle.",
+        "source_paragraph": 0,
+        "source": "Despite widespread recognition among health professionals of the profound benefits of walking, there has been a noticeable decline in the amount of walking people do on a daily basis. This essay will explore the underlying drivers of this sedentary trend before proposing practical strategies to reverse it.",
+        "source_phrase": "sedentary",
+        "id": "3"
+      },
+      {
+        "phrase": "despite",
+        "cn": "尽管费用较高，夜间课程仍然很受欢迎。",
+        "answer": "Despite their higher cost, evening classes remained popular.",
+        "source_paragraph": 0,
+        "source": "Despite widespread recognition among health professionals of the profound benefits of walking, there has been a noticeable decline in the amount of walking people do on a daily basis. This essay will explore the underlying drivers of this sedentary trend before proposing practical strategies to reverse it.",
+        "source_phrase": "Despite",
+        "id": "4"
+      },
+      {
+        "phrase": "rather than",
+        "cn": "学校应奖励持续的努力，而不是只奖励高分。",
+        "answer": "Schools should reward sustained effort rather than only high scores.",
+        "source_paragraph": 1,
+        "source": "A combination of increasingly sedentary working patterns and car-oriented urban development primarily accounts for this decline. Foremost is modern work culture, which frequently prioritises career advancement over physical well-being. Consequently, a significant proportion of the urban workforce is tethered to their desks for prolonged periods, fostering deeply ingrained sedentary habits. Even during their limited leisure time, mental fatigue often leads people to choose sedentary forms of relaxation at home rather than more active pursuits. Furthermore, continued urban sprawl has made walking impractical for many. As the distance between where people live and work increases, commuters become increasingly dependent on private vehicles or public transport, leaving far fewer opportunities for walking as part of their daily routines.",
+        "source_phrase": "rather than",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "physical activity",
+        "cn": "经常进行体育活动可以改善睡眠质量。",
+        "answer": "Regular physical activity can improve sleep quality.",
+        "source_paragraph": 2,
+        "source": "Several measures can be taken to address these problems. First, employers should encourage workers to be more physically active during the working day. For example, companies could introduce short activity breaks and walking meetings, allowing employees to move around without spending extra time exercising after work. Second, local governments should make cities more suitable for walking. They could build safer pavements, create pedestrian-only areas and encourage the development of neighbourhoods where homes, workplaces and shops are located close together. When people can easily walk to work or buy everyday products, they are more likely to choose walking instead of driving. These changes would help people include more physical activity in their daily routines.",
+        "source_phrase": "physical activity",
+        "id": "1"
+      },
+      {
+        "phrase": "sedentary",
+        "cn": "长时间驾车可能导致久坐的生活方式。",
+        "answer": "Long hours of driving may contribute to a sedentary lifestyle.",
+        "source_paragraph": 3,
+        "source": "In conclusion, people are walking less mainly because of sedentary working patterns and car-oriented urban development. By encouraging physical activity at work and making cities more pedestrian- friendly, employers and governments can help people walk more regularly.",
+        "source_phrase": "sedentary",
+        "id": "2"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "Although health experts often recommend walking as a simple way to stay healthy, many people are walking less in their daily lives. This essay will discuss the main reasons for this trend and suggest some practical solutions.",
+        "source_phrase": "Although",
+        "id": "3"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 2,
+        "source": "Several measures can be taken to address these problems. First, employers should encourage workers to be more physically active during the working day. For example, companies could introduce short activity breaks and walking meetings, allowing employees to move around without spending extra time exercising after work. Second, local governments should make cities more suitable for walking. They could build safer pavements, create pedestrian-only areas and encourage the development of neighbourhoods where homes, workplaces and shops are located close together. When people can easily walk to work or buy everyday products, they are more likely to choose walking instead of driving. These changes would help people include more physical activity in their daily routines.",
+        "source_phrase": "For example",
+        "id": "4"
+      },
+      {
+        "phrase": "As a result",
+        "cn": "火车票变得更便宜。因此，更多游客选择了铁路出行。",
+        "answer": "Train tickets became cheaper. As a result, more tourists chose to travel by rail.",
+        "source_paragraph": 1,
+        "source": "There are two main reasons why people are walking less nowadays. The first is that modern working patterns encourage people to spend long hours sitting. Many office workers have to remain at their desks for most of the day, leaving them with few opportunities to move around. After work, they may also feel too tired to exercise and prefer relaxing at home. Another reason is that many cities have been designed mainly for cars rather than pedestrians. As cities expand, people often live far away from their workplaces, shops and other services. As a result, they become more dependent on cars or public transport instead of walking.",
+        "source_phrase": "As a result",
+        "id": "5"
+      }
+    ]
+  }
 }

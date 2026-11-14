@@ -95,5 +95,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "employment rate",
+        "cn": "在加拿大，年轻人的就业率在夏季达到了65%。",
+        "answer": "In Canada, the employment rate among young people reached 65% in summer.",
+        "source_paragraph": 3,
+        "source": "As for the employment of 24-to-30-year-olds in medical services, Poland presented a striking contrast to its low financial investment; it led the group by a wide margin, with over half (54%) of its young population working in this field. Italy followed with 40%. Spain and Iceland reported moderated figures of 34% and 29% respectively. Finland, meanwhile, registered the lowest employment rate in this category, with exactly a quarter (25%) of this age demographic working in medical services.",
+        "source_phrase": "employment rate",
+        "id": "1"
+      },
+      {
+        "phrase": "the proportion of",
+        "cn": "乘坐公交车上班的人的比例降至15%。",
+        "answer": "The proportion of people commuting by bus fell to 15%.",
+        "source_paragraph": 0,
+        "source": "The table illustrates the proportion of national budgets dedicated to healthcare, alongside the percentage of young adults (aged 24 to 30) employed in the medical field, across five European nations in the year 2006.",
+        "source_phrase": "the proportion of",
+        "id": "2"
+      },
+      {
+        "phrase": "the percentage of",
+        "cn": "2010年，拥有自行车的家庭百分比升至45%。",
+        "answer": "The percentage of households owning a bicycle rose to 45% in 2010.",
+        "source_paragraph": 0,
+        "source": "The table illustrates the proportion of national budgets dedicated to healthcare, alongside the percentage of young adults (aged 24 to 30) employed in the medical field, across five European nations in the year 2006.",
+        "source_phrase": "the percentage of",
+        "id": "3"
+      },
+      {
+        "phrase": "In terms of",
+        "cn": "就总收入而言，旅游业在三个行业中排名第一。",
+        "answer": "In terms of total revenue, tourism ranked first among the three sectors.",
+        "source_paragraph": 2,
+        "source": "In terms of public expenditure, Italy stood out by directing over a quarter (27%) of its national budget toward healthcare. This figure was more than double that of Spain, which recorded the second highest spending at 13%. The remaining three countries allocated considerably less, with Iceland and Finland spending 11% and 9% respectively. Poland committed the smallest fraction of its budget to this sector, at a mere 5%.",
+        "source_phrase": "In terms of",
+        "id": "4"
+      },
+      {
+        "phrase": "employment",
+        "cn": "清洁能源投资可以创造新的就业机会。",
+        "answer": "Investment in clean energy can create new employment opportunities.",
+        "source_paragraph": 3,
+        "source": "As for the employment of 24-to-30-year-olds in medical services, Poland presented a striking contrast to its low financial investment; it led the group by a wide margin, with over half (54%) of its young population working in this field. Italy followed with 40%. Spain and Iceland reported moderated figures of 34% and 29% respectively. Finland, meanwhile, registered the lowest employment rate in this category, with exactly a quarter (25%) of this age demographic working in medical services.",
+        "source_phrase": "employment",
+        "id": "5"
+      }
+    ]
+  }
 }

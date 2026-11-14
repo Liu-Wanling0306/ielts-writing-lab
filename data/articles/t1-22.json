@@ -89,5 +89,45 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "under running water",
+        "cn": "包装之前，先在流动水下清洗蔬菜。",
+        "answer": "The vegetables are washed under running water before being packaged.",
+        "source_paragraph": 2,
+        "source": "At the first stage, 4 kilograms of fruit are washed under running water and then crushed into a pulp with a masher. Once the fruit has been prepared, 1 cup of water, 1/4 cup of sugar and 2 tablespoons of peanuts are added to it. The mixture is then cooked over a high heat for 10 minutes.",
+        "source_phrase": "under running water",
+        "id": "1"
+      },
+      {
+        "phrase": "crushed into",
+        "cn": "随后，葡萄被压成浆以便提取果汁。",
+        "answer": "The grapes are then crushed into a pulp to extract the juice.",
+        "source_paragraph": 2,
+        "source": "At the first stage, 4 kilograms of fruit are washed under running water and then crushed into a pulp with a masher. Once the fruit has been prepared, 1 cup of water, 1/4 cup of sugar and 2 tablespoons of peanuts are added to it. The mixture is then cooked over a high heat for 10 minutes.",
+        "source_phrase": "crushed into",
+        "id": "2"
+      },
+      {
+        "phrase": "sealed with lids",
+        "cn": "冷却后，罐子被盖子密封。",
+        "answer": "After cooling, the jars are sealed with lids.",
+        "source_paragraph": 3,
+        "source": "After this initial cooking stage, the partly cooked mixture is combined with a further 4 cups of water and 2 more cups of sugar. It is then heated again at a high temperature, this time for half an hour, which is considerably longer than the first cooking period. When this stage has been completed, the jam is poured into several containers. Finally, the containers are sealed with lids and left for one hour, after which the jam is ready to be consumed.",
+        "source_phrase": "sealed with lids",
+        "id": "3"
+      },
+      {
+        "phrase": "sealed",
+        "cn": "灌装后，瓶子被密封并贴上标签。",
+        "answer": "After filling, the bottles are sealed and labelled.",
+        "source_paragraph": 1,
+        "source": "Overall, jam production follows a clear linear sequence, beginning with the washing and mashing of the fruit and ending with the jam being sealed in containers after two separate stages of cooking. It is also noticeable that sugar and water are added twice during the process, with larger amounts used in the second heating stage.",
+        "source_phrase": "sealed",
+        "id": "4"
+      }
+    ]
+  }
 }

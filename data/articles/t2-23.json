@@ -325,5 +325,83 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "local residents",
+        "cn": "更好的公交服务可以让当地居民更方便地前往海岸。",
+        "answer": "Better bus services can make the coast more accessible to local residents.",
+        "source_paragraph": 0,
+        "source": "It is often observed that museums and historical landmarks are predominantly frequented by tourists, while local residents rarely visit them. This situation is mainly caused by the static nature of many exhibitions and the inconvenience created by overcrowding. However, by redefining museums as dynamic community spaces and adopting resident-oriented policies, this trend can be effectively reversed.",
+        "source_phrase": "local residents",
+        "id": "1"
+      },
+      {
+        "phrase": "identity",
+        "cn": "传统节日可以增强人们的文化认同。",
+        "answer": "Traditional festivals can strengthen people's cultural identity.",
+        "source_paragraph": 2,
+        "source": "To attract local people, museums must move beyond their identity as tourist attractions and function as active cultural centres. One effective strategy is to organise temporary and rotating exhibitions that provide novelty. By collaborating with international institutions or hosting themed exhibitions, museums can give residents fresh incentives to return. In addition, administrative measures should be introduced to prioritise local accessibility. For instance, many major cities offer discounted entry, annual passes, or special visiting hours for residents, allowing them to enjoy exhibitions without the pressure of tourist crowds. Such initiatives reinforce the idea that museums belong to the local community rather than to transient visitors alone.",
+        "source_phrase": "identity",
+        "id": "2"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 0,
+        "source": "It is often observed that museums and historical landmarks are predominantly frequented by tourists, while local residents rarely visit them. This situation is mainly caused by the static nature of many exhibitions and the inconvenience created by overcrowding. However, by redefining museums as dynamic community spaces and adopting resident-oriented policies, this trend can be effectively reversed.",
+        "source_phrase": "However",
+        "id": "3"
+      },
+      {
+        "phrase": "In addition",
+        "cn": "图书馆提供免费网络。此外，它还组织读书小组。",
+        "answer": "The library provides free internet access. In addition, it organises reading groups.",
+        "source_paragraph": 2,
+        "source": "To attract local people, museums must move beyond their identity as tourist attractions and function as active cultural centres. One effective strategy is to organise temporary and rotating exhibitions that provide novelty. By collaborating with international institutions or hosting themed exhibitions, museums can give residents fresh incentives to return. In addition, administrative measures should be introduced to prioritise local accessibility. For instance, many major cities offer discounted entry, annual passes, or special visiting hours for residents, allowing them to enjoy exhibitions without the pressure of tourist crowds. Such initiatives reinforce the idea that museums belong to the local community rather than to transient visitors alone.",
+        "source_phrase": "In addition",
+        "id": "4"
+      },
+      {
+        "phrase": "As a result",
+        "cn": "火车票变得更便宜。因此，更多游客选择了铁路出行。",
+        "answer": "Train tickets became cheaper. As a result, more tourists chose to travel by rail.",
+        "source_paragraph": 1,
+        "source": "One major reason for the lack of local engagement is the so-called “one-off” mentality. Many residents associate museums with compulsory school trips during their formative years and feel that once they have seen the permanent collections, there is little reason to return. Unlike cinemas or theatres, which constantly update their content, historical sites often display the same artifacts for decades. As a result, locals believe they have already exhausted what these venues have to offer. Another equally influential factor is overtourism. Iconic sites such as the Louvre or the Forbidden City are widely associated with long queues, dense crowds, and a stressful atmosphere. For residents seeking relaxation, these places become areas to avoid rather than revisit, with parks or shopping centres offering a more comfortable alternative.",
+        "source_phrase": "As a result",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "local residents",
+        "cn": "更好的公交服务可以让当地居民更方便地前往海岸。",
+        "answer": "Better bus services can make the coast more accessible to local residents.",
+        "source_paragraph": 0,
+        "source": "Museums and historical sites are often more popular with tourists than local residents. This is mainly because their exhibitions rarely change and these places can become too crowded. However, several measures can be taken to encourage more local people to visit them.",
+        "source_phrase": "local residents",
+        "id": "1"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 0,
+        "source": "Museums and historical sites are often more popular with tourists than local residents. This is mainly because their exhibitions rarely change and these places can become too crowded. However, several measures can be taken to encourage more local people to visit them.",
+        "source_phrase": "However",
+        "id": "2"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 2,
+        "source": "There are several ways to address these problems. First, museums should regularly introduce new exhibitions to give local residents a reason to return. For example, they could display different collections or organise special exhibitions on local history and culture. This would make each visit more interesting and encourage people to come back. Second, museums and historical sites could offer discounts or annual passes to local residents, making regular visits more affordable. They could also introduce special visiting hours for residents so that they can enjoy the exhibitions without large tourist crowds. These measures would make museums more convenient and attractive to people living nearby.",
+        "source_phrase": "For example",
+        "id": "3"
+      }
+    ]
+  }
 }

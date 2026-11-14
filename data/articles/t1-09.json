@@ -100,5 +100,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "the figure for",
+        "cn": "自行车使用者的数值在2020年达到了两万人。",
+        "answer": "The figure for bicycle users reached 20,000 in 2020.",
+        "source_paragraph": 3,
+        "source": "Turning to the less commonly used functions, just 17% of mobile phone owners used their devices to play games, but this figure surged to 42% in 2008 before falling modestly to 41% by 2010. The proportion using mobile phones to play music more than doubled, from 12% in 2006 to 26% in 2010. By comparison, while no specific data was available for recording video in 2006, the figure for this function soared from 9% in 2008 to 35% in 2010.",
+        "source_phrase": "the figure for",
+        "id": "1"
+      },
+      {
+        "phrase": "rose sharply",
+        "cn": "电动汽车销量从2015年到2020年急剧上升。",
+        "answer": "Sales of electric cars rose sharply between 2015 and 2020.",
+        "source_paragraph": 2,
+        "source": "Regarding the most used features, 100% of mobile phone owners used their devices to make calls in both 2006 and 2008, although there was a slight decrease of 1% in 2010. Following this, text messaging, including sending and receiving messages, and taking photos were both among the most frequently used features, with figures rising from 73% to 79%, and from 66% to 76%, respectively. By comparison, although no data was reported for Internet use in 2006, the percentage of mobile phone owners using it rose sharply from 41% in 2008 to 73% in 2010, making it the fourth most used feature by that time.",
+        "source_phrase": "rose sharply",
+        "id": "2"
+      },
+      {
+        "phrase": "the percentage of",
+        "cn": "2010年，拥有自行车的家庭百分比升至45%。",
+        "answer": "The percentage of households owning a bicycle rose to 45% in 2010.",
+        "source_paragraph": 2,
+        "source": "Regarding the most used features, 100% of mobile phone owners used their devices to make calls in both 2006 and 2008, although there was a slight decrease of 1% in 2010. Following this, text messaging, including sending and receiving messages, and taking photos were both among the most frequently used features, with figures rising from 73% to 79%, and from 66% to 76%, respectively. By comparison, although no data was reported for Internet use in 2006, the percentage of mobile phone owners using it rose sharply from 41% in 2008 to 73% in 2010, making it the fourth most used feature by that time.",
+        "source_phrase": "the percentage of",
+        "id": "3"
+      },
+      {
+        "phrase": "growth",
+        "cn": "幼苗随后被转移到温室，继续生长。",
+        "answer": "The seedlings are then transferred to a greenhouse for further growth.",
+        "source_paragraph": 1,
+        "source": "Overall, making calls remained the most popular feature throughout, despite a negligible drop by the final year. Usage of most other functions increased over the period, with Internet access and video recording seeing particularly sharp growth between 2008 and 2010, although no data was available for either in 2006.",
+        "source_phrase": "growth",
+        "id": "4"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 1,
+        "source": "Overall, making calls remained the most popular feature throughout, despite a negligible drop by the final year. Usage of most other functions increased over the period, with Internet access and video recording seeing particularly sharp growth between 2008 and 2010, although no data was available for either in 2006.",
+        "source_phrase": "although",
+        "id": "5"
+      }
+    ]
+  }
 }

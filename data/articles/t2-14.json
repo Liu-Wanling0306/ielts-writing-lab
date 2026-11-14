@@ -260,5 +260,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 2,
+        "source": "Moreover, even when certain news stories appear unrelated to personal routines, engaging with traditional media is far from pointless. Reading newspapers encourages sustained concentration, patience, and critical thinking—skills that are increasingly rare in an age of fragmented social media content. Meanwhile, watching news programmes often serves as a shared family activity, allowing parents and children or different generations to exchange views and reflect on social issues together. In these moments, news acts as a common reference point that strengthens family bonds and promotes civic awareness.",
+        "source_phrase": "social media",
+        "id": "1"
+      },
+      {
+        "phrase": "public-health",
+        "cn": "本地广播可以及时传播公共卫生信息。",
+        "answer": "Local radio can spread public-health information promptly.",
+        "source_paragraph": 1,
+        "source": "Firstly, news is closely intertwined with people’s daily decision-making. In an era dominated by digital platforms, traditional news outlets such as newspapers and television programmes are often more reliable than unregulated online sources. This credibility stems from long-established professional standards, including fact-checking and editorial oversight. As a result, many individuals continue to base their opinions and actions on journalistic reporting. During the COVID-19 pandemic, for instance, people across the world relied on television news to access public-health updates and government guidance, which directly influenced their behaviour. It is therefore unreasonable to suggest that news is detached from real life.",
+        "source_phrase": "public-health",
+        "id": "2"
+      },
+      {
+        "phrase": "As a result",
+        "cn": "火车票变得更便宜。因此，更多游客选择了铁路出行。",
+        "answer": "Train tickets became cheaper. As a result, more tourists chose to travel by rail.",
+        "source_paragraph": 1,
+        "source": "Firstly, news is closely intertwined with people’s daily decision-making. In an era dominated by digital platforms, traditional news outlets such as newspapers and television programmes are often more reliable than unregulated online sources. This credibility stems from long-established professional standards, including fact-checking and editorial oversight. As a result, many individuals continue to base their opinions and actions on journalistic reporting. During the COVID-19 pandemic, for instance, people across the world relied on television news to access public-health updates and government guidance, which directly influenced their behaviour. It is therefore unreasonable to suggest that news is detached from real life.",
+        "source_phrase": "As a result",
+        "id": "3"
+      },
+      {
+        "phrase": "Meanwhile",
+        "cn": "学校新建了一座体育馆。与此同时，旧图书馆得到了翻新。",
+        "answer": "The school built a new sports hall. Meanwhile, the old library was renovated.",
+        "source_paragraph": 2,
+        "source": "Moreover, even when certain news stories appear unrelated to personal routines, engaging with traditional media is far from pointless. Reading newspapers encourages sustained concentration, patience, and critical thinking—skills that are increasingly rare in an age of fragmented social media content. Meanwhile, watching news programmes often serves as a shared family activity, allowing parents and children or different generations to exchange views and reflect on social issues together. In these moments, news acts as a common reference point that strengthens family bonds and promotes civic awareness.",
+        "source_phrase": "Meanwhile",
+        "id": "4"
+      },
+      {
+        "phrase": "despite",
+        "cn": "尽管费用较高，夜间课程仍然很受欢迎。",
+        "answer": "Despite their higher cost, evening classes remained popular.",
+        "source_paragraph": 0,
+        "source": "News consumption remains an integral part of modern life, despite claims that reading newspapers or watching television news is a waste of time. I strongly disagree with this view, as it overlooks both the practical relevance of news and its broader social value.",
+        "source_phrase": "despite",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "compared with",
+        "cn": "2020年，A城有40%的居民骑车，而B城为25%。",
+        "answer": "In 2020, 40% of residents in City A cycled, compared with 25% in City B.",
+        "source_paragraph": 1,
+        "source": "The first reason is that news is closely connected to people's everyday lives. Newspapers and television news programmes can provide important information about health, the economy and government policies. Compared with information shared on social media, reports from established news organisations are often more reliable because they usually go through fact-checking before being published. This helps people make better decisions in their daily lives. For example, during the COVID- 19 pandemic, many people watched television news to learn about health advice and changes in public rules. They could then use this information to protect themselves and make plans for work or travel. Therefore, it is wrong to say that news has no connection to people's lives.",
+        "source_phrase": "Compared with",
+        "id": "1"
+      },
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 1,
+        "source": "The first reason is that news is closely connected to people's everyday lives. Newspapers and television news programmes can provide important information about health, the economy and government policies. Compared with information shared on social media, reports from established news organisations are often more reliable because they usually go through fact-checking before being published. This helps people make better decisions in their daily lives. For example, during the COVID- 19 pandemic, many people watched television news to learn about health advice and changes in public rules. They could then use this information to protect themselves and make plans for work or travel. Therefore, it is wrong to say that news has no connection to people's lives.",
+        "source_phrase": "social media",
+        "id": "2"
+      },
+      {
+        "phrase": "reliable information",
+        "cn": "消费者需要关于产品安全的可靠信息。",
+        "answer": "Consumers need reliable information about product safety.",
+        "source_paragraph": 3,
+        "source": "In conclusion, I strongly disagree that reading newspapers and watching television news is a waste of time. News not only provides reliable information that helps people make decisions but also improves their thinking skills and encourages communication among family members.",
+        "source_phrase": "reliable information",
+        "id": "3"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 1,
+        "source": "The first reason is that news is closely connected to people's everyday lives. Newspapers and television news programmes can provide important information about health, the economy and government policies. Compared with information shared on social media, reports from established news organisations are often more reliable because they usually go through fact-checking before being published. This helps people make better decisions in their daily lives. For example, during the COVID- 19 pandemic, many people watched television news to learn about health advice and changes in public rules. They could then use this information to protect themselves and make plans for work or travel. Therefore, it is wrong to say that news has no connection to people's lives.",
+        "source_phrase": "For example",
+        "id": "4"
+      },
+      {
+        "phrase": "In addition",
+        "cn": "图书馆提供免费网络。此外，它还组织读书小组。",
+        "answer": "The library provides free internet access. In addition, it organises reading groups.",
+        "source_paragraph": 2,
+        "source": "Another reason is that reading and watching the news can be valuable even when the information does not directly affect us. Reading newspaper articles requires people to concentrate on longer pieces of writing and think carefully about different issues. This can help them develop their reading and thinking skills. In addition, watching television news can bring family members together. For example, parents and children may watch a news programme and then discuss important events or social problems. Such conversations allow them to share opinions and understand each other better. News can therefore help people develop useful skills and improve communication within families.",
+        "source_phrase": "In addition",
+        "id": "5"
+      }
+    ]
+  }
 }

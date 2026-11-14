@@ -130,5 +130,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "the figure for",
+        "cn": "自行车使用者的数值在2020年达到了两万人。",
+        "answer": "The figure for bicycle users reached 20,000 in 2020.",
+        "source_paragraph": 2,
+        "source": "The US consistently generated a considerably greater amount of waste than the other countries shown. Its figure rose steadily from 131 million tonnes in 1980 to 151 million tonnes in 1990, before reaching 192 million tonnes in 2000. Japan also produced a relatively large volume of waste, with its figure increasing moderately from 28 million tonnes in 1980 to 32 million tonnes in 1990, followed by a more substantial rise to 53 million tonnes in 2000. Meanwhile, although the figure for Korea in 1980 was unavailable, its waste output fell from 31 million tonnes in 1990 to 19 million tonnes by 2000.",
+        "source_phrase": "the figure for",
+        "id": "1"
+      },
+      {
+        "phrase": "throughout the period",
+        "cn": "在整个时期，铁路都是最受欢迎的出行方式。",
+        "answer": "Rail remained the most popular means of travel throughout the period.",
+        "source_paragraph": 1,
+        "source": "Overall, waste production generally increased in the countries where comparable data was available, with the US remaining by far the largest waste producer throughout the period. By contrast, Korea was the only country to record a decline between 1990 and 2000.",
+        "source_phrase": "throughout the period",
+        "id": "2"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 2,
+        "source": "The US consistently generated a considerably greater amount of waste than the other countries shown. Its figure rose steadily from 131 million tonnes in 1980 to 151 million tonnes in 1990, before reaching 192 million tonnes in 2000. Japan also produced a relatively large volume of waste, with its figure increasing moderately from 28 million tonnes in 1980 to 32 million tonnes in 1990, followed by a more substantial rise to 53 million tonnes in 2000. Meanwhile, although the figure for Korea in 1980 was unavailable, its waste output fell from 31 million tonnes in 1990 to 19 million tonnes by 2000.",
+        "source_phrase": "although",
+        "id": "3"
+      },
+      {
+        "phrase": "By contrast",
+        "cn": "2020年，公交车使用量增加。相比之下，出租车使用量下降。",
+        "answer": "Bus use increased in 2020. By contrast, taxi use declined.",
+        "source_paragraph": 1,
+        "source": "Overall, waste production generally increased in the countries where comparable data was available, with the US remaining by far the largest waste producer throughout the period. By contrast, Korea was the only country to record a decline between 1990 and 2000.",
+        "source_phrase": "By contrast",
+        "id": "4"
+      },
+      {
+        "phrase": "Meanwhile",
+        "cn": "学校新建了一座体育馆。与此同时，旧图书馆得到了翻新。",
+        "answer": "The school built a new sports hall. Meanwhile, the old library was renovated.",
+        "source_paragraph": 2,
+        "source": "The US consistently generated a considerably greater amount of waste than the other countries shown. Its figure rose steadily from 131 million tonnes in 1980 to 151 million tonnes in 1990, before reaching 192 million tonnes in 2000. Japan also produced a relatively large volume of waste, with its figure increasing moderately from 28 million tonnes in 1980 to 32 million tonnes in 1990, followed by a more substantial rise to 53 million tonnes in 2000. Meanwhile, although the figure for Korea in 1980 was unavailable, its waste output fell from 31 million tonnes in 1990 to 19 million tonnes by 2000.",
+        "source_phrase": "Meanwhile",
+        "id": "5"
+      }
+    ]
+  }
 }

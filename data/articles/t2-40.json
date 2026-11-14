@@ -275,5 +275,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 1,
+        "source": "There is no doubt that technology greatly facilitates our knowledge of other countries due to the efficiency and connectivity it brings to modern individuals. Social media platforms, such as TikTok and Instagram, act as large windows to the bigger outside world. A 7-year-old kid from Texas, USA, can virtually visit the Great Wall of China, while an aspiring young writer living in rural India can draw inspiring ideas for their work by watching a documentary on TV featuring the development of ancient Egyptian culture. These technological tools provide immediate access to information, facilitating global exploration from the comfort of one’s home.",
+        "source_phrase": "Social media",
+        "id": "1"
+      },
+      {
+        "phrase": "immediate access to",
+        "cn": "电子病历使医生能够即时获取重要信息。",
+        "answer": "Electronic medical records give doctors immediate access to important information.",
+        "source_paragraph": 1,
+        "source": "There is no doubt that technology greatly facilitates our knowledge of other countries due to the efficiency and connectivity it brings to modern individuals. Social media platforms, such as TikTok and Instagram, act as large windows to the bigger outside world. A 7-year-old kid from Texas, USA, can virtually visit the Great Wall of China, while an aspiring young writer living in rural India can draw inspiring ideas for their work by watching a documentary on TV featuring the development of ancient Egyptian culture. These technological tools provide immediate access to information, facilitating global exploration from the comfort of one’s home.",
+        "source_phrase": "immediate access to",
+        "id": "2"
+      },
+      {
+        "phrase": "firsthand experience",
+        "cn": "实习能让学生获得工作场所的亲身体验。",
+        "answer": "Internships give students firsthand experience of the workplace.",
+        "source_paragraph": 2,
+        "source": "However, such knowledge is often superficial and lacks the depth that comes from direct experience. On the contrary, traveling to a country offers a more unfiltered understanding, as it allows people to immerse themselves in local culture. When people travel to a new country, they visit local museums and historical sites, where they are instantly and directly presented with the most significant traditions and cultural highlights. Further, during their trips, they go to restaurants, participate in local festivals and ceremonies, and interact with new friends made through these events. As some famous writers suggest, “you don’t get to know a place unless you spend some time living there.” This quote illustrates the importance of firsthand experience in gaining a true understanding of a culture. More importantly, the connections made during travels can offer lasting insights, as travelers remain informed about the country’s developments even after their return.",
+        "source_phrase": "firsthand experience",
+        "id": "3"
+      },
+      {
+        "phrase": "an important role in",
+        "cn": "同伴支持在帮助新生适应大学生活方面发挥重要作用。",
+        "answer": "Peer support plays an important role in helping new students adjust to university life.",
+        "source_paragraph": 3,
+        "source": "To conclude, while technology plays an important role in providing access to information, it cannot replace the depth of understanding gained through travel. To truly appreciate and understand another culture, experiencing it in person remains the most effective approach.",
+        "source_phrase": "an important role in",
+        "id": "4"
+      },
+      {
+        "phrase": "cultural understanding",
+        "cn": "一起做志愿服务有助于增进不同背景人群之间的文化理解。",
+        "answer": "Volunteering together can improve cultural understanding among people from different backgrounds.",
+        "source_paragraph": 0,
+        "source": "Many modern individuals believe that to genuinely understand other countries, traveling there is essential. But some hold the belief that people can know other nations and their cultures through watching TV and browsing the internet. This essay will examine both perspectives and argue that traveling abroad is a far more reliable approach, as it provides in-depth cultural understanding, authentic local experience, and immersive interactions.",
+        "source_phrase": "cultural understanding",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "over time",
+        "cn": "随着时间推移，现金支付变得不那么普遍。",
+        "answer": "Cash payments became less common over time.",
+        "source_paragraph": 2,
+        "source": "On the other hand, information gained from television and the Internet cannot fully replace personal experience. When people travel abroad, they can experience another culture directly rather than simply watching it on a screen. They can visit museums and historical sites, try local food, take part in traditional festivals and observe how local people live. More importantly, travellers have opportunities to communicate with local people and learn about their opinions, habits and values. These experiences often provide a deeper understanding of a country than online information alone. Friendships made during a trip may also continue after travellers return home, allowing them to learn more about changes in that country over time.",
+        "source_phrase": "over time",
+        "id": "1"
+      },
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 1,
+        "source": "On the one hand, television and the Internet are convenient ways to learn about other countries. Today, people can easily find information about almost any place in the world without leaving their homes. Social media platforms allow users to watch videos about famous tourist attractions, local food and people's daily lives. Documentaries can also provide detailed information about the history and culture of different nations. For example, a child in the United States can take a virtual tour of the Great Wall of China, while someone interested in Egypt can watch a documentary about its ancient history. Therefore, modern technology makes knowledge about foreign countries available to a much larger number of people at a low cost.",
+        "source_phrase": "Social media",
+        "id": "2"
+      },
+      {
+        "phrase": "knowledge",
+        "cn": "公共广播可以帮助听众拓宽科学知识。",
+        "answer": "Public broadcasting can help listeners broaden their scientific knowledge.",
+        "source_paragraph": 1,
+        "source": "On the one hand, television and the Internet are convenient ways to learn about other countries. Today, people can easily find information about almost any place in the world without leaving their homes. Social media platforms allow users to watch videos about famous tourist attractions, local food and people's daily lives. Documentaries can also provide detailed information about the history and culture of different nations. For example, a child in the United States can take a virtual tour of the Great Wall of China, while someone interested in Egypt can watch a documentary about its ancient history. Therefore, modern technology makes knowledge about foreign countries available to a much larger number of people at a low cost.",
+        "source_phrase": "knowledge",
+        "id": "3"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 3,
+        "source": "In conclusion, television and the Internet provide a convenient and affordable way to learn about other countries. However, I believe travelling abroad is more effective because direct experience and communication with local people can provide a deeper understanding of another culture.",
+        "source_phrase": "However",
+        "id": "4"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 1,
+        "source": "On the one hand, television and the Internet are convenient ways to learn about other countries. Today, people can easily find information about almost any place in the world without leaving their homes. Social media platforms allow users to watch videos about famous tourist attractions, local food and people's daily lives. Documentaries can also provide detailed information about the history and culture of different nations. For example, a child in the United States can take a virtual tour of the Great Wall of China, while someone interested in Egypt can watch a documentary about its ancient history. Therefore, modern technology makes knowledge about foreign countries available to a much larger number of people at a low cost.",
+        "source_phrase": "For example",
+        "id": "5"
+      }
+    ]
+  }
 }

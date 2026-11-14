@@ -110,5 +110,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "rose from",
+        "cn": "公交车出行的比例从20%上升到了35%。",
+        "answer": "The proportion of journeys made by bus rose from 20% to 35%.",
+        "source_paragraph": 2,
+        "source": "Malaysia saw the most substantial overall increase, with the proportion of urban residents rising from 30% in 1970 to about 60% in 2000 and approximately 75% in 2020. This figure is projected to continue climbing, reaching just over 80% by 2040. Indonesia followed a similar upward trend, although from a much lower starting point. Its urban population rose from around 13% in 1970 to 30% in 2000 before increasing sharply to just above 50% in 2020, with a further rise to the mid-60s predicted by 2040.",
+        "source_phrase": "rose from",
+        "id": "1"
+      },
+      {
+        "phrase": "throughout the period",
+        "cn": "在整个时期，铁路都是最受欢迎的出行方式。",
+        "answer": "Rail remained the most popular means of travel throughout the period.",
+        "source_paragraph": 3,
+        "source": "The Philippines and Thailand experienced more moderate changes. The former rose to nearly50% in 1990, before declining slightly and then recovering gradually to around 55% by 2040. Thailand, meanwhile, showed steady growth throughout the period, increasing from below 20% in 1970 to a projected 50% at the end of the time frame.",
+        "source_phrase": "throughout the period",
+        "id": "2"
+      },
+      {
+        "phrase": "the proportion of",
+        "cn": "乘坐公交车上班的人的比例降至15%。",
+        "answer": "The proportion of people commuting by bus fell to 15%.",
+        "source_paragraph": 2,
+        "source": "Malaysia saw the most substantial overall increase, with the proportion of urban residents rising from 30% in 1970 to about 60% in 2000 and approximately 75% in 2020. This figure is projected to continue climbing, reaching just over 80% by 2040. Indonesia followed a similar upward trend, although from a much lower starting point. Its urban population rose from around 13% in 1970 to 30% in 2000 before increasing sharply to just above 50% in 2020, with a further rise to the mid-60s predicted by 2040.",
+        "source_phrase": "the proportion of",
+        "id": "3"
+      },
+      {
+        "phrase": "is projected to",
+        "cn": "该市人口预计到2040年将达到两百万。",
+        "answer": "The city's population is projected to reach two million by 2040.",
+        "source_paragraph": 2,
+        "source": "Malaysia saw the most substantial overall increase, with the proportion of urban residents rising from 30% in 1970 to about 60% in 2000 and approximately 75% in 2020. This figure is projected to continue climbing, reaching just over 80% by 2040. Indonesia followed a similar upward trend, although from a much lower starting point. Its urban population rose from around 13% in 1970 to 30% in 2000 before increasing sharply to just above 50% in 2020, with a further rise to the mid-60s predicted by 2040.",
+        "source_phrase": "is projected to",
+        "id": "4"
+      },
+      {
+        "phrase": "growth",
+        "cn": "幼苗随后被转移到温室，继续生长。",
+        "answer": "The seedlings are then transferred to a greenhouse for further growth.",
+        "source_paragraph": 1,
+        "source": "Overall, urbanisation increased in all four countries over the period. While the Philippines recorded the highest proportions in the earlier years, Malaysia became the most urbanised country from 2000 onwards and is expected to maintain this position by 2040. Indonesia also experienced particularly rapid growth after 2000.",
+        "source_phrase": "growth",
+        "id": "5"
+      }
+    ]
+  }
 }

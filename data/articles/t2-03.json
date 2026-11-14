@@ -243,5 +243,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "computer literacy",
+        "cn": "基础的电脑技能可以帮助老年人使用在线医疗服务。",
+        "answer": "Basic computer literacy can help older people access online healthcare services.",
+        "source_paragraph": 0,
+        "source": "In today’s society, an increasing number of individuals consider advanced computer literacy a crucial determinant of career success.I completely disagree with this statement, as I believe the key to success is far more diverse and context-dependent.",
+        "source_phrase": "computer literacy",
+        "id": "1"
+      },
+      {
+        "phrase": "work-life balance",
+        "cn": "更短的通勤时间可以改善员工的工作与生活平衡。",
+        "answer": "Shorter commuting times can improve employees' work-life balance.",
+        "source_paragraph": 2,
+        "source": "Second, the concept of career success itself is quite subjective. Those who emphasize the importance of high-level computer skills often refer to high salaries or prestigious job titles in the tech sector. Yet, in an age that increasingly values personal fulfillment and well-being, success is more commonly defined by work-life balance, emotional health, and meaningful relationships. These forms of success are rarely dependent on one’s mastery of computer-related competencies. Furthermore, it is unrealistic – and unnecessary – to expect everyone to excel in computer skills. Individuals differ in their interests, talents, and career aspirations. Although technical skills can certainly empower software engineers or data analysts, people with little interest in technology still thrive in other domains. Artists, philanthropists, and politicians, for example achieve career success by nurturing their passions and maximizing their strengths.",
+        "source_phrase": "work-life balance",
+        "id": "2"
+      },
+      {
+        "phrase": "knowledge",
+        "cn": "公共广播可以帮助听众拓宽科学知识。",
+        "answer": "Public broadcasting can help listeners broaden their scientific knowledge.",
+        "source_paragraph": 1,
+        "source": "First, modern occupations are significantly varied, and not all of them require high-level computer proficiency. While computer literacy can help improve work efficiency in certain fields, many careers demand entirely different skill sets. For example, successful surgeons rely on precision and medical expertise, not programming knowledge; similarly, soldiers triumph on the battlefield through courage, discipline, and resilience rather than technical skills. In this sense, the factors contributing to career success differ dramatically depending on the nature of each profession.",
+        "source_phrase": "knowledge",
+        "id": "3"
+      },
+      {
+        "phrase": "rely",
+        "cn": "偏远地区的学生往往依赖在线课程。",
+        "answer": "Students in remote areas often rely on online courses.",
+        "source_paragraph": 1,
+        "source": "First, modern occupations are significantly varied, and not all of them require high-level computer proficiency. While computer literacy can help improve work efficiency in certain fields, many careers demand entirely different skill sets. For example, successful surgeons rely on precision and medical expertise, not programming knowledge; similarly, soldiers triumph on the battlefield through courage, discipline, and resilience rather than technical skills. In this sense, the factors contributing to career success differ dramatically depending on the nature of each profession.",
+        "source_phrase": "rely",
+        "id": "4"
+      },
+      {
+        "phrase": "emotional",
+        "cn": "同伴支持可以满足新生的情感需求。",
+        "answer": "Peer support can address the emotional needs of new students.",
+        "source_paragraph": 2,
+        "source": "Second, the concept of career success itself is quite subjective. Those who emphasize the importance of high-level computer skills often refer to high salaries or prestigious job titles in the tech sector. Yet, in an age that increasingly values personal fulfillment and well-being, success is more commonly defined by work-life balance, emotional health, and meaningful relationships. These forms of success are rarely dependent on one’s mastery of computer-related competencies. Furthermore, it is unrealistic – and unnecessary – to expect everyone to excel in computer skills. Individuals differ in their interests, talents, and career aspirations. Although technical skills can certainly empower software engineers or data analysts, people with little interest in technology still thrive in other domains. Artists, philanthropists, and politicians, for example achieve career success by nurturing their passions and maximizing their strengths.",
+        "source_phrase": "emotional",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "work-life balance",
+        "cn": "更短的通勤时间可以改善员工的工作与生活平衡。",
+        "answer": "Shorter commuting times can improve employees' work-life balance.",
+        "source_paragraph": 2,
+        "source": "Another reason is that people have different ideas about what a successful career means. Some may consider a high salary or an important position to be signs of success. However, others may care more about work-life balance, personal satisfaction or doing work they find meaningful. These forms of success do not necessarily depend on computer skills. In addition, people have different interests and strengths. Someone who is not interested in technology may still become a successful artist, politician or charity worker by developing the abilities required in these fields. Instead of trying to master the same skills, people should focus on developing their own strengths and the skills that are useful for their chosen careers.",
+        "source_phrase": "work-life balance",
+        "id": "1"
+      },
+      {
+        "phrase": "an important role in",
+        "cn": "同伴支持在帮助新生适应大学生活方面发挥重要作用。",
+        "answer": "Peer support plays an important role in helping new students adjust to university life.",
+        "source_paragraph": 1,
+        "source": "The first reason is that not every job requires advanced computer skills. Although basic computer knowledge is useful in many workplaces, different professions depend on different skills. For example, doctors need medical knowledge and the ability to make correct decisions, while soldiers need courage, discipline and physical strength. Advanced computer skills may not play an important role in their success. By contrast, people working in areas such as software engineering and data analysis clearly need strong technical skills. Therefore, the skills needed for career success largely depend on the type of job a person does. It is unreasonable to consider computer skills necessary for everyone.",
+        "source_phrase": "an important role in",
+        "id": "2"
+      },
+      {
+        "phrase": "knowledge",
+        "cn": "公共广播可以帮助听众拓宽科学知识。",
+        "answer": "Public broadcasting can help listeners broaden their scientific knowledge.",
+        "source_paragraph": 1,
+        "source": "The first reason is that not every job requires advanced computer skills. Although basic computer knowledge is useful in many workplaces, different professions depend on different skills. For example, doctors need medical knowledge and the ability to make correct decisions, while soldiers need courage, discipline and physical strength. Advanced computer skills may not play an important role in their success. By contrast, people working in areas such as software engineering and data analysis clearly need strong technical skills. Therefore, the skills needed for career success largely depend on the type of job a person does. It is unreasonable to consider computer skills necessary for everyone.",
+        "source_phrase": "knowledge",
+        "id": "3"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 1,
+        "source": "The first reason is that not every job requires advanced computer skills. Although basic computer knowledge is useful in many workplaces, different professions depend on different skills. For example, doctors need medical knowledge and the ability to make correct decisions, while soldiers need courage, discipline and physical strength. Advanced computer skills may not play an important role in their success. By contrast, people working in areas such as software engineering and data analysis clearly need strong technical skills. Therefore, the skills needed for career success largely depend on the type of job a person does. It is unreasonable to consider computer skills necessary for everyone.",
+        "source_phrase": "Although",
+        "id": "4"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 2,
+        "source": "Another reason is that people have different ideas about what a successful career means. Some may consider a high salary or an important position to be signs of success. However, others may care more about work-life balance, personal satisfaction or doing work they find meaningful. These forms of success do not necessarily depend on computer skills. In addition, people have different interests and strengths. Someone who is not interested in technology may still become a successful artist, politician or charity worker by developing the abilities required in these fields. Instead of trying to master the same skills, people should focus on developing their own strengths and the skills that are useful for their chosen careers.",
+        "source_phrase": "However",
+        "id": "5"
+      }
+    ]
+  }
 }

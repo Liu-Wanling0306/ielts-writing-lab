@@ -99,5 +99,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "accounted for",
+        "cn": "2020年，交通占该市总支出的四分之一。",
+        "answer": "Transport accounted for a quarter of the city's total spending in 2020.",
+        "source_paragraph": 3,
+        "source": "As for reasons for migration in 2008, work accounted for the largest proportion at 38%, followed closely by study at 32%. Family reunion represented 16%, while both unspecified reasons and other factors made up 7% each.",
+        "source_phrase": "accounted for",
+        "id": "1"
+      },
+      {
+        "phrase": "made up",
+        "cn": "国际学生占该校总人数的30%。",
+        "answer": "International students made up 30% of the university's total enrolment.",
+        "source_paragraph": 3,
+        "source": "As for reasons for migration in 2008, work accounted for the largest proportion at 38%, followed closely by study at 32%. Family reunion represented 16%, while both unspecified reasons and other factors made up 7% each.",
+        "source_phrase": "made up",
+        "id": "2"
+      },
+      {
+        "phrase": "significant increase",
+        "cn": "这十年间，太阳能发电量显著增加。",
+        "answer": "There was a significant increase in solar power generation over the decade.",
+        "source_paragraph": 1,
+        "source": "Overall, immigrants who intended to stay in the UK for less than two years saw the most significant increase over the period. Meanwhile, the reasons for migration were mainly grouped into work, study, and family reunion.",
+        "source_phrase": "significant increase",
+        "id": "3"
+      },
+      {
+        "phrase": "rose sharply",
+        "cn": "电动汽车销量从2015年到2020年急剧上升。",
+        "answer": "Sales of electric cars rose sharply between 2015 and 2020.",
+        "source_paragraph": 2,
+        "source": "Specifically, those staying for less than two years consistently represented the largest group. Starting at below 150,000 in 2000, this figure rose sharply to around 250,000 in 2004 and levelled off between 240,000 and 250,000. By contrast, the number of immigrants staying for over four years began at roughly 130,000 and, despite minor fluctuations, remained almost unchanged by 2008. The group planning to stay for two to four years started at around 75,000 and fluctuated throughout the period, remaining below 100,000 at the end.",
+        "source_phrase": "rose sharply",
+        "id": "4"
+      },
+      {
+        "phrase": "throughout the period",
+        "cn": "在整个时期，铁路都是最受欢迎的出行方式。",
+        "answer": "Rail remained the most popular means of travel throughout the period.",
+        "source_paragraph": 2,
+        "source": "Specifically, those staying for less than two years consistently represented the largest group. Starting at below 150,000 in 2000, this figure rose sharply to around 250,000 in 2004 and levelled off between 240,000 and 250,000. By contrast, the number of immigrants staying for over four years began at roughly 130,000 and, despite minor fluctuations, remained almost unchanged by 2008. The group planning to stay for two to four years started at around 75,000 and fluctuated throughout the period, remaining below 100,000 at the end.",
+        "source_phrase": "throughout the period",
+        "id": "5"
+      }
+    ]
+  }
 }

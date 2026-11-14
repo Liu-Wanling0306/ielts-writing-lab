@@ -110,5 +110,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "accounted for",
+        "cn": "2020年，交通占该市总支出的四分之一。",
+        "answer": "Transport accounted for a quarter of the city's total spending in 2020.",
+        "source_paragraph": 2,
+        "source": "In 1988, washing accounted for the largest share of household water use, at 25%. Bathrooms made up 22% of the total, while gardens and toilets were responsible for 20% and 18% respectively. Kitchens used the smallest proportion of water, at just 15%.",
+        "source_phrase": "accounted for",
+        "id": "1"
+      },
+      {
+        "phrase": "made up",
+        "cn": "国际学生占该校总人数的30%。",
+        "answer": "International students made up 30% of the university's total enrolment.",
+        "source_paragraph": 2,
+        "source": "In 1988, washing accounted for the largest share of household water use, at 25%. Bathrooms made up 22% of the total, while gardens and toilets were responsible for 20% and 18% respectively. Kitchens used the smallest proportion of water, at just 15%.",
+        "source_phrase": "made up",
+        "id": "2"
+      },
+      {
+        "phrase": "the largest share",
+        "cn": "在三种燃料中，煤炭占能源使用的最大份额。",
+        "answer": "Of the three fuels, coal accounted for the largest share of energy use.",
+        "source_paragraph": 2,
+        "source": "In 1988, washing accounted for the largest share of household water use, at 25%. Bathrooms made up 22% of the total, while gardens and toilets were responsible for 20% and 18% respectively. Kitchens used the smallest proportion of water, at just 15%.",
+        "source_phrase": "the largest share",
+        "id": "3"
+      },
+      {
+        "phrase": "the smallest proportion",
+        "cn": "在这三个城市中，约克使用汽车上班的人口比例最小。",
+        "answer": "Of the three cities, York had the smallest proportion of people commuting by car.",
+        "source_paragraph": 2,
+        "source": "In 1988, washing accounted for the largest share of household water use, at 25%. Bathrooms made up 22% of the total, while gardens and toilets were responsible for 20% and 18% respectively. Kitchens used the smallest proportion of water, at just 15%.",
+        "source_phrase": "the smallest proportion",
+        "id": "4"
+      },
+      {
+        "phrase": "the figure for",
+        "cn": "自行车使用者的数值在2020年达到了两万人。",
+        "answer": "The figure for bicycle users reached 20,000 in 2020.",
+        "source_paragraph": 3,
+        "source": "By 2008, kitchen use had risen sharply to 29%, making it the biggest category, while the figure for bathrooms also grew to 28%. In contrast, water used for gardens fell dramatically to only 7%, the lowest proportion among the five sections. Toilet use also declined, from 18% to 14%, whereas washing dropped only slightly to 22%.",
+        "source_phrase": "the figure for",
+        "id": "5"
+      }
+    ]
+  }
 }

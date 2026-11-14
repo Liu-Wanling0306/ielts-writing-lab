@@ -84,5 +84,45 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "produce electricity",
+        "cn": "风力涡轮机可以为附近村庄发电。",
+        "answer": "Wind turbines can produce electricity for nearby villages.",
+        "source_paragraph": 0,
+        "source": "The diagram illustrates how household organic waste is recycled in order to produce electricity.",
+        "source_phrase": "produce electricity",
+        "id": "1"
+      },
+      {
+        "phrase": "is produced",
+        "cn": "在下一阶段，加热水以产生蒸汽。",
+        "answer": "In the next stage, steam is produced by heating water.",
+        "source_paragraph": 2,
+        "source": "At the first stage, organic waste is collected from households and transported by truck to a sorting centre. There, it is divided into three categories: compost, recyclable material and landfill waste. The landfill waste is then taken to a sealed underground container, where methane is produced under anaerobic conditions at a temperature of between 30 and 50°C.",
+        "source_phrase": "is produced",
+        "id": "2"
+      },
+      {
+        "phrase": "supplied to",
+        "cn": "处理后的水随后被供应给当地家庭。",
+        "answer": "The treated water is then supplied to local households.",
+        "source_paragraph": 3,
+        "source": "In the following stage, the methane gas passes through a cleaning unit before being sent to a generator. Electricity is produced at this point and then transmitted through power lines. In the final stage, the electricity generated is supplied to end users, namely homes and factories.",
+        "source_phrase": "supplied to",
+        "id": "3"
+      },
+      {
+        "phrase": "sealed",
+        "cn": "灌装后，瓶子被密封并贴上标签。",
+        "answer": "After filling, the bottles are sealed and labelled.",
+        "source_paragraph": 1,
+        "source": "Overall, the process involves both human sorting and mechanical treatment. A key feature is that, after being separated above ground, the landfill waste is processed in a sealed underground container to generate methane gas, which is then cleaned and used to produce electricity for homes and factories.",
+        "source_phrase": "sealed",
+        "id": "4"
+      }
+    ]
+  }
 }

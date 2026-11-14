@@ -89,5 +89,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "placed along",
+        "cn": "在较大的教室里，课桌沿墙摆放。",
+        "answer": "In the larger classroom, desks are placed along the walls.",
+        "source_paragraph": 2,
+        "source": "In the layout for no more than ten people, the trainees sit around a U-shaped table arrangement in the centre of the room, with chairs placed along the sides and an open area in the middle. At the front, the presenter’s desk is situated on the left, while the whiteboard is placed to the right of it. Meanwhile, the morning tea table is positioned along the bottom of the room.",
+        "source_phrase": "placed along",
+        "id": "1"
+      },
+      {
+        "phrase": "replaced by",
+        "cn": "按照新规划，旧办公室将被新的实验室取代。",
+        "answer": "Under the new plan, the old offices will be replaced by new laboratories.",
+        "source_paragraph": 3,
+        "source": "By contrast, in the plan for more than ten participants, the U-shaped arrangement is replaced by three separate groups, which allows more people to be seated. Two groups are located in the middle of the room and the third is set near the bottom. In addition, the morning tea area is moved to the top-left corner, and the presenter’s desk is relocated to the upper central area, between the whiteboard and the trainees’ tables.",
+        "source_phrase": "replaced by",
+        "id": "2"
+      },
+      {
+        "phrase": "allows more people",
+        "cn": "新增的会议室让更多人能够参加培训课程。",
+        "answer": "The additional meeting room allows more people to attend training sessions.",
+        "source_paragraph": 3,
+        "source": "By contrast, in the plan for more than ten participants, the U-shaped arrangement is replaced by three separate groups, which allows more people to be seated. Two groups are located in the middle of the room and the third is set near the bottom. In addition, the morning tea area is moved to the top-left corner, and the presenter’s desk is relocated to the upper central area, between the whiteboard and the trainees’ tables.",
+        "source_phrase": "allows more people",
+        "id": "3"
+      },
+      {
+        "phrase": "In addition",
+        "cn": "图书馆提供免费网络。此外，它还组织读书小组。",
+        "answer": "The library provides free internet access. In addition, it organises reading groups.",
+        "source_paragraph": 3,
+        "source": "By contrast, in the plan for more than ten participants, the U-shaped arrangement is replaced by three separate groups, which allows more people to be seated. Two groups are located in the middle of the room and the third is set near the bottom. In addition, the morning tea area is moved to the top-left corner, and the presenter’s desk is relocated to the upper central area, between the whiteboard and the trainees’ tables.",
+        "source_phrase": "In addition",
+        "id": "4"
+      },
+      {
+        "phrase": "By contrast",
+        "cn": "2020年，公交车使用量增加。相比之下，出租车使用量下降。",
+        "answer": "Bus use increased in 2020. By contrast, taxi use declined.",
+        "source_paragraph": 3,
+        "source": "By contrast, in the plan for more than ten participants, the U-shaped arrangement is replaced by three separate groups, which allows more people to be seated. Two groups are located in the middle of the room and the third is set near the bottom. In addition, the morning tea area is moved to the top-left corner, and the presenter’s desk is relocated to the upper central area, between the whiteboard and the trainees’ tables.",
+        "source_phrase": "By contrast",
+        "id": "5"
+      }
+    ]
+  }
 }

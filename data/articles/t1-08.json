@@ -70,5 +70,45 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "stood at",
+        "cn": "最年轻群体的自行车拥有率约为40%。",
+        "answer": "Bicycle ownership among the youngest group stood at around 40%.",
+        "source_paragraph": 3,
+        "source": "France and Italy occupied the bottom of the table. In both countries, average retirement ages for men and women were below 60. Italian men retired at a little over 58 , compared with just over 57 for French men, while the figures for women stood at around 57 in Italy and just under that level in France.",
+        "source_phrase": "stood at",
+        "id": "1"
+      },
+      {
+        "phrase": "compared with",
+        "cn": "2020年，A城有40%的居民骑车，而B城为25%。",
+        "answer": "In 2020, 40% of residents in City A cycled, compared with 25% in City B.",
+        "source_paragraph": 3,
+        "source": "France and Italy occupied the bottom of the table. In both countries, average retirement ages for men and women were below 60. Italian men retired at a little over 58 , compared with just over 57 for French men, while the figures for women stood at around 57 in Italy and just under that level in France.",
+        "source_phrase": "compared with",
+        "id": "2"
+      },
+      {
+        "phrase": "the highest figure",
+        "cn": "在三个城市中，布里斯托尔的汽车拥有量最高。",
+        "answer": "Bristol recorded the highest figure for car ownership among the three cities.",
+        "source_paragraph": 2,
+        "source": "Korea and Japan were at the top of the table. Korean men had the highest figure overall, retiring at just under 69 , and Korean women also recorded the highest retirement age among females, at just over 67. The figures for Japan were only slightly lower, with both men and women typically leaving work in their late 60s. In the United States and Australia, by contrast, retirement ages were more moderate, generally hovering around the mid-60s.",
+        "source_phrase": "the highest figure",
+        "id": "3"
+      },
+      {
+        "phrase": "By contrast",
+        "cn": "2020年，公交车使用量增加。相比之下，出租车使用量下降。",
+        "answer": "Bus use increased in 2020. By contrast, taxi use declined.",
+        "source_paragraph": 2,
+        "source": "Korea and Japan were at the top of the table. Korean men had the highest figure overall, retiring at just under 69 , and Korean women also recorded the highest retirement age among females, at just over 67. The figures for Japan were only slightly lower, with both men and women typically leaving work in their late 60s. In the United States and Australia, by contrast, retirement ages were more moderate, generally hovering around the mid-60s.",
+        "source_phrase": "by contrast",
+        "id": "4"
+      }
+    ]
+  }
 }

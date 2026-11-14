@@ -218,5 +218,164 @@
     "nine": "版本 B · Band 7.5–8 目标版",
     "seven": "版本 A · 保留原意修正版"
   },
-  "source_note": "来自用户提交的完整批改稿。原稿练习估分约5.5；版本B为Band 7.5–8目标参考，并非9分或官方评分。未附原图，数据沿用批改稿估读值（约63%、57%、53%、59%等），需以原图为准。完整批改、两个版本与短句训练见“我的作文档案”。中文译文为本次整理补充。"
+  "source_note": "来自用户提交的完整批改稿。原稿练习估分约5.5；版本B为Band 7.5–8目标参考，并非9分或官方评分。未附原图，数据沿用批改稿估读值（约63%、57%、53%、59%等），需以原图为准。完整批改、两个版本与短句训练见“我的作文档案”。中文译文为本次整理补充。",
+  "transfer": {
+    "nine": [
+      {
+        "id": "1",
+        "phrase": "employment rate",
+        "source_phrase": "employment rate",
+        "source_paragraph": 0,
+        "source": "The line graph compares employment rates among Australian men and women aged 18 to 34 in 1976 and 2011.",
+        "cn": "在新西兰，年轻人的就业率在夏季达到了65%。",
+        "answer": "In New Zealand, the employment rate among young people reached 65% in summer."
+      },
+      {
+        "id": "10",
+        "phrase": "of the same age",
+        "source_phrase": "of the same age",
+        "source_paragraph": 1,
+        "source": "Overall, employment rates generally rose with age, although the figure for women in 2011 fluctuated. Men were more likely to be employed than women of the same age in both years. For each sex, rates were lower in 2011 than in 1976 across the entire age range.",
+        "cn": "在这项调查中，城市里的孩子比同龄的农村孩子更经常使用互联网。",
+        "answer": "In this survey, urban children used the internet more frequently than rural children of the same age."
+      },
+      {
+        "id": "2",
+        "phrase": "rose steadily with age",
+        "source_phrase": "rose steadily with age",
+        "source_paragraph": 2,
+        "source": "Among men, employment rates rose steadily with age in both years. In 1976, the figure climbed from 70% at age 18 to approximately 92% at age 34. The corresponding figures for 2011 were 60% and 80%, respectively.",
+        "cn": "这项调查中，阅读历史书籍的人口比例随年龄稳步上升。",
+        "answer": "In this survey, the proportion of people reading history books rose steadily with age."
+      },
+      {
+        "id": "3",
+        "phrase": "from X to Y",
+        "source_phrase": "from 70%",
+        "source_paragraph": 2,
+        "source": "Among men, employment rates rose steadily with age in both years. In 1976, the figure climbed from 70% at age 18 to approximately 92% at age 34. The corresponding figures for 2011 were 60% and 80%, respectively.",
+        "cn": "图书馆的年度借阅量从三万册上升到五万册。",
+        "answer": "Annual library loans rose from 30,000 to 50,000."
+      },
+      {
+        "id": "4",
+        "phrase": "a more modest increase",
+        "source_phrase": "more modest",
+        "source_paragraph": 3,
+        "source": "The rise with age among women was more modest in 1976, with the rate increasing from about 63% at age 18 to around 71% at age 34. In 2011, the female rate started at about 53% and reached around 57% at ages 23 and 24. It then dipped back to about 53% at ages 28 and 29 before climbing to 59% at age 34, its highest point that year.",
+        "cn": "同期，自行车出行的比例增幅较为温和。",
+        "answer": "Over the same period, there was a more modest increase in the proportion of journeys made by bicycle."
+      },
+      {
+        "id": "5",
+        "phrase": "the corresponding figures",
+        "source_phrase": "corresponding figures",
+        "source_paragraph": 2,
+        "source": "Among men, employment rates rose steadily with age in both years. In 1976, the figure climbed from 70% at age 18 to approximately 92% at age 34. The corresponding figures for 2011 were 60% and 80%, respectively.",
+        "cn": "2010年，公交与火车的使用率分别为40%和25%；2020年的相应数值为45%和30%。",
+        "answer": "In 2010, bus and train use stood at 40% and 25%, respectively. The corresponding figures for 2020 were 45% and 30%."
+      },
+      {
+        "id": "6",
+        "phrase": "respectively",
+        "source_phrase": "respectively",
+        "source_paragraph": 2,
+        "source": "Among men, employment rates rose steadily with age in both years. In 1976, the figure climbed from 70% at age 18 to approximately 92% at age 34. The corresponding figures for 2011 were 60% and 80%, respectively.",
+        "cn": "两个城市的回收率分别为35%和50%。",
+        "answer": "Recycling rates in the two cities were 35% and 50%, respectively."
+      },
+      {
+        "id": "7",
+        "phrase": "dip back to",
+        "source_phrase": "dipped back to",
+        "source_paragraph": 3,
+        "source": "The rise with age among women was more modest in 1976, with the rate increasing from about 63% at age 18 to around 71% at age 34. In 2011, the female rate started at about 53% and reached around 57% at ages 23 and 24. It then dipped back to about 53% at ages 28 and 29 before climbing to 59% at age 34, its highest point that year.",
+        "cn": "在短暂上升之后，月销售量回落到了200辆。",
+        "answer": "After a brief rise, monthly sales dipped back to 200 vehicles."
+      },
+      {
+        "id": "8",
+        "phrase": "before climbing to",
+        "source_phrase": "before climbing to",
+        "source_paragraph": 3,
+        "source": "The rise with age among women was more modest in 1976, with the rate increasing from about 63% at age 18 to around 71% at age 34. In 2011, the female rate started at about 53% and reached around 57% at ages 23 and 24. It then dipped back to about 53% at ages 28 and 29 before climbing to 59% at age 34, its highest point that year.",
+        "cn": "入学人数先降至800人，随后攀升到1200人。",
+        "answer": "Enrolment fell to 800 before climbing to 1,200."
+      },
+      {
+        "id": "9",
+        "phrase": "reach its highest point",
+        "source_phrase": "highest point",
+        "source_paragraph": 3,
+        "source": "The rise with age among women was more modest in 1976, with the rate increasing from about 63% at age 18 to around 71% at age 34. In 2011, the female rate started at about 53% and reached around 57% at ages 23 and 24. It then dipped back to about 53% at ages 28 and 29 before climbing to 59% at age 34, its highest point that year.",
+        "cn": "电影院的月参观人数在八月达到最高点。",
+        "answer": "Monthly cinema attendance reached its highest point in August."
+      }
+    ],
+    "seven": [
+      {
+        "id": "1",
+        "phrase": "employment rate",
+        "source_phrase": "employment rate",
+        "source_paragraph": 0,
+        "source": "The line graph compares the employment rates of men and women aged 18 to 34 in Australia in 1976 and 2011.",
+        "cn": "在新西兰，年轻人的就业率在夏季达到了65%。",
+        "answer": "In New Zealand, the employment rate among young people reached 65% in summer."
+      },
+      {
+        "id": "2",
+        "phrase": "at every age",
+        "source_phrase": "at every age",
+        "source_paragraph": 1,
+        "source": "Overall, employment rates generally rose with age, although the rate for women in 2011 fluctuated. Men recorded higher rates than women at every age in both years. For both sexes, employment rates were lower in 2011 than in 1976 at every age shown.",
+        "cn": "在每个所示年龄点，骑自行车的男性比例都高于女性。",
+        "answer": "The proportion of men who cycled was higher than that of women at every age shown."
+      },
+      {
+        "id": "3",
+        "phrase": "rose steadily with age",
+        "source_phrase": "rose steadily with age",
+        "source_paragraph": 3,
+        "source": "In 2011, the male employment rate rose steadily with age, from 60% at age 18 to 80% at age 34. The figure for women, meanwhile, increased from around 53% at age 18 to about 57% at ages 23 and 24 before falling to around 53% at ages 28 and 29. It then climbed to approximately 59% at age 34, the highest figure for women that year.",
+        "cn": "这项调查中，阅读历史书籍的人口比例随年龄稳步上升。",
+        "answer": "In this survey, the proportion of people reading history books rose steadily with age."
+      },
+      {
+        "id": "4",
+        "phrase": "from X to Y",
+        "source_phrase": "from 70%",
+        "source_paragraph": 2,
+        "source": "In 1976, the employment rate for men rose from 70% at age 18 to approximately 92% at age 34. The figure for women also rose, but by a much smaller amount, from around 63% to 71% over the same age range.",
+        "cn": "图书馆的年度借阅量从三万册上升到五万册。",
+        "answer": "Annual library loans rose from 30,000 to 50,000."
+      },
+      {
+        "phrase": "with age",
+        "cn": "在这项调查中，平均睡眠时间随年龄增长而下降。",
+        "answer": "In this survey, average sleep duration declined with age.",
+        "source_paragraph": 1,
+        "source": "Overall, employment rates generally rose with age, although the rate for women in 2011 fluctuated. Men recorded higher rates than women at every age in both years. For both sexes, employment rates were lower in 2011 than in 1976 at every age shown.",
+        "source_phrase": "with age",
+        "id": "5"
+      },
+      {
+        "phrase": "rose from",
+        "cn": "公交车出行的比例从20%上升到了35%。",
+        "answer": "The proportion of journeys made by bus rose from 20% to 35%.",
+        "source_paragraph": 2,
+        "source": "In 1976, the employment rate for men rose from 70% at age 18 to approximately 92% at age 34. The figure for women also rose, but by a much smaller amount, from around 63% to 71% over the same age range.",
+        "source_phrase": "rose from",
+        "id": "6"
+      },
+      {
+        "phrase": "before falling to",
+        "cn": "博物馆的月参观人数达到8000人，随后降至6000人。",
+        "answer": "Monthly visitor numbers at the museum reached 8,000 before falling to 6,000.",
+        "source_paragraph": 3,
+        "source": "In 2011, the male employment rate rose steadily with age, from 60% at age 18 to 80% at age 34. The figure for women, meanwhile, increased from around 53% at age 18 to about 57% at ages 23 and 24 before falling to around 53% at ages 28 and 29. It then climbed to approximately 59% at age 34, the highest figure for women that year.",
+        "source_phrase": "before falling to",
+        "id": "7"
+      }
+    ]
+  }
 }

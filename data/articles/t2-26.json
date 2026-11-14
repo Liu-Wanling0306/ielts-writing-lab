@@ -332,5 +332,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "make way for",
+        "cn": "旧停车场将被拆除，为新的操场腾出空间。",
+        "answer": "The old car park will be removed to make way for a new playground.",
+        "source_paragraph": 0,
+        "source": "Many people argue that too much public money is spent maintaining and repairing old buildings, and that they should be demolished to make way for modern development. I totally disagree, because historic buildings preserve cultural distinctiveness, generate substantial economic returns through tourism, and can be upgraded through modern renovation rather than simply being torn down.",
+        "source_phrase": "make way for",
+        "id": "1"
+      },
+      {
+        "phrase": "cultural heritage",
+        "cn": "数字档案可以为后代保存文化遗产。",
+        "answer": "Digital archives can preserve cultural heritage for future generations.",
+        "source_paragraph": 4,
+        "source": "In conclusion, I firmly believe that public investment in maintaining old buildings brings far more benefits than drawbacks, as it protects cultural heritage, strengthens tourism- led economic development, and can be modernised in a sustainable way to serve local communities.",
+        "source_phrase": "cultural heritage",
+        "id": "2"
+      },
+      {
+        "phrase": "local residents",
+        "cn": "更好的公交服务可以让当地居民更方便地前往海岸。",
+        "answer": "Better bus services can make the coast more accessible to local residents.",
+        "source_paragraph": 3,
+        "source": "Lastly, even when some old buildings are less historically significant, they can still be revitalised through modern techniques, serving as a nostalgic link to the past for local residents. Meanwhile, from an environmental perspective, preservation is often the more sustainable choice. Unlike demolition, which creates enormous construction waste, maintaining and repurposing existing structures is far more environmentally friendly. For instance, in China, many traditional alleyways that were once slated for demolition have been transformed into vibrant cultural districts. This approach not only retained local identity and stimulated tourism, but also avoided the noise, dust, and debris associated with large-scale rebuilding.",
+        "source_phrase": "local residents",
+        "id": "3"
+      },
+      {
+        "phrase": "a case in point",
+        "cn": "数字化可以改善公共服务；在线预约就是一个典型例子。",
+        "answer": "Digitalisation can improve public services; online appointment booking is a case in point.",
+        "source_paragraph": 1,
+        "source": "The primary reason for my stance is that old buildings act as tangible reminders of local culture, giving residents a sense of historical continuity and cities a unique identity. It is true that governments in many countries allocate considerable funds to preserving historic sites. However, this investment helps protect cultural distinctiveness in a world that is steadily moving towards homogeneity. In an era shaped by globalisation and digital life, new buildings are being constructed at an unprecedented speed and, more importantly, many of them look increasingly similar. Without sustained spending on the maintenance of traditional buildings, cities across the globe would risk becoming visually and culturally indistinguishable. Barcelona is a case in point: it consistently ranks among the world’s most attractive destinations partly because both the government and the private sector have worked to conserve its distinctive historic streetscapes and landmark structures.",
+        "source_phrase": "a case in point",
+        "id": "4"
+      },
+      {
+        "phrase": "local communities",
+        "cn": "公共艺术项目可以把当地社区凝聚在一起。",
+        "answer": "Public art projects can bring local communities together.",
+        "source_paragraph": 4,
+        "source": "In conclusion, I firmly believe that public investment in maintaining old buildings brings far more benefits than drawbacks, as it protects cultural heritage, strengthens tourism- led economic development, and can be modernised in a sustainable way to serve local communities.",
+        "source_phrase": "local communities",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "replaced by",
+        "cn": "按照新规划，旧办公室将被新的实验室取代。",
+        "answer": "Under the new plan, the old offices will be replaced by new laboratories.",
+        "source_paragraph": 0,
+        "source": "Some people believe that too much money is spent on maintaining and repairing old buildings, and that they should be replaced by modern ones. I disagree with this view because old buildings have cultural and economic value, and repairing them can sometimes be better for the environment.",
+        "source_phrase": "replaced by",
+        "id": "1"
+      },
+      {
+        "phrase": "for future generations",
+        "cn": "社区应为子孙后代保护传统技艺。",
+        "answer": "Communities should preserve traditional skills for future generations.",
+        "source_paragraph": 1,
+        "source": "The first reason is that old buildings are an important part of local history and culture. They can show how people lived in the past and give a city its own character. Today, many modern buildings around the world have similar designs. If all traditional buildings were knocked down and replaced with new ones, cities might gradually lose their unique appearance. Therefore, spending money on protecting important old buildings can help preserve local culture for future generations.",
+        "source_phrase": "for future generations",
+        "id": "2"
+      },
+      {
+        "phrase": "economic benefits",
+        "cn": "修复旧运河可以为附近村庄带来经济收益。",
+        "answer": "Restoring the old canal can bring economic benefits to nearby villages.",
+        "source_paragraph": 2,
+        "source": "Old buildings can also bring economic benefits by attracting tourists. Many people travel to other cities or countries because they want to visit historical buildings and experience local culture. For example, cities such as Rome attract large numbers of visitors because of their ancient buildings and historical sites. These tourists spend money on hotels, restaurants, transport and other services, which supports local businesses and creates jobs. Therefore, money spent on maintaining historic buildings can also bring financial benefits to the local economy.",
+        "source_phrase": "economic benefits",
+        "id": "3"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 2,
+        "source": "Old buildings can also bring economic benefits by attracting tourists. Many people travel to other cities or countries because they want to visit historical buildings and experience local culture. For example, cities such as Rome attract large numbers of visitors because of their ancient buildings and historical sites. These tourists spend money on hotels, restaurants, transport and other services, which supports local businesses and creates jobs. Therefore, money spent on maintaining historic buildings can also bring financial benefits to the local economy.",
+        "source_phrase": "financial",
+        "id": "4"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 2,
+        "source": "Old buildings can also bring economic benefits by attracting tourists. Many people travel to other cities or countries because they want to visit historical buildings and experience local culture. For example, cities such as Rome attract large numbers of visitors because of their ancient buildings and historical sites. These tourists spend money on hotels, restaurants, transport and other services, which supports local businesses and creates jobs. Therefore, money spent on maintaining historic buildings can also bring financial benefits to the local economy.",
+        "source_phrase": "For example",
+        "id": "5"
+      }
+    ]
+  }
 }

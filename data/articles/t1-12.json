@@ -106,5 +106,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "stood at",
+        "cn": "最年轻群体的自行车拥有率约为40%。",
+        "answer": "Bicycle ownership among the youngest group stood at around 40%.",
+        "source_paragraph": 2,
+        "source": "In 1951, the population stood at about 100,000, and this figure doubled to 200,000 by 1991. However, the following 20 years witnessed a slight fall to roughly 180,000 in 2011.",
+        "source_phrase": "stood at",
+        "id": "1"
+      },
+      {
+        "phrase": "the proportion of",
+        "cn": "乘坐公交车上班的人的比例降至15%。",
+        "answer": "The proportion of people commuting by bus fell to 15%.",
+        "source_paragraph": 4,
+        "source": "Meanwhile, both the 0–14 and 15–29 cohorts increased gradually from about 15% to 20%. By contrast, the proportion of 30–39-year-olds rose modestly until 1971, then plunged to 10% in 1991 before recovering slightly to 12% in 2011.",
+        "source_phrase": "the proportion of",
+        "id": "2"
+      },
+      {
+        "phrase": "by the end of",
+        "cn": "到该时期结束时，图书馆的借阅量已达三万册。",
+        "answer": "Library loans had reached 30,000 by the end of the period.",
+        "source_paragraph": 3,
+        "source": "With regard to age composition, the 40–64 group was consistently the largest until 2011, when its proportion had shrunk from 45% to just over 20% and was overtaken by those aged 65 and above. The elderly group rose markedly from 10% to around a quarter of the population, becoming the dominant category by the end of the period.",
+        "source_phrase": "by the end of",
+        "id": "3"
+      },
+      {
+        "phrase": "In terms of",
+        "cn": "就总收入而言，旅游业在三个行业中排名第一。",
+        "answer": "In terms of total revenue, tourism ranked first among the three sectors.",
+        "source_paragraph": 1,
+        "source": "Overall, the town’s population grew steadily over the first four decades before declining slightly after 1991. In terms of age distribution, the share of 40–64-year-olds dropped significantly, while most other age groups expanded, with the over-65s eventually becoming the largest group.",
+        "source_phrase": "In terms of",
+        "id": "4"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 2,
+        "source": "In 1951, the population stood at about 100,000, and this figure doubled to 200,000 by 1991. However, the following 20 years witnessed a slight fall to roughly 180,000 in 2011.",
+        "source_phrase": "However",
+        "id": "5"
+      }
+    ]
+  }
 }

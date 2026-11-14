@@ -269,5 +269,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "contribute to",
+        "cn": "安全的步行路线可以帮助改善儿童健康。",
+        "answer": "Safe walking routes can contribute to better health among children.",
+        "source_paragraph": 3,
+        "source": "In all, I believe the features of modern society and certain demographic changes contribute to the trend of people finding their family roots. Overall, I believe it is predominantly a positive development, as it gives modern people more purpose, benefits regional economies, and helps enhance social and cultural awareness.",
+        "source_phrase": "contribute to",
+        "id": "1"
+      },
+      {
+        "phrase": "privacy",
+        "cn": "雇主在使用监控工具时应尊重员工隐私。",
+        "answer": "Employers should respect workers' privacy when using monitoring tools.",
+        "source_paragraph": 2,
+        "source": "Despite some worries about the infringement on personal privacy, I largely agree that this trend is more beneficial than harmful. On a personal level, research into family history can provide a sense of purpose and enrichment of life. Such a root-seeking process often involves parents and children, which can act as a shared reference point that strengthens family bonds. Economically, when people conduct such research, they often pool intellectual and financial resources, boosting global tourism and related sectors. On a broader social level, if this momentum gains wider public attention and thus greater popularity, civic awareness of their cultural identity and community heritage is likely to grow, a trend that brings about educational and social values.",
+        "source_phrase": "privacy",
+        "id": "2"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 2,
+        "source": "Despite some worries about the infringement on personal privacy, I largely agree that this trend is more beneficial than harmful. On a personal level, research into family history can provide a sense of purpose and enrichment of life. Such a root-seeking process often involves parents and children, which can act as a shared reference point that strengthens family bonds. Economically, when people conduct such research, they often pool intellectual and financial resources, boosting global tourism and related sectors. On a broader social level, if this momentum gains wider public attention and thus greater popularity, civic awareness of their cultural identity and community heritage is likely to grow, a trend that brings about educational and social values.",
+        "source_phrase": "financial",
+        "id": "3"
+      },
+      {
+        "phrase": "identity",
+        "cn": "传统节日可以增强人们的文化认同。",
+        "answer": "Traditional festivals can strengthen people's cultural identity.",
+        "source_paragraph": 1,
+        "source": "The primary reason lies in a growing sense of uncertainty about personal identity created by a society increasingly shaped by technology. Living in an interconnected world, many people, those from affluent countries in particular, sense a drift towards homogeneity, and their individuality feels diluted. This tendency can be illustrated by the rise of individualism and its frequent celebration across many Western countries, highlighting people’s desire to view themselves as unique beings with roots. As a result, research into one’s family history offers them the opportunity to forge a clearer vision of who they are and, more importantly, why they have become what they are. Equally compelling are the changes in the family structure and the large-scale migration of populations over the past few centuries. Extended families with inter- generational family members used to be the dominant family arrangement; however, the much smaller, nuclear family mode prevalent in modern society has sparked some people’s desire to reconnect with their relatives widely distributed geographically, bringing them a greater sense of belonging.",
+        "source_phrase": "identity",
+        "id": "4"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 1,
+        "source": "The primary reason lies in a growing sense of uncertainty about personal identity created by a society increasingly shaped by technology. Living in an interconnected world, many people, those from affluent countries in particular, sense a drift towards homogeneity, and their individuality feels diluted. This tendency can be illustrated by the rise of individualism and its frequent celebration across many Western countries, highlighting people’s desire to view themselves as unique beings with roots. As a result, research into one’s family history offers them the opportunity to forge a clearer vision of who they are and, more importantly, why they have become what they are. Equally compelling are the changes in the family structure and the large-scale migration of populations over the past few centuries. Extended families with inter- generational family members used to be the dominant family arrangement; however, the much smaller, nuclear family mode prevalent in modern society has sparked some people’s desire to reconnect with their relatives widely distributed geographically, bringing them a greater sense of belonging.",
+        "source_phrase": "however",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "personal information",
+        "cn": "医院应保护患者的个人信息。",
+        "answer": "Hospitals should protect patients' personal information.",
+        "source_paragraph": 2,
+        "source": "I believe this trend is mainly positive. First, researching family history can bring family members closer together. Parents and children, for example, may collect old photographs, talk to elderly relatives or visit places where their ancestors lived. These activities give family members something meaningful to do together and can strengthen their relationships. In addition, people can learn more about the traditions and culture of their families and communities. This may encourage them to value and protect their cultural heritage. Such research may even benefit local tourism when people travel to places connected with their family history. Although there may be some privacy concerns, these problems can usually be avoided if personal information is handled carefully.",
+        "source_phrase": "personal information",
+        "id": "1"
+      },
+      {
+        "phrase": "cultural heritage",
+        "cn": "数字档案可以为后代保存文化遗产。",
+        "answer": "Digital archives can preserve cultural heritage for future generations.",
+        "source_paragraph": 2,
+        "source": "I believe this trend is mainly positive. First, researching family history can bring family members closer together. Parents and children, for example, may collect old photographs, talk to elderly relatives or visit places where their ancestors lived. These activities give family members something meaningful to do together and can strengthen their relationships. In addition, people can learn more about the traditions and culture of their families and communities. This may encourage them to value and protect their cultural heritage. Such research may even benefit local tourism when people travel to places connected with their family history. Although there may be some privacy concerns, these problems can usually be avoided if personal information is handled carefully.",
+        "source_phrase": "cultural heritage",
+        "id": "2"
+      },
+      {
+        "phrase": "privacy",
+        "cn": "雇主在使用监控工具时应尊重员工隐私。",
+        "answer": "Employers should respect workers' privacy when using monitoring tools.",
+        "source_paragraph": 2,
+        "source": "I believe this trend is mainly positive. First, researching family history can bring family members closer together. Parents and children, for example, may collect old photographs, talk to elderly relatives or visit places where their ancestors lived. These activities give family members something meaningful to do together and can strengthen their relationships. In addition, people can learn more about the traditions and culture of their families and communities. This may encourage them to value and protect their cultural heritage. Such research may even benefit local tourism when people travel to places connected with their family history. Although there may be some privacy concerns, these problems can usually be avoided if personal information is handled carefully.",
+        "source_phrase": "privacy",
+        "id": "3"
+      },
+      {
+        "phrase": "identity",
+        "cn": "传统节日可以增强人们的文化认同。",
+        "answer": "Traditional festivals can strengthen people's cultural identity.",
+        "source_paragraph": 1,
+        "source": "One reason people research their family history is that they want to know more about who they are and where they come from. Modern society is changing quickly, and people from different places often have similar lifestyles. Learning about their ancestors can help them understand their family background and develop a stronger sense of identity. Another reason is that family structures have changed. In the past, several generations of a family often lived together or close to each other. Today, families are usually smaller, and people may move to different cities or countries for work or study. As a result, some people know very little about their relatives. Researching family history gives them an opportunity to discover these family connections and develop a greater sense of belonging.",
+        "source_phrase": "identity",
+        "id": "4"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 2,
+        "source": "I believe this trend is mainly positive. First, researching family history can bring family members closer together. Parents and children, for example, may collect old photographs, talk to elderly relatives or visit places where their ancestors lived. These activities give family members something meaningful to do together and can strengthen their relationships. In addition, people can learn more about the traditions and culture of their families and communities. This may encourage them to value and protect their cultural heritage. Such research may even benefit local tourism when people travel to places connected with their family history. Although there may be some privacy concerns, these problems can usually be avoided if personal information is handled carefully.",
+        "source_phrase": "Although",
+        "id": "5"
+      }
+    ]
+  }
 }

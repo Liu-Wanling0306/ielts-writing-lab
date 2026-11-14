@@ -193,5 +193,54 @@
     }
   ],
   "preferred": "nine",
-  "source_note": "源材料的 7+ 版仅包含开头段，已排除残缺版本并显示完整的 9 分版。"
+  "source_note": "源材料的 7+ 版仅包含开头段，已排除残缺版本并显示完整的 9 分版。",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "employment opportunities",
+        "cn": "新的铁路连接可以为小城镇创造就业机会。",
+        "answer": "New rail connections can create employment opportunities in small towns.",
+        "source_paragraph": 2,
+        "source": "However, I align more closely with the optimistic perspective, as climate change has stimulated innovation and long-term business evolution. History shows that major disruptions frequently give rise to new industries. The rapid expansion of the electric vehicle sector, for example, has transformed the automotive market, creating new industry leaders and employment opportunities worldwide. Furthermore, climate challenges have encouraged international cooperation through cross-border frameworks and environmental agreements, facilitating the global exchange of green technologies. At the same time, heightened public scrutiny has pushed companies to adopt more responsible business practices. Firms that embrace sustainability often enhance their reputation among consumers, improving both brand value and long-term profitability.",
+        "source_phrase": "employment opportunities",
+        "id": "1"
+      },
+      {
+        "phrase": "growth",
+        "cn": "幼苗随后被转移到温室，继续生长。",
+        "answer": "The seedlings are then transferred to a greenhouse for further growth.",
+        "source_paragraph": 3,
+        "source": "In conclusion, although climate change imposes genuine costs on certain industries, its overall impact on business is positive. By driving innovation, strengthening international cooperation, and increasing corporate accountability, climate change reshapes the commercial landscape in ways that promote sustainable growth.",
+        "source_phrase": "growth",
+        "id": "2"
+      },
+      {
+        "phrase": "employment",
+        "cn": "清洁能源投资可以创造新的就业机会。",
+        "answer": "Investment in clean energy can create new employment opportunities.",
+        "source_paragraph": 2,
+        "source": "However, I align more closely with the optimistic perspective, as climate change has stimulated innovation and long-term business evolution. History shows that major disruptions frequently give rise to new industries. The rapid expansion of the electric vehicle sector, for example, has transformed the automotive market, creating new industry leaders and employment opportunities worldwide. Furthermore, climate challenges have encouraged international cooperation through cross-border frameworks and environmental agreements, facilitating the global exchange of green technologies. At the same time, heightened public scrutiny has pushed companies to adopt more responsible business practices. Firms that embrace sustainability often enhance their reputation among consumers, improving both brand value and long-term profitability.",
+        "source_phrase": "employment",
+        "id": "3"
+      },
+      {
+        "phrase": "long-term",
+        "cn": "当地企业应重视长期稳定，而非短期利润。",
+        "answer": "Local businesses should value long-term stability over short-term profit.",
+        "source_paragraph": 2,
+        "source": "However, I align more closely with the optimistic perspective, as climate change has stimulated innovation and long-term business evolution. History shows that major disruptions frequently give rise to new industries. The rapid expansion of the electric vehicle sector, for example, has transformed the automotive market, creating new industry leaders and employment opportunities worldwide. Furthermore, climate challenges have encouraged international cooperation through cross-border frameworks and environmental agreements, facilitating the global exchange of green technologies. At the same time, heightened public scrutiny has pushed companies to adopt more responsible business practices. Firms that embrace sustainability often enhance their reputation among consumers, improving both brand value and long-term profitability.",
+        "source_phrase": "long-term",
+        "id": "4"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 3,
+        "source": "In conclusion, although climate change imposes genuine costs on certain industries, its overall impact on business is positive. By driving innovation, strengthening international cooperation, and increasing corporate accountability, climate change reshapes the commercial landscape in ways that promote sustainable growth.",
+        "source_phrase": "although",
+        "id": "5"
+      }
+    ]
+  }
 }

@@ -85,5 +85,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "remain largely unchanged",
+        "cn": "根据该规划，东侧的花园将基本保持不变。",
+        "answer": "Under the plan, the garden on the eastern side will remain largely unchanged.",
+        "source_paragraph": 2,
+        "source": "The most noticeable change is that a dual carriageway will be built around the central area, forming a ring road that connects with the existing roads to the west and east. The current main road, which runs horizontally through the town centre, will be changed into a pedestrian-only zone. Meanwhile, the school in the southwest and the housing area in the south are expected to remain largely unchanged, although they will lie just outside or near the new ring road.",
+        "source_phrase": "remain largely unchanged",
+        "id": "1"
+      },
+      {
+        "phrase": "are expected to",
+        "cn": "到2035年，公交乘客人数预计将增加一倍。",
+        "answer": "Bus passenger numbers are expected to double by 2035.",
+        "source_paragraph": 2,
+        "source": "The most noticeable change is that a dual carriageway will be built around the central area, forming a ring road that connects with the existing roads to the west and east. The current main road, which runs horizontally through the town centre, will be changed into a pedestrian-only zone. Meanwhile, the school in the southwest and the housing area in the south are expected to remain largely unchanged, although they will lie just outside or near the new ring road.",
+        "source_phrase": "are expected to",
+        "id": "2"
+      },
+      {
+        "phrase": "reduced in size",
+        "cn": "新道路建成后，公园的面积将缩小。",
+        "answer": "The park will be reduced in size after the new road is built.",
+        "source_paragraph": 3,
+        "source": "In the northern part of the town centre, the countryside and the row of shops currently located above the main road will be removed. This area will be redeveloped to include a bus station, a shopping centre, a car park and a new housing area. By contrast, the shops on the southern side of the former main road will be retained. Further changes are also planned in the east, where new housing will be added and the existing park will be reduced in size.",
+        "source_phrase": "reduced in size",
+        "id": "3"
+      },
+      {
+        "phrase": "redevelopment",
+        "cn": "到2020年，旧港口已经经历了大规模改造。",
+        "answer": "By 2020, the old harbour had undergone substantial redevelopment.",
+        "source_paragraph": 1,
+        "source": "Overall, the town centre is expected to undergo considerable redevelopment, with the most significant changes being the construction of a new dual carriageway, the conversion of the present main road into a pedestrian-only street, and the addition of several commercial facilities and new housing areas.",
+        "source_phrase": "redevelopment",
+        "id": "4"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 2,
+        "source": "The most noticeable change is that a dual carriageway will be built around the central area, forming a ring road that connects with the existing roads to the west and east. The current main road, which runs horizontally through the town centre, will be changed into a pedestrian-only zone. Meanwhile, the school in the southwest and the housing area in the south are expected to remain largely unchanged, although they will lie just outside or near the new ring road.",
+        "source_phrase": "although",
+        "id": "5"
+      }
+    ]
+  }
 }

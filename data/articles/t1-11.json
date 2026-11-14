@@ -110,5 +110,45 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "the figure for",
+        "cn": "自行车使用者的数值在2020年达到了两万人。",
+        "answer": "The figure for bicycle users reached 20,000 in 2020.",
+        "source_paragraph": 3,
+        "source": "Italy and France followed somewhat similar patterns during the first half of the period. The figure for the former more than doubled between 1990 and 1995, reaching exactly 8 billion, compared with roughly 3.5 billion for France in the same year. However, the following five-year period witnessed a decrease in health expenditure for both countries, with the figures dropping to 6 billion and 2 billion by 2000, respectively. In the next decade, Italy’s spending rose steadily to around 9 billion in 2005 and 10 billion in 2010, while, after remaining at 2 billion until 2005, France increased its health spending substantially to match Italy’s level at 10 billion in the final year.",
+        "source_phrase": "The figure for",
+        "id": "1"
+      },
+      {
+        "phrase": "compared with",
+        "cn": "2020年，A城有40%的居民骑车，而B城为25%。",
+        "answer": "In 2020, 40% of residents in City A cycled, compared with 25% in City B.",
+        "source_paragraph": 3,
+        "source": "Italy and France followed somewhat similar patterns during the first half of the period. The figure for the former more than doubled between 1990 and 1995, reaching exactly 8 billion, compared with roughly 3.5 billion for France in the same year. However, the following five-year period witnessed a decrease in health expenditure for both countries, with the figures dropping to 6 billion and 2 billion by 2000, respectively. In the next decade, Italy’s spending rose steadily to around 9 billion in 2005 and 10 billion in 2010, while, after remaining at 2 billion until 2005, France increased its health spending substantially to match Italy’s level at 10 billion in the final year.",
+        "source_phrase": "compared with",
+        "id": "2"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 3,
+        "source": "Italy and France followed somewhat similar patterns during the first half of the period. The figure for the former more than doubled between 1990 and 1995, reaching exactly 8 billion, compared with roughly 3.5 billion for France in the same year. However, the following five-year period witnessed a decrease in health expenditure for both countries, with the figures dropping to 6 billion and 2 billion by 2000, respectively. In the next decade, Italy’s spending rose steadily to around 9 billion in 2005 and 10 billion in 2010, while, after remaining at 2 billion until 2005, France increased its health spending substantially to match Italy’s level at 10 billion in the final year.",
+        "source_phrase": "However",
+        "id": "3"
+      },
+      {
+        "phrase": "despite",
+        "cn": "尽管费用较高，夜间课程仍然很受欢迎。",
+        "answer": "Despite their higher cost, evening classes remained popular.",
+        "source_paragraph": 1,
+        "source": "Overall, all three countries saw an overall increase in health spending, despite some fluctuations in the middle years. Japan consistently remained the largest spender in this sector, while France spent the least for most of the period.",
+        "source_phrase": "despite",
+        "id": "4"
+      }
+    ]
+  }
 }

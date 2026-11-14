@@ -255,5 +255,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "cultural heritage",
+        "cn": "数字档案可以为后代保存文化遗产。",
+        "answer": "Digital archives can preserve cultural heritage for future generations.",
+        "source_paragraph": 2,
+        "source": "Regarding their relative importance, the arts and sciences should be viewed as complementary rather than competing forces. On a personal level, science and technology secure physical survival by curing diseases and improving living conditions, whereas art enriches life by offering beauty, reflection, and emotional depth. On a societal level, this distinction mirrors the difference between hard power and soft power. Scientific capability forms the backbone of economic strength, while artistic expression shapes cultural identity and global influence. Although modern cities thrive through technological innovation, historic centres continue to attract admiration largely through their cultural heritage. Together, science sustains civilisation, while art gives it meaning.",
+        "source_phrase": "cultural heritage",
+        "id": "1"
+      },
+      {
+        "phrase": "scientific",
+        "cn": "国际合作可以加快医学研究的科学进步。",
+        "answer": "International cooperation can accelerate scientific progress in medical research.",
+        "source_paragraph": 0,
+        "source": "In an era shaped by artificial intelligence, scientific breakthroughs, and rapid technological advancement, it may appear surprising that artists continue to be highly valued. However, this enduring appreciation arises from the unique role that art plays in nurturing the human spirit. I also believe that the arts are just as important as science and technology, as each addresses different yet equally vital dimensions of human progress.",
+        "source_phrase": "scientific",
+        "id": "2"
+      },
+      {
+        "phrase": "identity",
+        "cn": "传统节日可以增强人们的文化认同。",
+        "answer": "Traditional festivals can strengthen people's cultural identity.",
+        "source_paragraph": 2,
+        "source": "Regarding their relative importance, the arts and sciences should be viewed as complementary rather than competing forces. On a personal level, science and technology secure physical survival by curing diseases and improving living conditions, whereas art enriches life by offering beauty, reflection, and emotional depth. On a societal level, this distinction mirrors the difference between hard power and soft power. Scientific capability forms the backbone of economic strength, while artistic expression shapes cultural identity and global influence. Although modern cities thrive through technological innovation, historic centres continue to attract admiration largely through their cultural heritage. Together, science sustains civilisation, while art gives it meaning.",
+        "source_phrase": "identity",
+        "id": "3"
+      },
+      {
+        "phrase": "emotional",
+        "cn": "同伴支持可以满足新生的情感需求。",
+        "answer": "Peer support can address the emotional needs of new students.",
+        "source_paragraph": 1,
+        "source": "One primary reason artists remain valued is their ability to provide emotional and psychological support. While science and technology excel at improving efficiency and solving practical problems, they often fail to address the complexities of human emotion. In a fast-paced, data-driven world, individuals frequently experience anxiety and isolation. Through music, literature, and visual art, people find comfort, empathy, and meaning that cannot be reduced to technical explanations. Even when emotional suffering can be understood in rational terms, it is often a moving song or a powerful novel that helps individuals feel understood rather than alone. In this sense, artists act as interpreters of inner experiences that technology cannot replicate.",
+        "source_phrase": "emotional",
+        "id": "4"
+      },
+      {
+        "phrase": "indispensable",
+        "cn": "获得干净的水是预防疾病不可缺少的条件。",
+        "answer": "Access to clean water is indispensable for preventing disease.",
+        "source_paragraph": 3,
+        "source": "In conclusion, artists continue to be valued because they address emotional needs that technology alone cannot satisfy. As for importance, art and science are two essential pillars of civilisation—one ensuring survival, the other enriching the human experience. Both are indispensable for a truly flourishing society.",
+        "source_phrase": "indispensable",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "growth",
+        "cn": "幼苗随后被转移到温室，继续生长。",
+        "answer": "The seedlings are then transferred to a greenhouse for further growth.",
+        "source_paragraph": 2,
+        "source": "I also believe that the arts are as important as science and technology. On an individual level, scientific progress can improve healthcare and make daily life more convenient. For example, new medical treatments can help people live longer and healthier lives. However, the arts can make these lives more enjoyable by providing entertainment and helping people express their feelings. On a wider level, science and technology can support economic growth, while the arts help protect a country's culture and traditions. For instance, historical buildings, traditional music and famous paintings can attract tourists and help people learn about a country's history. Both fields therefore make important contributions to society.",
+        "source_phrase": "growth",
+        "id": "1"
+      },
+      {
+        "phrase": "scientific",
+        "cn": "国际合作可以加快医学研究的科学进步。",
+        "answer": "International cooperation can accelerate scientific progress in medical research.",
+        "source_paragraph": 2,
+        "source": "I also believe that the arts are as important as science and technology. On an individual level, scientific progress can improve healthcare and make daily life more convenient. For example, new medical treatments can help people live longer and healthier lives. However, the arts can make these lives more enjoyable by providing entertainment and helping people express their feelings. On a wider level, science and technology can support economic growth, while the arts help protect a country's culture and traditions. For instance, historical buildings, traditional music and famous paintings can attract tourists and help people learn about a country's history. Both fields therefore make important contributions to society.",
+        "source_phrase": "scientific",
+        "id": "2"
+      },
+      {
+        "phrase": "emotional",
+        "cn": "同伴支持可以满足新生的情感需求。",
+        "answer": "Peer support can address the emotional needs of new students.",
+        "source_paragraph": 0,
+        "source": "Although science and technology are developing rapidly, artists are still highly valued in modern society. This is mainly because art can meet people's emotional needs. I believe that the arts are just as important as science and technology because they improve people's lives in different ways.",
+        "source_phrase": "emotional",
+        "id": "3"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "Although science and technology are developing rapidly, artists are still highly valued in modern society. This is mainly because art can meet people's emotional needs. I believe that the arts are just as important as science and technology because they improve people's lives in different ways.",
+        "source_phrase": "Although",
+        "id": "4"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 2,
+        "source": "I also believe that the arts are as important as science and technology. On an individual level, scientific progress can improve healthcare and make daily life more convenient. For example, new medical treatments can help people live longer and healthier lives. However, the arts can make these lives more enjoyable by providing entertainment and helping people express their feelings. On a wider level, science and technology can support economic growth, while the arts help protect a country's culture and traditions. For instance, historical buildings, traditional music and famous paintings can attract tourists and help people learn about a country's history. Both fields therefore make important contributions to society.",
+        "source_phrase": "However",
+        "id": "5"
+      }
+    ]
+  }
 }

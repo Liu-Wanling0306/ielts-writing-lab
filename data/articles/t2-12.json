@@ -294,5 +294,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "labour shortages",
+        "cn": "灵活的退休安排可能缓解医院的劳动力短缺。",
+        "answer": "Flexible retirement arrangements may ease labour shortages in hospitals.",
+        "source_paragraph": 3,
+        "source": "More importantly, robots are accelerating scientific and medical progress. Breakthroughs in disease treatment increasingly rely on AI-assisted analysis beyond human capacity alone. In ageing societies, robots also offer solutions to labour shortages by supporting elderly care and improving quality of life. Rather than replacing humans, robots function as powerful complements that extend human capability.",
+        "source_phrase": "labour shortages",
+        "id": "1"
+      },
+      {
+        "phrase": "contribute to",
+        "cn": "安全的步行路线可以帮助改善儿童健康。",
+        "answer": "Safe walking routes can contribute to better health among children.",
+        "source_paragraph": 1,
+        "source": "Critics often argue that robots threaten employment and undermine human security. As automation advances, labour-intensive sectors such as clerical work, hospitality, and even certain technical fields face increasing pressure. In addition, concerns over privacy and accountability have emerged. Robotic systems may collect sensitive personal data, and when automated decisions cause harm, responsibility becomes blurred among developers, employers, and regulators.These anxieties contribute to public distrust towards intelligent machines.",
+        "source_phrase": "contribute to",
+        "id": "2"
+      },
+      {
+        "phrase": "quality of life",
+        "cn": "安全的公共空间可以改善老年人的生活质量。",
+        "answer": "Safe public spaces can improve older people's quality of life.",
+        "source_paragraph": 3,
+        "source": "More importantly, robots are accelerating scientific and medical progress. Breakthroughs in disease treatment increasingly rely on AI-assisted analysis beyond human capacity alone. In ageing societies, robots also offer solutions to labour shortages by supporting elderly care and improving quality of life. Rather than replacing humans, robots function as powerful complements that extend human capability.",
+        "source_phrase": "quality of life",
+        "id": "3"
+      },
+      {
+        "phrase": "employment",
+        "cn": "清洁能源投资可以创造新的就业机会。",
+        "answer": "Investment in clean energy can create new employment opportunities.",
+        "source_paragraph": 1,
+        "source": "Critics often argue that robots threaten employment and undermine human security. As automation advances, labour-intensive sectors such as clerical work, hospitality, and even certain technical fields face increasing pressure. In addition, concerns over privacy and accountability have emerged. Robotic systems may collect sensitive personal data, and when automated decisions cause harm, responsibility becomes blurred among developers, employers, and regulators.These anxieties contribute to public distrust towards intelligent machines.",
+        "source_phrase": "employment",
+        "id": "4"
+      },
+      {
+        "phrase": "rely",
+        "cn": "偏远地区的学生往往依赖在线课程。",
+        "answer": "Students in remote areas often rely on online courses.",
+        "source_paragraph": 3,
+        "source": "More importantly, robots are accelerating scientific and medical progress. Breakthroughs in disease treatment increasingly rely on AI-assisted analysis beyond human capacity alone. In ageing societies, robots also offer solutions to labour shortages by supporting elderly care and improving quality of life. Rather than replacing humans, robots function as powerful complements that extend human capability.",
+        "source_phrase": "rely",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "personal information",
+        "cn": "医院应保护患者的个人信息。",
+        "answer": "Hospitals should protect patients' personal information.",
+        "source_paragraph": 1,
+        "source": "One possible problem is that robots may replace some human workers. As technology develops, machines can now perform many simple and repeated tasks that were traditionally done by people. As a result, workers in some industries may lose their jobs or find it more difficult to find work. Another concern is privacy. Some modern robots and AI systems need to collect personal information in order to provide services. If this information is not properly protected, it could be used in harmful ways.",
+        "source_phrase": "personal information",
+        "id": "1"
+      },
+      {
+        "phrase": "labour shortages",
+        "cn": "灵活的退休安排可能缓解医院的劳动力短缺。",
+        "answer": "Flexible retirement arrangements may ease labour shortages in hospitals.",
+        "source_paragraph": 3,
+        "source": "Robots can also support the development of society. In medicine, for example, AI can help doctors analyse large amounts of information and identify health problems. Robots can also perform some tasks in elderly care, which is particularly useful in countries with ageing populations and labour shortages. Therefore, robots do not always have to replace humans. Instead, they can work with people and help them perform their jobs more effectively.",
+        "source_phrase": "labour shortages",
+        "id": "2"
+      },
+      {
+        "phrase": "privacy",
+        "cn": "雇主在使用监控工具时应尊重员工隐私。",
+        "answer": "Employers should respect workers' privacy when using monitoring tools.",
+        "source_paragraph": 1,
+        "source": "One possible problem is that robots may replace some human workers. As technology develops, machines can now perform many simple and repeated tasks that were traditionally done by people. As a result, workers in some industries may lose their jobs or find it more difficult to find work. Another concern is privacy. Some modern robots and AI systems need to collect personal information in order to provide services. If this information is not properly protected, it could be used in harmful ways.",
+        "source_phrase": "privacy",
+        "id": "3"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "Nowadays, robots are being used to perform more tasks both at home and in the workplace. Although this development may cause some problems, I believe it is generally positive because robots can make people's lives easier and help society develop.",
+        "source_phrase": "Although",
+        "id": "4"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 2,
+        "source": "However, robots can bring many benefits to people's daily lives and work. They can complete simple tasks quickly and accurately, allowing people to save time and focus on more important work. AI tools can also help people find information, learn new skills and solve problems. This can be especially useful for people who live in areas where educational or professional services are limited. In this way, technology can make useful information and services available to more people.",
+        "source_phrase": "However",
+        "id": "5"
+      }
+    ]
+  }
 }

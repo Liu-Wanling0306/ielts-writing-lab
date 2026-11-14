@@ -295,5 +295,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 1,
+        "source": "It is reasonable that some people support banning extreme sports, citing concerns such as the risk of severe injury and the negative impact on impressionable youth. Extreme sports often involve high-risk actions that can lead to serious accidents and even fatalities. For instance, activities like parkour, which involves jumping from heights and navigating obstacles, have been linked to severe injuries, as seen in many viral videos. Moreover, these sports, often showcased on social media platforms, tend to glorify risky behavior, which can encourage young people to follow suit. The widespread influence of social media means that dangerous stunts often grab attention, making them more appealing to teenagers who are eager to gain social recognition.",
+        "source_phrase": "social media",
+        "id": "1"
+      },
+      {
+        "phrase": "take precedence",
+        "cn": "在学校建筑设计中，安全应优先于外观。",
+        "answer": "Safety should take precedence over appearance in school building design.",
+        "source_paragraph": 0,
+        "source": "As high-risk sports become increasingly accessible to the general public, concerns about participant safety and the limits of personal choice have intensified. While some consider a legal ban necessary to prevent severe injuries, others regard participation in such activities as a matter of individual freedom. This essay will examine both perspectives before arguing that individual freedom should take precedence, as people should be allowed to decide which risks they are willing to accept.",
+        "source_phrase": "take precedence",
+        "id": "2"
+      },
+      {
+        "phrase": "lead to",
+        "cn": "更便宜的电力可能导致更高的家庭用电量。",
+        "answer": "Cheaper electricity may lead to higher household consumption.",
+        "source_paragraph": 1,
+        "source": "It is reasonable that some people support banning extreme sports, citing concerns such as the risk of severe injury and the negative impact on impressionable youth. Extreme sports often involve high-risk actions that can lead to serious accidents and even fatalities. For instance, activities like parkour, which involves jumping from heights and navigating obstacles, have been linked to severe injuries, as seen in many viral videos. Moreover, these sports, often showcased on social media platforms, tend to glorify risky behavior, which can encourage young people to follow suit. The widespread influence of social media means that dangerous stunts often grab attention, making them more appealing to teenagers who are eager to gain social recognition.",
+        "source_phrase": "lead to",
+        "id": "3"
+      },
+      {
+        "phrase": "impressionable",
+        "cn": "广告可能影响容易受外界影响的儿童。",
+        "answer": "Advertising can influence impressionable children.",
+        "source_paragraph": 1,
+        "source": "It is reasonable that some people support banning extreme sports, citing concerns such as the risk of severe injury and the negative impact on impressionable youth. Extreme sports often involve high-risk actions that can lead to serious accidents and even fatalities. For instance, activities like parkour, which involves jumping from heights and navigating obstacles, have been linked to severe injuries, as seen in many viral videos. Moreover, these sports, often showcased on social media platforms, tend to glorify risky behavior, which can encourage young people to follow suit. The widespread influence of social media means that dangerous stunts often grab attention, making them more appealing to teenagers who are eager to gain social recognition.",
+        "source_phrase": "impressionable",
+        "id": "4"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 2,
+        "source": "However, the case for personal freedom is ultimately more convincing, particularly when individual rights, risk management, and the impracticality of outright bans are taken into account. First, individuals have the fundamental right to choose their activities, especially when these activities are not illegal. Extreme sports, though risky, are voluntary, and people should be free to engage in them as long as they are aware of the dangers. Second, every sport carries inherent risks, but that does not mean we should ban them. For example, riding a bicycle is also risky, but we do not stop children from cycling because of the potential for injury.Instead, we teach them how to use protective gear and follow safety guidelines. Similarly, extreme sports can be made safer with proper precautions and expert training. Lastly, banning extreme sports would be impractical, as many of these activities take place in open spaces, such as the ocean, mountains, and the sky, which are difficult to monitor and regulate. Enforcing a ban would place a heavy strain on enforcement resources and is unlikely to succeed without violating personal freedoms.",
+        "source_phrase": "However",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "lead to",
+        "cn": "更便宜的电力可能导致更高的家庭用电量。",
+        "answer": "Cheaper electricity may lead to higher household consumption.",
+        "source_paragraph": 1,
+        "source": "On the one hand, there are good reasons why some people support a ban on dangerous sports. The main concern is that activities such as parkour, rock climbing and skydiving can lead to serious injuries or even death. Participants may fall from great heights or lose control during these activities. Another concern is their influence on young people. In today's social-media-driven world, videos of dangerous stunts can easily attract millions of views. Teenagers who want attention online may therefore copy these activities without fully understanding the possible consequences. From this perspective, restricting dangerous sports may help prevent unnecessary injuries.",
+        "source_phrase": "lead to",
+        "id": "1"
+      },
+      {
+        "phrase": "reduce the risks",
+        "cn": "更清晰的路标可以降低道路使用者面临的风险。",
+        "answer": "Clearer road signs can reduce the risks faced by road users.",
+        "source_paragraph": 2,
+        "source": "On the other hand, I believe personal freedom should be given greater importance. Adults should generally be allowed to decide which risks they are willing to take, as long as their choices do not seriously harm other people. More importantly, risk exists in almost every sport. Cycling, for example, can also cause serious injuries, but this does not mean that it should be banned. Instead, people are encouraged to wear protective equipment and follow safety rules. The same approach can be applied to extreme sports. Professional training, proper equipment and clear safety guidelines can greatly reduce the risks involved. In addition, a complete ban would be difficult to enforce because many extreme sports take place in mountains, oceans and other open areas.",
+        "source_phrase": "reduce the risks",
+        "id": "2"
+      },
+      {
+        "phrase": "cause serious injuries",
+        "cn": "没有护栏的施工场地可能造成严重伤害。",
+        "answer": "Construction sites without barriers can cause serious injuries.",
+        "source_paragraph": 0,
+        "source": "Some people believe that dangerous sports should be banned because they may cause serious injuries, while others argue that people should be free to choose the sports they enjoy. Although I understand the concerns about safety, I believe people should have the freedom to decide which risks they are willing to take.",
+        "source_phrase": "cause serious injuries",
+        "id": "3"
+      },
+      {
+        "phrase": "protective equipment",
+        "cn": "实验室工作人员必须佩戴适当的防护装备。",
+        "answer": "Laboratory workers must wear suitable protective equipment.",
+        "source_paragraph": 2,
+        "source": "On the other hand, I believe personal freedom should be given greater importance. Adults should generally be allowed to decide which risks they are willing to take, as long as their choices do not seriously harm other people. More importantly, risk exists in almost every sport. Cycling, for example, can also cause serious injuries, but this does not mean that it should be banned. Instead, people are encouraged to wear protective equipment and follow safety rules. The same approach can be applied to extreme sports. Professional training, proper equipment and clear safety guidelines can greatly reduce the risks involved. In addition, a complete ban would be difficult to enforce because many extreme sports take place in mountains, oceans and other open areas.",
+        "source_phrase": "protective equipment",
+        "id": "4"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "Some people believe that dangerous sports should be banned because they may cause serious injuries, while others argue that people should be free to choose the sports they enjoy. Although I understand the concerns about safety, I believe people should have the freedom to decide which risks they are willing to take.",
+        "source_phrase": "Although",
+        "id": "5"
+      }
+    ]
+  }
 }

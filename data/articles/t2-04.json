@@ -284,5 +284,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "lead to",
+        "cn": "更便宜的电力可能导致更高的家庭用电量。",
+        "answer": "Cheaper electricity may lead to higher household consumption.",
+        "source_paragraph": 2,
+        "source": "Nevertheless, there is a strong case for shorter school holidays. One concern is educational continuity. Research consistently shows that long breaks can lead to a “summer learning loss,” especially in core subjects such as mathematics and reading, leaving students struggling to regain momentum when school resumes. This gap disproportionately affects children from disadvantaged backgrounds, who may lack access to enriching activities or private tutoring, thereby widening social inequalities. Another issue is the practical burden on families. Most working parents cannot afford two months off work, meaning children are often left unsupervised or placed under the care of elderly relatives. In addition, excessive exposure to digital devices during long holidays has been linked to health problems and reduced attention spans among the young.",
+        "source_phrase": "lead to",
+        "id": "1"
+      },
+      {
+        "phrase": "academic study",
+        "cn": "平衡学术学习与课外活动有助于学生成长。",
+        "answer": "Balancing academic study with extracurricular activities supports students' development.",
+        "source_paragraph": 1,
+        "source": "One of the major benefits of extended holidays is that they provide children with opportunities beyond the confines of academic study. The purpose of education is not only to impart knowledge but also to cultivate well-rounded individuals. Long breaks allow pupils to pursue personal interests, develop talents in the arts or sport, and expand their horizons through travel and cultural exposure. A summer trip to the Louvre or the Great Wall, for instance, offers young learners unique lessons in history and culture that no classroom programme can replicate. Equally important, prolonged holidays strengthen family ties, since children are freed from heavy workloads and parents have more opportunities to spend time with them, which is essential during their formative years.",
+        "source_phrase": "academic study",
+        "id": "2"
+      },
+      {
+        "phrase": "growth",
+        "cn": "幼苗随后被转移到温室，继续生长。",
+        "answer": "The seedlings are then transferred to a greenhouse for further growth.",
+        "source_paragraph": 3,
+        "source": "In conclusion, long summer holidays undoubtedly play a role in nurturing children’s personal growth and family bonding. Yet the drawbacks—ranging from academic regression to parental strain—highlight why many advocate shortening them.",
+        "source_phrase": "growth",
+        "id": "3"
+      },
+      {
+        "phrase": "academic",
+        "cn": "学校应在提供学术支持的同时鼓励创造力。",
+        "answer": "Schools should encourage creativity while providing academic support.",
+        "source_paragraph": 1,
+        "source": "One of the major benefits of extended holidays is that they provide children with opportunities beyond the confines of academic study. The purpose of education is not only to impart knowledge but also to cultivate well-rounded individuals. Long breaks allow pupils to pursue personal interests, develop talents in the arts or sport, and expand their horizons through travel and cultural exposure. A summer trip to the Louvre or the Great Wall, for instance, offers young learners unique lessons in history and culture that no classroom programme can replicate. Equally important, prolonged holidays strengthen family ties, since children are freed from heavy workloads and parents have more opportunities to spend time with them, which is essential during their formative years.",
+        "source_phrase": "academic",
+        "id": "4"
+      },
+      {
+        "phrase": "knowledge",
+        "cn": "公共广播可以帮助听众拓宽科学知识。",
+        "answer": "Public broadcasting can help listeners broaden their scientific knowledge.",
+        "source_paragraph": 1,
+        "source": "One of the major benefits of extended holidays is that they provide children with opportunities beyond the confines of academic study. The purpose of education is not only to impart knowledge but also to cultivate well-rounded individuals. Long breaks allow pupils to pursue personal interests, develop talents in the arts or sport, and expand their horizons through travel and cultural exposure. A summer trip to the Louvre or the Great Wall, for instance, offers young learners unique lessons in history and culture that no classroom programme can replicate. Equally important, prolonged holidays strengthen family ties, since children are freed from heavy workloads and parents have more opportunities to spend time with them, which is essential during their formative years.",
+        "source_phrase": "knowledge",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "personal development",
+        "cn": "在海外做志愿服务可以促进个人成长。",
+        "answer": "Volunteering abroad can contribute to personal development.",
+        "source_paragraph": 0,
+        "source": "In many countries, primary and secondary schools have summer holidays lasting two months or even longer. Long holidays can benefit children's personal development and family life, while shorter holidays may help students maintain their academic performance and reduce pressure on working parents.",
+        "source_phrase": "personal development",
+        "id": "1"
+      },
+      {
+        "phrase": "academic",
+        "cn": "学校应在提供学术支持的同时鼓励创造力。",
+        "answer": "Schools should encourage creativity while providing academic support.",
+        "source_paragraph": 0,
+        "source": "In many countries, primary and secondary schools have summer holidays lasting two months or even longer. Long holidays can benefit children's personal development and family life, while shorter holidays may help students maintain their academic performance and reduce pressure on working parents.",
+        "source_phrase": "academic",
+        "id": "2"
+      },
+      {
+        "phrase": "knowledge",
+        "cn": "公共广播可以帮助听众拓宽科学知识。",
+        "answer": "Public broadcasting can help listeners broaden their scientific knowledge.",
+        "source_paragraph": 1,
+        "source": "One important value of long school holidays is that children have more time to develop interests outside school. Education is not only about learning academic knowledge, and children also need opportunities to develop other skills and experience the world. During a long summer holiday, they can learn to play a musical instrument, take part in sports or travel to different places. For example, visiting famous museums or historical sites can help children learn about history and culture in a more direct and interesting way. Long holidays also give children more time with their families. Without daily lessons and homework, they can spend more time with their parents, which can help build stronger family relationships.",
+        "source_phrase": "knowledge",
+        "id": "3"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 2,
+        "source": "However, there are also good reasons for making school holidays shorter. A major concern is that students may forget some of what they have learned after being away from school for a long time. This is particularly a problem in subjects such as mathematics and reading, where regular practice is important. Children from poorer families may be affected more because they may have fewer opportunities to attend educational activities or receive extra lessons during the holiday. Shorter holidays could therefore help students continue learning and reduce educational differences. They could also make life easier for working parents. Most parents cannot take two months off work to look after their children, so they may have to ask grandparents for help or leave older children at home. A shorter break could reduce this pressure.",
+        "source_phrase": "However",
+        "id": "4"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 1,
+        "source": "One important value of long school holidays is that children have more time to develop interests outside school. Education is not only about learning academic knowledge, and children also need opportunities to develop other skills and experience the world. During a long summer holiday, they can learn to play a musical instrument, take part in sports or travel to different places. For example, visiting famous museums or historical sites can help children learn about history and culture in a more direct and interesting way. Long holidays also give children more time with their families. Without daily lessons and homework, they can spend more time with their parents, which can help build stronger family relationships.",
+        "source_phrase": "For example",
+        "id": "5"
+      }
+    ]
+  }
 }

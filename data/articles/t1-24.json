@@ -98,5 +98,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "transported to",
+        "cn": "接着，收获的橄榄被运往加工厂。",
+        "answer": "The harvested olives are then transported to a processing plant.",
+        "source_paragraph": 2,
+        "source": "Initially, fresh fruit is picked and transported to a factory, where it is sorted to remove any unsuitable produce. The selected fruit is then weighed and thoroughly washed before being placed in cold storage. Following this, it is peeled and cut into smaller pieces in preparation for canning.",
+        "source_phrase": "transported to",
+        "id": "1"
+      },
+      {
+        "phrase": "placed in",
+        "cn": "随后，采摘的蘑菇被放入冷藏设施。",
+        "answer": "The harvested mushrooms are then placed in cold storage.",
+        "source_paragraph": 2,
+        "source": "Initially, fresh fruit is picked and transported to a factory, where it is sorted to remove any unsuitable produce. The selected fruit is then weighed and thoroughly washed before being placed in cold storage. Following this, it is peeled and cut into smaller pieces in preparation for canning.",
+        "source_phrase": "placed in",
+        "id": "2"
+      },
+      {
+        "phrase": "cut into",
+        "cn": "烘干之前，芒果被切成更小的块。",
+        "answer": "The mangoes are cut into smaller pieces before being dried.",
+        "source_paragraph": 2,
+        "source": "Initially, fresh fruit is picked and transported to a factory, where it is sorted to remove any unsuitable produce. The selected fruit is then weighed and thoroughly washed before being placed in cold storage. Following this, it is peeled and cut into smaller pieces in preparation for canning.",
+        "source_phrase": "cut into",
+        "id": "3"
+      },
+      {
+        "phrase": "ready for sale",
+        "cn": "经过包装和贴标签之后，瓶装果汁就可以销售了。",
+        "answer": "After packaging and labelling, the bottled juice is ready for sale.",
+        "source_paragraph": 3,
+        "source": "The prepared fruit is subsequently placed in cans, to which either water, juice or syrup is added. Once filled, the cans are sealed and then subjected to cooking and sterilisation. After this heat-treatment stage, they are cooled before being packed into cartons. Finally, the packaged cans are transported to supermarkets, where they are ready for sale.",
+        "source_phrase": "ready for sale",
+        "id": "4"
+      },
+      {
+        "phrase": "is produced",
+        "cn": "在下一阶段，加热水以产生蒸汽。",
+        "answer": "In the next stage, steam is produced by heating water.",
+        "source_paragraph": 0,
+        "source": "The diagram illustrates the process by which canned fruit is produced and prepared for sale in supermarkets.",
+        "source_phrase": "is produced",
+        "id": "5"
+      }
+    ]
+  }
 }

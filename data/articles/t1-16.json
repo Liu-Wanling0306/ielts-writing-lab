@@ -115,5 +115,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "the figure for",
+        "cn": "自行车使用者的数值在2020年达到了两万人。",
+        "answer": "The figure for bicycle users reached 20,000 in 2020.",
+        "source_paragraph": 1,
+        "source": "Overall, women recorded higher participation rates than men in all age groups except those aged 15 to 24. In addition, the figure for men declined from the youngest age group to the 35 to 44 bracket before rising gradually among older people, while the rate for women remained relatively stable and reached a peak among 45 to 54-year-olds.",
+        "source_phrase": "the figure for",
+        "id": "1"
+      },
+      {
+        "phrase": "compared with",
+        "cn": "2020年，A城有40%的居民骑车，而B城为25%。",
+        "answer": "In 2020, 40% of residents in City A cycled, compared with 25% in City B.",
+        "source_paragraph": 2,
+        "source": "Among the younger age groups, men were more active only in the 15 to 24 bracket, where 52.8% exercised regularly, compared with 47.7% of women. After that, male participation fell markedly to 42.2% among 25 to 34-year-olds and then to 39.5% in the 35 to 44 group. In contrast, the female figures rose steadily over the same period, from 48.9% to 52.5%.",
+        "source_phrase": "compared with",
+        "id": "2"
+      },
+      {
+        "phrase": "remained relatively stable",
+        "cn": "相比之下，电力需求在冬季保持相对稳定。",
+        "answer": "By contrast, demand for electricity remained relatively stable in winter.",
+        "source_paragraph": 1,
+        "source": "Overall, women recorded higher participation rates than men in all age groups except those aged 15 to 24. In addition, the figure for men declined from the youngest age group to the 35 to 44 bracket before rising gradually among older people, while the rate for women remained relatively stable and reached a peak among 45 to 54-year-olds.",
+        "source_phrase": "remained relatively stable",
+        "id": "3"
+      },
+      {
+        "phrase": "physical activity",
+        "cn": "经常进行体育活动可以改善睡眠质量。",
+        "answer": "Regular physical activity can improve sleep quality.",
+        "source_paragraph": 0,
+        "source": "The bar chart compares the percentages of Australian men and women in six age groups who took part in regular physical activity in 2010.",
+        "source_phrase": "physical activity",
+        "id": "4"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 3,
+        "source": "For the older groups, women continued to record higher rates than men. The female figure peaked at 53.3% among those aged 45 to 54, compared with 43.1% for males, and remained high at 53% in the 55 to 64 group, versus 45.1% for men. In the oldest group, however, the gap became negligible, with participation rates of 47.1% for women and 46.7% for men.",
+        "source_phrase": "however",
+        "id": "5"
+      }
+    ]
+  }
 }

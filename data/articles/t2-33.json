@@ -306,5 +306,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "In terms of",
+        "cn": "就总收入而言，旅游业在三个行业中排名第一。",
+        "answer": "In terms of total revenue, tourism ranked first among the three sectors.",
+        "source_paragraph": 2,
+        "source": "However, those in favour of planting more trees provide stronger justification, particularly in terms of environmental protection, public well-being, and the long-term sustainability of urban life. First, trees improve air quality, reduce noise pollution, provide shade, and help mitigate the urban heat island effect, all of which are increasingly important in densely populated cities. Second, greener surroundings enhance people’s physical and mental health by encouraging exercise, relaxation, and social interaction. Parks and tree-lined streets are not merely decorative features, but essential public spaces that improve the quality of everyday life. Finally, once open land is replaced by housing blocks, it becomes extremely difficult to recover it as green space. At a time when climate change and environmental degradation are pressing global concerns, using such areas for tree planting is a more far-sighted and sustainable decision. In this sense, prioritising urban greenery is not simply an aesthetic preference, but a necessary investment in healthier and more liveable cities.",
+        "source_phrase": "in terms of",
+        "id": "1"
+      },
+      {
+        "phrase": "replaced by",
+        "cn": "按照新规划，旧办公室将被新的实验室取代。",
+        "answer": "Under the new plan, the old offices will be replaced by new laboratories.",
+        "source_paragraph": 2,
+        "source": "However, those in favour of planting more trees provide stronger justification, particularly in terms of environmental protection, public well-being, and the long-term sustainability of urban life. First, trees improve air quality, reduce noise pollution, provide shade, and help mitigate the urban heat island effect, all of which are increasingly important in densely populated cities. Second, greener surroundings enhance people’s physical and mental health by encouraging exercise, relaxation, and social interaction. Parks and tree-lined streets are not merely decorative features, but essential public spaces that improve the quality of everyday life. Finally, once open land is replaced by housing blocks, it becomes extremely difficult to recover it as green space. At a time when climate change and environmental degradation are pressing global concerns, using such areas for tree planting is a more far-sighted and sustainable decision. In this sense, prioritising urban greenery is not simply an aesthetic preference, but a necessary investment in healthier and more liveable cities.",
+        "source_phrase": "replaced by",
+        "id": "2"
+      },
+      {
+        "phrase": "long-term development",
+        "cn": "可靠的交通网络对农村地区的长期发展至关重要。",
+        "answer": "Reliable transport networks are essential for the long-term development of rural areas.",
+        "source_paragraph": 0,
+        "source": "The issue of how open spaces in towns and cities should be used has sparked considerable debate in modern society. While some argue that these areas should be developed to provide more housing in response to rising urban pressure, others maintain that planting more trees is a wiser option for environmental and social well-being. This essay will explore both perspectives before contending that expanding urban greenery offers stronger justification for the long-term development of cities and towns.",
+        "source_phrase": "long-term development",
+        "id": "3"
+      },
+      {
+        "phrase": "public health",
+        "cn": "更清洁的家庭燃料可以改善公共健康。",
+        "answer": "Cleaner household fuels can improve public health.",
+        "source_paragraph": 3,
+        "source": "In conclusion, while it is reasonable that housing shortages prompt calls for more residential development, turning urban open spaces into building sites is not always the most sensible solution. I firmly believe that planting more trees is not merely a strategy to beautify cities, but a fundamental investment in environmental quality, public health, and the long-term sustainability of urban society.",
+        "source_phrase": "public health",
+        "id": "4"
+      },
+      {
+        "phrase": "employment opportunities",
+        "cn": "新的铁路连接可以为小城镇创造就业机会。",
+        "answer": "New rail connections can create employment opportunities in small towns.",
+        "source_paragraph": 1,
+        "source": "It is understandable that some people support using urban open spaces for housing, citing concerns such as accommodation shortages and social stability. First, in many cities, soaring property prices and population growth have made decent housing increasingly unaffordable, especially for young families and low-income residents. Converting available land into residential developments may therefore relieve overcrowding and improve basic living conditions. Furthermore, the construction of more housing can stimulate local economies by creating employment opportunities and supporting related industries such as construction materials, transport, and interior design. For these reasons, many people believe that providing more homes is a more immediate and practical response to urban challenges.",
+        "source_phrase": "employment opportunities",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "long-term development",
+        "cn": "可靠的交通网络对农村地区的长期发展至关重要。",
+        "answer": "Reliable transport networks are essential for the long-term development of rural areas.",
+        "source_paragraph": 0,
+        "source": "Some people believe that open spaces in cities and towns should be used to build more houses, while others argue that more trees should be planted in these areas. Although building more homes can help solve housing problems, I believe planting trees is more beneficial for the long-term development of cities.",
+        "source_phrase": "long-term development",
+        "id": "1"
+      },
+      {
+        "phrase": "mental well-being",
+        "cn": "社区园艺可以改善退休人员的心理健康。",
+        "answer": "Community gardening can improve the mental well-being of retired people.",
+        "source_paragraph": 2,
+        "source": "On the other hand, I believe planting more trees brings greater long-term benefits. Trees can improve air quality, provide shade and reduce noise, making cities healthier and more comfortable places to live. Green spaces also give residents places to exercise, relax and spend time with others, which can improve both physical and mental well-being. More importantly, once open land is used for housing, it can be extremely difficult to turn it back into green space. At a time when many cities are already facing rising temperatures and other environmental problems, protecting open spaces and planting more trees can make urban areas more sustainable in the future.",
+        "source_phrase": "mental well-being",
+        "id": "2"
+      },
+      {
+        "phrase": "long-term",
+        "cn": "当地企业应重视长期稳定，而非短期利润。",
+        "answer": "Local businesses should value long-term stability over short-term profit.",
+        "source_paragraph": 0,
+        "source": "Some people believe that open spaces in cities and towns should be used to build more houses, while others argue that more trees should be planted in these areas. Although building more homes can help solve housing problems, I believe planting trees is more beneficial for the long-term development of cities.",
+        "source_phrase": "long-term",
+        "id": "3"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "Some people believe that open spaces in cities and towns should be used to build more houses, while others argue that more trees should be planted in these areas. Although building more homes can help solve housing problems, I believe planting trees is more beneficial for the long-term development of cities.",
+        "source_phrase": "Although",
+        "id": "4"
+      },
+      {
+        "phrase": "In addition",
+        "cn": "图书馆提供免费网络。此外，它还组织读书小组。",
+        "answer": "The library provides free internet access. In addition, it organises reading groups.",
+        "source_paragraph": 1,
+        "source": "On the one hand, there are good reasons why some people support using open spaces for housing. The main reason is that many cities are facing housing shortages because of growing populations. When there are not enough homes available, property prices and rents may rise, making it difficult for young people and low-income families to find affordable accommodation. Building more houses on unused land can therefore increase the housing supply and improve people's living conditions. In addition, housing construction can create jobs and support related industries, such as transport and building materials. From this perspective, using open spaces for housing may seem like a practical way to deal with immediate urban problems.",
+        "source_phrase": "In addition",
+        "id": "5"
+      }
+    ]
+  }
 }

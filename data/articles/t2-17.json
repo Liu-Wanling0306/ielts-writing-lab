@@ -254,5 +254,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "social media",
+        "cn": "小企业可以利用社交媒体接触新客户。",
+        "answer": "Small businesses can use social media to reach new customers.",
+        "source_paragraph": 0,
+        "source": "Social media platforms are inundated with countless disturbing revelations that valuable natural resources, oil, forests, and fresh water in particular, are being depleted at an unprecedented rate. This essay will examine the severe consequences of this issue and propose effective solutions to mitigate the damage and ensure environmental sustainability.",
+        "source_phrase": "Social media",
+        "id": "1"
+      },
+      {
+        "phrase": "concerted efforts",
+        "cn": "减少食品浪费需要商店和家庭共同努力。",
+        "answer": "Reducing food waste requires concerted efforts from shops and households.",
+        "source_paragraph": 2,
+        "source": "To reverse these alarming trends and safeguard the planet for future generations, concerted efforts from governments and individuals are essential. Authorities must implement comprehensive policies that address the root causes of environmental degradation. These include stricter regulations on carbon emissions, the conservation of forests, and the prevention of water pollution. Additionally, international climate summits should not only serve as forums for discussion but should lead to tangible commitments and action by governments worldwide. On an individual level, citizens can make a significant contribution by adopting environmentally friendly practices. Simple actions such as reducing waste through recycling, supporting sustainable products, and conserving water can collectively reduce the environmental footprint. Moreover, individuals can raise awareness within their communities to foster a broader culture of sustainability.",
+        "source_phrase": "concerted efforts",
+        "id": "2"
+      },
+      {
+        "phrase": "for future generations",
+        "cn": "社区应为子孙后代保护传统技艺。",
+        "answer": "Communities should preserve traditional skills for future generations.",
+        "source_paragraph": 2,
+        "source": "To reverse these alarming trends and safeguard the planet for future generations, concerted efforts from governments and individuals are essential. Authorities must implement comprehensive policies that address the root causes of environmental degradation. These include stricter regulations on carbon emissions, the conservation of forests, and the prevention of water pollution. Additionally, international climate summits should not only serve as forums for discussion but should lead to tangible commitments and action by governments worldwide. On an individual level, citizens can make a significant contribution by adopting environmentally friendly practices. Simple actions such as reducing waste through recycling, supporting sustainable products, and conserving water can collectively reduce the environmental footprint. Moreover, individuals can raise awareness within their communities to foster a broader culture of sustainability.",
+        "source_phrase": "for future generations",
+        "id": "3"
+      },
+      {
+        "phrase": "carbon emissions",
+        "cn": "改善公共交通可以减少碳排放。",
+        "answer": "Improving public transport can reduce carbon emissions.",
+        "source_paragraph": 2,
+        "source": "To reverse these alarming trends and safeguard the planet for future generations, concerted efforts from governments and individuals are essential. Authorities must implement comprehensive policies that address the root causes of environmental degradation. These include stricter regulations on carbon emissions, the conservation of forests, and the prevention of water pollution. Additionally, international climate summits should not only serve as forums for discussion but should lead to tangible commitments and action by governments worldwide. On an individual level, citizens can make a significant contribution by adopting environmentally friendly practices. Simple actions such as reducing waste through recycling, supporting sustainable products, and conserving water can collectively reduce the environmental footprint. Moreover, individuals can raise awareness within their communities to foster a broader culture of sustainability.",
+        "source_phrase": "carbon emissions",
+        "id": "4"
+      },
+      {
+        "phrase": "lead to",
+        "cn": "更便宜的电力可能导致更高的家庭用电量。",
+        "answer": "Cheaper electricity may lead to higher household consumption.",
+        "source_paragraph": 2,
+        "source": "To reverse these alarming trends and safeguard the planet for future generations, concerted efforts from governments and individuals are essential. Authorities must implement comprehensive policies that address the root causes of environmental degradation. These include stricter regulations on carbon emissions, the conservation of forests, and the prevention of water pollution. Additionally, international climate summits should not only serve as forums for discussion but should lead to tangible commitments and action by governments worldwide. On an individual level, citizens can make a significant contribution by adopting environmentally friendly practices. Simple actions such as reducing waste through recycling, supporting sustainable products, and conserving water can collectively reduce the environmental footprint. Moreover, individuals can raise awareness within their communities to foster a broader culture of sustainability.",
+        "source_phrase": "lead to",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "carbon emissions",
+        "cn": "改善公共交通可以减少碳排放。",
+        "answer": "Improving public transport can reduce carbon emissions.",
+        "source_paragraph": 2,
+        "source": "Several measures can be taken to address these problems. Governments should introduce stricter environmental laws to control carbon emissions, protect forests and prevent industries from polluting water. International cooperation is also important because environmental problems often affect more than one country. Governments should therefore make clear commitments at international climate meetings and ensure that these promises lead to real action. Individuals can also make a difference in their daily lives. They can recycle more, avoid wasting water and choose products that cause less environmental damage. People can also encourage family members and friends to adopt similar habits. If large numbers of people make these small changes, their combined effect can be significant.",
+        "source_phrase": "carbon emissions",
+        "id": "1"
+      },
+      {
+        "phrase": "lead to",
+        "cn": "更便宜的电力可能导致更高的家庭用电量。",
+        "answer": "Cheaper electricity may lead to higher household consumption.",
+        "source_paragraph": 2,
+        "source": "Several measures can be taken to address these problems. Governments should introduce stricter environmental laws to control carbon emissions, protect forests and prevent industries from polluting water. International cooperation is also important because environmental problems often affect more than one country. Governments should therefore make clear commitments at international climate meetings and ensure that these promises lead to real action. Individuals can also make a difference in their daily lives. They can recycle more, avoid wasting water and choose products that cause less environmental damage. People can also encourage family members and friends to adopt similar habits. If large numbers of people make these small changes, their combined effect can be significant.",
+        "source_phrase": "lead to",
+        "id": "2"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 1,
+        "source": "The over-consumption of natural resources has led to a range of harmful effects on both wildlife and human populations. One major danger is the destruction of natural habitats. As forests are cut down and land is used for farming, mining and other industries, many wild animals lose the places where they naturally live. This can bring wildlife into closer contact with humans. For example, in some areas, animals may enter villages in search of food and water after their habitats have been destroyed. The excessive use of natural resources also directly affects human life. Industrial activities can pollute rivers and other sources of fresh water, making safe drinking water more difficult to obtain. In addition, large- scale deforestation contributes to global warming because fewer trees are available to absorb carbon dioxide.",
+        "source_phrase": "For example",
+        "id": "3"
+      },
+      {
+        "phrase": "In addition",
+        "cn": "图书馆提供免费网络。此外，它还组织读书小组。",
+        "answer": "The library provides free internet access. In addition, it organises reading groups.",
+        "source_paragraph": 1,
+        "source": "The over-consumption of natural resources has led to a range of harmful effects on both wildlife and human populations. One major danger is the destruction of natural habitats. As forests are cut down and land is used for farming, mining and other industries, many wild animals lose the places where they naturally live. This can bring wildlife into closer contact with humans. For example, in some areas, animals may enter villages in search of food and water after their habitats have been destroyed. The excessive use of natural resources also directly affects human life. Industrial activities can pollute rivers and other sources of fresh water, making safe drinking water more difficult to obtain. In addition, large- scale deforestation contributes to global warming because fewer trees are available to absorb carbon dioxide.",
+        "source_phrase": "In addition",
+        "id": "4"
+      },
+      {
+        "phrase": "therefore",
+        "cn": "这座桥需要维修。因此，它将在冬季关闭。",
+        "answer": "The bridge needs repairs. Therefore, it will close during winter.",
+        "source_paragraph": 2,
+        "source": "Several measures can be taken to address these problems. Governments should introduce stricter environmental laws to control carbon emissions, protect forests and prevent industries from polluting water. International cooperation is also important because environmental problems often affect more than one country. Governments should therefore make clear commitments at international climate meetings and ensure that these promises lead to real action. Individuals can also make a difference in their daily lives. They can recycle more, avoid wasting water and choose products that cause less environmental damage. People can also encourage family members and friends to adopt similar habits. If large numbers of people make these small changes, their combined effect can be significant.",
+        "source_phrase": "therefore",
+        "id": "5"
+      }
+    ]
+  }
 }

@@ -314,5 +314,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "contribute to",
+        "cn": "安全的步行路线可以帮助改善儿童健康。",
+        "answer": "Safe walking routes can contribute to better health among children.",
+        "source_paragraph": 1,
+        "source": "It is true that airplanes partly contribute to the increase in greenhouse gas emissions, there by raising concerns about their role in global warming. A surge in temperatures has been observed over the past two centuries, and the easily spotted culprits are the vehicles invented during this period. Although the exhaust fumes from personal vehicles constitute a sizable share of carbon dioxide emissions, a wide range of measures—most notably the massive adoption of electric vehicles—are being taken in many countries to mitigate their effects. Hence, airplanes have become an easy target for many people eager to contribute to the sustainability of our planet, and they believe reducing or stopping flying is not only useful but also feasible in today's society, where many social interactions and business activities can be handled through digital technologies.",
+        "source_phrase": "contribute to",
+        "id": "1"
+      },
+      {
+        "phrase": "rely",
+        "cn": "偏远地区的学生往往依赖在线课程。",
+        "answer": "Students in remote areas often rely on online courses.",
+        "source_paragraph": 2,
+        "source": "Many individuals and policy-makers, however, offer a stronger case against this proposal by pointing out more detrimental consequences following a halt to flying, and I tend towards their perspective. On the political level, all nations and regions are indispensable members of the global community, underscoring the significance of international cooperation, which ultimately benefits individuals and businesses. Without regular or emergent diplomatic travels by airplane, some tensions between nations would risk deteriorating, and some humanitarian crises would not likely be tackled in a timely and effective manner. On the economic level, globalization entails the decentralization of supply chains, technology, and, more importantly, talent. Real breakthroughs in multinational business cooperation and technological upheavals rely heavily on face-to-face communication between corporate leaders and top scientists, and air travel is the fastest way to enable them to assemble in the same room—an advantage no online meeting can match. Besides, on a personal level, people fly to different countries to study, visit, and sometimes help others; not only does this boost societal development, but it also generates financial returns that can be invested in environmental protection.",
+        "source_phrase": "rely",
+        "id": "2"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 2,
+        "source": "Many individuals and policy-makers, however, offer a stronger case against this proposal by pointing out more detrimental consequences following a halt to flying, and I tend towards their perspective. On the political level, all nations and regions are indispensable members of the global community, underscoring the significance of international cooperation, which ultimately benefits individuals and businesses. Without regular or emergent diplomatic travels by airplane, some tensions between nations would risk deteriorating, and some humanitarian crises would not likely be tackled in a timely and effective manner. On the economic level, globalization entails the decentralization of supply chains, technology, and, more importantly, talent. Real breakthroughs in multinational business cooperation and technological upheavals rely heavily on face-to-face communication between corporate leaders and top scientists, and air travel is the fastest way to enable them to assemble in the same room—an advantage no online meeting can match. Besides, on a personal level, people fly to different countries to study, visit, and sometimes help others; not only does this boost societal development, but it also generates financial returns that can be invested in environmental protection.",
+        "source_phrase": "financial",
+        "id": "3"
+      },
+      {
+        "phrase": "indispensable",
+        "cn": "获得干净的水是预防疾病不可缺少的条件。",
+        "answer": "Access to clean water is indispensable for preventing disease.",
+        "source_paragraph": 2,
+        "source": "Many individuals and policy-makers, however, offer a stronger case against this proposal by pointing out more detrimental consequences following a halt to flying, and I tend towards their perspective. On the political level, all nations and regions are indispensable members of the global community, underscoring the significance of international cooperation, which ultimately benefits individuals and businesses. Without regular or emergent diplomatic travels by airplane, some tensions between nations would risk deteriorating, and some humanitarian crises would not likely be tackled in a timely and effective manner. On the economic level, globalization entails the decentralization of supply chains, technology, and, more importantly, talent. Real breakthroughs in multinational business cooperation and technological upheavals rely heavily on face-to-face communication between corporate leaders and top scientists, and air travel is the fastest way to enable them to assemble in the same room—an advantage no online meeting can match. Besides, on a personal level, people fly to different countries to study, visit, and sometimes help others; not only does this boost societal development, but it also generates financial returns that can be invested in environmental protection.",
+        "source_phrase": "indispensable",
+        "id": "4"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 1,
+        "source": "It is true that airplanes partly contribute to the increase in greenhouse gas emissions, there by raising concerns about their role in global warming. A surge in temperatures has been observed over the past two centuries, and the easily spotted culprits are the vehicles invented during this period. Although the exhaust fumes from personal vehicles constitute a sizable share of carbon dioxide emissions, a wide range of measures—most notably the massive adoption of electric vehicles—are being taken in many countries to mitigate their effects. Hence, airplanes have become an easy target for many people eager to contribute to the sustainability of our planet, and they believe reducing or stopping flying is not only useful but also feasible in today's society, where many social interactions and business activities can be handled through digital technologies.",
+        "source_phrase": "Although",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "compared with",
+        "cn": "2020年，A城有40%的居民骑车，而B城为25%。",
+        "answer": "In 2020, 40% of residents in City A cycled, compared with 25% in City B.",
+        "source_paragraph": 1,
+        "source": "There is no doubt that reducing air travel can benefit the environment. Airplanes burn large amounts of fuel and produce greenhouse gases, which contribute to global warming. Compared with other forms of transport, it is also more difficult to replace traditional airplanes with cleaner alternatives. For example, electric cars are becoming increasingly common, while electric passenger planes are not yet widely available. Therefore, people who fly less can reduce their carbon footprint. This choice has also become easier because many activities that once required travel, such as business meetings, can now be carried out online. From this perspective, reducing unnecessary flights is a practical way for individuals to help protect the environment.",
+        "source_phrase": "Compared with",
+        "id": "1"
+      },
+      {
+        "phrase": "carbon emissions",
+        "cn": "改善公共交通可以减少碳排放。",
+        "answer": "Improving public transport can reduce carbon emissions.",
+        "source_paragraph": 0,
+        "source": "Air travel has become an important part of modern life, but some people are choosing to fly less often or even stop flying because of environmental concerns. Although this change can help reduce carbon emissions, I believe that the disadvantages for individuals and businesses are greater than the environmental benefits.",
+        "source_phrase": "carbon emissions",
+        "id": "2"
+      },
+      {
+        "phrase": "contribute to",
+        "cn": "安全的步行路线可以帮助改善儿童健康。",
+        "answer": "Safe walking routes can contribute to better health among children.",
+        "source_paragraph": 1,
+        "source": "There is no doubt that reducing air travel can benefit the environment. Airplanes burn large amounts of fuel and produce greenhouse gases, which contribute to global warming. Compared with other forms of transport, it is also more difficult to replace traditional airplanes with cleaner alternatives. For example, electric cars are becoming increasingly common, while electric passenger planes are not yet widely available. Therefore, people who fly less can reduce their carbon footprint. This choice has also become easier because many activities that once required travel, such as business meetings, can now be carried out online. From this perspective, reducing unnecessary flights is a practical way for individuals to help protect the environment.",
+        "source_phrase": "contribute to",
+        "id": "3"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "Air travel has become an important part of modern life, but some people are choosing to fly less often or even stop flying because of environmental concerns. Although this change can help reduce carbon emissions, I believe that the disadvantages for individuals and businesses are greater than the environmental benefits.",
+        "source_phrase": "Although",
+        "id": "4"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 2,
+        "source": "However, a major reduction in air travel could create greater problems for individuals and businesses. Modern economies depend heavily on international connections. Companies often have suppliers, employees and customers in different countries, and although online meetings are useful, face-to-face communication is sometimes necessary for important negotiations and business decisions. Air travel allows people to meet quickly despite living thousands of kilometers apart. It is also important for international cooperation, as government officials may need to travel to discuss conflicts or respond to international emergencies. On an individual level, people use air travel to study abroad, visit family members and experience other cultures. These activities can strengthen international connections and also support industries such as tourism and education. Completely avoiding flights would therefore limit both economic opportunities and personal freedom.",
+        "source_phrase": "However",
+        "id": "5"
+      }
+    ]
+  }
 }

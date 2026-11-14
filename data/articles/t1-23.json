@@ -99,5 +99,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "a cyclical process",
+        "cn": "海水蒸发和降雨构成一个循环过程。",
+        "answer": "The evaporation of seawater and rainfall form a cyclical process.",
+        "source_paragraph": 1,
+        "source": "Overall, this is a cyclical process that takes place across three different habitats: rivers, estuaries and the ocean. Salmon begin life in freshwater, move gradually towards the sea as they develop, and finally return upstream to their spawning grounds to reproduce.",
+        "source_phrase": "a cyclical process",
+        "id": "1"
+      },
+      {
+        "phrase": "migrate downstream",
+        "cn": "水位下降时，一些鱼会向下游迁徙。",
+        "answer": "Some fish migrate downstream when water levels fall.",
+        "source_paragraph": 2,
+        "source": "The cycle starts in the river, where adult salmon spawn. Their eggs then pass through an incubation stage before hatching. After this, the young fish emerge and enter a period of freshwater rearing, during which they continue to grow. They then migrate downstream to the estuary, where rearing continues in a different environment.",
+        "source_phrase": "migrate downstream",
+        "id": "2"
+      },
+      {
+        "phrase": "further growth",
+        "cn": "幼树需要更多空间才能继续生长。",
+        "answer": "Young trees need more space for further growth.",
+        "source_paragraph": 3,
+        "source": "At the next stage, the fish move into the ocean. There, they migrate to rearing areas and undergo further growth and maturation until they become fully developed adults. Finally, mature salmon travel back to their original spawning areas in the river, where they lay eggs and begin the cycle again.",
+        "source_phrase": "further growth",
+        "id": "3"
+      },
+      {
+        "phrase": "migrate",
+        "cn": "秋季，这些鸟会迁徙到更温暖的地区。",
+        "answer": "These birds migrate to warmer regions in autumn.",
+        "source_paragraph": 2,
+        "source": "The cycle starts in the river, where adult salmon spawn. Their eggs then pass through an incubation stage before hatching. After this, the young fish emerge and enter a period of freshwater rearing, during which they continue to grow. They then migrate downstream to the estuary, where rearing continues in a different environment.",
+        "source_phrase": "migrate",
+        "id": "4"
+      },
+      {
+        "phrase": "growth",
+        "cn": "幼苗随后被转移到温室，继续生长。",
+        "answer": "The seedlings are then transferred to a greenhouse for further growth.",
+        "source_paragraph": 3,
+        "source": "At the next stage, the fish move into the ocean. There, they migrate to rearing areas and undergo further growth and maturation until they become fully developed adults. Finally, mature salmon travel back to their original spawning areas in the river, where they lay eggs and begin the cycle again.",
+        "source_phrase": "growth",
+        "id": "5"
+      }
+    ]
+  }
 }

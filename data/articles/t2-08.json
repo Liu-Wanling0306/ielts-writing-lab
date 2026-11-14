@@ -260,5 +260,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "physically demanding",
+        "cn": "机器可以接管体力要求高的仓库工作。",
+        "answer": "Machines can take over physically demanding work in warehouses.",
+        "source_paragraph": 2,
+        "source": "However, such fears are largely speculative and often fueled by science fiction. In reality, the development of robotics has delivered substantial benefits. Robots excel in hazardous environments, taking on roles that are either too dangerous or physically demanding for humans. Examples include defusing landmines, extinguishing fires, and handling toxic substances, tasks that save lives while minimizing human risks. Moreover, in industries that require extreme precision, such as surgery and advanced manufacturing, robotic assistants have significantly improved both outcomes and efficiency.",
+        "source_phrase": "physically demanding",
+        "id": "1"
+      },
+      {
+        "phrase": "productivity",
+        "cn": "更灵活的工作安排可能提高员工生产力。",
+        "answer": "More flexible working arrangements may improve employee productivity.",
+        "source_paragraph": 3,
+        "source": "Rather than replacing human beings, in conclusion, robots should be viewed as valuable partners that complement human abilities. With thoughtful regulation and ethical oversight, the deployment of robots can enhance productivity, improve safety, and support sustainable development. Ultimately, while the potential risks of robots should not be ignored, their positive contributions to modern society far outweigh the negatives.",
+        "source_phrase": "productivity",
+        "id": "2"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 2,
+        "source": "However, such fears are largely speculative and often fueled by science fiction. In reality, the development of robotics has delivered substantial benefits. Robots excel in hazardous environments, taking on roles that are either too dangerous or physically demanding for humans. Examples include defusing landmines, extinguishing fires, and handling toxic substances, tasks that save lives while minimizing human risks. Moreover, in industries that require extreme precision, such as surgery and advanced manufacturing, robotic assistants have significantly improved both outcomes and efficiency.",
+        "source_phrase": "However",
+        "id": "3"
+      },
+      {
+        "phrase": "As a result",
+        "cn": "火车票变得更便宜。因此，更多游客选择了铁路出行。",
+        "answer": "Train tickets became cheaper. As a result, more tourists chose to travel by rail.",
+        "source_paragraph": 1,
+        "source": "Those maintaining that robots are a destructive force for humanity oftencite the growing risk of unemployment and social disruption. It is undeniable that robots outperform their human counterparts in various fields, ranging from repetitive and simple work such as serving in restaurants to highly technical jobs once considered irreplaceable, such as software engineering. As a result, many workers are facing the risk of being laid off as their employers turn to automation for greater efficiency and cost-effectiveness. Furthermore, some express concern over the increasing intelligence of machines, fearing a dystopian future in which robots may surpass human control and even dominate the planet.",
+        "source_phrase": "As a result",
+        "id": "4"
+      },
+      {
+        "phrase": "rather than",
+        "cn": "学校应奖励持续的努力，而不是只奖励高分。",
+        "answer": "Schools should reward sustained effort rather than only high scores.",
+        "source_paragraph": 3,
+        "source": "Rather than replacing human beings, in conclusion, robots should be viewed as valuable partners that complement human abilities. With thoughtful regulation and ethical oversight, the deployment of robots can enhance productivity, improve safety, and support sustainable development. Ultimately, while the potential risks of robots should not be ignored, their positive contributions to modern society far outweigh the negatives.",
+        "source_phrase": "Rather than",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "lead to",
+        "cn": "更便宜的电力可能导致更高的家庭用电量。",
+        "answer": "Cheaper electricity may lead to higher household consumption.",
+        "source_paragraph": 3,
+        "source": "In conclusion, although robots may lead to job losses and create concerns about their future development, I believe their advantages are greater. If governments introduce proper rules to control their use, robots can work alongside humans and help create a safer and more efficient society.",
+        "source_phrase": "lead to",
+        "id": "1"
+      },
+      {
+        "phrase": "an important role in",
+        "cn": "同伴支持在帮助新生适应大学生活方面发挥重要作用。",
+        "answer": "Peer support plays an important role in helping new students adjust to university life.",
+        "source_paragraph": 0,
+        "source": "Robots are becoming increasingly common in modern society. Some people believe that they will play an important role in human development, while others worry that they may have negative effects on society. This essay will discuss both views, and I believe that robots bring more benefits than problems overall.",
+        "source_phrase": "an important role in",
+        "id": "2"
+      },
+      {
+        "phrase": "a growing number of",
+        "cn": "越来越多的家庭选择安装太阳能电池板。",
+        "answer": "A growing number of households are choosing to install solar panels.",
+        "source_paragraph": 1,
+        "source": "On the one hand, robots may cause some serious problems, especially unemployment. As technology develops, robots are able to perform a growing number of tasks that were traditionally done by humans. They can not only do simple and repetitive work, such as serving food in restaurants, but also take part in more skilled jobs, including software engineering. Since robots can often work faster and at a lower cost, some companies may choose machines instead of human workers. As a result, many people could lose their jobs or find it more difficult to find work. In addition, some people are worried that robots may become too intelligent in the future. They fear that humans could eventually lose control of advanced machines, although this possibility is still largely based on speculation.",
+        "source_phrase": "a growing number of",
+        "id": "3"
+      },
+      {
+        "phrase": "dangerous working environments",
+        "cn": "更好的防护设备可以保护危险工作环境中的员工。",
+        "answer": "Better protective equipment can protect employees in dangerous working environments.",
+        "source_paragraph": 2,
+        "source": "On the other hand, robots can make an important contribution to society. One major advantage is that they can replace humans in dangerous working environments. For example, robots can be used to remove landmines, fight fires and deal with toxic materials. This can reduce the risks faced by workers and even save lives. Robots are also useful in areas where a high level of accuracy is required. In medical operations and advanced manufacturing, for instance, robotic technology can help people complete difficult tasks more accurately and efficiently. Therefore, robots can improve both safety and productivity.",
+        "source_phrase": "dangerous working environments",
+        "id": "4"
+      },
+      {
+        "phrase": "reduce the risks",
+        "cn": "更清晰的路标可以降低道路使用者面临的风险。",
+        "answer": "Clearer road signs can reduce the risks faced by road users.",
+        "source_paragraph": 2,
+        "source": "On the other hand, robots can make an important contribution to society. One major advantage is that they can replace humans in dangerous working environments. For example, robots can be used to remove landmines, fight fires and deal with toxic materials. This can reduce the risks faced by workers and even save lives. Robots are also useful in areas where a high level of accuracy is required. In medical operations and advanced manufacturing, for instance, robotic technology can help people complete difficult tasks more accurately and efficiently. Therefore, robots can improve both safety and productivity.",
+        "source_phrase": "reduce the risks",
+        "id": "5"
+      }
+    ]
+  }
 }

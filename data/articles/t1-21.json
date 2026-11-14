@@ -109,5 +109,54 @@
   },
   "vocab": [],
   "preferred": "nine",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "stood at",
+        "cn": "最年轻群体的自行车拥有率约为40%。",
+        "answer": "Bicycle ownership among the youngest group stood at around 40%.",
+        "source_paragraph": 2,
+        "source": "In 2004, Chinese applicants stood at approximately 28,000, significantly outnumbering American applicants at 20,000. Over the next two years, China experienced a continuous decline, while the United States saw a drop in 2005 followed by a rebound. Despite their different trends, their figures eventually matched at roughly 17,500 in 2006. Thereafter, their trends diverged completely. The number of Chinese students plateaued in 2007 before falling further to about 15,000 in 2008. The United States, conversely, experienced a sharp drop to 10,000 in 2007, but then the figure soared dramatically to nearly 28,000 in the final year, thereby replacing China as the largest source of applicants.",
+        "source_phrase": "stood at",
+        "id": "1"
+      },
+      {
+        "phrase": "over time",
+        "cn": "随着时间推移，现金支付变得不那么普遍。",
+        "answer": "Cash payments became less common over time.",
+        "source_paragraph": 1,
+        "source": "Overall, China was the largest source of applicants for most of the period, although the figure experienced a general downward trend over time. In contrast, the number of applicants from the United States fluctuated considerably and eventually overtook China to become the largest group in 2008. Meanwhile, Russia consistently recorded the lowest figures despite a temporary surge in 2007.",
+        "source_phrase": "over time",
+        "id": "2"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 1,
+        "source": "Overall, China was the largest source of applicants for most of the period, although the figure experienced a general downward trend over time. In contrast, the number of applicants from the United States fluctuated considerably and eventually overtook China to become the largest group in 2008. Meanwhile, Russia consistently recorded the lowest figures despite a temporary surge in 2007.",
+        "source_phrase": "although",
+        "id": "3"
+      },
+      {
+        "phrase": "Meanwhile",
+        "cn": "学校新建了一座体育馆。与此同时，旧图书馆得到了翻新。",
+        "answer": "The school built a new sports hall. Meanwhile, the old library was renovated.",
+        "source_paragraph": 1,
+        "source": "Overall, China was the largest source of applicants for most of the period, although the figure experienced a general downward trend over time. In contrast, the number of applicants from the United States fluctuated considerably and eventually overtook China to become the largest group in 2008. Meanwhile, Russia consistently recorded the lowest figures despite a temporary surge in 2007.",
+        "source_phrase": "Meanwhile",
+        "id": "4"
+      },
+      {
+        "phrase": "despite",
+        "cn": "尽管费用较高，夜间课程仍然很受欢迎。",
+        "answer": "Despite their higher cost, evening classes remained popular.",
+        "source_paragraph": 1,
+        "source": "Overall, China was the largest source of applicants for most of the period, although the figure experienced a general downward trend over time. In contrast, the number of applicants from the United States fluctuated considerably and eventually overtook China to become the largest group in 2008. Meanwhile, Russia consistently recorded the lowest figures despite a temporary surge in 2007.",
+        "source_phrase": "despite",
+        "id": "5"
+      }
+    ]
+  }
 }

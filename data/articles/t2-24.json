@@ -286,5 +286,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "local residents",
+        "cn": "更好的公交服务可以让当地居民更方便地前往海岸。",
+        "answer": "Better bus services can make the coast more accessible to local residents.",
+        "source_paragraph": 0,
+        "source": "Some individuals argue that cultural institutions should focus solely on exhibiting local works, rather than incorporating art from other parts of the world. I totally disagree, because such a restriction narrows the purpose of these venues, overlooks how modern museums actually operate, and ultimately reduces their appeal to local residents.",
+        "source_phrase": "local residents",
+        "id": "1"
+      },
+      {
+        "phrase": "responsibility",
+        "cn": "网络平台应对删除欺诈广告承担责任。",
+        "answer": "Online platforms should take responsibility for removing fraudulent advertisements.",
+        "source_paragraph": 1,
+        "source": "My first objection is that this view misreads the role of museums and galleries in contemporary society. Undeniably, these institutions have a responsibility to preserve and present local cultural and historical heritage, but this is only one piece of a larger picture. Museums and galleries also function as a platform for cross-cultural communication: they not only illuminate the diversity of the past, but also offer inspiration for future creators and visitors through works originating in different regions. The Louvre in Paris, for example, owes its global standing not merely to displays of France’s history, but also to outstanding collections drawn from around the world.",
+        "source_phrase": "responsibility",
+        "id": "2"
+      },
+      {
+        "phrase": "long-term",
+        "cn": "当地企业应重视长期稳定，而非短期利润。",
+        "answer": "Local businesses should value long-term stability over short-term profit.",
+        "source_paragraph": 3,
+        "source": "A third reason I reject this proposal is that it would likely weaken the long-term appeal of some museums to residents, who are also an indispensable component of the local art community. If exhibitions rarely rotate, museums can gradually lose their appeal to local visitors; by contrast, collaboration with overseas institutions makes it possible to host time-limited, special-themed collections that keep the experience fresh. The British Museum, for example, has boosted public interest by staging themed exhibitions on topics such as the Silk Road and modern visual culture. This offers an actionable strategy for other institutions: embracing a wider range of artistic traditions, rather than confining displays to local culture alone.",
+        "source_phrase": "long-term",
+        "id": "3"
+      },
+      {
+        "phrase": "indispensable",
+        "cn": "获得干净的水是预防疾病不可缺少的条件。",
+        "answer": "Access to clean water is indispensable for preventing disease.",
+        "source_paragraph": 3,
+        "source": "A third reason I reject this proposal is that it would likely weaken the long-term appeal of some museums to residents, who are also an indispensable component of the local art community. If exhibitions rarely rotate, museums can gradually lose their appeal to local visitors; by contrast, collaboration with overseas institutions makes it possible to host time-limited, special-themed collections that keep the experience fresh. The British Museum, for example, has boosted public interest by staging themed exhibitions on topics such as the Silk Road and modern visual culture. This offers an actionable strategy for other institutions: embracing a wider range of artistic traditions, rather than confining displays to local culture alone.",
+        "source_phrase": "indispensable",
+        "id": "4"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 1,
+        "source": "My first objection is that this view misreads the role of museums and galleries in contemporary society. Undeniably, these institutions have a responsibility to preserve and present local cultural and historical heritage, but this is only one piece of a larger picture. Museums and galleries also function as a platform for cross-cultural communication: they not only illuminate the diversity of the past, but also offer inspiration for future creators and visitors through works originating in different regions. The Louvre in Paris, for example, owes its global standing not merely to displays of France’s history, but also to outstanding collections drawn from around the world.",
+        "source_phrase": "for example",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "local residents",
+        "cn": "更好的公交服务可以让当地居民更方便地前往海岸。",
+        "answer": "Better bus services can make the coast more accessible to local residents.",
+        "source_paragraph": 2,
+        "source": "Another reason is that museums often obtain their collections from different sources. Some works are donated by individuals, while others may be borrowed from museums in other countries for special exhibitions. International cooperation allows museums to regularly introduce new collections instead of showing the same objects for many years. This is especially important for local residents, who may have already seen the permanent exhibitions. If museums offer new exhibitions from other countries, local people may have more reasons to return. As a result, displaying international works can make museums more interesting and help them attract more visitors.",
+        "source_phrase": "local residents",
+        "id": "1"
+      },
+      {
+        "phrase": "provide inspiration",
+        "cn": "传统手工艺可以为现代设计师提供灵感。",
+        "answer": "Traditional crafts can provide inspiration for modern designers.",
+        "source_paragraph": 1,
+        "source": "First, museums and art galleries have a wider role than simply protecting local history. It is certainly important for them to display local artworks and historical objects because these can help people understand their own culture. However, works from other countries are also valuable. They allow visitors to learn about different traditions, lifestyles and ideas without travelling abroad. They can also provide inspiration for local artists and students. For example, many famous museums display collections from different parts of the world, giving visitors the chance to experience several cultures in one place. Therefore, focusing only on local works would limit the educational value of museums.",
+        "source_phrase": "provide inspiration",
+        "id": "2"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 3,
+        "source": "In conclusion, although museums and art galleries should protect and display local culture, they should not concentrate on local works alone. International collections can help visitors understand other cultures, provide educational value and keep museums attractive to both local people and tourists.",
+        "source_phrase": "although",
+        "id": "3"
+      },
+      {
+        "phrase": "However",
+        "cn": "该课程很便宜。然而，它并不提供任何实践培训。",
+        "answer": "The course is inexpensive. However, it does not offer any practical training.",
+        "source_paragraph": 1,
+        "source": "First, museums and art galleries have a wider role than simply protecting local history. It is certainly important for them to display local artworks and historical objects because these can help people understand their own culture. However, works from other countries are also valuable. They allow visitors to learn about different traditions, lifestyles and ideas without travelling abroad. They can also provide inspiration for local artists and students. For example, many famous museums display collections from different parts of the world, giving visitors the chance to experience several cultures in one place. Therefore, focusing only on local works would limit the educational value of museums.",
+        "source_phrase": "However",
+        "id": "4"
+      },
+      {
+        "phrase": "For example",
+        "cn": "市政府可以改善公共空间。例如，它可以在广场上增加座椅。",
+        "answer": "The city council can improve public spaces. For example, it can add seating to public squares.",
+        "source_paragraph": 1,
+        "source": "First, museums and art galleries have a wider role than simply protecting local history. It is certainly important for them to display local artworks and historical objects because these can help people understand their own culture. However, works from other countries are also valuable. They allow visitors to learn about different traditions, lifestyles and ideas without travelling abroad. They can also provide inspiration for local artists and students. For example, many famous museums display collections from different parts of the world, giving visitors the chance to experience several cultures in one place. Therefore, focusing only on local works would limit the educational value of museums.",
+        "source_phrase": "For example",
+        "id": "5"
+      }
+    ]
+  }
 }

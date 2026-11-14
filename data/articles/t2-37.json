@@ -255,5 +255,101 @@
     }
   ],
   "preferred": "seven",
-  "source_note": ""
+  "source_note": "",
+  "transfer": {
+    "nine": [
+      {
+        "phrase": "public health",
+        "cn": "更清洁的家庭燃料可以改善公共健康。",
+        "answer": "Cleaner household fuels can improve public health.",
+        "source_paragraph": 1,
+        "source": "The first reason for my disagreement is that such an argument oversimplifies global developmental disparities. In today’s world of rapid globalization, socioeconomic progress varies greatly across nations, making a one-size-fits-all approach impractical. Affluent countries, such as those in Northern Europe, can afford to invest heavily in environmental initiatives, like stricter emission controls, or urban housing reforms to reduce health risks from pollution and overcrowding. By contrast, emerging countries such as China and Brazil face a much broader set of challenges, including expanding access to education and strengthening economic resilience against global fluctuations. Meanwhile, many nations in the Global South, particularly in sub-Saharan Africa, still struggle with acute crises such as high infant mortality rates and ensuring access to safe food and drinking water. Demanding that these governments divert scarce resources towards pollution control and housing provision would not only be unrealistic but could also worsen more immediate threats to public health and survival.",
+        "source_phrase": "public health",
+        "id": "1"
+      },
+      {
+        "phrase": "contribute to",
+        "cn": "安全的步行路线可以帮助改善儿童健康。",
+        "answer": "Safe walking routes can contribute to better health among children.",
+        "source_paragraph": 2,
+        "source": "Secondly, this argument narrows the scope of modern governance, ignoring the need for balanced and holistic policy-making. Governments derive their legitimacy and effectiveness not by focusing solely on one or two domains, but by tackling a wide spectrum of interconnected issues. It is true that pollution and housing shortages contribute to disease; for instance, poor air quality can cause respiratory ailments, while inadequate housing may spread infections. However, they are only part of a larger puzzle. Other pressing priorities, such as reducing unemployment to ease poverty-related stress, investing in infrastructure for sanitation and transport, or funding medical research and innovation, are of equal importance. For example, during the COVID-19 pandemic, countries that adopted comprehensive strategies - combining healthcare support with economic relief - achieved far better outcomes than those fixated on one or two issues. Thus, effective governance requires a strategic allocation of resources across multiple fronts in order to secure sustainable and long-term well-being.",
+        "source_phrase": "contribute to",
+        "id": "2"
+      },
+      {
+        "phrase": "long-term",
+        "cn": "当地企业应重视长期稳定，而非短期利润。",
+        "answer": "Local businesses should value long-term stability over short-term profit.",
+        "source_paragraph": 2,
+        "source": "Secondly, this argument narrows the scope of modern governance, ignoring the need for balanced and holistic policy-making. Governments derive their legitimacy and effectiveness not by focusing solely on one or two domains, but by tackling a wide spectrum of interconnected issues. It is true that pollution and housing shortages contribute to disease; for instance, poor air quality can cause respiratory ailments, while inadequate housing may spread infections. However, they are only part of a larger puzzle. Other pressing priorities, such as reducing unemployment to ease poverty-related stress, investing in infrastructure for sanitation and transport, or funding medical research and innovation, are of equal importance. For example, during the COVID-19 pandemic, countries that adopted comprehensive strategies - combining healthcare support with economic relief - achieved far better outcomes than those fixated on one or two issues. Thus, effective governance requires a strategic allocation of resources across multiple fronts in order to secure sustainable and long-term well-being.",
+        "source_phrase": "long-term",
+        "id": "3"
+      },
+      {
+        "phrase": "infrastructure",
+        "cn": "对数字基础设施的投资可以支持偏远地区的企业。",
+        "answer": "Investment in digital infrastructure can support businesses in remote areas.",
+        "source_paragraph": 2,
+        "source": "Secondly, this argument narrows the scope of modern governance, ignoring the need for balanced and holistic policy-making. Governments derive their legitimacy and effectiveness not by focusing solely on one or two domains, but by tackling a wide spectrum of interconnected issues. It is true that pollution and housing shortages contribute to disease; for instance, poor air quality can cause respiratory ailments, while inadequate housing may spread infections. However, they are only part of a larger puzzle. Other pressing priorities, such as reducing unemployment to ease poverty-related stress, investing in infrastructure for sanitation and transport, or funding medical research and innovation, are of equal importance. For example, during the COVID-19 pandemic, countries that adopted comprehensive strategies - combining healthcare support with economic relief - achieved far better outcomes than those fixated on one or two issues. Thus, effective governance requires a strategic allocation of resources across multiple fronts in order to secure sustainable and long-term well-being.",
+        "source_phrase": "infrastructure",
+        "id": "4"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 3,
+        "source": "In conclusion, although tackling pollution and housing shortages is essential for protecting public health, these should not dominate governments’ agendas. Policies must be tailored to each nation’s stage of development and its citizens’ most urgent needs, ensuring a more equitable and resilient approach to overall welfare of society.",
+        "source_phrase": "although",
+        "id": "5"
+      }
+    ],
+    "seven": [
+      {
+        "phrase": "public health",
+        "cn": "更清洁的家庭燃料可以改善公共健康。",
+        "answer": "Cleaner household fuels can improve public health.",
+        "source_paragraph": 0,
+        "source": "Some people believe that governments should focus on reducing environmental pollution and housing problems in order to prevent diseases. Although these issues are important to public health, I disagree that they should always be the main priorities of governments, because different countries face different problems and governments have many other responsibilities.",
+        "source_phrase": "public health",
+        "id": "1"
+      },
+      {
+        "phrase": "lead to",
+        "cn": "更便宜的电力可能导致更高的家庭用电量。",
+        "answer": "Cheaper electricity may lead to higher household consumption.",
+        "source_paragraph": 2,
+        "source": "Another reason is that protecting public health requires governments to focus on many different areas. There is no doubt that pollution and poor housing can cause health problems. For example, air pollution may lead to breathing problems, while overcrowded housing can increase the spread of diseases. However, these are not the only causes of poor health. Governments also need to reduce unemployment and poverty, improve public facilities and invest in healthcare and medical research. The COVID-19 pandemic, for example, showed the importance of dealing with different problems at the same time. Governments had to provide medical services while also offering financial support to people and businesses. Focusing on only one or two areas is therefore unlikely to protect public health effectively in the long term.",
+        "source_phrase": "lead to",
+        "id": "2"
+      },
+      {
+        "phrase": "in the long term",
+        "cn": "在长期来看，预防性医疗可以降低公共支出。",
+        "answer": "Preventive healthcare can reduce public spending in the long term.",
+        "source_paragraph": 2,
+        "source": "Another reason is that protecting public health requires governments to focus on many different areas. There is no doubt that pollution and poor housing can cause health problems. For example, air pollution may lead to breathing problems, while overcrowded housing can increase the spread of diseases. However, these are not the only causes of poor health. Governments also need to reduce unemployment and poverty, improve public facilities and invest in healthcare and medical research. The COVID-19 pandemic, for example, showed the importance of dealing with different problems at the same time. Governments had to provide medical services while also offering financial support to people and businesses. Focusing on only one or two areas is therefore unlikely to protect public health effectively in the long term.",
+        "source_phrase": "in the long term",
+        "id": "3"
+      },
+      {
+        "phrase": "financial",
+        "cn": "维护农村医院需要大量财政投入。",
+        "answer": "Maintaining rural hospitals requires substantial financial investment.",
+        "source_paragraph": 2,
+        "source": "Another reason is that protecting public health requires governments to focus on many different areas. There is no doubt that pollution and poor housing can cause health problems. For example, air pollution may lead to breathing problems, while overcrowded housing can increase the spread of diseases. However, these are not the only causes of poor health. Governments also need to reduce unemployment and poverty, improve public facilities and invest in healthcare and medical research. The COVID-19 pandemic, for example, showed the importance of dealing with different problems at the same time. Governments had to provide medical services while also offering financial support to people and businesses. Focusing on only one or two areas is therefore unlikely to protect public health effectively in the long term.",
+        "source_phrase": "financial",
+        "id": "4"
+      },
+      {
+        "phrase": "Although",
+        "cn": "尽管这个小镇规模不大，它仍然每年吸引大量游客。",
+        "answer": "Although the town is small, it attracts many visitors each year.",
+        "source_paragraph": 0,
+        "source": "Some people believe that governments should focus on reducing environmental pollution and housing problems in order to prevent diseases. Although these issues are important to public health, I disagree that they should always be the main priorities of governments, because different countries face different problems and governments have many other responsibilities.",
+        "source_phrase": "Although",
+        "id": "5"
+      }
+    ]
+  }
 }
