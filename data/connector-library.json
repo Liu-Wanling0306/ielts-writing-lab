@@ -1,0 +1,1624 @@
+{
+  "openings": [
+    {
+      "title": "观点类｜To what extent do you agree or disagree?",
+      "use": "先明确立场，再概括最重要的判断依据。避免只写“This essay will discuss...”。",
+      "lines": [
+        {
+          "en": "While I acknowledge that [opposing point], I largely agree that [your position].",
+          "cn": "虽然我承认……，但我总体赞同……。",
+          "tip": "适合总体同意或部分同意。"
+        },
+        {
+          "en": "Although [the opposing view] has some merit, I believe that [your position] is more convincing.",
+          "cn": "尽管相反观点有一定道理，我仍认为……更有说服力。",
+          "tip": "适合让步后明确立场。"
+        },
+        {
+          "en": "I agree with this view to a considerable extent, primarily because [reason 1] and [reason 2].",
+          "cn": "我在很大程度上赞同这一观点，主要因为……和……。",
+          "tip": "适合完全或高度同意。"
+        },
+        {
+          "en": "In my view, the benefits of [issue] outweigh its potential drawbacks, provided that [condition].",
+          "cn": "我认为……的益处大于潜在弊端，前提是……。",
+          "tip": "适合“利大于弊且需条件”的立场。"
+        }
+      ]
+    },
+    {
+      "title": "双边讨论｜Discuss both views and give your opinion",
+      "use": "分别交代两种观点，并在引言中给出自己的判断。",
+      "lines": [
+        {
+          "en": "People hold differing views on whether [view A] or [view B] should be prioritised. I believe that [your opinion].",
+          "cn": "人们对于应优先考虑……还是……持有不同看法。我认为……。",
+          "tip": "直接引出两方观点。"
+        },
+        {
+          "en": "While some argue that [view A], others maintain that [view B]. In my opinion, [your position].",
+          "cn": "有人认为……，另一些人则主张……。在我看来……。",
+          "tip": "经典双边题结构。"
+        },
+        {
+          "en": "There are valid arguments on both sides; however, I would argue that [your position] because [main reason].",
+          "cn": "双方都有合理之处，但我认为……，因为……。",
+          "tip": "适合观点不绝对的题目。"
+        }
+      ]
+    },
+    {
+      "title": "利弊权衡｜Do the advantages outweigh the disadvantages?",
+      "use": "需要明确“哪一方更大”，而不是只说两面都有。",
+      "lines": [
+        {
+          "en": "Although [development] may create [main drawback], I believe its advantages are more substantial, particularly in terms of [area].",
+          "cn": "尽管……可能带来……，我认为其优势更为显著，尤其体现在……。",
+          "tip": "适合优势更大。"
+        },
+        {
+          "en": "The growing prevalence of [development] has both benefits and costs, but on balance I consider it a positive development.",
+          "cn": "……日益普及既有益处也有代价，但总体而言我认为这是积极的发展。",
+          "tip": "适合 positive development。"
+        },
+        {
+          "en": "Whether the benefits outweigh the costs depends largely on [condition]; when [condition is met], the overall impact is positive.",
+          "cn": "利弊大小主要取决于……；当满足这一条件时，整体影响是积极的。",
+          "tip": "适合有条件的权衡立场。"
+        }
+      ]
+    },
+    {
+      "title": "原因与解决｜Causes and solutions / Problems and measures",
+      "use": "引言简要概括问题来源与应对方向，不必提前展开细节。",
+      "lines": [
+        {
+          "en": "The rise in [problem] can largely be attributed to [cause 1] and [cause 2]. Addressing it requires action from both [group A] and [group B].",
+          "cn": "……问题的增加主要归因于……和……。解决这一问题需要……和……共同采取行动。",
+          "tip": "适合原因+措施。"
+        },
+        {
+          "en": "Several factors have contributed to [problem], and a combination of targeted policies and individual action is needed to tackle it.",
+          "cn": "多种因素导致了……，需要有针对性的政策与个人行动相结合来应对。",
+          "tip": "适合多原因多措施。"
+        },
+        {
+          "en": "This essay will examine the main drivers of [problem] and consider practical ways to reduce its impact.",
+          "cn": "本文将分析……的主要成因，并探讨减少其影响的实际方法。",
+          "tip": "可用但不必每篇都套。"
+        }
+      ]
+    },
+    {
+      "title": "双问题｜Two-part questions",
+      "use": "先概括第一问，再自然引出第二问；不要写成空泛模板。",
+      "lines": [
+        {
+          "en": "This trend is largely driven by [cause], while its wider implications include [effect].",
+          "cn": "这一趋势主要由……推动，其更广泛的影响包括……。",
+          "tip": "适合 why + effects。"
+        },
+        {
+          "en": "The main reasons for this preference are [reason 1] and [reason 2], and there are several ways to encourage [desired change].",
+          "cn": "这种偏好的主要原因是……和……，同时可以通过多种方式鼓励……。",
+          "tip": "适合 why + what can be done。"
+        },
+        {
+          "en": "This issue reflects changes in [background], and it raises important questions about [second question].",
+          "cn": "这一问题反映了……的变化，也引出了关于……的重要问题。",
+          "tip": "适合原因+评价/影响。"
+        }
+      ]
+    },
+    {
+      "title": "积极/消极发展｜Positive or negative development",
+      "use": "评价趋势的总体影响，并给出最核心的判断依据。",
+      "lines": [
+        {
+          "en": "Despite some possible disadvantages, I regard this as a largely positive development because [reason].",
+          "cn": "尽管存在一些潜在缺点，我仍认为这总体是积极的发展，因为……。",
+          "tip": "积极立场。"
+        },
+        {
+          "en": "I consider this a negative trend, as its long-term costs for [group/area] are likely to outweigh any immediate benefits.",
+          "cn": "我认为这是消极趋势，因为其对……的长期代价可能超过短期收益。",
+          "tip": "消极立场。"
+        },
+        {
+          "en": "The overall impact is mixed, but its consequences depend largely on how [issue] is managed.",
+          "cn": "整体影响喜忧参半，但其后果主要取决于如何管理……。",
+          "tip": "条件性评价。"
+        }
+      ]
+    }
+  ],
+  "body": [
+    {
+      "title": "支持观点 / 优势中心句",
+      "use": "先点明收益，再限定收益对象或作用领域。",
+      "lines": [
+        {
+          "en": "[Development] can bring substantial benefits by [verb-ing] and [verb-ing].",
+          "cn": "……可以通过……和……带来显著益处。",
+          "tip": ""
+        },
+        {
+          "en": "One major advantage of [X] is that it enables [group] to [benefit].",
+          "cn": "……的一项主要优势是使……能够……。",
+          "tip": ""
+        },
+        {
+          "en": "The most significant contribution of [X] lies in its ability to [function].",
+          "cn": "……最重要的贡献在于其能够……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "反方观点 / 劣势中心句",
+      "use": "用 may/can 说明风险，不要绝对化。",
+      "lines": [
+        {
+          "en": "A major concern, however, is that [X] may [negative outcome].",
+          "cn": "然而，一个主要担忧是……可能……。",
+          "tip": ""
+        },
+        {
+          "en": "Despite these benefits, the growing use of [X] can create problems related to [area].",
+          "cn": "尽管有这些好处，……的日益使用也可能带来与……有关的问题。",
+          "tip": ""
+        },
+        {
+          "en": "One potential drawback is the risk of [noun phrase], particularly among [group].",
+          "cn": "一个潜在缺点是……的风险，尤其是在……群体中。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "原因中心句",
+      "use": "明确指出原因，并为后续机制解释留空间。",
+      "lines": [
+        {
+          "en": "One major reason for [trend] is that [cause].",
+          "cn": "……趋势的一个主要原因是……。",
+          "tip": ""
+        },
+        {
+          "en": "This phenomenon can largely be attributed to [factor 1] and [factor 2].",
+          "cn": "这一现象主要可归因于……和……。",
+          "tip": ""
+        },
+        {
+          "en": "An underlying factor is the growing tendency for [group] to [behaviour].",
+          "cn": "一个深层因素是……群体越来越倾向于……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "解决措施中心句",
+      "use": "写清责任主体+行动方向。",
+      "lines": [
+        {
+          "en": "Addressing this issue requires coordinated efforts from governments and individuals.",
+          "cn": "解决这一问题需要政府与个人协同努力。",
+          "tip": ""
+        },
+        {
+          "en": "One practical measure would be for local authorities to [action].",
+          "cn": "一个切实可行的措施是地方政府……。",
+          "tip": ""
+        },
+        {
+          "en": "Schools and families can play complementary roles in helping children to [goal].",
+          "cn": "学校与家庭可以发挥互补作用，帮助儿童……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "让步与回应中心句",
+      "use": "先承认合理担忧，再说明并非不可解决。",
+      "lines": [
+        {
+          "en": "Admittedly, [X] may [drawback], but this risk can be reduced through [measure].",
+          "cn": "诚然，……可能……，但可以通过……降低这一风险。",
+          "tip": ""
+        },
+        {
+          "en": "Although this concern is legitimate, it does not necessarily mean that [extreme conclusion].",
+          "cn": "尽管这一担忧合理，但这并不意味着……。",
+          "tip": ""
+        },
+        {
+          "en": "The drawbacks should not be overlooked; nevertheless, they are manageable if [condition].",
+          "cn": "缺点不应被忽视；然而，如果……，这些问题是可以管理的。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "比较与区分中心句",
+      "use": "适合对比两类人、两种政策或两个时期。",
+      "lines": [
+        {
+          "en": "Unlike [A], [B] is more likely to [difference].",
+          "cn": "与……不同，……更可能……。",
+          "tip": ""
+        },
+        {
+          "en": "The benefits are particularly clear for [group], whereas [other group] may face [challenge].",
+          "cn": "这一益处对……尤其明显，而……群体可能面临……。",
+          "tip": ""
+        },
+        {
+          "en": "Compared with [A], [B] offers a more [adjective] way to [goal].",
+          "cn": "与……相比，……提供了一种更……的方式来……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "重要性 / 必要性中心句",
+      "use": "避免空喊“important”，说明它为何重要。",
+      "lines": [
+        {
+          "en": "[X] plays a crucial role in [process/outcome], particularly when [condition].",
+          "cn": "……在……中发挥关键作用，尤其是在……时。",
+          "tip": ""
+        },
+        {
+          "en": "It is essential to [action] if society is to [long-term goal].",
+          "cn": "如果社会要实现……，……至关重要。",
+          "tip": ""
+        },
+        {
+          "en": "The value of [X] extends beyond [immediate benefit] to include [wider benefit].",
+          "cn": "……的价值不仅体现在……，还包括……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "个人责任中心句",
+      "use": "突出日常行为与累积影响。",
+      "lines": [
+        {
+          "en": "Individuals can make a meaningful contribution by [action] in their daily lives.",
+          "cn": "个人可以通过日常……作出切实贡献。",
+          "tip": ""
+        },
+        {
+          "en": "Consumers have a responsibility to [action], rather than relying entirely on [other party].",
+          "cn": "消费者有责任……，而不是完全依赖……。",
+          "tip": ""
+        },
+        {
+          "en": "Small changes in individual behaviour can collectively lead to [wider outcome].",
+          "cn": "个人行为的小改变累积起来可以带来……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "政府责任中心句",
+      "use": "写投资、监管、公共服务或公平性。",
+      "lines": [
+        {
+          "en": "Governments are well placed to address this issue through [policy/investment].",
+          "cn": "政府适合通过……来解决这一问题。",
+          "tip": ""
+        },
+        {
+          "en": "Public investment in [area] can improve access to [service] and reduce [inequality/problem].",
+          "cn": "对……的公共投资可以改善……的可及性并减少……。",
+          "tip": ""
+        },
+        {
+          "en": "Clear regulations are needed to ensure that [development] benefits society without causing [harm].",
+          "cn": "需要明确的监管，以确保……造福社会而不造成……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "综合评价 / 段落收束",
+      "use": "把前面机制落到结果，不要简单重复中心句。",
+      "lines": [
+        {
+          "en": "This, in turn, can [immediate result], ultimately contributing to [wider outcome].",
+          "cn": "这反过来可以……，最终有助于……。",
+          "tip": ""
+        },
+        {
+          "en": "Over time, these changes may lead to [long-term consequence].",
+          "cn": "长期来看，这些变化可能导致……。",
+          "tip": ""
+        },
+        {
+          "en": "Taken together, these factors explain why [overall judgement].",
+          "cn": "综合来看，这些因素解释了为什么……。",
+          "tip": ""
+        }
+      ]
+    }
+  ],
+  "logic": [
+    {
+      "title": "补充同类论点",
+      "use": "添加第二个相关原因/优势，避免连续使用 In addition。",
+      "lines": [
+        {
+          "en": "Another contributing factor is that ...",
+          "cn": "另一个促成因素是……。",
+          "tip": ""
+        },
+        {
+          "en": "Equally importantly, ...",
+          "cn": "同样重要的是……。",
+          "tip": ""
+        },
+        {
+          "en": "A further benefit is that ...",
+          "cn": "另一个好处是……。",
+          "tip": ""
+        },
+        {
+          "en": "Beyond this, ...",
+          "cn": "除此之外……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "对比 / 区分",
+      "use": "用于比较对象、群体、时期或趋势。",
+      "lines": [
+        {
+          "en": "By contrast, ...",
+          "cn": "相比之下……。",
+          "tip": ""
+        },
+        {
+          "en": "Whereas [A] ..., [B] ...",
+          "cn": "而……，……。",
+          "tip": "whereas 连接对比分句。"
+        },
+        {
+          "en": "Unlike [A], [B] ...",
+          "cn": "与……不同，……。",
+          "tip": ""
+        },
+        {
+          "en": "Compared with [A], [B] ...",
+          "cn": "与……相比，……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "让步 / 限定",
+      "use": "承认一部分合理性，再回到主张。",
+      "lines": [
+        {
+          "en": "Admittedly, ...",
+          "cn": "诚然……。",
+          "tip": ""
+        },
+        {
+          "en": "Although this may be true, ...",
+          "cn": "尽管这可能属实……。",
+          "tip": ""
+        },
+        {
+          "en": "This is not to say that ...",
+          "cn": "这并不是说……。",
+          "tip": ""
+        },
+        {
+          "en": "Even so, ...",
+          "cn": "即便如此……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "原因 / 归因",
+      "use": "解释现象背后的驱动因素。",
+      "lines": [
+        {
+          "en": "This can largely be attributed to ...",
+          "cn": "这在很大程度上可归因于……。",
+          "tip": ""
+        },
+        {
+          "en": "One underlying reason is that ...",
+          "cn": "一个深层原因是……。",
+          "tip": ""
+        },
+        {
+          "en": "This is partly because ...",
+          "cn": "这在一定程度上是因为……。",
+          "tip": ""
+        },
+        {
+          "en": "A key factor behind this trend is ...",
+          "cn": "这一趋势背后的关键因素是……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "结果 / 递进后果",
+      "use": "把机制推进到直接或长期结果。",
+      "lines": [
+        {
+          "en": "As a result, ...",
+          "cn": "因此……。",
+          "tip": ""
+        },
+        {
+          "en": "This, in turn, ...",
+          "cn": "这反过来又……。",
+          "tip": ""
+        },
+        {
+          "en": "Consequently, ...",
+          "cn": "因此/结果是……。",
+          "tip": ""
+        },
+        {
+          "en": "Over time, this may ...",
+          "cn": "长期来看，这可能……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "举例 / 具体化",
+      "use": "让论点落到具体情境，不要为了例子编造数据。",
+      "lines": [
+        {
+          "en": "For example, ...",
+          "cn": "例如……。",
+          "tip": ""
+        },
+        {
+          "en": "A case in point is ...",
+          "cn": "一个典型例子是……。",
+          "tip": ""
+        },
+        {
+          "en": "This is particularly evident in ...",
+          "cn": "这一点在……中尤为明显。",
+          "tip": ""
+        },
+        {
+          "en": "To illustrate, ...",
+          "cn": "举例来说……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "解释 / 换言之",
+      "use": "补充机制或把抽象观点说清楚。",
+      "lines": [
+        {
+          "en": "In practical terms, ...",
+          "cn": "具体而言……。",
+          "tip": ""
+        },
+        {
+          "en": "More specifically, ...",
+          "cn": "更具体地说……。",
+          "tip": ""
+        },
+        {
+          "en": "In other words, ...",
+          "cn": "换句话说……。",
+          "tip": ""
+        },
+        {
+          "en": "This means that ...",
+          "cn": "这意味着……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "条件 / 前提",
+      "use": "表达政策效果或立场成立的条件。",
+      "lines": [
+        {
+          "en": "Provided that ..., ...",
+          "cn": "只要/前提是……，……。",
+          "tip": ""
+        },
+        {
+          "en": "This is more likely to succeed when ...",
+          "cn": "当……时，这更有可能成功。",
+          "tip": ""
+        },
+        {
+          "en": "The benefits depend largely on whether ...",
+          "cn": "益处在很大程度上取决于是否……。",
+          "tip": ""
+        },
+        {
+          "en": "If properly managed, ...",
+          "cn": "如果管理得当，……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "强调 / 重点转移",
+      "use": "突出真正重要的判断标准。",
+      "lines": [
+        {
+          "en": "More importantly, ...",
+          "cn": "更重要的是……。",
+          "tip": ""
+        },
+        {
+          "en": "What matters most is whether ...",
+          "cn": "最重要的是是否……。",
+          "tip": ""
+        },
+        {
+          "en": "The key issue is not [A], but [B].",
+          "cn": "关键问题不是……，而是……。",
+          "tip": ""
+        },
+        {
+          "en": "Of particular importance is ...",
+          "cn": "尤其重要的是……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "总结 / 权衡",
+      "use": "用于段落或全文收束，避免机械堆叠。",
+      "lines": [
+        {
+          "en": "On balance, ...",
+          "cn": "总体而言……。",
+          "tip": ""
+        },
+        {
+          "en": "Taking these factors into account, ...",
+          "cn": "考虑到这些因素……。",
+          "tip": ""
+        },
+        {
+          "en": "Ultimately, the overall impact depends on ...",
+          "cn": "归根结底，整体影响取决于……。",
+          "tip": ""
+        },
+        {
+          "en": "For these reasons, ...",
+          "cn": "基于这些原因……。",
+          "tip": ""
+        }
+      ]
+    }
+  ],
+  "conclusions": [
+    {
+      "title": "观点类结尾",
+      "use": "重申立场并概括决定性理由。",
+      "lines": [
+        {
+          "en": "In conclusion, although [concession], I remain convinced that [position] because [key reason].",
+          "cn": "总之，尽管……，我仍坚信……，因为……。",
+          "tip": ""
+        },
+        {
+          "en": "Overall, the advantages of [X] outweigh its drawbacks, particularly when [condition].",
+          "cn": "总体而言，……的优势超过缺点，尤其是在……时。",
+          "tip": ""
+        },
+        {
+          "en": "For these reasons, I agree that [paraphrased position], provided that [safeguard].",
+          "cn": "基于这些原因，我赞同……，前提是……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "双边讨论结尾",
+      "use": "总结两方但明确自己的判断。",
+      "lines": [
+        {
+          "en": "In conclusion, while [view A] has its merits, I believe [view B] should be given greater priority because [reason].",
+          "cn": "总之，尽管……有其合理性，我认为应更重视……，因为……。",
+          "tip": ""
+        },
+        {
+          "en": "Both perspectives are understandable; nevertheless, [your view] offers a more convincing approach to [goal].",
+          "cn": "两种观点都可以理解；然而，……对于实现……更有说服力。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "利弊权衡结尾",
+      "use": "直接回答 outweigh，不要只写两面都有。",
+      "lines": [
+        {
+          "en": "On balance, the benefits of [development] are greater than its costs, as long as [condition].",
+          "cn": "总体而言，只要……，……的益处就大于代价。",
+          "tip": ""
+        },
+        {
+          "en": "Although [drawback] remains a concern, it is manageable and does not outweigh the wider benefits of [X].",
+          "cn": "尽管……仍值得担忧，但它可以得到控制，不足以抵消……的广泛益处。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "原因与措施结尾",
+      "use": "简要回扣原因，突出措施方向。",
+      "lines": [
+        {
+          "en": "In conclusion, [problem] stems mainly from [cause]. A combination of [measure A] and [measure B] is therefore needed to address it.",
+          "cn": "总之，……主要源于……。因此需要结合……和……来解决。",
+          "tip": ""
+        },
+        {
+          "en": "These measures would help tackle the immediate causes while reducing the likelihood of the problem recurring.",
+          "cn": "这些措施既能解决直接原因，也能降低问题再次发生的可能性。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "积极 / 消极发展结尾",
+      "use": "总结总体评价和条件。",
+      "lines": [
+        {
+          "en": "Overall, I regard this as a positive development because its long-term benefits for [area] are likely to be substantial.",
+          "cn": "总体而言，我认为这是积极的发展，因为其对……的长期益处可能十分显著。",
+          "tip": ""
+        },
+        {
+          "en": "Unless effective steps are taken, the negative consequences of this trend are likely to become more serious.",
+          "cn": "如果不采取有效措施，这一趋势的负面后果可能会更加严重。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "双问题结尾",
+      "use": "同时回应两问，避免引入新论点。",
+      "lines": [
+        {
+          "en": "In short, [answer to question 1], and [answer to question 2] would be the most practical way forward.",
+          "cn": "简言之，……；而……将是最切实可行的解决方向。",
+          "tip": ""
+        },
+        {
+          "en": "These factors explain why [phenomenon occurs], while [measure/condition] could help improve the situation.",
+          "cn": "这些因素解释了……为何发生，而……可以帮助改善现状。",
+          "tip": ""
+        }
+      ]
+    }
+  ],
+  "task1": [
+    {
+      "title": "Overview｜总览句",
+      "use": "概括主要趋势、最高最低、排名变化或阶段特征，不罗列所有数字。",
+      "lines": [
+        {
+          "en": "Overall, the most noticeable feature is that ...",
+          "cn": "总体而言，最显著的特征是……。",
+          "tip": ""
+        },
+        {
+          "en": "Overall, [A] showed an upward trend, whereas [B] declined over the period.",
+          "cn": "总体而言，A 呈上升趋势，而 B 在此期间下降。",
+          "tip": ""
+        },
+        {
+          "en": "It is clear that [A] remained the largest category, while [B] accounted for the smallest share.",
+          "cn": "显然，A 始终是最大类别，而 B 所占比例最小。",
+          "tip": ""
+        },
+        {
+          "en": "Overall, the process consists of [number] main stages, beginning with ... and ending with ...",
+          "cn": "总体而言，该流程包含……个主要阶段，从……开始，以……结束。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "数据趋势｜上升下降与波动",
+      "use": "选择与幅度匹配的动词和副词，避免所有变化都写 increase/decrease。",
+      "lines": [
+        {
+          "en": "The figure rose steadily from [x] to [y].",
+          "cn": "数值从 x 稳步上升至 y。",
+          "tip": ""
+        },
+        {
+          "en": "There was a sharp increase in [category], reaching [figure].",
+          "cn": "某类别大幅增长，达到……。",
+          "tip": ""
+        },
+        {
+          "en": "[Category] experienced a gradual decline over the period.",
+          "cn": "某类别在此期间逐渐下降。",
+          "tip": ""
+        },
+        {
+          "en": "The figure fluctuated before stabilising at [x].",
+          "cn": "数值波动后稳定在……。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "比较与占比｜分组描述",
+      "use": "用比较关系组织细节段，不要逐项机械报数。",
+      "lines": [
+        {
+          "en": "[A] accounted for the largest share, at [x]%.",
+          "cn": "A 所占比例最大，为 x%。",
+          "tip": ""
+        },
+        {
+          "en": "[A] was approximately twice as high as [B].",
+          "cn": "A 约为 B 的两倍。",
+          "tip": ""
+        },
+        {
+          "en": "The figures for [A] and [B] were [x] and [y], respectively.",
+          "cn": "A 和 B 的数值分别为 x 和 y。",
+          "tip": ""
+        },
+        {
+          "en": "By comparison, [A] made up a much smaller proportion of the total.",
+          "cn": "相比之下，A 所占总量比例小得多。",
+          "tip": ""
+        }
+      ]
+    },
+    {
+      "title": "地图 / 流程｜空间变化与步骤",
+      "use": "地图用位置和变化动词；流程用被动语态和顺序表达。",
+      "lines": [
+        {
+          "en": "The area underwent substantial redevelopment, with [feature] being replaced by [new feature].",
+          "cn": "该区域经历了大规模改造，某设施被新设施取代。",
+          "tip": ""
+        },
+        {
+          "en": "[Feature] was converted into [new use].",
+          "cn": "某设施被改建为……。",
+          "tip": ""
+        },
+        {
+          "en": "Once this stage is complete, the material is transferred to ...",
+          "cn": "这一步完成后，材料被转移至……。",
+          "tip": ""
+        },
+        {
+          "en": "The process begins with [stage] and is followed by [next stage].",
+          "cn": "该流程从……开始，随后进入……阶段。",
+          "tip": ""
+        }
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "name": "教育与成长",
+      "positive": [
+        {
+          "phrase": "broaden access to quality education",
+          "cn": "扩大优质教育的可及性",
+          "example": "Online courses can broaden access to quality education for students in remote areas."
+        },
+        {
+          "phrase": "foster critical thinking",
+          "cn": "培养批判性思维",
+          "example": "Open-ended classroom discussions can foster critical thinking."
+        },
+        {
+          "phrase": "equip students with practical skills",
+          "cn": "使学生具备实用技能",
+          "example": "Vocational programmes equip students with practical skills for the workplace."
+        },
+        {
+          "phrase": "promote social mobility",
+          "cn": "促进社会流动",
+          "example": "Affordable higher education can promote social mobility."
+        },
+        {
+          "phrase": "provide equal learning opportunities",
+          "cn": "提供平等的学习机会",
+          "example": "Public funding can provide equal learning opportunities for disadvantaged children."
+        },
+        {
+          "phrase": "cultivate a lifelong love of learning",
+          "cn": "培养终身学习的兴趣",
+          "example": "Supportive teachers can cultivate a lifelong love of learning."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "widen educational inequalities",
+          "cn": "扩大教育不平等",
+          "example": "Unequal access to digital devices can widen educational inequalities."
+        },
+        {
+          "phrase": "place excessive pressure on students",
+          "cn": "给学生施加过大压力",
+          "example": "High-stakes examinations may place excessive pressure on students."
+        },
+        {
+          "phrase": "encourage rote learning",
+          "cn": "助长死记硬背式学习",
+          "example": "An exam-focused system can encourage rote learning."
+        },
+        {
+          "phrase": "impose a heavy financial burden",
+          "cn": "造成沉重经济负担",
+          "example": "Tuition fees can impose a heavy financial burden on low-income families."
+        },
+        {
+          "phrase": "leave disadvantaged pupils behind",
+          "cn": "使弱势学生掉队",
+          "example": "A lack of learning support may leave disadvantaged pupils behind."
+        },
+        {
+          "phrase": "undermine students’ intrinsic motivation",
+          "cn": "削弱学生的内在学习动力",
+          "example": "Constant comparison can undermine students’ intrinsic motivation."
+        }
+      ]
+    },
+    {
+      "name": "科技、AI与媒体",
+      "positive": [
+        {
+          "phrase": "streamline repetitive tasks",
+          "cn": "简化重复性任务",
+          "example": "AI can streamline repetitive tasks and free employees to focus on complex work."
+        },
+        {
+          "phrase": "enhance productivity",
+          "cn": "提高生产力",
+          "example": "Automation can enhance productivity across many industries."
+        },
+        {
+          "phrase": "improve access to information",
+          "cn": "改善信息获取",
+          "example": "Digital platforms improve access to information."
+        },
+        {
+          "phrase": "facilitate remote collaboration",
+          "cn": "促进远程协作",
+          "example": "Video-conferencing tools facilitate remote collaboration."
+        },
+        {
+          "phrase": "support early disease detection",
+          "cn": "支持疾病早期检测",
+          "example": "AI-assisted imaging can support early disease detection."
+        },
+        {
+          "phrase": "personalise learning experiences",
+          "cn": "使学习体验个性化",
+          "example": "Adaptive software can personalise learning experiences."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "displace workers in routine occupations",
+          "cn": "取代常规职业中的劳动者",
+          "example": "AI-driven automation may displace workers in routine occupations."
+        },
+        {
+          "phrase": "deepen the digital divide",
+          "cn": "加深数字鸿沟",
+          "example": "Unequal internet access can deepen the digital divide."
+        },
+        {
+          "phrase": "undermine independent thinking",
+          "cn": "削弱独立思考",
+          "example": "Overreliance on AI may undermine independent thinking."
+        },
+        {
+          "phrase": "spread misleading information",
+          "cn": "传播误导性信息",
+          "example": "Unverified posts can spread misleading information rapidly."
+        },
+        {
+          "phrase": "compromise personal data",
+          "cn": "危及个人数据",
+          "example": "Poorly protected platforms may compromise personal data."
+        },
+        {
+          "phrase": "encourage excessive screen time",
+          "cn": "助长过度屏幕使用",
+          "example": "Short-form content can encourage excessive screen time."
+        }
+      ]
+    },
+    {
+      "name": "环境、气候与动物",
+      "positive": [
+        {
+          "phrase": "reduce carbon emissions",
+          "cn": "减少碳排放",
+          "example": "Investment in renewable energy can reduce carbon emissions."
+        },
+        {
+          "phrase": "protect biodiversity",
+          "cn": "保护生物多样性",
+          "example": "Well-managed nature reserves help protect biodiversity."
+        },
+        {
+          "phrase": "conserve natural resources",
+          "cn": "保护自然资源",
+          "example": "Recycling programmes can conserve natural resources."
+        },
+        {
+          "phrase": "improve urban air quality",
+          "cn": "改善城市空气质量",
+          "example": "Restrictions on private cars can improve urban air quality."
+        },
+        {
+          "phrase": "promote sustainable consumption",
+          "cn": "促进可持续消费",
+          "example": "Clear product labels can promote sustainable consumption."
+        },
+        {
+          "phrase": "restore degraded ecosystems",
+          "cn": "修复退化生态系统",
+          "example": "Reforestation projects can restore degraded ecosystems."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "deplete non-renewable resources",
+          "cn": "消耗不可再生资源",
+          "example": "Excessive consumption can deplete non-renewable resources."
+        },
+        {
+          "phrase": "destroy natural habitats",
+          "cn": "破坏自然栖息地",
+          "example": "Uncontrolled development can destroy natural habitats."
+        },
+        {
+          "phrase": "accelerate climate change",
+          "cn": "加剧气候变化",
+          "example": "Heavy reliance on fossil fuels can accelerate climate change."
+        },
+        {
+          "phrase": "cause long-term ecological damage",
+          "cn": "造成长期生态破坏",
+          "example": "Poorly planned tourism can cause long-term ecological damage."
+        },
+        {
+          "phrase": "place wildlife under pressure",
+          "cn": "使野生动物承受生存压力",
+          "example": "Habitat loss places wildlife under increasing pressure."
+        },
+        {
+          "phrase": "shift environmental costs onto future generations",
+          "cn": "将环境代价转嫁给后代",
+          "example": "Unsustainable policies shift environmental costs onto future generations."
+        }
+      ]
+    },
+    {
+      "name": "文化、旅游与全球化",
+      "positive": [
+        {
+          "phrase": "foster intercultural understanding",
+          "cn": "促进跨文化理解",
+          "example": "International tourism can foster intercultural understanding."
+        },
+        {
+          "phrase": "generate income for local communities",
+          "cn": "为当地社区创造收入",
+          "example": "Cultural tourism generates income for local communities."
+        },
+        {
+          "phrase": "support heritage preservation",
+          "cn": "支持文化遗产保护",
+          "example": "Tourism revenue can support heritage preservation."
+        },
+        {
+          "phrase": "create employment opportunities",
+          "cn": "创造就业机会",
+          "example": "Tourism can create employment opportunities in rural areas."
+        },
+        {
+          "phrase": "provide first-hand cultural experiences",
+          "cn": "提供亲身文化体验",
+          "example": "Travel provides first-hand cultural experiences that books cannot fully replicate."
+        },
+        {
+          "phrase": "strengthen a sense of cultural identity",
+          "cn": "增强文化认同感",
+          "example": "Community festivals can strengthen a sense of cultural identity."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "commercialise cultural traditions",
+          "cn": "使传统文化商业化",
+          "example": "Mass tourism can commercialise cultural traditions."
+        },
+        {
+          "phrase": "erode cultural authenticity",
+          "cn": "削弱文化真实性",
+          "example": "Staged performances may erode cultural authenticity."
+        },
+        {
+          "phrase": "put pressure on local infrastructure",
+          "cn": "给当地基础设施带来压力",
+          "example": "Peak-season tourism puts pressure on local infrastructure."
+        },
+        {
+          "phrase": "damage historic sites",
+          "cn": "破坏历史遗迹",
+          "example": "Large visitor numbers can damage historic sites."
+        },
+        {
+          "phrase": "disrupt residents’ daily lives",
+          "cn": "干扰居民日常生活",
+          "example": "Noise and congestion can disrupt residents’ daily lives."
+        },
+        {
+          "phrase": "encourage overcrowding",
+          "cn": "加剧过度拥挤",
+          "example": "Cheap flights may encourage overcrowding in popular destinations."
+        }
+      ]
+    },
+    {
+      "name": "健康、生活方式与压力",
+      "positive": [
+        {
+          "phrase": "improve cardiovascular fitness",
+          "cn": "改善心血管健康",
+          "example": "Regular exercise can improve cardiovascular fitness."
+        },
+        {
+          "phrase": "support mental well-being",
+          "cn": "促进心理健康",
+          "example": "Social support plays an important role in mental well-being."
+        },
+        {
+          "phrase": "reduce the risk of chronic diseases",
+          "cn": "降低慢性病风险",
+          "example": "A balanced diet can reduce the risk of chronic diseases."
+        },
+        {
+          "phrase": "relieve stress and improve mood",
+          "cn": "缓解压力并改善情绪",
+          "example": "Outdoor activities can relieve stress and improve mood."
+        },
+        {
+          "phrase": "maintain a healthy weight",
+          "cn": "保持健康体重",
+          "example": "Regular exercise helps people maintain a healthy weight."
+        },
+        {
+          "phrase": "improve sleep quality",
+          "cn": "改善睡眠质量",
+          "example": "A consistent routine can improve sleep quality."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "lead a sedentary lifestyle",
+          "cn": "过久坐的生活方式",
+          "example": "Long working hours may lead people to adopt a sedentary lifestyle."
+        },
+        {
+          "phrase": "increase the risk of obesity",
+          "cn": "增加肥胖风险",
+          "example": "Frequent consumption of processed food can increase the risk of obesity."
+        },
+        {
+          "phrase": "place pressure on healthcare services",
+          "cn": "给医疗服务带来压力",
+          "example": "An ageing population can place pressure on healthcare services."
+        },
+        {
+          "phrase": "contribute to chronic stress",
+          "cn": "导致长期压力",
+          "example": "Unrealistic workloads can contribute to chronic stress."
+        },
+        {
+          "phrase": "widen health inequalities",
+          "cn": "扩大健康不平等",
+          "example": "Unequal access to healthcare can widen health inequalities."
+        },
+        {
+          "phrase": "undermine work-life balance",
+          "cn": "损害工作与生活的平衡",
+          "example": "Constant connectivity can undermine work-life balance."
+        }
+      ]
+    },
+    {
+      "name": "工作、职业与成功",
+      "positive": [
+        {
+          "phrase": "offer greater control over working hours",
+          "cn": "提供更大的工作时间自主权",
+          "example": "Self-employment can offer greater control over working hours."
+        },
+        {
+          "phrase": "unlock long-term career potential",
+          "cn": "释放长期职业发展潜力",
+          "example": "Continuous training can unlock long-term career potential."
+        },
+        {
+          "phrase": "provide a sense of professional fulfilment",
+          "cn": "带来职业成就感",
+          "example": "Meaningful work can provide a sense of professional fulfilment."
+        },
+        {
+          "phrase": "develop transferable skills",
+          "cn": "培养可迁移技能",
+          "example": "Taking on varied responsibilities helps employees develop transferable skills."
+        },
+        {
+          "phrase": "encourage innovation and initiative",
+          "cn": "鼓励创新与主动性",
+          "example": "Flexible workplaces can encourage innovation and initiative."
+        },
+        {
+          "phrase": "improve job satisfaction",
+          "cn": "提高工作满意度",
+          "example": "A supportive management culture can improve job satisfaction."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "create income instability",
+          "cn": "造成收入不稳定",
+          "example": "Self-employment can create income instability, especially at the start."
+        },
+        {
+          "phrase": "offer limited job security",
+          "cn": "提供有限的工作保障",
+          "example": "Temporary contracts often offer limited job security."
+        },
+        {
+          "phrase": "blur the boundaries between work and personal life",
+          "cn": "模糊工作与私人生活的界限",
+          "example": "Remote work can blur the boundaries between work and personal life."
+        },
+        {
+          "phrase": "expose workers to financial uncertainty",
+          "cn": "使劳动者面临经济不确定性",
+          "example": "Freelancers may be exposed to financial uncertainty."
+        },
+        {
+          "phrase": "lead to excessive workloads",
+          "cn": "导致工作负担过重",
+          "example": "Staff shortages can lead to excessive workloads."
+        },
+        {
+          "phrase": "create a mismatch between skills and jobs",
+          "cn": "造成技能与岗位不匹配",
+          "example": "Rapid technological change can create a mismatch between skills and jobs."
+        }
+      ]
+    },
+    {
+      "name": "金钱、经济与消费",
+      "positive": [
+        {
+          "phrase": "stimulate economic growth",
+          "cn": "刺激经济增长",
+          "example": "Public infrastructure projects can stimulate economic growth."
+        },
+        {
+          "phrase": "raise household living standards",
+          "cn": "提高家庭生活水平",
+          "example": "Stable employment can raise household living standards."
+        },
+        {
+          "phrase": "boost local businesses",
+          "cn": "促进本地企业发展",
+          "example": "Visitors’ spending can boost local businesses."
+        },
+        {
+          "phrase": "attract domestic and foreign investment",
+          "cn": "吸引国内外投资",
+          "example": "Reliable transport networks can attract domestic and foreign investment."
+        },
+        {
+          "phrase": "expand consumer choice",
+          "cn": "扩大消费者选择",
+          "example": "Online retail has expanded consumer choice."
+        },
+        {
+          "phrase": "create a more resilient local economy",
+          "cn": "建立更有韧性的地方经济",
+          "example": "Supporting small firms can create a more resilient local economy."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "widen the income gap",
+          "cn": "扩大收入差距",
+          "example": "Unequal access to high-paying jobs can widen the income gap."
+        },
+        {
+          "phrase": "increase household debt",
+          "cn": "增加家庭债务",
+          "example": "Easy access to credit can increase household debt."
+        },
+        {
+          "phrase": "encourage excessive consumption",
+          "cn": "助长过度消费",
+          "example": "Aggressive advertising can encourage excessive consumption."
+        },
+        {
+          "phrase": "raise the cost of living",
+          "cn": "提高生活成本",
+          "example": "Rapid urban growth can raise the cost of living."
+        },
+        {
+          "phrase": "undermine financial security",
+          "cn": "损害经济保障",
+          "example": "High housing costs can undermine financial security."
+        },
+        {
+          "phrase": "place a strain on public finances",
+          "cn": "给公共财政带来压力",
+          "example": "Large unfunded programmes can place a strain on public finances."
+        }
+      ]
+    },
+    {
+      "name": "家庭、儿童与代际关系",
+      "positive": [
+        {
+          "phrase": "provide emotional support and guidance",
+          "cn": "提供情感支持与指导",
+          "example": "Grandparents can provide children with emotional support and guidance."
+        },
+        {
+          "phrase": "strengthen intergenerational bonds",
+          "cn": "加强代际联系",
+          "example": "Regular family visits strengthen intergenerational bonds."
+        },
+        {
+          "phrase": "pass down cultural values and traditions",
+          "cn": "传承文化价值观与传统",
+          "example": "Older relatives help pass down cultural values and traditions."
+        },
+        {
+          "phrase": "support children’s emotional development",
+          "cn": "支持儿童情感发展",
+          "example": "Stable family relationships support children’s emotional development."
+        },
+        {
+          "phrase": "share caregiving responsibilities",
+          "cn": "分担照护责任",
+          "example": "Extended families can share caregiving responsibilities."
+        },
+        {
+          "phrase": "reduce social isolation among older people",
+          "cn": "减少老年人的社会孤立",
+          "example": "Community activities can reduce social isolation among older people."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "weaken family ties",
+          "cn": "削弱家庭纽带",
+          "example": "Long-term geographical separation can weaken family ties."
+        },
+        {
+          "phrase": "limit meaningful family interaction",
+          "cn": "限制有意义的家庭互动",
+          "example": "Heavy academic schedules may limit meaningful family interaction."
+        },
+        {
+          "phrase": "leave children with less emotional support",
+          "cn": "使儿童获得较少情感支持",
+          "example": "Long working hours may leave children with less emotional support."
+        },
+        {
+          "phrase": "increase the burden on family caregivers",
+          "cn": "增加家庭照护者负担",
+          "example": "A lack of public care services increases the burden on family caregivers."
+        },
+        {
+          "phrase": "contribute to loneliness among older adults",
+          "cn": "加剧老年人的孤独感",
+          "example": "Living alone can contribute to loneliness among older adults."
+        },
+        {
+          "phrase": "create intergenerational misunderstandings",
+          "cn": "造成代际误解",
+          "example": "Different expectations can create intergenerational misunderstandings."
+        }
+      ]
+    },
+    {
+      "name": "城市、交通与公共空间",
+      "positive": [
+        {
+          "phrase": "ease traffic congestion",
+          "cn": "缓解交通拥堵",
+          "example": "Reliable public transport can ease traffic congestion."
+        },
+        {
+          "phrase": "improve access to public transport",
+          "cn": "改善公共交通可达性",
+          "example": "Integrated ticketing can improve access to public transport."
+        },
+        {
+          "phrase": "create pedestrian-friendly public spaces",
+          "cn": "打造适宜步行的公共空间",
+          "example": "Car-free zones can create pedestrian-friendly public spaces."
+        },
+        {
+          "phrase": "encourage active travel",
+          "cn": "鼓励步行和骑行等主动出行",
+          "example": "Safe cycle lanes encourage active travel."
+        },
+        {
+          "phrase": "reduce vehicle-related air pollution",
+          "cn": "减少车辆造成的空气污染",
+          "example": "Low-emission zones can reduce vehicle-related air pollution."
+        },
+        {
+          "phrase": "enhance residents’ quality of life",
+          "cn": "提升居民生活质量",
+          "example": "Accessible parks can enhance residents’ quality of life."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "restrict personal mobility and flexibility",
+          "cn": "限制个人出行与灵活性",
+          "example": "Strict car restrictions may restrict personal mobility and flexibility."
+        },
+        {
+          "phrase": "disadvantage people with limited mobility",
+          "cn": "使行动不便者处于不利地位",
+          "example": "Poorly designed pedestrian zones disadvantage people with limited mobility."
+        },
+        {
+          "phrase": "increase commuting times",
+          "cn": "延长通勤时间",
+          "example": "Infrequent buses can increase commuting times."
+        },
+        {
+          "phrase": "place additional pressure on public transport",
+          "cn": "给公共交通增加额外压力",
+          "example": "Car-free policies may place additional pressure on public transport."
+        },
+        {
+          "phrase": "reduce access to essential services",
+          "cn": "降低获取基本服务的便利性",
+          "example": "Poor transport links can reduce access to essential services."
+        },
+        {
+          "phrase": "reinforce spatial inequality",
+          "cn": "加剧空间不平等",
+          "example": "Uneven investment can reinforce spatial inequality."
+        }
+      ]
+    },
+    {
+      "name": "政府、公共服务与社会公平",
+      "positive": [
+        {
+          "phrase": "ensure equal access to essential services",
+          "cn": "确保平等获得基本公共服务",
+          "example": "Public investment can ensure equal access to essential services."
+        },
+        {
+          "phrase": "protect vulnerable groups",
+          "cn": "保护弱势群体",
+          "example": "Targeted welfare policies can protect vulnerable groups."
+        },
+        {
+          "phrase": "invest in public infrastructure",
+          "cn": "投资公共基础设施",
+          "example": "Governments need to invest in public infrastructure."
+        },
+        {
+          "phrase": "address regional disparities",
+          "cn": "解决地区差异",
+          "example": "Balanced regional policies can address regional disparities."
+        },
+        {
+          "phrase": "strengthen public trust",
+          "cn": "增强公众信任",
+          "example": "Transparent decision-making can strengthen public trust."
+        },
+        {
+          "phrase": "promote social mobility",
+          "cn": "促进社会流动",
+          "example": "Accessible education and training can promote social mobility."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "place a heavy burden on taxpayers",
+          "cn": "给纳税人带来沉重负担",
+          "example": "Poorly targeted subsidies can place a heavy burden on taxpayers."
+        },
+        {
+          "phrase": "strain limited public resources",
+          "cn": "耗费有限的公共资源",
+          "example": "An ageing population may strain limited public resources."
+        },
+        {
+          "phrase": "lead to inefficient public spending",
+          "cn": "导致公共支出效率低下",
+          "example": "Weak oversight can lead to inefficient public spending."
+        },
+        {
+          "phrase": "create excessive dependence on state support",
+          "cn": "造成对国家支持的过度依赖",
+          "example": "Poorly designed benefits may create excessive dependence on state support."
+        },
+        {
+          "phrase": "fail to reach those most in need",
+          "cn": "无法惠及最需要帮助的人",
+          "example": "Universal schemes may fail to reach those most in need."
+        },
+        {
+          "phrase": "limit individual choice",
+          "cn": "限制个人选择",
+          "example": "Overly restrictive rules can limit individual choice."
+        }
+      ]
+    },
+    {
+      "name": "犯罪、法律与公共安全",
+      "positive": [
+        {
+          "phrase": "deter criminal behaviour",
+          "cn": "威慑犯罪行为",
+          "example": "Visible community policing can deter criminal behaviour."
+        },
+        {
+          "phrase": "address the root causes of crime",
+          "cn": "解决犯罪的根本原因",
+          "example": "Education and employment programmes can address the root causes of crime."
+        },
+        {
+          "phrase": "rehabilitate offenders",
+          "cn": "改造罪犯",
+          "example": "Skills training can help rehabilitate offenders."
+        },
+        {
+          "phrase": "reduce the risk of reoffending",
+          "cn": "降低再犯风险",
+          "example": "Post-release support can reduce the risk of reoffending."
+        },
+        {
+          "phrase": "improve public safety",
+          "cn": "改善公共安全",
+          "example": "Better street lighting can improve public safety."
+        },
+        {
+          "phrase": "provide support for victims",
+          "cn": "为受害者提供支持",
+          "example": "Specialist services provide support for victims of crime."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "overcrowd the prison system",
+          "cn": "造成监狱系统过度拥挤",
+          "example": "Long prison sentences can overcrowd the prison system."
+        },
+        {
+          "phrase": "fail to tackle underlying social problems",
+          "cn": "未能解决深层社会问题",
+          "example": "Punishment alone may fail to tackle underlying social problems."
+        },
+        {
+          "phrase": "increase the long-term cost to society",
+          "cn": "增加社会长期成本",
+          "example": "Repeated imprisonment can increase the long-term cost to society."
+        },
+        {
+          "phrase": "make reintegration more difficult",
+          "cn": "使重新融入社会更加困难",
+          "example": "A criminal record can make reintegration more difficult."
+        },
+        {
+          "phrase": "stigmatise former offenders",
+          "cn": "污名化曾经犯罪的人",
+          "example": "Public stigma can stigmatise former offenders."
+        },
+        {
+          "phrase": "undermine confidence in the justice system",
+          "cn": "削弱公众对司法系统的信心",
+          "example": "Inconsistent sentencing can undermine confidence in the justice system."
+        }
+      ]
+    },
+    {
+      "name": "新闻、信息与社会舆论",
+      "positive": [
+        {
+          "phrase": "broaden public awareness",
+          "cn": "扩大公众认知",
+          "example": "Documentaries can broaden public awareness of environmental issues."
+        },
+        {
+          "phrase": "facilitate informed public debate",
+          "cn": "促进有信息基础的公共讨论",
+          "example": "Reliable reporting can facilitate informed public debate."
+        },
+        {
+          "phrase": "hold powerful institutions accountable",
+          "cn": "监督有权力的机构",
+          "example": "Investigative journalism can hold powerful institutions accountable."
+        },
+        {
+          "phrase": "connect people across geographical boundaries",
+          "cn": "连接不同地域的人们",
+          "example": "Digital media connect people across geographical boundaries."
+        },
+        {
+          "phrase": "provide access to diverse perspectives",
+          "cn": "提供多元观点",
+          "example": "A free press provides access to diverse perspectives."
+        },
+        {
+          "phrase": "promote media literacy",
+          "cn": "提升媒体素养",
+          "example": "Schools can promote media literacy among young people."
+        }
+      ],
+      "negative": [
+        {
+          "phrase": "spread misinformation at speed",
+          "cn": "快速传播错误信息",
+          "example": "Social platforms can spread misinformation at speed."
+        },
+        {
+          "phrase": "reinforce social divisions",
+          "cn": "加深社会分裂",
+          "example": "Polarised content can reinforce social divisions."
+        },
+        {
+          "phrase": "invade personal privacy",
+          "cn": "侵犯个人隐私",
+          "example": "Intrusive reporting can invade personal privacy."
+        },
+        {
+          "phrase": "amplify sensationalist content",
+          "cn": "放大煽情内容",
+          "example": "Algorithms may amplify sensationalist content."
+        },
+        {
+          "phrase": "distort public understanding",
+          "cn": "扭曲公众认知",
+          "example": "Selective reporting can distort public understanding."
+        },
+        {
+          "phrase": "encourage passive consumption",
+          "cn": "助长被动消费信息",
+          "example": "Endless scrolling can encourage passive consumption."
+        }
+      ]
+    }
+  ]
+}
