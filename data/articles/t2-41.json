@@ -1,0 +1,284 @@
+{
+  "id": "t2-41",
+  "type": "大作文",
+  "title": "外语教学是否需要小班（R01·个人练习）",
+  "group": "教育与成长",
+  "question": "Some people think that languages should be taught in small classes, while others think that the number of students in a language class does not matter. Discuss both views and give your opinion.",
+  "logic": "▪ 引言：讨论小班与班级规模不重要两种观点；明确小班有益，但不是成功学习语言的必要条件。▪ 主体一：大班分散教师注意力→难以监测进步；小班提供针对性指导→帮助缺乏自律者；更多师生与同伴交流→即时反馈→提升信心和流利度。▪ 主体二：更多师资与教室→更高费用→低收入学习者难以负担；AI语音工具提供部分个别支持→课外低成本练习；持续努力与自主学习→即便在大班也能进步。▪ 结尾：承认小班对管理和互动的益处；重申可负担资源、练习与自我激励更重要。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Some people argue that small classes are essential for learning a foreign language, while others believe that class size makes little difference. In my view, although smaller classes can offer more individual attention and opportunities for interaction, they are not essential to successful language learning.",
+      "cn": "有人认为小班是学习外语的必要条件，另一些人则认为班级规模影响不大。在我看来，虽然小班能够提供更多个别关注和互动机会，但它们并不是成功学习语言的必要条件。",
+      "clozes": [
+        {
+          "start": 223,
+          "end": 252,
+          "answer": "opportunities for interaction"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Those who favour smaller classes argue that they make classroom management easier and allow for more personalised instruction. When teachers are responsible for a large group of students, their attention is inevitably divided, making it difficult to monitor individual progress or identify specific learning difficulties. In smaller classes, by contrast, teachers can provide more targeted guidance, which is particularly valuable for younger learners who may lack self-discipline. Smaller groups also create more opportunities for active language practice. Since learning a foreign language requires regular communication, students can spend more time speaking with teachers and classmates, asking questions and receiving immediate feedback. This can help them build confidence and improve their speaking fluency.",
+      "cn": "支持小班的人认为，小班使课堂管理更容易，也能提供更加个性化的教学。当教师负责一大群学生时，其注意力不可避免地被分散，因此难以监测每个学生的进步或发现具体学习困难。相比之下，在小班里教师能够提供更有针对性的指导，这对可能缺乏自律的年轻学习者尤其有价值。较小的班级也创造了更多主动练习语言的机会。由于外语学习需要经常交流，学生可以花更多时间与教师和同学交谈、提问，并获得即时反馈。这有助于他们建立信心并提高口语流利度。",
+      "clozes": [
+        {
+          "start": 250,
+          "end": 277,
+          "answer": "monitor individual progress"
+        },
+        {
+          "start": 368,
+          "end": 398,
+          "answer": "provide more targeted guidance"
+        },
+        {
+          "start": 460,
+          "end": 480,
+          "answer": "lack self-discipline"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Nevertheless, I do not believe that small classes are essential to successful language learning. First, they are often more expensive to run because schools need more teachers and classroom space. As a result, tuition fees may be beyond the reach of students from low-income families, limiting their access to small-class courses. However, many learners can still become proficient in larger classes. Furthermore, digital technology, particularly AI-powered language-learning tools, can provide some of the individual support that smaller classes offer. For example, learners can receive immediate feedback and practise conversations through voice-based applications outside the classroom, often at relatively little cost. Most importantly, language progress depends on sustained effort and self-motivation. A learner who practises consistently can make substantial progress even in a large class, whereas a student in a small class may achieve little without independent study.",
+      "cn": "然而，我不认为小班是成功学习语言的必要条件。首先，小班的运营成本往往较高，因为学校需要更多教师和教室。因此，学费可能超出低收入家庭学生的承受能力，限制他们参加小班课程。不过，许多学习者在大班中仍然能熟练掌握语言。此外，数字技术，尤其是人工智能驱动的语言学习工具，能够提供小班所具备的部分个别支持。例如，学习者可以在课堂之外通过语音应用获得即时反馈、练习对话，通常花费较低。最重要的是，语言进步取决于持续努力和自我激励。坚持练习的学习者即便在大班中也能取得显著进步，而小班学生如果没有自主学习，也可能收获甚微。",
+      "clozes": [
+        {
+          "start": 227,
+          "end": 249,
+          "answer": "be beyond the reach of"
+        },
+        {
+          "start": 285,
+          "end": 309,
+          "answer": "limiting their access to"
+        },
+        {
+          "start": 447,
+          "end": 481,
+          "answer": "AI-powered language-learning tools"
+        },
+        {
+          "start": 580,
+          "end": 606,
+          "answer": "receive immediate feedback"
+        },
+        {
+          "start": 696,
+          "end": 721,
+          "answer": "at relatively little cost"
+        },
+        {
+          "start": 770,
+          "end": 786,
+          "answer": "sustained effort"
+        },
+        {
+          "start": 849,
+          "end": 874,
+          "answer": "make substantial progress"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, smaller classes can improve classroom management and provide more opportunities for interaction, but they should not be regarded as a prerequisite for learning a foreign language. Affordable learning resources, regular practice and strong self-motivation are ultimately more important determinants of success.",
+      "cn": "总之，小班能够改善课堂管理，并提供更多互动机会，但不应被视为学习外语的先决条件。负担得起的学习资源、经常练习和强烈的自我激励，最终是更重要的成功决定因素。",
+      "clozes": [
+        {
+          "start": 81,
+          "end": 110,
+          "answer": "opportunities for interaction"
+        },
+        {
+          "start": 147,
+          "end": 193,
+          "answer": "a prerequisite for learning a foreign language"
+        }
+      ]
+    }
+  ],
+  "source_seven": [],
+  "meta": {
+    "par9": 4,
+    "par7": 0,
+    "7marker": false,
+    "nine_complete": true,
+    "seven_complete": false
+  },
+  "vocab": [
+    {
+      "en": "monitor individual progress",
+      "zh": "监测个人进步"
+    },
+    {
+      "en": "provide targeted guidance",
+      "zh": "提供有针对性的指导"
+    },
+    {
+      "en": "lack self-discipline",
+      "zh": "缺乏自律"
+    },
+    {
+      "en": "create opportunities for interaction",
+      "zh": "创造互动机会"
+    },
+    {
+      "en": "receive immediate feedback",
+      "zh": "获得即时反馈"
+    },
+    {
+      "en": "be beyond the reach of",
+      "zh": "超出某群体的承受能力"
+    },
+    {
+      "en": "limit access to",
+      "zh": "限制获取或使用……"
+    },
+    {
+      "en": "AI-powered learning tools",
+      "zh": "人工智能驱动的学习工具"
+    },
+    {
+      "en": "at relatively little cost",
+      "zh": "以相对较低的成本"
+    },
+    {
+      "en": "sustained effort",
+      "zh": "持续的努力"
+    },
+    {
+      "en": "make substantial progress",
+      "zh": "取得显著进步"
+    },
+    {
+      "en": "a prerequisite for success",
+      "zh": "成功的必要条件"
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "nine": "Band 7.5–8 · 优化参考稿"
+  },
+  "source_note": "来自用户提供的语言小班教学作文批改。原稿练习估分约Band 6.0–6.5；目标参考稿为Band 7.5–8，均非官方评分。附件没有完整原稿，本页不补写冒充原文。仅提供一个完整优化版本。同步时最小修正了引言的逗号拼接，并将立场明确为“小班有益，但不是必要条件”，保留课堂管理、互动、费用、AI辅助及自主学习论点。中文译文、迁移题及参考答案为本次整理补充。",
+  "transfer": {
+    "nine": [
+      {
+        "id": "1",
+        "phrase": "monitor individual progress",
+        "source_phrase": "monitor individual progress",
+        "source_paragraph": 1,
+        "source": "Those who favour smaller classes argue that they make classroom management easier and allow for more personalised instruction. When teachers are responsible for a large group of students, their attention is inevitably divided, making it difficult to monitor individual progress or identify specific learning difficulties. In smaller classes, by contrast, teachers can provide more targeted guidance, which is particularly valuable for younger learners who may lack self-discipline. Smaller groups also create more opportunities for active language practice. Since learning a foreign language requires regular communication, students can spend more time speaking with teachers and classmates, asking questions and receiving immediate feedback. This can help them build confidence and improve their speaking fluency.",
+        "cn": "工作场所的导师可以通过每周会面监测个人进步。",
+        "answer": "Workplace mentors can monitor individual progress through weekly meetings."
+      },
+      {
+        "id": "2",
+        "phrase": "provide targeted guidance",
+        "source_phrase": "provide more targeted guidance",
+        "source_paragraph": 1,
+        "source": "Those who favour smaller classes argue that they make classroom management easier and allow for more personalised instruction. When teachers are responsible for a large group of students, their attention is inevitably divided, making it difficult to monitor individual progress or identify specific learning difficulties. In smaller classes, by contrast, teachers can provide more targeted guidance, which is particularly valuable for younger learners who may lack self-discipline. Smaller groups also create more opportunities for active language practice. Since learning a foreign language requires regular communication, students can spend more time speaking with teachers and classmates, asking questions and receiving immediate feedback. This can help them build confidence and improve their speaking fluency.",
+        "cn": "职业顾问可以为正在转行的成年人提供有针对性的指导。",
+        "answer": "Career advisers can provide targeted guidance for adults changing careers."
+      },
+      {
+        "id": "3",
+        "phrase": "lack self-discipline",
+        "source_phrase": "lack self-discipline",
+        "source_paragraph": 1,
+        "source": "Those who favour smaller classes argue that they make classroom management easier and allow for more personalised instruction. When teachers are responsible for a large group of students, their attention is inevitably divided, making it difficult to monitor individual progress or identify specific learning difficulties. In smaller classes, by contrast, teachers can provide more targeted guidance, which is particularly valuable for younger learners who may lack self-discipline. Smaller groups also create more opportunities for active language practice. Since learning a foreign language requires regular communication, students can spend more time speaking with teachers and classmates, asking questions and receiving immediate feedback. This can help them build confidence and improve their speaking fluency.",
+        "cn": "缺乏自律的远程工作者可能难以按时完成任务。",
+        "answer": "Remote workers who lack self-discipline may struggle to complete tasks on time."
+      },
+      {
+        "id": "4",
+        "phrase": "create opportunities for interaction",
+        "source_phrase": "opportunities for interaction",
+        "source_paragraph": 0,
+        "source": "Some people argue that small classes are essential for learning a foreign language, while others believe that class size makes little difference. In my view, although smaller classes can offer more individual attention and opportunities for interaction, they are not essential to successful language learning.",
+        "cn": "社区花园可以为不同年龄段的居民创造互动机会。",
+        "answer": "Community gardens can create opportunities for interaction among residents of different ages."
+      },
+      {
+        "id": "5",
+        "phrase": "receive immediate feedback",
+        "source_phrase": "receive immediate feedback",
+        "source_paragraph": 2,
+        "source": "Nevertheless, I do not believe that small classes are essential to successful language learning. First, they are often more expensive to run because schools need more teachers and classroom space. As a result, tuition fees may be beyond the reach of students from low-income families, limiting their access to small-class courses. However, many learners can still become proficient in larger classes. Furthermore, digital technology, particularly AI-powered language-learning tools, can provide some of the individual support that smaller classes offer. For example, learners can receive immediate feedback and practise conversations through voice-based applications outside the classroom, often at relatively little cost. Most importantly, language progress depends on sustained effort and self-motivation. A learner who practises consistently can make substantial progress even in a large class, whereas a student in a small class may achieve little without independent study.",
+        "cn": "实习医生可以在模拟训练中获得即时反馈。",
+        "answer": "Trainee doctors can receive immediate feedback during simulated training."
+      },
+      {
+        "id": "6",
+        "phrase": "be beyond the reach of",
+        "source_phrase": "be beyond the reach of",
+        "source_paragraph": 2,
+        "source": "Nevertheless, I do not believe that small classes are essential to successful language learning. First, they are often more expensive to run because schools need more teachers and classroom space. As a result, tuition fees may be beyond the reach of students from low-income families, limiting their access to small-class courses. However, many learners can still become proficient in larger classes. Furthermore, digital technology, particularly AI-powered language-learning tools, can provide some of the individual support that smaller classes offer. For example, learners can receive immediate feedback and practise conversations through voice-based applications outside the classroom, often at relatively little cost. Most importantly, language progress depends on sustained effort and self-motivation. A learner who practises consistently can make substantial progress even in a large class, whereas a student in a small class may achieve little without independent study.",
+        "cn": "在许多大城市，私人住房可能超出低收入家庭的承受能力。",
+        "answer": "In many large cities, private housing may be beyond the reach of low-income families."
+      },
+      {
+        "id": "7",
+        "phrase": "limit access to",
+        "source_phrase": "limiting their access to",
+        "source_paragraph": 2,
+        "source": "Nevertheless, I do not believe that small classes are essential to successful language learning. First, they are often more expensive to run because schools need more teachers and classroom space. As a result, tuition fees may be beyond the reach of students from low-income families, limiting their access to small-class courses. However, many learners can still become proficient in larger classes. Furthermore, digital technology, particularly AI-powered language-learning tools, can provide some of the individual support that smaller classes offer. For example, learners can receive immediate feedback and practise conversations through voice-based applications outside the classroom, often at relatively little cost. Most importantly, language progress depends on sustained effort and self-motivation. A learner who practises consistently can make substantial progress even in a large class, whereas a student in a small class may achieve little without independent study.",
+        "cn": "不可靠的互联网连接可能限制农村居民使用在线医疗服务。",
+        "answer": "Unreliable internet connections may limit access to online healthcare for rural residents."
+      },
+      {
+        "id": "8",
+        "phrase": "AI-powered learning tools",
+        "source_phrase": "AI-powered language-learning tools",
+        "source_paragraph": 2,
+        "source": "Nevertheless, I do not believe that small classes are essential to successful language learning. First, they are often more expensive to run because schools need more teachers and classroom space. As a result, tuition fees may be beyond the reach of students from low-income families, limiting their access to small-class courses. However, many learners can still become proficient in larger classes. Furthermore, digital technology, particularly AI-powered language-learning tools, can provide some of the individual support that smaller classes offer. For example, learners can receive immediate feedback and practise conversations through voice-based applications outside the classroom, often at relatively little cost. Most importantly, language progress depends on sustained effort and self-motivation. A learner who practises consistently can make substantial progress even in a large class, whereas a student in a small class may achieve little without independent study.",
+        "cn": "人工智能驱动的学习工具可以帮助新员工熟悉安全规定。",
+        "answer": "AI-powered learning tools can help new employees become familiar with safety regulations."
+      },
+      {
+        "id": "9",
+        "phrase": "at relatively little cost",
+        "source_phrase": "at relatively little cost",
+        "source_paragraph": 2,
+        "source": "Nevertheless, I do not believe that small classes are essential to successful language learning. First, they are often more expensive to run because schools need more teachers and classroom space. As a result, tuition fees may be beyond the reach of students from low-income families, limiting their access to small-class courses. However, many learners can still become proficient in larger classes. Furthermore, digital technology, particularly AI-powered language-learning tools, can provide some of the individual support that smaller classes offer. For example, learners can receive immediate feedback and practise conversations through voice-based applications outside the classroom, often at relatively little cost. Most importantly, language progress depends on sustained effort and self-motivation. A learner who practises consistently can make substantial progress even in a large class, whereas a student in a small class may achieve little without independent study.",
+        "cn": "公共广播可以以相对较低的成本向偏远社区传播健康建议。",
+        "answer": "Public radio can deliver health advice to remote communities at relatively little cost."
+      },
+      {
+        "id": "10",
+        "phrase": "sustained effort",
+        "source_phrase": "sustained effort",
+        "source_paragraph": 2,
+        "source": "Nevertheless, I do not believe that small classes are essential to successful language learning. First, they are often more expensive to run because schools need more teachers and classroom space. As a result, tuition fees may be beyond the reach of students from low-income families, limiting their access to small-class courses. However, many learners can still become proficient in larger classes. Furthermore, digital technology, particularly AI-powered language-learning tools, can provide some of the individual support that smaller classes offer. For example, learners can receive immediate feedback and practise conversations through voice-based applications outside the classroom, often at relatively little cost. Most importantly, language progress depends on sustained effort and self-motivation. A learner who practises consistently can make substantial progress even in a large class, whereas a student in a small class may achieve little without independent study.",
+        "cn": "恢复受损的森林需要政府和当地社区持续努力。",
+        "answer": "Restoring damaged forests requires sustained effort from governments and local communities."
+      },
+      {
+        "id": "11",
+        "phrase": "make substantial progress",
+        "source_phrase": "make substantial progress",
+        "source_paragraph": 2,
+        "source": "Nevertheless, I do not believe that small classes are essential to successful language learning. First, they are often more expensive to run because schools need more teachers and classroom space. As a result, tuition fees may be beyond the reach of students from low-income families, limiting their access to small-class courses. However, many learners can still become proficient in larger classes. Furthermore, digital technology, particularly AI-powered language-learning tools, can provide some of the individual support that smaller classes offer. For example, learners can receive immediate feedback and practise conversations through voice-based applications outside the classroom, often at relatively little cost. Most importantly, language progress depends on sustained effort and self-motivation. A learner who practises consistently can make substantial progress even in a large class, whereas a student in a small class may achieve little without independent study.",
+        "cn": "在定期获得指导的情况下，小企业可以在减少浪费方面取得显著进步。",
+        "answer": "With regular guidance, small businesses can make substantial progress in reducing waste."
+      },
+      {
+        "id": "12",
+        "phrase": "a prerequisite for success",
+        "source_phrase": "a prerequisite for learning a foreign language",
+        "source_paragraph": 3,
+        "source": "In conclusion, smaller classes can improve classroom management and provide more opportunities for interaction, but they should not be regarded as a prerequisite for learning a foreign language. Affordable learning resources, regular practice and strong self-motivation are ultimately more important determinants of success.",
+        "cn": "大学学位不应被视为创业成功的必要条件。",
+        "answer": "A university degree should not be regarded as a prerequisite for success in entrepreneurship."
+      }
+    ]
+  },
+  "review": {
+    "practice_estimate": "6.0–6.5（非官方）",
+    "original_complete": false,
+    "original_model_introduction": "Some people argue that small classes are essential for learning a foreign language, while others believe that class size makes little difference. I agree with the latter view, although smaller classes can offer more individual attention and opportunities for interaction, they are not essential to successful language learning.",
+    "complete_feedback": "这篇作文的整体思路是不错的，而且有一个值得保留的优点：**你没有简单地否定小班教学，而是承认它的优势，再通过经济可及性、AI辅助学习和个人学习主动性论证它并非语言学习成功的决定性因素。**\n\n这正好符合本题的 Discuss Both Views and Give Your Opinion 题型。\n\n不过，目前这篇作文的主要问题不是缺少论点，而是：\n\n1. 一些表达是中文逻辑的直接翻译，搭配不够自然。\n2. 语法错误比较集中，尤其是非谓语、从句、主谓一致和介词。\n3. Body 2 的论证有一定深度，但 AI 和自主学习之间的逻辑衔接还可以加强。\n4. 个别表达过于绝对，例如小班教学不是关键，不等于小班教学完全没有影响。\n\n我会按照我们之前确定的批改流程，先保留你的原始论点，再进行语言和逻辑优化，不随意删减你的观点。\n\n# **一、整体评分与问题诊断**\n\n**当前作文预估水平**\n\n约 Band 6.0–6.5\n\n非官方模拟评估，实际分数以考官评分为准。\n\n**Task Response**\n\n**6.5**\n\n回应了双方观点，立场明确，但部分论证还不够严谨。\n\n**Coherence & Cohesion**\n\n**6.0**\n\n段落结构清楚，但部分句子之间的因果关系可以更紧密。\n\n**Lexical Resource**\n\n**6.0**\n\n有一定话题词汇，但不自然搭配和词性误用较多。\n\n**Grammar**\n\n**5.5–6.0**\n\n存在较多基础语法错误，尤其是从句、非谓语和主谓一致。\n\n## **1. 论证逻辑评价**\n\n| 段落           | 你的论点               | 评价               |\n| ------------ | ------------------ | ---------------- |\n| Introduction | 小班不是关键             | 立场明确，但可以更精确      |\n| Body 1       | 管理更容易、个性化指导、更多口语练习 | 两条主要逻辑完整，论证合理    |\n| Body 2       | 费用高、AI辅助、自主学习能力    | 论点有层次，是全文较有潜力的部分 |\n| Conclusion   | 小班有优势，但不是决定因素      | 与立场一致            |\n\n**我建议保留全部五个核心论点，不需要删减。**\n\n但要特别注意一个概念区别：\n\n- Small classes are beneficial. 小班教学有益。\n- Small classes are essential. 小班教学是必不可少的。\n- Class size is the decisive factor. 班级规模是决定性因素。\n\n你真正想表达的是：\n\n**Small classes are beneficial, but they are not essential to successful language learning.**\n\n这比直接说 small classes make little difference 更准确，因为你在 Body 1 已经承认了小班教学的实际优势。\n\n# **二、逐项整理错误词句、搭配和语法**\n\n## **1. 词汇与搭配错误**\n\n以下是这篇作文中最值得记忆的表达。建议重点掌握右侧的替换，而不是反复记忆错误原句。\n\n| 原表达                                | 推荐表达                                          | 说明                        |\n| ---------------------------------- | --------------------------------------------- | ------------------------- |\n| devote to learn                    | devote oneself to learning                    | devote oneself to + doing |\n| the core of learning               | the key to successful learning                | 更自然                       |\n| a pack of students                 | a large group of students                     | pack 不适合此处                |\n| detailed regulation                | closer supervision                            | regulation 不等于个别指导        |\n| communication atmosphere           | interactive learning environment              | 更地道                       |\n| access to better communication     | have more opportunities for interaction       | 表达更直接                     |\n| ideal academic outcomes            | better learning outcomes                      | 避免夸大                      |\n| training fees                      | tuition fees / course fees                    | 教育费用搭配                    |\n| a small part of students           | a limited number of students                  | 数量表达                      |\n| be benefited from                  | benefit from                                  | benefit 通常主动使用            |\n| a good command of foreign language | a good command of a foreign language          | 缺少冠词                      |\n| AI drive learning                  | AI has made learning                          | 主谓及结构                     |\n| personalized learning feedback     | personalised feedback                         | 更简洁                       |\n| living voice function              | voice-based AI tools                          | 避免直译                      |\n| speaking free from human teacher   | practise without a human conversation partner | 更自然                       |\n| cost-effectiveness way             | cost-effective way                            | 形容词修饰名词                   |\n| On the top of that                 | On top of that                                | 固定搭配                      |\n| guarantee a success                | ensure long-term success                      | success 通常不可数             |\n\n## **2. 重点语法错误**\n\n这里我建议你特别关注以下六个知识点，因为它们也是你之前写作中反复出现的问题。\n\n**① devote 的固定结构**\n\n错误：\n\n> More and more people devote to learn a foreign language.\n\n正确：\n\n> More and more people devote themselves to learning a foreign language.\n\n记忆：\n\n- devote oneself to doing\n- be devoted to doing\n- devote time to doing\n\n注意这里的 to 是介词，所以后面接动名词。\n\n**② 主句不能缺少谓语**\n\n错误：\n\n> People supporting small-class learning mainly because it’s benefits...\n\n这是一个缺少谓语的句子。\n\n正确：\n\n> People who support small-class learning do so mainly because of its benefits.\n\n更推荐：\n\n> Supporters of small classes argue that smaller groups allow for more effective classroom management.\n\n**③ while 不能随意单独引出完整观点**\n\n错误：\n\n> While in a small class, teachers can provide...\n\n这里 while 引导的结构没有完整主句。\n\n正确：\n\n> By contrast, in a small class, teachers can provide more individualised guidance.\n\n记忆：对比时可以直接使用 By contrast / In smaller classes。\n\n**④ despite 和 although 的区别**\n\n错误：\n\n> Despite small-class education can offer some benefits...\n\n正确：\n\n- Although small classes offer some benefits, ...\n- Despite the benefits of small-class education, ...\n\n记忆：\n\n| 结构          | 后接内容     |\n| ----------- | -------- |\n| although    | 完整句子     |\n| despite     | 名词 / 动名词 |\n| in spite of | 名词 / 动名词 |\n\n**⑤ benefit 的主动结构**\n\n错误：\n\n> Only a small part of students can be benefited from it.\n\n正确：\n\n> Only a limited number of students can benefit from it.\n\n记忆：\n\n- benefit from something\n- provide benefits to someone\n- bring considerable benefits to society\n\n**⑥ 情态动词后使用动词原形**\n\n错误：\n\n> Students can learning foreign languages...\n\n正确：\n\n> Students can learn foreign languages...\n\n类似的还有：\n\n- can improve\n- can provide\n- can develop\n- can achieve\n\n# **三、分段逻辑与优化方向**\n\n## **Body 1：支持小班教学**\n\n保留两个分论点\n\n你的原始论证结构很好，不需要增加新的论点。\n\n**中心句**\n\nSmall classes facilitate classroom management and personalised language practice.\n\n**Reason 1｜更有效的课堂管理**\n\n核心逻辑：\n\nLarge classes → teachers' attention is divided → difficult to monitor individual progress → smaller classes allow more targeted guidance.\n\n推荐表达：\n\n- manage large groups of students\n- monitor individual progress\n- provide targeted guidance\n- identify individual learning difficulties\n- learners who lack self-discipline\n\n**Reason 2｜提供更多语言交流机会**\n\n核心逻辑：\n\nLanguage learning requires communication → smaller groups allow more speaking opportunities → immediate feedback → improved fluency and confidence.\n\n推荐表达：\n\n- a skill-based subject\n- active communication and practice\n- opportunities to participate in discussions\n- receive immediate feedback\n- improve speaking fluency\n\n这里有一个重要提升：\n\n你原来只写了 students can practise speaking with teachers，但实际上小班教学的优势还包括学生之间的互动。\n\n因此，建议改为：\n\n> Students have more opportunities to speak, ask questions and interact with both teachers and classmates.\n\n这样论证会更充分。\n\n## **Body 2：小班教学并非决定性因素**\n\n保留三个分论点\n\n**中心句**\n\nSmall classes are not essential to effective language learning, as other factors can compensate for their limitations.\n\n**Reason 1｜费用高，教育可及性降低**\n\n核心逻辑：\n\nSmaller classes → higher operating costs → higher tuition fees → exclude low-income students.\n\n推荐表达：\n\n- higher tuition fees\n- operating costs\n- be beyond the reach of low-income families\n- affordable educational resources\n- access to language education\n\n**Reason 2｜AI提供替代性学习资源**\n\n核心逻辑：\n\nAI technology → instant feedback and simulated conversations → independent speaking practice → lower learning costs.\n\n推荐表达：\n\n- AI-powered language-learning tools\n- provide immediate feedback\n- simulate real-life conversations\n- practise speaking independently\n- at a relatively low cost\n\n**Reason 3｜自主学习动力更加重要**\n\n核心逻辑：\n\nSelf-motivation → consistent practice → long-term improvement → learning outcomes.\n\n推荐表达：\n\n- self-motivation is fundamental to learning\n- maintain consistent learning habits\n- make independent efforts\n- achieve long-term progress\n- take responsibility for one's own learning\n\n**一个值得注意的论证升级：**\n\n不要简单地写 AI 可以代替老师。\n\n更好的逻辑是：\n\nAI can compensate for some limitations of large classes, but it does not completely replace human teachers.\n\n这样既避免过度夸大科技作用，也更符合 Band 7.5+ 的审慎表达。\n\n# **四、优化后的 Band 7.5+ 完整版本**\n\n这版遵循三个原则：\n\n- 保留你原来的全部核心论点。\n- 不刻意堆砌生僻词汇，优先使用自然、准确的高分搭配。\n- 加强论证之间的因果联系，让 Body 2 的三个分论点形成递进关系。\n\n\n\n目标 Band 7.5–8.0\n\n&#x20;参考优化稿，非实际考试评分承诺\n\n\n\n**Introduction**\n\nSome people argue that small classes are essential for learning a foreign language, while others believe that class size makes little difference. I agree with the latter view, although smaller classes can offer more individual attention and opportunities for interaction, they are not essential to successful language learning.\n\n**Body 1**\n\nThose who favour smaller classes argue that they make classroom management easier and allow for more personalised instruction. When teachers are responsible for a large group of students, their attention is inevitably divided, making it difficult to monitor individual progress or identify specific learning difficulties. In smaller classes, by contrast, teachers can provide more targeted guidance, which is particularly valuable for younger learners who may lack self-discipline. Smaller groups also create more opportunities for active language practice. Since learning a foreign language requires regular communication, students can spend more time speaking with teachers and classmates, asking questions and receiving immediate feedback. This can help them build confidence and improve their speaking fluency.\n\n**Body 2**\n\nNevertheless, I do not believe that small classes are essential to successful language learning. First, they are often more expensive to run because schools need more teachers and classroom space. As a result, tuition fees may be beyond the reach of students from low-income families, limiting their access to small-class courses. However, many learners can still become proficient in larger classes. Furthermore, digital technology, particularly AI-powered language-learning tools, can provide some of the individual support that smaller classes offer. For example, learners can receive immediate feedback and practise conversations through voice-based applications outside the classroom, often at relatively little cost. Most importantly, language progress depends on sustained effort and self-motivation. A learner who practises consistently can make substantial progress even in a large class, whereas a student in a small class may achieve little without independent study.\n\n**Conclusion**\n\nIn conclusion, smaller classes can improve classroom management and provide more opportunities for interaction, but they should not be regarded as a prerequisite for learning a foreign language. Affordable learning resources, regular practice and strong self-motivation are ultimately more important determinants of success.\n\n# **五、本篇最值得背诵的高分表达**\n\n我从这篇修改稿中选出 12 个值得迁移到其他话题的表达。它们比单纯背诵整句更有价值。\n\n| 英文搭配                                 | 中文含义      | 可迁移话题     |\n| ------------------------------------ | --------- | --------- |\n| monitor individual progress          | 监测个人进步    | 教育、工作     |\n| provide targeted guidance            | 提供有针对性的指导 | 教育、政府     |\n| lack self-discipline                 | 缺乏自律      | 教育、儿童     |\n| create opportunities for interaction | 创造互动机会    | 教育、科技     |\n| receive immediate feedback           | 获得即时反馈    | 教育、AI     |\n| be beyond the reach of               | 超出……的承受能力 | 教育、住房、医疗  |\n| limit access to                      | 限制……的获取   | 教育、公共服务   |\n| AI-powered learning tools            | AI驱动的学习工具 | 科技、教育     |\n| at relatively little cost            | 以相对较低的成本  | 科技、经济     |\n| sustained effort                     | 持续的努力     | 教育、工作     |\n| make substantial progress            | 取得显著进步    | 教育、职业     |\n| a prerequisite for success           | 成功的必要条件   | 几乎所有观点类题目 |\n\n## **六、针对你本篇作文的三个专项提升点**\n\n**1. 少用抽象但不准确的词，优先考虑固定搭配。**\n\n例如：\n\n- detailed regulation → targeted guidance\n- ideal academic outcomes → better learning outcomes\n- communication atmosphere → interactive learning environment\n\n你现在需要提高的不是词汇难度，而是词汇调用的准确性。\n\n**2. 减少绝对化表达。**\n\n| 不推荐                          | 推荐                                     |\n| ---------------------------- | -------------------------------------- |\n| small classes are useless    | small classes are not essential        |\n| AI replaces teachers         | AI can complement traditional teaching |\n| guarantee success            | contribute to better learning outcomes |\n| completely solve the problem | help address the problem               |\n\n这也是 7.5 分作文很重要的特点：论证有力度，但不轻易作出绝对判断。\n\n**3. 学会使用让步后的转折论证。**\n\n本篇最值得迁移的结构：\n\n> Although X offers certain benefits, it should not be regarded as essential, because Y and Z can also contribute significantly to the desired outcome.\n\n这个逻辑可以迁移到：\n\n- 在线教育与传统教育\n- 私立学校与公立学校\n- 健康饮食与体育锻炼\n- 大城市与小城市\n- AI与传统人工服务\n\n# **七、今天的错题记忆清单**\n\n建议你今天重点复习下面 8 个结构，而不是把整篇文章重新背一遍。\n\n**8 道固定搭配回忆练习**\n\n主动回忆\n\n**1. devote oneself to \\_\\_\\_\\_\\_\\_ a foreign language**\n\n**2. provide students \\_\\_\\_\\_\\_\\_ targeted guidance**\n\n**3. students who lack \\_\\_\\_\\_\\_\\_**\n\n**4. be beyond the \\_\\_\\_\\_\\_\\_ of low-income families**\n\n**5. benefit \\_\\_\\_\\_\\_\\_ AI-powered tools**\n\n**6. make learning more cost-\\_\\_\\_\\_\\_\\_**\n\n**7. depends \\_\\_\\_\\_\\_\\_ sustained effort**\n\n**8. a prerequisite \\_\\_\\_\\_\\_\\_ successful language learning**\n\n检查答案\n\n**最后的学习建议：**\n\n这篇作文最值得你练习的是 Body 2。它已经具备了比较成熟的论证结构：经济限制 → 技术替代 → 学习者自身因素。\n\n下一步不要急着换题。我建议你尝试不看修改稿，重新独立写一遍 Body 2，重点使用 `be beyond the reach of`、`provide immediate feedback`、`sustained effort` 和 `make substantial progress`。这样才能把今天积累的表达真正转化为考试时可以主动调用的语言能力。"
+  }
+}
