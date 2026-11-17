@@ -1,7 +1,7 @@
 'use strict';
 const DATA=window.IELTS_DATA;
 const CONNECTOR_LIBRARY=window.IELTS_DATA.connectorLibrary;
-const VERSION='1.4.1';
+const VERSION='1.5.0';
 const $=s=>document.querySelector(s);
 const $$=s=>[...document.querySelectorAll(s)];
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -10,7 +10,7 @@ const store={get(k,def=null){try{let v=localStorage.getItem(k);return v===null?d
 const USER=store.get(keyName('user'),{answers:{},drafts:{},completed:{},review:{},extraErrors:[],snapshots:[]});
 function saveUser(){store.set(keyName('user'),USER);$('#progressCount').textContent=Object.keys(USER.completed||{}).length}
 let page='home';let state={task2:'t2-23',task1:'t1-01',step:'read',version:{},reveal:{}};
-function go(p){page=p;$$('.page').forEach(x=>x.classList.toggle('active',x.id===p));$$('.nav button').forEach(x=>x.classList.toggle('active',x.dataset.page===p));if(p==='versions')renderVersions();if(p==='errors')renderErrors(false);window.scrollTo({top:0,behavior:'instant'})}
+function go(p){page=p;$$('.page').forEach(x=>x.classList.toggle('active',x.id===p));$$('.nav button').forEach(x=>x.classList.toggle('active',x.dataset.page===p));if(p==='versions')renderVersions();if(p==='errors')renderErrors(false);if(p==='sentences')renderSentenceTraining();window.scrollTo({top:0,behavior:'instant'})}
 $$('.nav button').forEach(x=>x.addEventListener('click',()=>go(x.dataset.page)));
 $('#toVersions').onclick=e=>{e.preventDefault();go('versions')};
 function taskEntries(prefix){return DATA.articles.filter(a=>a.id.startsWith(prefix))}
@@ -124,9 +124,10 @@ function renderArchive(){let el=$('#essayArchive');el.innerHTML=DATA.essays.map(
 const BASE={version:'1.1.0',date:'2026-11-14',items:['Task 1：30 篇题目索引','Task 2：40 篇题目索引','6 个主题主体段搭配填空','个人作文档案','原 PDF 逐页文字检索','衔接词与功能搭配列表','浏览器本地 JSON 快照与功能 Diff']};
 const PREVIOUS={version:'1.2.0',date:'2026-11-14',items:['70 篇按题目与段落整理的范文','Task 2：39 篇完整 7+ 版与 40 篇 9 分版','Task 1：30 篇 9 分命名版完整文本','来源残缺版本标记与完整版本切换','结构化逻辑链与中英对照','范文表达柔和高亮','每篇主体段 / Overview 搭配挖空','每篇中文译英与段落重组','个人语法与搭配错题循环','个人作文档案','浏览器本地答案保存与 JSON 备份','版本快照与 GitHub-style 功能清单 Diff']};
 const RELEASE_13={version:'1.3.0',date:'2026-11-14',items:['保留 v1.2.0 大作文与小作文训练框架','新增 6 类开头段模板，覆盖常见 Task 2 题型','新增 10 组主体段中心句模板','新增 10 组逻辑衔接表达，每组多种替换句型','新增 6 类结尾段模板','新增 12 个高频话题正反观点搭配库，每类各 6 条','每条话题搭配提供中文释义与完整例句','新增 Task 1 Overview、趋势、比较、地图流程衔接表达','衔接搭配库支持中英文关键词检索','保留原有衔接词练习与用户输入记录','版本 Diff 新增 v1.2.0 → v1.3.0 对照','兼容原有浏览器本地训练进度与 JSON 备份']};
-const CURRENT={version:VERSION,date:'2026-11-15',items:[...RELEASE_13.items,'72篇文章的全文填空与翻译，保留引言、全部主体段和结尾','第4模块改为重点搭配迁移翻译，提供新情境题目、搭配出处和参考答案','每道小作文支持图表上传、预览、按题保存和备份恢复','新增T2-41外语小班教学：完整四段参考稿、12条搭配迁移、个人批改与错题']};
-function versions(){return [BASE,PREVIOUS,RELEASE_13,CURRENT,...(USER.snapshots||[])]}
-function renderVersions(){let v=versions();let label=i=>i===0?'· 初始版':i===2?'· 上一版':i===3?'· 最新版':'';$('#oldVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#newVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#oldVersion').value='2';$('#newVersion').value='3';showDiff()}
+const RELEASE_141={version:'1.4.1',date:'2026-11-15',items:[...RELEASE_13.items,'72篇文章的全文填空与翻译，保留引言、全部主体段和结尾','第4模块改为重点搭配迁移翻译，提供新情境题目、搭配出处和参考答案','每道小作文支持图表上传、预览、按题保存和备份恢复','新增T2-41外语小班教学：完整四段参考稿、12条搭配迁移、个人批改与错题']};
+const CURRENT={version:VERSION,date:'2026-11-17',items:[...RELEASE_141.items,'新增独立复合句型训练导航与首页入口','8类句型原理、结构对照、例句拆解和易错辨析','48道新情境迁移题，提供提示、参考答案和结构讲解','句型草稿及自查进度支持刷新恢复与JSON备份']};
+function versions(){return [BASE,PREVIOUS,RELEASE_13,RELEASE_141,CURRENT,...(USER.snapshots||[])]}
+function renderVersions(){let v=versions();let label=i=>i===0?'· 初始版':i===3?'· 上一版':i===4?'· 最新版':'';$('#oldVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#newVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#oldVersion').value='3';$('#newVersion').value='4';showDiff()}
 function showDiff(){let v=versions(),a=v[Number($('#oldVersion').value)]||PREVIOUS,b=v[Number($('#newVersion').value)]||CURRENT;let removed=a.items.filter(x=>!b.items.includes(x)),added=b.items.filter(x=>!a.items.includes(x)),unchanged=b.items.filter(x=>a.items.includes(x));let info=`<p><b>${esc(a.version)} → ${esc(b.version)}</b> · 新增 ${added.length} 项 / 删除 ${removed.length} 项 / 保留 ${unchanged.length} 项</p>`;let lines=[...removed.map(x=>`<span class="del">- ${esc(x)}</span>`),...added.map(x=>`<span class="add">+ ${esc(x)}</span>`),...unchanged.map(x=>`<span class="same">  ${esc(x)}</span>`)];$('#diffResult').innerHTML=info+'<div class="versiondiff">'+(lines.join('')||'两个版本无差异')+'</div>'}
 function saveSnapshot(){let snap={...CURRENT,version:VERSION+'-snapshot-'+(USER.snapshots.length+1),date:new Date().toISOString()};USER.snapshots.push(snap);saveUser();renderVersions()}
 async function exportBackup(){
@@ -150,8 +151,52 @@ async function importBackup(event){
   if(charts.length)await chartStore('readwrite',store=>{let req;for(const r of charts)req=store.put(r);return req});
   for(let k of ['answers','drafts','completed','review'])USER[k]={...(USER[k]||{}),...(obj.user[k]||{})};
   USER.extraErrors=obj.user.extraErrors||USER.extraErrors;USER.snapshots=obj.user.snapshots||USER.snapshots;saveUser();renderVersions();
-  renderLesson('task1');renderLesson('task2');alert(`训练记录已导入，恢复 ${charts.length} 张图表。`);
+  renderLesson('task1');renderLesson('task2');renderSentenceTraining();alert(`训练记录已导入，恢复 ${charts.length} 张图表。`);
  }catch(e){alert('导入失败：'+e.message)}
  event.target.value='';
 }
-initCatalog('task2');initCatalog('task1');renderLesson('task2');renderLesson('task1');renderConnectors();renderArchive();renderVersions();saveUser();
+let sentenceState={lesson:store.get(keyName('sentenceLesson'),'relative-pronouns'),mode:'learn'};
+function sentenceLesson(){return DATA.sentenceTraining.lessons.find(x=>x.id===sentenceState.lesson)||DATA.sentenceTraining.lessons[0]}
+function sentenceKey(lesson,id){return `sentence:${lesson}:${id}`}
+function sentenceProgress(lesson){return lesson.exercises.filter(x=>USER.completed[sentenceKey(lesson.id,x.id)]).length}
+function sentenceExample(x){
+ const start=x.en.indexOf(x.clause);
+ const text=start<0?esc(x.en):esc(x.en.slice(0,start))+`<mark class="hl hl-link">${esc(x.clause)}</mark>`+esc(x.en.slice(start+x.clause.length));
+ return `<article class="sentence-example"><p class="en" lang="en">${text}</p><p class="muted small">${esc(x.cn)}</p><dl class="sentence-parts"><dt>主句骨架</dt><dd lang="en">${esc(x.main)}</dd><dt>先行词 / 指代对象</dt><dd>${esc(x.antecedent)}</dd><dt>连接结构</dt><dd lang="en">${esc(x.connector)}</dd><dt>从句功能</dt><dd>${esc(x.role)}</dd></dl><details><summary>拆回两句，检查结构来源</summary>${x.split.map(s=>`<p class="en" lang="en">${esc(s)}</p>`).join('')}</details>${x.note?`<p class="muted small">${esc(x.note)}</p>`:''}</article>`;
+}
+function initSentenceTraining(){
+ const data=DATA.sentenceTraining;
+ $('#sentenceCaseStudy').innerHTML=`<details class="card"><summary><b>从你的四句流程图例句开始：by which / where / to which</b></summary><p class="muted small">${esc(data.source_note)}</p>${data.case_study.map((x,i)=>`<h4 class="sentence-case-title">例句 ${i+1}</h4>${sentenceExample(x)}`).join('')}<div class="actions"><button onclick="selectSentenceLesson('preposition-relative')">练习 by which / to which</button><button onclick="selectSentenceLesson('relative-adverbs')">练习 where / when / why</button></div></details>`;
+ renderSentenceTraining();
+}
+function selectSentenceLesson(id){
+ if(!DATA.sentenceTraining.lessons.some(x=>x.id===id))return;
+ sentenceState.lesson=id;sentenceState.mode='learn';store.set(keyName('sentenceLesson'),id);renderSentenceTraining();
+ if(page==='sentences')$('#sentenceLesson').scrollIntoView({behavior:'smooth',block:'start'});
+}
+function setSentenceMode(mode){sentenceState.mode=mode;renderSentenceTraining();$('#sentenceLesson').scrollIntoView({behavior:'smooth',block:'start'})}
+function renderSentenceTraining(){
+ const target=$('#sentenceLesson');if(!target)return;
+ const data=DATA.sentenceTraining,lesson=sentenceLesson();sentenceState.lesson=lesson.id;
+ $('#sentenceCatalog').innerHTML=data.lessons.map(x=>`<button class="sentence-pick ${x.id===lesson.id?'active':''}" aria-pressed="${x.id===lesson.id}" onclick="selectSentenceLesson('${x.id}')"><b>${esc(x.title)}</b><span class="small">${esc(x.category)} · <span data-sentence-progress="${x.id}">${sentenceProgress(x)}</span>/${x.exercises.length} 已核对</span></button>`).join('');
+ let learn=`<section aria-label="句型原理"><div class="subcard"><h3>为什么这样连接？</h3><p>${esc(lesson.principle)}</p></div><ol class="sentence-steps">${lesson.steps.map(s=>`<li>${esc(s)}</li>`).join('')}</ol><h3>结构与用法对照</h3><div class="sentence-table-wrap" tabindex="0" role="region" aria-label="结构与用法对照表，可横向滚动"><table class="sentence-table"><thead><tr><th scope="col">结构与作用</th><th scope="col">例句与判断方法</th></tr></thead><tbody>${lesson.rules.map(r=>`<tr><th scope="row"><span lang="en">${esc(r.structure)}</span><p class="small muted">${esc(r.use)}</p></th><td><p class="en" lang="en">${esc(r.example)}</p><p>${esc(r.explanation)}</p></td></tr>`).join('')}</tbody></table></div><h3>例句拆解</h3>${lesson.examples.map(sentenceExample).join('')}<h3>容易混淆的地方</h3>${lesson.mistakes.map(x=>`<div class="sentence-mistake"><p><span class="pill">需要修改</span> <span lang="en">${esc(x.wrong)}</span></p><p><b>参考修改：</b><span lang="en">${esc(x.correct)}</span></p><p class="muted small">${esc(x.why)}</p></div>`).join('')}<div class="actions"><button class="primary" onclick="setSentenceMode('practice')">开始 ${lesson.exercises.length} 题迁移训练</button></div></section>`;
+ let practice=`<p class="muted">先独立写，再展开答案核对。这里不自动评定语法或分数；参考答案不是唯一写法。完成后检查主句、连接词、从句成分及题目信息。</p>${lesson.exercises.map((x,i)=>{
+  const key=sentenceKey(lesson.id,x.id),checked=!!USER.completed[key];
+  return `<article class="sentence-exercise" data-sentence-exercise="${x.id}"><div class="row spread"><h3>${i+1}. ${esc(x.task)}</h3><span class="pill">新情境迁移</span></div><p class="translation-cn">${esc(x.cn)}</p><details class="sentence-hint"><summary>需要提示时再展开</summary><p>${esc(x.hint)}</p></details><label for="draft-${key}">你的英文句子</label><textarea id="draft-${key}" lang="en" data-sentence-draft="${key}" placeholder="先确定主句，再加入从句……">${esc(USER.drafts[key]||'')}</textarea><details class="sentence-reference"><summary>查看参考答案与结构讲解</summary><p class="en" lang="en">${esc(x.answer)}</p><p>${esc(x.explanation)}</p>${x.alternative?`<p class="small muted">另一种可接受的写法：</p><p class="en" lang="en">${esc(x.alternative)}</p>`:''}</details><label class="sentence-check"><input type="checkbox" data-sentence-check="${key}" ${checked?'checked':''}> 我已对照主句、关系词 / 连接词和从句结构完成订正</label><p id="status-${key}" class="small muted" role="status">${checked?'已保存核对记录；这不代表自动评分。':'草稿自动保存在当前浏览器，可随训练备份导出。'}</p></article>`;
+ }).join('')}<div class="actions"><button onclick="setSentenceMode('learn')">返回原理与拆解</button></div>`;
+ target.innerHTML=`<div class="card"><div class="row spread"><span class="pill">${esc(lesson.scope)} · ${esc(lesson.category)}</span><span class="small muted"><span data-sentence-progress="${lesson.id}">${sentenceProgress(lesson)}</span>/${lesson.exercises.length} 已核对</span></div><h2 class="sentence-heading">${esc(lesson.title)}</h2><p>${esc(lesson.goal)}</p><div class="sentence-mode" aria-label="学习步骤"><button aria-pressed="${sentenceState.mode==='learn'}" class="${sentenceState.mode==='learn'?'active':''}" onclick="setSentenceMode('learn')">01 原理与拆解</button><button aria-pressed="${sentenceState.mode==='practice'}" class="${sentenceState.mode==='practice'?'active':''}" onclick="setSentenceMode('practice')">02 ${lesson.exercises.length}题迁移训练</button></div><div id="sentenceContent">${sentenceState.mode==='learn'?learn:practice}</div></div>`;
+ target.querySelectorAll('[data-sentence-draft]').forEach(el=>el.addEventListener('input',()=>{
+  const key=el.dataset.sentenceDraft;USER.drafts[key]=el.value;
+  if(USER.completed[key]){delete USER.completed[key];target.querySelector(`[data-sentence-check="${key}"]`).checked=false;document.getElementById('status-'+key).textContent='句子已修改，请重新对照结构核对。'}
+  saveUser();updateSentenceProgress();
+ }));
+ target.querySelectorAll('[data-sentence-check]').forEach(el=>el.addEventListener('change',()=>{
+  const key=el.dataset.sentenceCheck,status=document.getElementById('status-'+key);
+  if(el.checked&&!USER.drafts[key]?.trim()){el.checked=false;status.textContent='请先写出自己的句子，再对照答案核对。';return}
+  if(el.checked)USER.completed[key]=true;else delete USER.completed[key];
+  status.textContent=el.checked?'已保存核对记录；这不代表自动评分。':'已取消核对标记。';saveUser();updateSentenceProgress();
+ }));
+}
+function updateSentenceProgress(){DATA.sentenceTraining.lessons.forEach(lesson=>{document.querySelectorAll(`[data-sentence-progress="${lesson.id}"]`).forEach(el=>el.textContent=sentenceProgress(lesson))})}
+
+initCatalog('task2');initCatalog('task1');renderLesson('task2');renderLesson('task1');renderConnectors();renderArchive();renderVersions();initSentenceTraining();saveUser();

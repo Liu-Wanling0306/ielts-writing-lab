@@ -84,9 +84,47 @@ for i in ids:
 for name in ["essays", "errors", "connectors", "connector-library"]:
     load(f"data/{name}.json")
 
+# Validate the independent complex-sentence training content.
+sentences = load("data/sentence-training.json") or {}
+lesson_ids = set()
+exercise_total = 0
+for lesson in sentences.get("lessons", []):
+    lesson_id = lesson.get("id", "")
+    if not lesson_id or lesson_id in lesson_ids:
+        problems.append("sentence-training: 单元id缺失或重复")
+    lesson_ids.add(lesson_id)
+    for key in ("title", "category", "scope", "goal", "principle"):
+        if not lesson.get(key, "").strip():
+            problems.append(f"sentence-training/{lesson_id}: 缺少{key}")
+    for key in ("steps", "rules", "examples", "mistakes"):
+        if not lesson.get(key):
+            problems.append(f"sentence-training/{lesson_id}: 缺少{key}")
+    exercises = lesson.get("exercises", [])
+    if not 5 <= len(exercises) <= 8:
+        problems.append(f"sentence-training/{lesson_id}: 每类应有5至8题")
+    exercise_ids = set()
+    for exercise in exercises:
+        if not exercise.get("id") or exercise["id"] in exercise_ids:
+            problems.append(f"sentence-training/{lesson_id}: 题目id缺失或重复")
+        exercise_ids.add(exercise.get("id"))
+        for key in ("cn", "hint", "answer", "explanation", "task"):
+            if not exercise.get(key, "").strip():
+                problems.append(f"sentence-training/{lesson_id}: 迁移题缺少{key}")
+    exercise_total += len(exercises)
+for example in sentences.get("case_study", []) + [example for lesson in sentences.get("lessons", []) for example in lesson.get("examples", [])]:
+    for key in ("en", "cn", "main", "antecedent", "connector", "clause", "role"):
+        if not example.get(key, "").strip():
+            problems.append(f"sentence-training: 例句拆解缺少{key}")
+    if example.get("clause", "") not in example.get("en", ""):
+        problems.append("sentence-training: 从句高亮与例句不一致")
+    if len(example.get("split", [])) != 2:
+        problems.append("sentence-training: 例句应包含两句还原示范")
+if len(lesson_ids) != 8 or len(sentences.get("case_study", [])) != 4:
+    problems.append("sentence-training: 应包含8个单元和4个流程图导读例句")
+
 if problems:
     print("❌ 有 %d 个问题：" % len(problems))
     for p in problems:
         print("  -", p)
     sys.exit(1)
-print(f"✅ 数据没问题：{len(ids)} 篇文章，版本 {index.get('version')}")
+print(f"✅ 数据没问题：{len(ids)} 篇文章，版本 {index.get('version')}；复合句型 {len(lesson_ids)} 类 / {exercise_total} 题")

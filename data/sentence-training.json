@@ -1,0 +1,1136 @@
+{
+  "version": "1.0",
+  "title": "复合句型训练",
+  "intro": "先判断句子缺什么成分，再选择连接结构；每类先看原理与拆解，再完成6道新情境迁移题。",
+  "source_note": "以用户提供的Task 1水果罐头流程图四句练习为切入点；water、packaged已校正。其他例句、中文提示、迁移题及练习数据为教学整理，不是官方评分范文，也不替代原图。",
+  "case_study": [
+    {
+      "en": "The diagram illustrates the process by which canned fruit is produced and prepared for sale in supermarkets.",
+      "cn": "该图展示了水果罐头的生产及为超市销售做准备的过程。",
+      "main": "The diagram illustrates the process.",
+      "antecedent": "the process",
+      "connector": "by which",
+      "clause": "by which canned fruit is produced and prepared for sale in supermarkets",
+      "role": "by which＝by this process；which是介词by的宾语",
+      "split": [
+        "The diagram illustrates the process.",
+        "Canned fruit is produced and prepared for sale in supermarkets by this process."
+      ],
+      "note": ""
+    },
+    {
+      "en": "Initially, fresh fruit is packed and transported to a factory, where it is sorted to remove unsuitable produce.",
+      "cn": "首先，新鲜水果被包装并运到工厂，在那里经过分拣以去除不合适的果品。",
+      "main": "Fresh fruit is packed and transported to a factory.",
+      "antecedent": "a factory",
+      "connector": "where",
+      "clause": "where it is sorted to remove unsuitable produce",
+      "role": "where作地点状语；it是fruit，不是factory",
+      "split": [
+        "Fresh fruit is packed and transported to a factory.",
+        "At the factory, it is sorted to remove unsuitable produce."
+      ],
+      "note": "用户提供的流程图练习句；依原图确认实际加工顺序。"
+    },
+    {
+      "en": "The prepared fruit is subsequently placed in cans, to which either water, juice or syrup is added.",
+      "cn": "随后，处理好的水果被装入罐中，再向罐中加入水、果汁或糖浆中的一种。",
+      "main": "The prepared fruit is subsequently placed in cans.",
+      "antecedent": "cans",
+      "connector": "to which",
+      "clause": "to which either water, juice or syrup is added",
+      "role": "add liquid to cans→liquid is added to cans；which是to的宾语",
+      "split": [
+        "The prepared fruit is subsequently placed in cans.",
+        "Either water, juice or syrup is added to these cans."
+      ],
+      "note": "water已校正；to which表示添加的目标容器。"
+    },
+    {
+      "en": "Finally, the packaged cans are transported to supermarkets, where they are ready for sale.",
+      "cn": "最后，包装好的罐头被运往超市，在那里准备出售。",
+      "main": "The packaged cans are transported to supermarkets.",
+      "antecedent": "supermarkets",
+      "connector": "where",
+      "clause": "where they are ready for sale",
+      "role": "where作地点状语；they指packaged cans",
+      "split": [
+        "The packaged cans are transported to supermarkets.",
+        "There, they are ready for sale."
+      ],
+      "note": "packaged已校正；where表示超市这一地点。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "relative-pronouns",
+      "title": "01 关系代词：who / whom / whose / which / that",
+      "category": "定语从句",
+      "scope": "Task 1 / Task 2",
+      "goal": "判断关系词在从句中充当主语、宾语还是所有格。",
+      "principle": "定语从句修饰前面的名词。先把主句和从句拆成两句，找出重复的名词，再看它在从句中缺少什么成分；不要仅凭先行词是人还是物选关系词。",
+      "steps": [
+        "找先行词：需要补充说明的人或物。",
+        "还原从句：缺主语、宾语，还是“谁的＋名词”？",
+        "选择关系词，删除重复的he / it / them，保留必要的谓语。"
+      ],
+      "rules": [
+        {
+          "structure": "人＋who / that＋谓语",
+          "use": "限定性从句中作主语",
+          "example": "Students who practise regularly tend to improve.",
+          "explanation": "who代替students，作practise的主语；主语关系词不能省略。"
+        },
+        {
+          "structure": "人＋whom / who / that＋主语＋谓语",
+          "use": "限定性从句中作宾语",
+          "example": "The tutor whom the college hired has extensive experience.",
+          "explanation": "the college hired the tutor；正式写作可用whom。介词紧邻关系词之前时用whom，不用who/that。"
+        },
+        {
+          "structure": "物＋which / that＋谓语或主语＋谓语",
+          "use": "修饰事物",
+          "example": "The device that measures temperature is replaced annually.",
+          "explanation": "that作measures的主语；the device that engineers installed中that作installed的宾语。"
+        },
+        {
+          "structure": "先行词＋whose＋名词",
+          "use": "表示所属关系，人或物均可",
+          "example": "Schools whose facilities are outdated need investment.",
+          "explanation": "whose facilities＝the schools’ facilities；whose后紧接名词，不等于who’s。"
+        },
+        {
+          "structure": "限定性从句中只可省略宾语关系词",
+          "use": "主语不可省；非限制性不可省",
+          "example": "The course (that) I selected is affordable.",
+          "explanation": "I selected the course：省略宾语that仍完整。不能把Students who study...中的who省掉。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Students who receive regular feedback often make faster progress.",
+          "cn": "定期获得反馈的学生通常进步更快。",
+          "main": "Students often make faster progress.",
+          "antecedent": "Students",
+          "connector": "who",
+          "clause": "who receive regular feedback",
+          "role": "who作从句主语",
+          "split": [
+            "Students often make faster progress.",
+            "These students receive regular feedback."
+          ],
+          "note": "这是一般教学例句，不是经验数据结论。"
+        },
+        {
+          "en": "The table compares companies whose employees work remotely.",
+          "cn": "该表比较了员工远程办公的公司。",
+          "main": "The table compares companies.",
+          "antecedent": "companies",
+          "connector": "whose",
+          "clause": "whose employees work remotely",
+          "role": "whose限定employees，表示公司的员工",
+          "split": [
+            "The table compares companies.",
+            "The employees of these companies work remotely."
+          ],
+          "note": ""
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Students who they study regularly improve.",
+          "correct": "Students who study regularly improve.",
+          "why": "who已经作主语，不再加they。"
+        },
+        {
+          "wrong": "The tool which measures... → The tool measures...",
+          "correct": "保留which：The tool which measures temperature is useful.",
+          "why": "删掉主语关系词会改变结构；此处主句谓语是is。"
+        }
+      ],
+      "exercises": [
+        {
+          "cn": "经常阅读新闻的学生能够接触不同观点。",
+          "hint": "用who作从句主语",
+          "answer": "Students who read the news regularly can encounter different perspectives.",
+          "explanation": "who代替students；从句不再加they。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "1"
+        },
+        {
+          "cn": "这张图比较了使用太阳能的家庭。",
+          "hint": "用which或that作主语",
+          "answer": "The chart compares households that use solar energy.",
+          "explanation": "households作use的主语；主句是The chart compares households。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "2"
+        },
+        {
+          "cn": "市政府聘用的专家提出了一个新方案。",
+          "hint": "用whom作宾语",
+          "answer": "The expert whom the council employed proposed a new plan.",
+          "explanation": "the council employed the expert；whom是宾语。",
+          "task": "翻译并使用指定结构",
+          "alternative": "The expert the council employed proposed a new plan.",
+          "id": "3"
+        },
+        {
+          "cn": "那些父母无力负担学费的孩子需要额外支持。",
+          "hint": "用whose＋名词",
+          "answer": "Children whose parents cannot afford tuition fees need additional support.",
+          "explanation": "whose parents表示孩子们的父母；从句谓语cannot afford。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "4"
+        },
+        {
+          "cn": "我选择的培训课程包括实际操作练习。",
+          "hint": "省略限定性从句中的宾语关系词",
+          "answer": "The training course I selected includes practical exercises.",
+          "explanation": "I selected the course；省略的是宾语that/which，主句谓语是includes。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "5"
+        },
+        {
+          "cn": "合并：The machine is energy-efficient. Its motor was redesigned.",
+          "hint": "用whose修饰事物",
+          "answer": "The machine whose motor was redesigned is energy-efficient.",
+          "explanation": "whose motor＝the machine’s motor；whose不只修饰人。",
+          "task": "合并句子",
+          "alternative": "",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "id": "relative-adverbs",
+      "title": "02 关系副词：where / when / why",
+      "category": "定语从句",
+      "scope": "Task 1 / Task 2",
+      "goal": "区分缺少地点、时间、原因状语与缺少主语或宾语。",
+      "principle": "where、when、why在从句中作状语。从句的主谓宾通常已经完整；它们不是遇到地点、时间、reason就自动使用的标签。",
+      "steps": [
+        "检查从句动词是否已有所需主语和宾语。",
+        "缺“在那里/那时/因为那个原因”等状语时再用where/when/why。",
+        "若缺visited、remembered等动词的宾语，使用which/that或合适的省略结构。"
+      ],
+      "rules": [
+        {
+          "structure": "地点＋where＋完整分句",
+          "use": "地点状语",
+          "example": "The fruit reaches a factory, where it is sorted.",
+          "explanation": "it is sorted已有主语it；where＝in/at which，地点介词依原句而定。"
+        },
+        {
+          "structure": "时间＋when＋完整分句",
+          "use": "时间状语",
+          "example": "The year when sales peaked was 2018.",
+          "explanation": "sales peaked in that year；when＝in which。"
+        },
+        {
+          "structure": "the reason why＋完整分句",
+          "use": "原因状语",
+          "example": "The reason why some people avoid museums is the admission fee.",
+          "explanation": "some people avoid museums for that reason；why常用于限定性结构。"
+        },
+        {
+          "structure": "地点/时间＋which / that＋缺宾语分句",
+          "use": "关系词作宾语而非状语",
+          "example": "The factory that the inspectors visited was modern.",
+          "explanation": "inspectors visited the factory：visited后缺宾语，不能改成where。"
+        },
+        {
+          "structure": "where不与there重复",
+          "use": "只保留一个地点连接位置",
+          "example": "The cans reach supermarkets, where they are displayed.",
+          "explanation": "不要写where they are displayed there。抽象的situation可用where，但不要把所有抽象名词都当地点。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Initially, fresh fruit is packed and transported to a factory, where it is sorted to remove unsuitable produce.",
+          "cn": "首先，新鲜水果被包装并运到工厂，在那里经过分拣以去除不合适的果品。",
+          "main": "Fresh fruit is packed and transported to a factory.",
+          "antecedent": "a factory",
+          "connector": "where",
+          "clause": "where it is sorted to remove unsuitable produce",
+          "role": "where作地点状语；it是fruit，不是factory",
+          "split": [
+            "Fresh fruit is packed and transported to a factory.",
+            "At the factory, it is sorted to remove unsuitable produce."
+          ],
+          "note": "用户提供的流程图练习句；依原图确认实际加工顺序。"
+        },
+        {
+          "en": "Finally, the packaged cans are transported to supermarkets, where they are ready for sale.",
+          "cn": "最后，包装好的罐头被运往超市，在那里准备出售。",
+          "main": "The packaged cans are transported to supermarkets.",
+          "antecedent": "supermarkets",
+          "connector": "where",
+          "clause": "where they are ready for sale",
+          "role": "where作地点状语；they指packaged cans",
+          "split": [
+            "The packaged cans are transported to supermarkets.",
+            "There, they are ready for sale."
+          ],
+          "note": "packaged已校正；where表示超市这一地点。"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "The factory where inspectors visited was modern.",
+          "correct": "The factory that inspectors visited was modern.",
+          "why": "visited后缺宾语；不是缺地点状语。"
+        },
+        {
+          "wrong": "The year when I remember was 2010.",
+          "correct": "The year that I remember was 2010.",
+          "why": "remember需要宾语；若说sales rose in that year，则可用when。"
+        }
+      ],
+      "exercises": [
+        {
+          "cn": "随后，牛奶被运到一家工厂，在那里被加热。",
+          "hint": "用非限制性where从句",
+          "answer": "The milk is then transported to a factory, where it is heated.",
+          "explanation": "where指在工厂里；it指milk。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "1"
+        },
+        {
+          "cn": "2019年是公交乘客人数达到峰值的年份。",
+          "hint": "用when修饰year",
+          "answer": "2019 was the year when bus passenger numbers peaked.",
+          "explanation": "bus passenger numbers peaked本身完整；when提供时间。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "2"
+        },
+        {
+          "cn": "价格较高是一些居民不使用该服务的原因。",
+          "hint": "用the reason why",
+          "answer": "The high price is the reason why some residents do not use the service.",
+          "explanation": "why补充do not use the service的原因。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "3"
+        },
+        {
+          "cn": "政府检查过的那家工厂位于河边。",
+          "hint": "从where与which/that中选；检查visited的宾语",
+          "answer": "The factory that government inspectors visited is beside the river.",
+          "explanation": "inspectors visited后缺宾语the factory，所以用that/which。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "4"
+        },
+        {
+          "cn": "包装后的产品被送到商店，在那里展示给顾客。",
+          "hint": "用where，不重复there",
+          "answer": "The packaged products are sent to shops, where they are displayed to customers.",
+          "explanation": "they指products，where指shops中的地点。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "5"
+        },
+        {
+          "cn": "合并：The centre has a laboratory. Researchers test new materials in the laboratory.",
+          "hint": "用where连接",
+          "answer": "The centre has a laboratory where researchers test new materials.",
+          "explanation": "researchers test new materials已有主谓宾；where补充in the laboratory。",
+          "task": "合并句子",
+          "alternative": "",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "id": "preposition-relative",
+      "title": "03 介词＋which / whom：by which / to which",
+      "category": "定语从句",
+      "scope": "Task 1 / Task 2",
+      "goal": "从动词搭配或原句意义推导介词，而不是死记“介词＋which”。",
+      "principle": "把从句还原成独立句，先确定by / to / in / from / for等介词，再把“介词＋先行词”移到从句前。正式结构中介词后用which（物）或whom（人），不用that。",
+      "steps": [
+        "还原：Fruit is produced by this process；water is added to the cans。",
+        "保留原搭配的介词：by this process→by which；to the cans→to which。",
+        "移走重复名词；其余从句结构完整。不要把介词错误地换成where。"
+      ],
+      "rules": [
+        {
+          "structure": "方式/过程＋by which＋分句",
+          "use": "通过某过程或方法",
+          "example": "The diagram illustrates the process by which canned fruit is produced.",
+          "explanation": "还原：canned fruit is produced by this process；by which是方式状语。"
+        },
+        {
+          "structure": "容器/对象＋to which＋分句",
+          "use": "add A to B的接受对象",
+          "example": "The fruit is placed in cans, to which juice is added.",
+          "explanation": "还原：juice is added to the cans；to来自add...to...，不来自which。"
+        },
+        {
+          "structure": "场所＋in / at which＋分句",
+          "use": "在其中/该处",
+          "example": "The fruit reaches a factory, at which it is sorted.",
+          "explanation": "常可改为where，但by which、to which不能机械换为where。"
+        },
+        {
+          "structure": "来源＋from which / 对象＋for which",
+          "use": "来自某物/为某目的或对象",
+          "example": "The tank from which water is pumped is cleaned daily.",
+          "explanation": "还原：water is pumped from the tank；依据语义选择介词。"
+        },
+        {
+          "structure": "人＋to / with / for whom",
+          "use": "正式表达中的介词宾语",
+          "example": "The adviser to whom residents spoke explained the policy.",
+          "explanation": "还原：residents spoke to the adviser；不要写to who或to that。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The diagram illustrates the process by which canned fruit is produced and prepared for sale in supermarkets.",
+          "cn": "该图展示了水果罐头的生产及为超市销售做准备的过程。",
+          "main": "The diagram illustrates the process.",
+          "antecedent": "the process",
+          "connector": "by which",
+          "clause": "by which canned fruit is produced and prepared for sale in supermarkets",
+          "role": "by which＝by this process；which是介词by的宾语",
+          "split": [
+            "The diagram illustrates the process.",
+            "Canned fruit is produced and prepared for sale in supermarkets by this process."
+          ],
+          "note": ""
+        },
+        {
+          "en": "The prepared fruit is subsequently placed in cans, to which either water, juice or syrup is added.",
+          "cn": "随后，处理好的水果被装入罐中，再向罐中加入水、果汁或糖浆中的一种。",
+          "main": "The prepared fruit is subsequently placed in cans.",
+          "antecedent": "cans",
+          "connector": "to which",
+          "clause": "to which either water, juice or syrup is added",
+          "role": "add liquid to cans→liquid is added to cans；which是to的宾语",
+          "split": [
+            "The prepared fruit is subsequently placed in cans.",
+            "Either water, juice or syrup is added to these cans."
+          ],
+          "note": "water已校正；to which表示添加的目标容器。"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "the process by that fruit is produced",
+          "correct": "the process by which fruit is produced",
+          "why": "紧随介词之后不能用that。"
+        },
+        {
+          "wrong": "cans, to which syrup is added to them",
+          "correct": "cans, to which syrup is added",
+          "why": "to which已代表to the cans，不再重复to them。先还原add syrup to the cans，再选介词。"
+        }
+      ],
+      "exercises": [
+        {
+          "cn": "该图展示了废纸被回收制成纸板的过程。",
+          "hint": "用the process by which",
+          "answer": "The diagram illustrates the process by which waste paper is recycled into cardboard.",
+          "explanation": "by来自by this process；不要用by that。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "1"
+        },
+        {
+          "cn": "混合物被倒入一个容器，随后向该容器中加入盐。",
+          "hint": "用to which；add salt to the container",
+          "answer": "The mixture is poured into a container, to which salt is then added.",
+          "explanation": "salt is added to the container；to which引出接受盐的容器。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "2"
+        },
+        {
+          "cn": "这是用于收集雨水的水箱。",
+          "hint": "用in which；rainwater is collected in the tank",
+          "answer": "This is the tank in which rainwater is collected.",
+          "explanation": "in the tank被换为in which；不要重复in it。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "3"
+        },
+        {
+          "cn": "储存原油的容器与原油被抽出的储罐相连。",
+          "hint": "用from which修饰the storage tank",
+          "answer": "The container holding crude oil is connected to the storage tank from which oil is pumped.",
+          "explanation": "oil is pumped from the storage tank，from表示来源。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "4"
+        },
+        {
+          "cn": "学生可以求助的顾问会提供有用的反馈。",
+          "hint": "用to whom修饰advisers",
+          "answer": "Advisers to whom students can turn provide useful feedback.",
+          "explanation": "students can turn to the advisers；主句主语Advisers，谓语provide。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "5"
+        },
+        {
+          "cn": "该报告解释了新材料被测试的程序。",
+          "hint": "用the procedure through which",
+          "answer": "The report explains the procedure through which new materials are tested.",
+          "explanation": "tested through this procedure表达通过这个程序；也可以依语义用by which。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "id": "non-defining",
+      "title": "04 限定与非限定：逗号、whose及数量结构",
+      "category": "定语从句",
+      "scope": "Task 1 / Task 2",
+      "goal": "区分“辨认哪一个”与“对已确定对象补充信息”。",
+      "principle": "限定性从句帮助确定指的是哪一类对象；非限制性从句用逗号隔开，添加补充信息。逗号并非装饰，可能改变句子涵盖的范围。",
+      "steps": [
+        "先问：删掉从句后，读者是否仍知道具体对象？",
+        "需要辨认时通常不加逗号；补充已确定对象时使用逗号。",
+        "非限制性不用that，关系词不能省略；置于主句中间时两侧都要逗号。"
+      ],
+      "rules": [
+        {
+          "structure": "名词＋限定性从句",
+          "use": "限定集合",
+          "example": "Factories that recycle water use fewer fresh supplies.",
+          "explanation": "只谈回收用水的工厂，不能推断所有工厂都回收。"
+        },
+        {
+          "structure": "已确定对象，which / who...，主句其余部分",
+          "use": "补充信息",
+          "example": "The main factory, which opened in 2005, employs 200 people.",
+          "explanation": "which从句插在主语与谓语之间，两侧逗号成对。"
+        },
+        {
+          "structure": "已确定对象，whose＋名词...",
+          "use": "补充所属信息",
+          "example": "The school, whose library was renovated, now serves more pupils.",
+          "explanation": "whose并不限于人；逗号不改变whose的所属功能。"
+        },
+        {
+          "structure": "复数名词，some / most / many of which / whom...",
+          "use": "对前面群体中的部分作补充",
+          "example": "The survey covered ten towns, most of which had public libraries.",
+          "explanation": "towns是物用which；students是人可用whom；数量和范围须有依据。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The survey covered six factories, two of which recycled their wastewater.",
+          "cn": "调查涵盖六家工厂，其中两家回收废水。",
+          "main": "The survey covered six factories.",
+          "antecedent": "six factories",
+          "connector": "two of which",
+          "clause": "two of which recycled their wastewater",
+          "role": "two of which整体作从句主语；which指six factories",
+          "split": [
+            "The survey covered six factories.",
+            "Two of these factories recycled their wastewater."
+          ],
+          "note": "练习数据，不对应题库原图。"
+        },
+        {
+          "en": "The college, whose fees increased in 2020, introduced more scholarships.",
+          "cn": "这所学院的学费在2020年上涨，它推出了更多奖学金。",
+          "main": "The college introduced more scholarships.",
+          "antecedent": "The college",
+          "connector": "whose",
+          "clause": "whose fees increased in 2020",
+          "role": "whose fees是从句主语",
+          "split": [
+            "The college introduced more scholarships.",
+            "Its fees increased in 2020."
+          ],
+          "note": ""
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "The main plant, that opened in 2005, is modern.",
+          "correct": "The main plant, which opened in 2005, is modern.",
+          "why": "非限制性从句不用that。"
+        },
+        {
+          "wrong": "The school, whose facilities are old needs funding.",
+          "correct": "The school, whose facilities are old, needs funding.",
+          "why": "插入式非限制性从句两侧逗号配对。"
+        }
+      ],
+      "exercises": [
+        {
+          "cn": "主图书馆于2010年开放，现在每周接待500名访客。",
+          "hint": "用插入式which从句；数据为练习设定",
+          "answer": "The main library, which opened in 2010, now receives 500 visitors a week.",
+          "explanation": "which opened in 2010是补充信息，主句为library receives visitors。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "1"
+        },
+        {
+          "cn": "调查包括八个城镇，其中五个有医院。",
+          "hint": "用five of which",
+          "answer": "The survey included eight towns, five of which had hospitals.",
+          "explanation": "five of which作had的主语；不能说five of that。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "2"
+        },
+        {
+          "cn": "这些学生更喜欢晚间课程，其中许多人在兼职。",
+          "hint": "用many of whom",
+          "answer": "The students, many of whom worked part-time, preferred evening courses.",
+          "explanation": "many of whom指这些学生中的许多人；preferred是主句谓语。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "3"
+        },
+        {
+          "cn": "这家工厂的设备去年进行了更新，现在用电更少。",
+          "hint": "用whose补充设备信息",
+          "answer": "The factory, whose equipment was upgraded last year, now uses less electricity.",
+          "explanation": "whose equipment为从句主语，equipment不可数，配was。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "4"
+        },
+        {
+          "cn": "比较并翻译：只有提供免费课程的学校才获得这项补助。",
+          "hint": "用限定性that/who/which结构，不加逗号",
+          "answer": "Only schools that offer free courses receive this grant.",
+          "explanation": "从句筛选出提供免费课程的学校；加逗号会改变范围。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "5"
+        },
+        {
+          "cn": "处理好的产品被运往港口，在那里等待出口。",
+          "hint": "用非限制性where从句",
+          "answer": "The processed products are transported to the port, where they await export.",
+          "explanation": "port已由语境确定时where补充地点；they指products。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "id": "sentence-which",
+      "title": "05 which指代整句：结果与范围",
+      "category": "定语从句",
+      "scope": "Task 1 / Task 2",
+      "goal": "区分which修饰一个名词与which评论前面整件事。",
+      "principle": "逗号＋which可以指代前面整个事实，常用于表达结果或评价。which指的是整件事，不一定是最近的名词；但指代不清时应拆句。",
+      "steps": [
+        "先写完整事实，再决定是否需要结果说明。",
+        "检查which究竟指一个名词，还是前面整个事件。",
+        "Task 1只写图上可见的变化或能直接算出的关系，不推断健康、经济等未给出的因果。"
+      ],
+      "rules": [
+        {
+          "structure": "完整分句，which＋谓语...",
+          "use": "指代前述事实",
+          "example": "Bus use doubled, which represented the largest increase shown.",
+          "explanation": "which指公交使用量翻倍这一变化；结果须由图中数据支持。"
+        },
+        {
+          "structure": "复数名词，which＋复数谓语...",
+          "use": "指代前面的复数事物",
+          "example": "The machines, which are inspected daily, are expensive.",
+          "explanation": "which指machines；用are。若指前述整件事，通常视为单一事实配单数谓语。"
+        },
+        {
+          "structure": "This change / This reduction＋谓语",
+          "use": "指代不清时主动重述",
+          "example": "The city reduced fares. This reduction made travel more affordable.",
+          "explanation": "比在复杂长句尾机械加which更清楚。"
+        },
+        {
+          "structure": "which不能作为独立句的连接词",
+          "use": "需要连接到主句",
+          "example": "The service became cheaper, which attracted more users.",
+          "explanation": "不要写The service became cheaper. Which attracted...作为完整句子。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The share of bus journeys rose from 20% to 40%, which represented a doubling over the period.",
+          "cn": "公交出行份额由20%升至40%，在这段时期翻了一倍。",
+          "main": "The share of bus journeys rose from 20% to 40%.",
+          "antecedent": "前面整个变化事实",
+          "connector": "which",
+          "clause": "which represented a doubling over the period",
+          "role": "which作represented的主语，指整项变化",
+          "split": [
+            "The share of bus journeys rose from 20% to 40%.",
+            "This change represented a doubling over the period."
+          ],
+          "note": "这些数值仅为训练设定；翻倍可以直接算出。"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Sales fell. Which affected profits.",
+          "correct": "Sales fell, which affected profits.",
+          "why": "which从句不能独立成句；利润变化还需要数据或论据支持。"
+        },
+        {
+          "wrong": "The rate rose from 20% to 30%, which proves people became healthier.",
+          "correct": "The rate rose from 20% to 30%, an increase of 10 percentage points.",
+          "why": "给定比例可计算出增加10个百分点，但不能由此证明人们健康改善。练习数值不对应题库原图。"
+        }
+      ],
+      "exercises": [
+        {
+          "cn": "在这项练习数据中，销售额从100万升至200万，意味着翻了一倍。",
+          "hint": "用which指整项变化",
+          "answer": "Sales rose from one million to two million, which represented a doubling.",
+          "explanation": "which指销售额从一百万升至两百万的变化，不是指two million这个名词。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "1"
+        },
+        {
+          "cn": "图中公交出行份额由20%升至35%，增加了15个百分点。",
+          "hint": "用which represented；不要写15%",
+          "answer": "The share of bus journeys rose from 20% to 35%, which represented an increase of 15 percentage points.",
+          "explanation": "35%-20%=15个百分点；不是相对增加15%。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "2"
+        },
+        {
+          "cn": "降低课程费用让更多家庭能够负担教育。",
+          "hint": "用前述完整分句＋which",
+          "answer": "The school reduced its course fees, which made education more affordable for more families.",
+          "explanation": "which指降低费用这一行为；这是Task 2机制练习。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "3"
+        },
+        {
+          "cn": "学校引入了同伴辅导，这可能有助于缺乏信心的学习者。",
+          "hint": "用which may；保留谨慎语气",
+          "answer": "The school introduced peer tutoring, which may help learners who lack confidence.",
+          "explanation": "which指引入同伴辅导的做法；who则修饰learners。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "4"
+        },
+        {
+          "cn": "改写避免指代不清：The council closed the road near the school, which upset residents.",
+          "hint": "拆成两句，明确“封路”引发不满",
+          "answer": "The council closed the road near the school. This closure upset residents.",
+          "explanation": "把which替换成This closure，避免读者误解为school引发不满。",
+          "task": "消除指代歧义",
+          "alternative": "",
+          "id": "5"
+        },
+        {
+          "cn": "合并：The recycling rate remained at 30%. This stability contrasted with the rise in the other city.",
+          "hint": "用which指“保持稳定”",
+          "answer": "The recycling rate remained at 30%, which contrasted with the rise in the other city.",
+          "explanation": "which指该回收率保持不变的事实，而不是擅自说明变化原因。",
+          "task": "合并句子",
+          "alternative": "",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "id": "noun-clauses",
+      "title": "06 名词性从句：that / whether / what / how",
+      "category": "名词性从句",
+      "scope": "Task 1 / Task 2",
+      "goal": "区分整句作主语、宾语、表语，以及解释事实内容的同位语从句。",
+      "principle": "名词性从句整体承担名词的功能，不一定修饰前面的名词。that从句通常不缺成分；what在从句里还充当主语或宾语；whether表示是否。",
+      "steps": [
+        "定位：从句是“我认为的内容”，还是在修饰某个对象？",
+        "从句完整可用that；缺“……的事物”用what；提出是否用whether。",
+        "所有嵌入式疑问从句使用陈述语序：how the process works，而非how does the process work。"
+      ],
+      "rules": [
+        {
+          "structure": "主语＋believe / show＋that＋完整分句",
+          "use": "宾语从句",
+          "example": "The chart shows that bus use increased.",
+          "explanation": "that只连接，不在bus use increased中作主语或宾语。"
+        },
+        {
+          "structure": "Whether＋分句＋谓语",
+          "use": "是否作为主语内容",
+          "example": "Whether a policy succeeds depends on its implementation.",
+          "explanation": "不用If a policy succeeds作同样意义的正式主语从句。"
+        },
+        {
+          "structure": "What＋缺少主/宾语的分句",
+          "use": "表示“……的事物/内容”",
+          "example": "What learners need is regular feedback.",
+          "explanation": "learners need something；what填need的宾语位置。"
+        },
+        {
+          "structure": "how＋主语＋谓语",
+          "use": "说明方式/过程",
+          "example": "The diagram explains how waste is processed.",
+          "explanation": "how waste is processed用陈述语序；不用how is waste processed。"
+        },
+        {
+          "structure": "the fact / idea＋that＋完整分句",
+          "use": "解释该名词的内容",
+          "example": "The fact that fees are high does not prove that courses are effective.",
+          "explanation": "第一个that是同位语从句连接词；后一个that引导prove的宾语从句。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The diagram explains how household waste is converted into electricity.",
+          "cn": "该图解释家庭垃圾如何被转化为电力。",
+          "main": "The diagram explains [某个过程].",
+          "antecedent": "不修饰先行词；整个从句是explains的宾语",
+          "connector": "how",
+          "clause": "how household waste is converted into electricity",
+          "role": "how说明方式；从句整体作宾语",
+          "split": [
+            "The diagram explains the conversion process.",
+            "Household waste is converted into electricity through this process."
+          ],
+          "note": ""
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "The diagram shows how is fruit processed.",
+          "correct": "The diagram shows how fruit is processed.",
+          "why": "嵌入式疑问从句用陈述语序。"
+        },
+        {
+          "wrong": "That students need is feedback.",
+          "correct": "What students need is feedback.",
+          "why": "need缺宾语，“所需之物”用what；that不承担宾语成分。"
+        }
+      ],
+      "exercises": [
+        {
+          "cn": "该图显示公共交通使用量在2010年后增加了。",
+          "hint": "用shows that",
+          "answer": "The graph shows that public transport use increased after 2010.",
+          "explanation": "that后的分句完整，整体作shows的宾语。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "1"
+        },
+        {
+          "cn": "一个政策是否有效取决于它的实施方式。",
+          "hint": "用Whether作主语从句",
+          "answer": "Whether a policy is effective depends on how it is implemented.",
+          "explanation": "主语整体是whether从句；depends用单数。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "2"
+        },
+        {
+          "cn": "学习者真正需要的是定期反馈。",
+          "hint": "用What作主语从句",
+          "answer": "What learners really need is regular feedback.",
+          "explanation": "what在从句中作need的宾语。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "3"
+        },
+        {
+          "cn": "该流程图解释了牛奶如何加工成奶酪。",
+          "hint": "用how＋陈述语序",
+          "answer": "The process diagram explains how milk is processed into cheese.",
+          "explanation": "how milk is processed，不倒装。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "4"
+        },
+        {
+          "cn": "课程昂贵这一事实并不意味着它们更有效。",
+          "hint": "用the fact that＋does not mean that",
+          "answer": "The fact that courses are expensive does not mean that they are more effective.",
+          "explanation": "第一个that说明fact内容，第二个that引导mean的宾语。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "5"
+        },
+        {
+          "cn": "关键问题是低收入家庭能否负担这些服务。",
+          "hint": "用whether作表语从句",
+          "answer": "The key question is whether low-income families can afford these services.",
+          "explanation": "whether从句整体作is后的表语；不使用疑问语序。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "id": "concession-comparison",
+      "title": "07 让步与对比：although / while / whereas",
+      "category": "状语从句",
+      "scope": "Task 1 / Task 2",
+      "goal": "区分“虽然但仍然”与两组数据的并列对比。",
+      "principle": "although表示让步；whereas表示对比；while既可表示对比或让步，也可表示同时发生。根据逻辑关系选连接词，不把它们当可随意替换的装饰。",
+      "steps": [
+        "有预期落差时用although：虽有优势，仍非必要。",
+        "两组数据形成对照时用whereas或表示对比的while。",
+        "although不再配but；despite后接名词/动名词，不直接接完整分句。"
+      ],
+      "rules": [
+        {
+          "structure": "Although＋完整分句，主句",
+          "use": "让步",
+          "example": "Although small classes offer benefits, they are not essential.",
+          "explanation": "承认益处不等于认定必要；不要写Although..., but...。"
+        },
+        {
+          "structure": "A＋谓语，whereas＋B＋谓语",
+          "use": "数据或观点对比",
+          "example": "Bus use rose, whereas car use declined.",
+          "explanation": "两边各有主谓；whereas表示对照，不表示时间。"
+        },
+        {
+          "structure": "While＋分句，主句",
+          "use": "对比或让步；需语境明确",
+          "example": "While online courses are convenient, they require self-discipline.",
+          "explanation": "此处是让步；不是在描述两个同时发生的动作。"
+        },
+        {
+          "structure": "Despite＋名词/动名词，主句",
+          "use": "介词短语表达让步",
+          "example": "Despite the high fees, demand remained strong.",
+          "explanation": "despite不是从属连词；它后面不能直接接fees were high。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Although smaller classes can offer more individual attention, they are not essential to successful language learning.",
+          "cn": "虽然小班能提供更多个别关注，但并非成功学习语言的必要条件。",
+          "main": "They are not essential to successful language learning.",
+          "antecedent": "不适用；这是让步状语从句",
+          "connector": "Although",
+          "clause": "Although smaller classes can offer more individual attention",
+          "role": "从句承认优势，主句给出整体判断",
+          "split": [
+            "Smaller classes can offer more individual attention.",
+            "They are not essential to successful language learning."
+          ],
+          "note": "根据T2-41练习句整理。"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Although fees were high, but demand rose.",
+          "correct": "Although fees were high, demand rose.",
+          "why": "although与but不在此结构中双重连接。"
+        },
+        {
+          "wrong": "Despite fees were high, demand rose.",
+          "correct": "Despite the high fees, demand rose.",
+          "why": "despite后改为名词短语；也可用Although fees were high。"
+        }
+      ],
+      "exercises": [
+        {
+          "cn": "虽然网课很方便，但它们需要较强的自律。",
+          "hint": "用Although，不加but",
+          "answer": "Although online courses are convenient, they require strong self-discipline.",
+          "explanation": "承认便利后提出限制，属于让步。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "1"
+        },
+        {
+          "cn": "汽车使用量下降，而公交使用量上升。",
+          "hint": "用whereas连接两组趋势",
+          "answer": "Car use declined, whereas bus use increased.",
+          "explanation": "两组数据对比，不需要说明因果。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "2"
+        },
+        {
+          "cn": "虽然小班更贵，但它们能提供更多互动机会。",
+          "hint": "用While表达让步",
+          "answer": "While small classes are more expensive, they can offer more opportunities for interaction.",
+          "explanation": "while从句与主句分别完整。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "3"
+        },
+        {
+          "cn": "尽管学费较高，这些课程仍然很受欢迎。",
+          "hint": "用Despite＋名词短语",
+          "answer": "Despite the high tuition fees, these courses remained popular.",
+          "explanation": "despite后不能直接写tuition fees were high。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "4"
+        },
+        {
+          "cn": "虽然回收率有所上升，它仍低于另外两个国家。",
+          "hint": "用Although；保持比较对象一致",
+          "answer": "Although the recycling rate increased, it remained below those of the other two countries.",
+          "explanation": "it指该国单数rate；those代替其他两国的rates。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "5"
+        },
+        {
+          "cn": "改错：Although public transport is affordable, but some residents still drive.",
+          "hint": "删除重复连接成分",
+          "answer": "Although public transport is affordable, some residents still drive.",
+          "explanation": "保留although后删除but；也可删除although保留but。",
+          "task": "纠错改写",
+          "alternative": "",
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "id": "time-condition",
+      "title": "08 时间与条件：once / after / if / unless",
+      "category": "状语从句",
+      "scope": "Task 1 / Task 2",
+      "goal": "描述工序先后、政策前提与未来变化，控制时态和主语。",
+      "principle": "时间从句说明先后，条件从句说明成立前提。主句表达未来时，时间或条件从句通常用一般现在时表示未来；不要在if或once从句里机械使用will。",
+      "steps": [
+        "工序顺序选after / before / once / until；必要前提选if / unless。",
+        "确定谁完成该步骤；被加工对象往往用被动语态。",
+        "未来主句可用will，但条件/时间从句通常用现在时；unless本身含if not，不再多加not。"
+      ],
+      "rules": [
+        {
+          "structure": "Once / After＋主语＋现在时，主句",
+          "use": "工序完成后",
+          "example": "Once the cans are sealed, they are heated.",
+          "explanation": "流程概述用一般现在时被动语态；两句的they都指cans。"
+        },
+        {
+          "structure": "Before / Until＋分句",
+          "use": "先于某步骤/直到某条件",
+          "example": "The product is stored until it is ready for distribution.",
+          "explanation": "until表示一直持续到某时，不等于before。"
+        },
+        {
+          "structure": "If＋现在时，主句＋will / can / may",
+          "use": "实际可能发生的条件",
+          "example": "If fares fall, more people may use buses.",
+          "explanation": "主句保留may表示可能性；不保证政策必然有效。"
+        },
+        {
+          "structure": "Unless＋肯定形式",
+          "use": "除非；相当于if...not",
+          "example": "Unless services improve, demand may remain low.",
+          "explanation": "不要写Unless services do not improve表达同一个意思。"
+        },
+        {
+          "structure": "After＋V-ing与完整从句的区别",
+          "use": "省略结构须主语一致",
+          "example": "After washing the fruit, workers pack it.",
+          "explanation": "洗水果的是workers。不要写After washing the fruit, it is packed来让fruit似乎自己洗水果；可用After the fruit is washed, it is packed。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Once the cans have been sealed, they are heated to preserve the contents.",
+          "cn": "罐子密封之后，会被加热以保存其中的食物。",
+          "main": "They are heated to preserve the contents.",
+          "antecedent": "不适用；这是时间状语从句",
+          "connector": "Once",
+          "clause": "Once the cans have been sealed",
+          "role": "表示先完成密封，再进行加热",
+          "split": [
+            "The cans are sealed.",
+            "They are then heated to preserve the contents."
+          ],
+          "note": "流程练习用一般现在时或现在完成时从句表达先后；具体工艺以图示为准。"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "If the government will lower fares, more people may use buses.",
+          "correct": "If the government lowers fares, more people may use buses.",
+          "why": "一般未来条件句的if从句通常不用will表示将来。"
+        },
+        {
+          "wrong": "After washing the fruit, it is packed.",
+          "correct": "After the fruit is washed, it is packed.",
+          "why": "避免悬垂的主动分词；或改成After washing the fruit, workers pack it。"
+        }
+      ],
+      "exercises": [
+        {
+          "cn": "罐子密封后，会被加热。",
+          "hint": "用Once＋被动从句",
+          "answer": "Once the cans are sealed, they are heated.",
+          "explanation": "the cans are sealed是完整时间从句；主句they指cans。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "1"
+        },
+        {
+          "cn": "水果清洗后，工人把它切成小块。",
+          "hint": "用After＋完整从句",
+          "answer": "After the fruit is washed, workers cut it into small pieces.",
+          "explanation": "完整从句明确fruit为被清洗对象，避免悬垂分词。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "2"
+        },
+        {
+          "cn": "如果政府降低票价，更多人可能乘坐公交车。",
+          "hint": "用If＋现在时，主句may",
+          "answer": "If the government lowers fares, more people may use buses.",
+          "explanation": "lowers表示未来条件；may保留对政策效果的谨慎判断。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "3"
+        },
+        {
+          "cn": "除非公共服务改善，否则居民可能继续开车。",
+          "hint": "用Unless，不重复not",
+          "answer": "Unless public services improve, residents may continue to drive.",
+          "explanation": "unless public services improve＝if public services do not improve。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "4"
+        },
+        {
+          "cn": "产品一直储存到准备好配送为止。",
+          "hint": "用until＋被动/状态从句",
+          "answer": "The products are stored until they are ready for distribution.",
+          "explanation": "until强调储存持续至准备好配送这一时间点。",
+          "task": "翻译并使用指定结构",
+          "alternative": "",
+          "id": "5"
+        },
+        {
+          "cn": "改错：After cleaning the jars, they are filled with juice.",
+          "hint": "写清清洗动作的施事者或改完整被动从句",
+          "answer": "After the jars are cleaned, they are filled with juice.",
+          "explanation": "原句让they/jars成为cleaning的逻辑主语；改被动从句明确动作关系。",
+          "task": "纠错改写",
+          "alternative": "After cleaning the jars, workers fill them with juice.",
+          "id": "6"
+        }
+      ]
+    }
+  ]
+}
