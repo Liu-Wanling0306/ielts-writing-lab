@@ -69,3 +69,5 @@
 #sentenceLesson{min-width:0}#sentenceContent{overflow-wrap:anywhere}
 @media(max-width:850px){.sentence-workbench{grid-template-columns:minmax(0,1fr)}.sentence-sidebar{position:static;max-height:none}#sentenceCatalog{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.sentence-pick{margin:0;font-size:13px}.sentence-parts{grid-template-columns:minmax(0,1fr);gap:4px}.sentence-parts dd{margin-bottom:8px}}
 @media(max-width:480px){#sentenceCatalog{grid-template-columns:minmax(0,1fr)}.sentence-table-wrap{max-width:100%}.sentence-example{padding:12px}}
+
+.practice-review{margin:16px 0}.practice-review li{margin:8px 0}.practice-gap{margin-top:18px}#essayArchive .archive .subcard{white-space:pre-wrap;overflow-wrap:anywhere}

@@ -1,0 +1,666 @@
+{
+  "id": "t2-42",
+  "type": "大作文",
+  "title": "食物浪费的原因与解决办法（R04·个人练习）",
+  "group": "环境与动物",
+  "question": "In many countries, large quantities of food are thrown away. Why does this happen, and what can be done to reduce food waste?",
+  "logic": "▪ 引言：概括食物浪费现象，提出供应过剩和过量购买两条主因。▪ 原因链一：生产配送效率提高→供应超过实际需求或高估节日需求→易腐食品滞销→丢弃。▪ 原因链二：促销和丰盛宴席的社会期待→购买/准备过多→未及时食用→浪费。▪ 企业措施：管理库存/改善预测；对仍可安全食用的剩余食品合理折价或捐赠。▪ 政府和个人：监测浪费并宣传；规划采购、适当储存和利用剩饭剩菜。▪ 结尾：概括商业端与家庭端问题，强调针对两个原因的协同行动。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Large quantities of edible food are discarded worldwide every day. Two major causes are the mismatch between food supply and actual demand and the tendency of consumers to buy more than they need. Addressing this problem requires coordinated action from businesses, governments and individuals.",
+      "cn": "世界各地每天都有大量可食用的食物被丢弃。两个主要原因是食品供应与实际需求不匹配，以及消费者倾向于购买超过所需数量的食物。解决这一问题，需要企业、政府和个人采取协调一致的行动。",
+      "clozes": [
+        {
+          "start": 88,
+          "end": 108,
+          "answer": "the mismatch between"
+        },
+        {
+          "start": 230,
+          "end": 253,
+          "answer": "coordinated action from"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One major cause is excessive food supply. Modern production and distribution systems allow large quantities of food to reach shops at relatively low prices. However, retailers may overestimate demand, particularly before major holidays, leaving perishable products unsold. Since fresh food has a limited shelf life, some of this stock may eventually be discarded. Another contributing factor is unnecessary purchasing. Convenient shopping and promotional offers can encourage consumers to buy more than they can eat, while social expectations surrounding generous meals may reinforce this behaviour. Consequently, food that is still edible may go to waste.",
+      "cn": "一个主要原因是食品供应过量。现代生产和配送体系使大量食物能够以相对较低的价格进入商店。然而，零售商可能高估需求，尤其是在重大节日前，从而使易腐食品滞销。由于新鲜食品的保质期有限，其中部分库存最终可能被丢弃。另一个促成因素是不必要的购买。便捷的购物和促销活动可能鼓励消费者购买超过其食用能力的数量，而围绕丰盛宴席的社会期待可能进一步强化这种行为。因此，仍可食用的食物也可能被浪费。",
+      "clozes": [
+        {
+          "start": 180,
+          "end": 199,
+          "answer": "overestimate demand"
+        },
+        {
+          "start": 245,
+          "end": 264,
+          "answer": "perishable products"
+        },
+        {
+          "start": 294,
+          "end": 314,
+          "answer": "a limited shelf life"
+        },
+        {
+          "start": 395,
+          "end": 417,
+          "answer": "unnecessary purchasing"
+        },
+        {
+          "start": 644,
+          "end": 655,
+          "answer": "go to waste"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Reducing this waste requires action at different stages of the food supply chain. Producers and retailers could improve demand forecasting and offer discounts on surplus products that are approaching their use-by dates but remain safe to eat. Suitable unsold food could also be donated to food banks instead of being discarded. Governments could introduce requirements for large retailers to track and report food waste, while funding public campaigns on meal planning and proper food storage. At the household level, consumers should avoid unnecessary bulk purchases and make better use of leftovers. Together, these measures would address both commercial oversupply and wasteful consumption.",
+      "cn": "减少这种浪费，需要在食品供应链的不同环节采取行动。生产商和零售商可以改善需求预测，并对临近食用期限但仍可安全食用的剩余产品提供折扣。适合捐赠的未售出食品还可以捐给食物银行，而不是被丢弃。政府可以要求大型零售商追踪并报告食物浪费情况，同时资助有关膳食规划和正确储存食物的公众宣传活动。在家庭层面，消费者应避免不必要的大量购买，并更充分地利用剩饭剩菜。这些措施结合起来，能够同时应对商业端供应过剩和浪费性的消费。",
+      "clozes": [
+        {
+          "start": 112,
+          "end": 138,
+          "answer": "improve demand forecasting"
+        },
+        {
+          "start": 188,
+          "end": 218,
+          "answer": "approaching their use-by dates"
+        },
+        {
+          "start": 278,
+          "end": 299,
+          "answer": "donated to food banks"
+        },
+        {
+          "start": 392,
+          "end": 408,
+          "answer": "track and report"
+        },
+        {
+          "start": 541,
+          "end": 567,
+          "answer": "unnecessary bulk purchases"
+        },
+        {
+          "start": 572,
+          "end": 600,
+          "answer": "make better use of leftovers"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, food waste is driven largely by poor supply management and excessive purchasing. Better business practices, targeted policies and more responsible household habits could substantially reduce the amount of edible food discarded.",
+      "cn": "总之，食物浪费主要源于供应管理不善和过度购买。更好的企业经营方式、有针对性的政策，以及更负责任的家庭习惯，可以大幅减少被丢弃的可食用食物数量。",
+      "clozes": [
+        {
+          "start": 47,
+          "end": 69,
+          "answer": "poor supply management"
+        },
+        {
+          "start": 123,
+          "end": 140,
+          "answer": "targeted policies"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Large quantities of food are thrown away every day in many countries. This problem can largely be attributed to an oversupply of food and wasteful purchasing habits. This essay will examine these causes and suggest possible measures involving food businesses, governments and individuals.",
+      "cn": "许多国家每天都有大量食物被扔掉。这一问题主要可归因于食物供应过剩和浪费性的购买习惯。本文将分析这些原因，并提出涉及食品企业、政府和个人的可行措施。",
+      "clozes": [
+        {
+          "start": 83,
+          "end": 111,
+          "answer": "can largely be attributed to"
+        },
+        {
+          "start": 138,
+          "end": 164,
+          "answer": "wasteful purchasing habits"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One major cause of food waste is that modern production systems allow businesses to supply large quantities of food at relatively low prices. However, when food supply exceeds actual demand, products with a short shelf life may remain unsold and eventually be discarded. For example, supermarkets may stock extra fresh food before major holidays such as Christmas, only to throw away some of it afterwards. Another cause is that consumers often purchase more food than they actually need. Advertising and promotional offers can encourage unnecessary purchases, while social expectations surrounding generous meals may lead people to prepare excessive amounts of food. As a result, much of this surplus food eventually goes to waste.",
+      "cn": "食物浪费的一个主要原因是，现代生产体系使企业能够以相对较低的价格供应大量食品。然而，当食品供应超过实际需求时，保质期较短的产品可能无法售出，最终被丢弃。例如，超市可能在圣诞节等重大节日前额外储备新鲜食品，结果却在节后丢掉其中一部分。另一个原因是，消费者经常购买超过实际需要的食物。广告和促销活动可能鼓励不必要的购买，而围绕丰盛宴席的社会期待也可能让人们准备过量食物。因此，其中许多剩余食品最终被浪费。",
+      "clozes": [
+        {
+          "start": 168,
+          "end": 189,
+          "answer": "exceeds actual demand"
+        },
+        {
+          "start": 205,
+          "end": 223,
+          "answer": "a short shelf life"
+        },
+        {
+          "start": 365,
+          "end": 372,
+          "answer": "only to"
+        },
+        {
+          "start": 567,
+          "end": 586,
+          "answer": "social expectations"
+        },
+        {
+          "start": 718,
+          "end": 731,
+          "answer": "goes to waste"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Several measures could help reduce this problem. Firstly, food producers and retailers could offer discounts on surplus products that are still safe to eat. This would reduce waste while making food more affordable for low-income families. Businesses could also donate suitable surplus food to those in need. Secondly, governments could require large retailers to monitor food waste. They could also invest in public awareness campaigns promoting responsible consumption. Finally, individuals should plan their purchases carefully, avoid buying unnecessary quantities and make better use of leftovers. These measures would be more effective if businesses, governments and households worked together.",
+      "cn": "若干措施有助于减少这一问题。首先，食品生产商和零售商可以对仍可安全食用的剩余产品提供折扣。这既能减少浪费，也能让低收入家庭更负担得起食物。企业还可以把适合捐赠的剩余食品捐给有需要的人。其次，政府可以要求大型零售商监测食物浪费。政府也可以投资公众宣传活动，倡导负责任的消费。最后，个人应认真规划采购，避免购买不必要的数量，并更充分地利用剩饭剩菜。如果企业、政府和家庭共同努力，这些措施就会更加有效。",
+      "clozes": [
+        {
+          "start": 112,
+          "end": 128,
+          "answer": "surplus products"
+        },
+        {
+          "start": 138,
+          "end": 155,
+          "answer": "still safe to eat"
+        },
+        {
+          "start": 199,
+          "end": 218,
+          "answer": "more affordable for"
+        },
+        {
+          "start": 410,
+          "end": 436,
+          "answer": "public awareness campaigns"
+        },
+        {
+          "start": 500,
+          "end": 530,
+          "answer": "plan their purchases carefully"
+        },
+        {
+          "start": 572,
+          "end": 600,
+          "answer": "make better use of leftovers"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, excessive food supply and irresponsible purchasing habits are two important causes of food waste. Coordinated efforts to improve stock management and encourage more responsible consumption could considerably reduce the amount of food thrown away.",
+      "cn": "总之，食物供应过剩和不负责任的购买习惯，是食物浪费的两个重要原因。通过协同行动改善库存管理，并鼓励更负责任的消费，可以显著减少被丢弃的食物数量。",
+      "clozes": [
+        {
+          "start": 113,
+          "end": 132,
+          "answer": "Coordinated efforts"
+        },
+        {
+          "start": 144,
+          "end": 160,
+          "answer": "stock management"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "7marker": true,
+    "nine_complete": true,
+    "seven_complete": true
+  },
+  "vocab": [
+    {
+      "en": "an oversupply of food",
+      "zh": "食品供应过剩"
+    },
+    {
+      "en": "exceed actual demand",
+      "zh": "超过实际需求"
+    },
+    {
+      "en": "overestimate demand",
+      "zh": "高估市场需求"
+    },
+    {
+      "en": "perishable products",
+      "zh": "易腐食品"
+    },
+    {
+      "en": "a short shelf life",
+      "zh": "较短的保质期"
+    },
+    {
+      "en": "surplus food",
+      "zh": "剩余食品"
+    },
+    {
+      "en": "go to waste",
+      "zh": "被浪费掉"
+    },
+    {
+      "en": "wasteful purchasing habits",
+      "zh": "浪费性的购买习惯"
+    },
+    {
+      "en": "unnecessary bulk purchases",
+      "zh": "不必要的大量购买"
+    },
+    {
+      "en": "improve demand forecasting",
+      "zh": "改善需求预测"
+    },
+    {
+      "en": "donate surplus food to food banks",
+      "zh": "向食物银行捐赠剩余食品"
+    },
+    {
+      "en": "raise public awareness of food waste",
+      "zh": "提高公众对食物浪费的认识"
+    },
+    {
+      "en": "make better use of leftovers",
+      "zh": "更充分地利用剩饭剩菜"
+    },
+    {
+      "en": "reduce waste at its source",
+      "zh": "从源头减少浪费"
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "seven": "版本 A · 保留原意修正版",
+    "nine": "版本 B · Band 7.5 目标版"
+  },
+  "source_note": "来自用户上传的R04食物浪费批改材料。原稿练习估分5.5–6.0，非官方评分。题干根据批改主题重述，附件未提供原题逐字文字；不宣称官方回忆核验。A保留圣诞节、促销、低收入家庭及三方责任论点；为消除政府措施中的施事歧义，仅把一处句子拆为两句。B沿用材料中的完整目标参考。两版均含四段完整中译、挖空和新情境迁移。中文译文及五题答案为本次整理补充。版本B为Band 7.5学习目标参考，并非官方评分。",
+  "transfer": {
+    "seven": [
+      {
+        "id": "1",
+        "phrase": "can largely be attributed to",
+        "source_phrase": "can largely be attributed to",
+        "source_paragraph": 0,
+        "source": "Large quantities of food are thrown away every day in many countries. This problem can largely be attributed to an oversupply of food and wasteful purchasing habits. This essay will examine these causes and suggest possible measures involving food businesses, governments and individuals.",
+        "cn": "交通拥堵主要可以归因于不完善的公共交通和对私家车的依赖。",
+        "answer": "Traffic congestion can largely be attributed to inadequate public transport and dependence on private cars."
+      },
+      {
+        "id": "2",
+        "phrase": "an oversupply of",
+        "source_phrase": "an oversupply of",
+        "source_paragraph": 0,
+        "source": "Large quantities of food are thrown away every day in many countries. This problem can largely be attributed to an oversupply of food and wasteful purchasing habits. This essay will examine these causes and suggest possible measures involving food businesses, governments and individuals.",
+        "cn": "如果开发商高估人口增长，可能造成新公寓供应过剩。",
+        "answer": "If developers overestimate population growth, this may create an oversupply of new apartments."
+      },
+      {
+        "id": "3",
+        "phrase": "exceeds actual demand",
+        "source_phrase": "exceeds actual demand",
+        "source_paragraph": 1,
+        "source": "One major cause of food waste is that modern production systems allow businesses to supply large quantities of food at relatively low prices. However, when food supply exceeds actual demand, products with a short shelf life may remain unsold and eventually be discarded. For example, supermarkets may stock extra fresh food before major holidays such as Christmas, only to throw away some of it afterwards. Another cause is that consumers often purchase more food than they actually need. Advertising and promotional offers can encourage unnecessary purchases, while social expectations surrounding generous meals may lead people to prepare excessive amounts of food. As a result, much of this surplus food eventually goes to waste.",
+        "cn": "超过实际需求的电力供应可能难以高效储存。",
+        "answer": "Electricity supply that exceeds actual demand may be difficult to store efficiently."
+      },
+      {
+        "id": "4",
+        "phrase": "a short shelf life",
+        "source_phrase": "a short shelf life",
+        "source_paragraph": 1,
+        "source": "One major cause of food waste is that modern production systems allow businesses to supply large quantities of food at relatively low prices. However, when food supply exceeds actual demand, products with a short shelf life may remain unsold and eventually be discarded. For example, supermarkets may stock extra fresh food before major holidays such as Christmas, only to throw away some of it afterwards. Another cause is that consumers often purchase more food than they actually need. Advertising and promotional offers can encourage unnecessary purchases, while social expectations surrounding generous meals may lead people to prepare excessive amounts of food. As a result, much of this surplus food eventually goes to waste.",
+        "cn": "保质期较短的新鲜面包需要面包店更谨慎地管理库存。",
+        "answer": "Fresh bread with a short shelf life requires bakeries to manage stock more carefully."
+      },
+      {
+        "id": "5",
+        "phrase": "only to",
+        "source_phrase": "only to",
+        "source_paragraph": 1,
+        "source": "One major cause of food waste is that modern production systems allow businesses to supply large quantities of food at relatively low prices. However, when food supply exceeds actual demand, products with a short shelf life may remain unsold and eventually be discarded. For example, supermarkets may stock extra fresh food before major holidays such as Christmas, only to throw away some of it afterwards. Another cause is that consumers often purchase more food than they actually need. Advertising and promotional offers can encourage unnecessary purchases, while social expectations surrounding generous meals may lead people to prepare excessive amounts of food. As a result, much of this surplus food eventually goes to waste.",
+        "cn": "一些毕业生搬到大城市，结果却发现自己难以负担房租。",
+        "answer": "Some graduates move to large cities, only to find that they struggle to afford the rent."
+      },
+      {
+        "id": "6",
+        "phrase": "more affordable for",
+        "source_phrase": "more affordable for",
+        "source_paragraph": 2,
+        "source": "Several measures could help reduce this problem. Firstly, food producers and retailers could offer discounts on surplus products that are still safe to eat. This would reduce waste while making food more affordable for low-income families. Businesses could also donate suitable surplus food to those in need. Secondly, governments could require large retailers to monitor food waste. They could also invest in public awareness campaigns promoting responsible consumption. Finally, individuals should plan their purchases carefully, avoid buying unnecessary quantities and make better use of leftovers. These measures would be more effective if businesses, governments and households worked together.",
+        "cn": "学校食堂的补贴可以使学生更负担得起健康餐食。",
+        "answer": "Subsidies for school canteens can make healthy meals more affordable for students."
+      },
+      {
+        "id": "7",
+        "phrase": "public awareness campaigns",
+        "source_phrase": "public awareness campaigns",
+        "source_paragraph": 2,
+        "source": "Several measures could help reduce this problem. Firstly, food producers and retailers could offer discounts on surplus products that are still safe to eat. This would reduce waste while making food more affordable for low-income families. Businesses could also donate suitable surplus food to those in need. Secondly, governments could require large retailers to monitor food waste. They could also invest in public awareness campaigns promoting responsible consumption. Finally, individuals should plan their purchases carefully, avoid buying unnecessary quantities and make better use of leftovers. These measures would be more effective if businesses, governments and households worked together.",
+        "cn": "道路安全宣传活动可以提醒司机不要使用手机。",
+        "answer": "Public awareness campaigns on road safety can remind drivers not to use their phones."
+      },
+      {
+        "id": "8",
+        "phrase": "plan their purchases carefully",
+        "source_phrase": "plan their purchases carefully",
+        "source_paragraph": 2,
+        "source": "Several measures could help reduce this problem. Firstly, food producers and retailers could offer discounts on surplus products that are still safe to eat. This would reduce waste while making food more affordable for low-income families. Businesses could also donate suitable surplus food to those in need. Secondly, governments could require large retailers to monitor food waste. They could also invest in public awareness campaigns promoting responsible consumption. Finally, individuals should plan their purchases carefully, avoid buying unnecessary quantities and make better use of leftovers. These measures would be more effective if businesses, governments and households worked together.",
+        "cn": "消费者应该认真规划采购，而不是仅仅因为折扣就更换仍能使用的设备。",
+        "answer": "Consumers should plan their purchases carefully rather than replace usable devices simply because of a discount."
+      },
+      {
+        "id": "9",
+        "phrase": "make better use of leftovers",
+        "source_phrase": "make better use of leftovers",
+        "source_paragraph": 2,
+        "source": "Several measures could help reduce this problem. Firstly, food producers and retailers could offer discounts on surplus products that are still safe to eat. This would reduce waste while making food more affordable for low-income families. Businesses could also donate suitable surplus food to those in need. Secondly, governments could require large retailers to monitor food waste. They could also invest in public awareness campaigns promoting responsible consumption. Finally, individuals should plan their purchases carefully, avoid buying unnecessary quantities and make better use of leftovers. These measures would be more effective if businesses, governments and households worked together.",
+        "cn": "家庭可以把剩饭剩菜用来准备第二天的午餐，从而更充分地利用它们。",
+        "answer": "Households can make better use of leftovers by preparing lunch for the following day."
+      },
+      {
+        "id": "10",
+        "phrase": "worked together",
+        "source_phrase": "worked together",
+        "source_paragraph": 2,
+        "source": "Several measures could help reduce this problem. Firstly, food producers and retailers could offer discounts on surplus products that are still safe to eat. This would reduce waste while making food more affordable for low-income families. Businesses could also donate suitable surplus food to those in need. Secondly, governments could require large retailers to monitor food waste. They could also invest in public awareness campaigns promoting responsible consumption. Finally, individuals should plan their purchases carefully, avoid buying unnecessary quantities and make better use of leftovers. These measures would be more effective if businesses, governments and households worked together.",
+        "cn": "如果地方政府和居民共同努力，社区回收计划就会更加有效。",
+        "answer": "Community recycling schemes would be more effective if local authorities and residents worked together."
+      }
+    ],
+    "nine": [
+      {
+        "id": "1",
+        "phrase": "the mismatch between",
+        "source_phrase": "the mismatch between",
+        "source_paragraph": 0,
+        "source": "Large quantities of edible food are discarded worldwide every day. Two major causes are the mismatch between food supply and actual demand and the tendency of consumers to buy more than they need. Addressing this problem requires coordinated action from businesses, governments and individuals.",
+        "cn": "培训项目应该解决毕业生技能与雇主需求之间的不匹配。",
+        "answer": "Training programmes should address the mismatch between graduates' skills and employers' needs."
+      },
+      {
+        "id": "2",
+        "phrase": "coordinated action from",
+        "source_phrase": "coordinated action from",
+        "source_paragraph": 0,
+        "source": "Large quantities of edible food are discarded worldwide every day. Two major causes are the mismatch between food supply and actual demand and the tendency of consumers to buy more than they need. Addressing this problem requires coordinated action from businesses, governments and individuals.",
+        "cn": "减少空气污染需要政府、企业和居民采取协调一致的行动。",
+        "answer": "Reducing air pollution requires coordinated action from governments, businesses and residents."
+      },
+      {
+        "id": "3",
+        "phrase": "overestimate demand",
+        "source_phrase": "overestimate demand",
+        "source_paragraph": 1,
+        "source": "One major cause is excessive food supply. Modern production and distribution systems allow large quantities of food to reach shops at relatively low prices. However, retailers may overestimate demand, particularly before major holidays, leaving perishable products unsold. Since fresh food has a limited shelf life, some of this stock may eventually be discarded. Another contributing factor is unnecessary purchasing. Convenient shopping and promotional offers can encourage consumers to buy more than they can eat, while social expectations surrounding generous meals may reinforce this behaviour. Consequently, food that is still edible may go to waste.",
+        "cn": "服装零售商如果高估需求，可能会留下大量未售出的冬季外套。",
+        "answer": "Clothing retailers that overestimate demand may be left with large quantities of unsold winter coats."
+      },
+      {
+        "id": "4",
+        "phrase": "a limited shelf life",
+        "source_phrase": "a limited shelf life",
+        "source_paragraph": 1,
+        "source": "One major cause is excessive food supply. Modern production and distribution systems allow large quantities of food to reach shops at relatively low prices. However, retailers may overestimate demand, particularly before major holidays, leaving perishable products unsold. Since fresh food has a limited shelf life, some of this stock may eventually be discarded. Another contributing factor is unnecessary purchasing. Convenient shopping and promotional offers can encourage consumers to buy more than they can eat, while social expectations surrounding generous meals may reinforce this behaviour. Consequently, food that is still edible may go to waste.",
+        "cn": "保质期有限的新鲜果汁不应因为大幅折扣而被过量购买。",
+        "answer": "Fresh juice with a limited shelf life should not be purchased in excessive quantities simply because of a large discount."
+      },
+      {
+        "id": "5",
+        "phrase": "unnecessary purchasing",
+        "source_phrase": "unnecessary purchasing",
+        "source_paragraph": 1,
+        "source": "One major cause is excessive food supply. Modern production and distribution systems allow large quantities of food to reach shops at relatively low prices. However, retailers may overestimate demand, particularly before major holidays, leaving perishable products unsold. Since fresh food has a limited shelf life, some of this stock may eventually be discarded. Another contributing factor is unnecessary purchasing. Convenient shopping and promotional offers can encourage consumers to buy more than they can eat, while social expectations surrounding generous meals may reinforce this behaviour. Consequently, food that is still edible may go to waste.",
+        "cn": "清楚地列出家庭已有物品可以帮助消费者减少不必要的购买。",
+        "answer": "Keeping a clear record of items already owned can help consumers reduce unnecessary purchasing."
+      },
+      {
+        "id": "6",
+        "phrase": "go to waste",
+        "source_phrase": "go to waste",
+        "source_paragraph": 1,
+        "source": "One major cause is excessive food supply. Modern production and distribution systems allow large quantities of food to reach shops at relatively low prices. However, retailers may overestimate demand, particularly before major holidays, leaving perishable products unsold. Since fresh food has a limited shelf life, some of this stock may eventually be discarded. Another contributing factor is unnecessary purchasing. Convenient shopping and promotional offers can encourage consumers to buy more than they can eat, while social expectations surrounding generous meals may reinforce this behaviour. Consequently, food that is still edible may go to waste.",
+        "cn": "维修漏水管道可以防止清洁用水白白浪费。",
+        "answer": "Repairing leaking pipes can prevent clean water from going to waste."
+      },
+      {
+        "id": "7",
+        "phrase": "improve demand forecasting",
+        "source_phrase": "improve demand forecasting",
+        "source_paragraph": 2,
+        "source": "Reducing this waste requires action at different stages of the food supply chain. Producers and retailers could improve demand forecasting and offer discounts on surplus products that are approaching their use-by dates but remain safe to eat. Suitable unsold food could also be donated to food banks instead of being discarded. Governments could introduce requirements for large retailers to track and report food waste, while funding public campaigns on meal planning and proper food storage. At the household level, consumers should avoid unnecessary bulk purchases and make better use of leftovers. Together, these measures would address both commercial oversupply and wasteful consumption.",
+        "cn": "玩具制造商可以通过改善需求预测来避免生产过多季节性产品。",
+        "answer": "Toy manufacturers can improve demand forecasting to avoid producing too many seasonal products."
+      },
+      {
+        "id": "8",
+        "phrase": "approaching their use-by dates",
+        "source_phrase": "approaching their use-by dates",
+        "source_paragraph": 2,
+        "source": "Reducing this waste requires action at different stages of the food supply chain. Producers and retailers could improve demand forecasting and offer discounts on surplus products that are approaching their use-by dates but remain safe to eat. Suitable unsold food could also be donated to food banks instead of being discarded. Governments could introduce requirements for large retailers to track and report food waste, while funding public campaigns on meal planning and proper food storage. At the household level, consumers should avoid unnecessary bulk purchases and make better use of leftovers. Together, these measures would address both commercial oversupply and wasteful consumption.",
+        "cn": "医院应该经常检查临近使用期限的药品。",
+        "answer": "Hospitals should regularly check medicines that are approaching their use-by dates."
+      },
+      {
+        "id": "9",
+        "phrase": "instead of being discarded",
+        "source_phrase": "instead of being discarded",
+        "source_paragraph": 2,
+        "source": "Reducing this waste requires action at different stages of the food supply chain. Producers and retailers could improve demand forecasting and offer discounts on surplus products that are approaching their use-by dates but remain safe to eat. Suitable unsold food could also be donated to food banks instead of being discarded. Governments could introduce requirements for large retailers to track and report food waste, while funding public campaigns on meal planning and proper food storage. At the household level, consumers should avoid unnecessary bulk purchases and make better use of leftovers. Together, these measures would address both commercial oversupply and wasteful consumption.",
+        "cn": "旧电脑可以被维修并捐给学校，而不是被丢弃。",
+        "answer": "Old computers could be repaired and donated to schools instead of being discarded."
+      },
+      {
+        "id": "10",
+        "phrase": "track and report",
+        "source_phrase": "track and report",
+        "source_paragraph": 2,
+        "source": "Reducing this waste requires action at different stages of the food supply chain. Producers and retailers could improve demand forecasting and offer discounts on surplus products that are approaching their use-by dates but remain safe to eat. Suitable unsold food could also be donated to food banks instead of being discarded. Governments could introduce requirements for large retailers to track and report food waste, while funding public campaigns on meal planning and proper food storage. At the household level, consumers should avoid unnecessary bulk purchases and make better use of leftovers. Together, these measures would address both commercial oversupply and wasteful consumption.",
+        "cn": "医院可以追踪并报告未使用药品的数量，以发现采购中的问题。",
+        "answer": "Hospitals can track and report the amount of unused medicine to identify problems in purchasing."
+      },
+      {
+        "id": "11",
+        "phrase": "make better use of leftovers",
+        "source_phrase": "make better use of leftovers",
+        "source_paragraph": 2,
+        "source": "Reducing this waste requires action at different stages of the food supply chain. Producers and retailers could improve demand forecasting and offer discounts on surplus products that are approaching their use-by dates but remain safe to eat. Suitable unsold food could also be donated to food banks instead of being discarded. Governments could introduce requirements for large retailers to track and report food waste, while funding public campaigns on meal planning and proper food storage. At the household level, consumers should avoid unnecessary bulk purchases and make better use of leftovers. Together, these measures would address both commercial oversupply and wasteful consumption.",
+        "cn": "烹饪课程可以教年轻人如何在保证食品安全的同时更充分地利用剩饭剩菜。",
+        "answer": "Cooking classes can teach young people to make better use of leftovers while maintaining food safety."
+      },
+      {
+        "id": "12",
+        "phrase": "address both",
+        "source_phrase": "address both",
+        "source_paragraph": 2,
+        "source": "Reducing this waste requires action at different stages of the food supply chain. Producers and retailers could improve demand forecasting and offer discounts on surplus products that are approaching their use-by dates but remain safe to eat. Suitable unsold food could also be donated to food banks instead of being discarded. Governments could introduce requirements for large retailers to track and report food waste, while funding public campaigns on meal planning and proper food storage. At the household level, consumers should avoid unnecessary bulk purchases and make better use of leftovers. Together, these measures would address both commercial oversupply and wasteful consumption.",
+        "cn": "有效的托育政策应同时解决可负担性和服务质量问题。",
+        "answer": "Effective childcare policies should address both affordability and service quality."
+      }
+    ]
+  },
+  "review": {
+    "practice_estimate": "5.5–6.0（非官方）",
+    "original_complete": false,
+    "complete_feedback": "这篇 **Task 2｜R04：食物浪费的原因与解决办法**，你的整体论证框架是正确的，而且你已经能主动从**生产端、消费端以及政府、企业、个人三个责任主体**分析问题。\n\n特别值得保留的是你的核心思路：\n\n- **原因 1：** 食品生产与供应能力提高，但市场需求预测不准确，容易造成过量供应。\n- **原因 2：** 消费者受到广告、促销和消费习惯的影响，购买超过实际需求的食物。\n- **措施：** 企业减少库存浪费，政府完善监管和宣传，个人建立理性的购买习惯。\n\n不过，想要达到 Band 7.5 以上，这篇作文最需要解决的是：**因果链的准确性、措施的具体程度，以及基础语法与词汇搭配的稳定性。**\n\n我会继续按照我们固定的六步批改流程，尽量保留你的原意。\n\n# **一、整体评分与诊断**\n\n当前原稿 · 非官方预估\n\n# **Band 5.5–6.0**\n\n本次优化目标\n\n# **7.5+**\n\n| **评分维度**             | **预估**  | **主要问题**                                                   |\n| -------------------- | ------- | ---------------------------------------------------------- |\n| Task Response        | 6.0     | 原因和措施都切题，但措施过于笼统，部分因果关系不够准确。                               |\n| Coherence & Cohesion | 6.0     | 段落分工清楚，但个别句子缺少主语，连接关系不完整。                                  |\n| Lexical Resource     | 5.5     | 反复出现词性误用及不自然搭配，如 measurements、food produce、commuting food。 |\n| Grammar              | 5.0–5.5 | 主谓一致、被动语态、分词结构、冠词和句子完整性问题较多。                               |\n\n评分用于诊断当前训练稿，并非正式雅思考试分数。\n\n## **最需要纠正的三个论证问题**\n\n**1. 生产能力提高，不等于食物浪费必然增加。**\n\n你的原始逻辑是：\n\n> Higher productivity → more food production → food waste.\n\n这里缺少重要的机制。现代食品生产效率提高本身不是坏事，真正的问题是**供应数量超过实际需求，而且部分食品保质期较短**。\n\n更严谨的论证链应该是：\n\nHigher food production capacity\n\nSupply exceeds actual demand\n\nUnsold perishable food\n\nMore edible food is discarded\n\n**2. 促销活动既可能减少浪费，也可能增加浪费。**\n\n你在 Body 1 讨论过量购买，但在 Body 2 又建议企业通过促销减少浪费。两者并不必然矛盾，不过需要明确区分：\n\n- 鼓励消费者大量购买不需要的商品，可能造成家庭食物浪费。\n- 对即将到期但仍可安全食用的食品进行合理折价，可以减少零售端浪费。\n\n这是一处非常值得训练的 **Band 7.5+ 条件限定能力**。\n\n**3. 政府措施需要具体说明如何减少浪费。**\n\n你提出 *governmental restrictions*，但没有说明政府究竟限制什么。\n\n与其笼统写“限制浪费行为”，不如写：\n\n> Governments could require large supermarkets to monitor and report food waste.\n\n也就是要求大型超市监测并报告食物浪费情况，从而推动库存和资源管理改进。\n\n这比泛泛强调公众责任更具体、更有说服力。\n\n# **二、逐段修改：具体错误、搭配与语法**\n\n## **P1｜Introduction**\n\n你的原文：\n\n> In many countries, the phenomenon of food wasting is growing significant and ignited a broad debate nowadays. This waste can be attributed to the increasing productivity and an unhealthy consuming habit. This essay will examine the causes and discuss the potential measurements based on governmental restrictions, producers’ movement and individual habits.\n\n### **主要错误**\n\n| 原表达                            | 问题                  | 推荐表达                                   |\n| ------------------------------ | ------------------- | -------------------------------------- |\n| the phenomenon of food wasting | 名词搭配不自然             | the problem of food waste              |\n| is growing significant         | 不能这样表达“越来越严重”       | is becoming increasingly serious       |\n| ignited a broad debate         | 时态不统一，且不必要          | 直接删除                                   |\n| the increasing productivity    | 过于笼统                | growing food production capacity       |\n| an unhealthy consuming habit   | unhealthy 强调健康，不是浪费 | wasteful purchasing habits             |\n| potential measurements         | 词义错误                | possible measures                      |\n| governmental restrictions      | 不够具体                | government regulations                 |\n| producers' movement            | movement 不表示企业采取的措施 | action by food producers and retailers |\n\n### **重点：measure 和 measurement 的区别**\n\n这两个词你之前也容易混淆，建议重点记忆。\n\n- **measures**：措施、行动。\n- **measurements**：测量结果、尺寸或数量。\n\n例如：\n\n> Governments should introduce effective measures to reduce food waste.\n\n而在科研写作中：\n\n> Accurate measurements are essential for scientific research.\n\n这两个词不能互换。\n\n### **P1 推荐修改**\n\n> Large quantities of food are thrown away every day in many countries. This problem is largely caused by excessive food supply and wasteful purchasing habits. Addressing it requires coordinated action from food businesses, governments and individuals.\n\n这一版比原文更直接，而且准确对应题目的两个问题。\n\n## **P2｜Body 1：食物浪费的原因**\n\n### **1. 中心句**\n\n你的原句：\n\n> Many people saw a heavy food waste these days, citing the improvement of productivity and consuming ability, and an unhealthy consuming habit.\n\n主要问题：\n\n- *saw a heavy food waste*：搭配错误。\n- *consuming ability*：不适合表达消费者购买能力或消费水平。\n- *unhealthy consuming habit*：应使用 *wasteful consumption habits*，但本题中 *purchasing habits* 更准确。\n\n推荐：\n\n> **Food waste is largely driven by an oversupply of food and the tendency of consumers to purchase more than they need.**\n\n这里的 **be driven by** 非常适合原因分析题，表示“主要受……驱动”。\n\n### **2. Reason 1｜生产与供应过剩**\n\n你的原句：\n\n> Living in a rapidly developing age, the productivity is greater with the help of advanced infrastructure and producing system.\n\n这是典型的悬垂分词问题。\n\n*Living in a rapidly developing age* 的逻辑主语应该是人，但你的主句主语是 *the productivity*，相当于说“生产力生活在快速发展的时代”。\n\n更自然的写法：\n\n> Advances in production technology and distribution systems have made it possible to supply food more efficiently and at lower costs.\n\n重点记住：\n\n**make it possible to do something**\n\n例如：\n\n- make it possible to produce food more efficiently\n- make it possible to access online education\n- make it possible to reduce operating costs\n\n下一句：\n\n> In that sense, food produce can be more efficient and effective and people can purchase much food in a reasonable price.\n\n主要搭配问题：\n\n| 原表达                     | 推荐表达                         |\n| ----------------------- | ---------------------------- |\n| food produce            | food production              |\n| efficient and effective | more efficient               |\n| purchase much food      | buy large quantities of food |\n| in a reasonable price   | at a reasonable price        |\n\n注意：\n\n**at a reasonable price**\n\n不能写 *in a reasonable price*。\n\n### **3. 供应过剩如何导致浪费？**\n\n你的原句：\n\n> However, the effective producing can easily lead to product overload especially for food in a short service date.\n\n这里最值得记住的表达是：\n\n**a short shelf life：保质期较短。**\n\n其他修改：\n\n- *effective producing* → efficient food production\n- *product overload* → oversupply / excess stock\n- *short service date* → short shelf life\n\n推荐：\n\n> **However, when food supply exceeds actual demand, unsold products with a short shelf life may eventually be discarded.**\n\n这句话可以直接迁移到环境与经济类作文。\n\n### **4. 圣诞节的例子**\n\n你的原句：\n\n> For example, a large amount of food is produced before holidays like Christmas Day, while a part of them without being purchased were thrown away directly after the holidays.\n\n这句同时存在代词、时态、非谓语与被动语态问题。\n\n推荐：\n\n> **For example, supermarkets may stock extra fresh food before major holidays such as Christmas, only to discard some of it when demand falls afterwards.**\n\n其中有一个很好的结果结构：\n\n**only to + 动词原形**\n\n表示“结果却……”，通常体现出乎预料或不理想的结果。\n\n例如：\n\n> Retailers may order large quantities of fresh produce, only to find that much of it remains unsold.\n\n这里必须注意：这种表达是在说明可能发生的情况，不意味着所有超市都会在节后丢弃剩余食品。\n\n### **5. Reason 2｜过度购买**\n\n你的原句：\n\n> Meanwhile, many people having an unhealthy consuming habits may purchase more food than they actually need, resulting in a large waste at last.\n\n问题：\n\n- *many people having*：这里可以直接使用 *consumers who have*。\n- *an unhealthy consuming habits*：冠词与复数不一致。\n- *resulting in a large waste*：不自然。\n\n推荐：\n\n> **Meanwhile, many consumers purchase more food than they can actually eat, causing edible products to go to waste.**\n\n这里值得背诵：\n\n**go to waste：被浪费掉。**\n\n> Much of the food eventually goes to waste.\n\n### **6. 广告与消费行为**\n\n你的原句：\n\n> Especially under a world full of advertising, may encourage this kind of excessive consuming habits.\n\n这句话缺少主语。\n\n推荐：\n\n> **Advertising and promotional offers may encourage unnecessary purchases, particularly when consumers are tempted by bulk discounts.**\n\n接下来你又提到：\n\n> many advertisements connect the ability to consume abundant food with wealth and the moralities, like hospitality.\n\n其中 *moralities* 不适合这里，*hospitality* 表示热情好客。\n\n你这个论点可以保留，但建议把广告和社会习惯分开：\n\n> **Social expectations surrounding generous meals may also encourage people to prepare more food than they need.**\n\n这比声称“广告普遍把多买食品等同于财富和道德”更稳妥。\n\n### **Body 1 最终逻辑**\n\n**Reason 1｜Oversupply**\n\nHigh production capacity → inaccurate demand forecasting → unsold perishable food → waste\n\n**Reason 2｜Excessive purchasing**\n\nConvenient shopping + promotions + social expectations → unnecessary purchases → food remains unused → waste\n\n## **P3｜Body 2：减少食物浪费的措施**\n\n你的这一段最值得保留的是三方责任框架。不过要让每个措施都能直接对应一个原因。\n\n### **1. 中心句**\n\n原句：\n\n> There are several measurements can be applied to reduce food waste.\n\n这里存在两个问题：\n\n- *measurements* 词义错误。\n- *There are several measures can...* 出现两个谓语结构，缺少定语从句。\n\n推荐：\n\n> **Reducing food waste requires practical measures from businesses, governments and individuals.**\n\n简洁，也直接概括了后面的三个主体。\n\n### **2. Solution 1｜生产商和零售商**\n\n原句：\n\n> Firstly, for food producers, they can prompt promotional activities to improve the use of food.\n\n这里的 *prompt promotional activities* 不自然。\n\n- **promote**：推广、促进。\n- **promotion**：促销活动。\n- **prompt**：促使某事发生。\n\n推荐：\n\n> **Food producers and retailers could offer discounts on surplus products that are still safe to eat.**\n\n但这只是措施。还要解释如何产生作用：\n\n> This would encourage consumers to purchase existing stock before it is discarded.\n\n你原来的低收入家庭论点可以保留：\n\n> **Such discounts could also make food more affordable for low-income families.**\n\n不过，我建议把它放在次要位置，因为题目主要考查减少浪费，不是解决贫困。\n\n这里还有一个更直接的办法：\n\n**donate surplus food to food banks**\n\n将可安全食用的剩余食品捐赠给食物银行。\n\n这能够同时减少食物浪费，并帮助有需要的人。\n\n### **3. Solution 2｜政府监管与宣传**\n\n原句：\n\n> Second, government should publish reasonable restrictions to reduce wasting movements, like limitation the standard of commuting food and investment of public advertisement to prompt the public awareness of saving food.\n\n这句话需要较大幅度的语言调整。\n\n| 原表达                                    | 推荐表达                                    |\n| -------------------------------------- | --------------------------------------- |\n| government should publish restrictions | governments could introduce regulations |\n| wasting movements                      | wasteful practices                      |\n| limitation the standard                | set clear standards / require reporting |\n| commuting food                         | 含义不明确，无法据此确定你原本想表达的措施                   |\n| investment of public advertisement     | invest in public awareness campaigns    |\n| prompt the public awareness            | raise public awareness                  |\n\n这里最适合你的两个政府措施是：\n\n> **Governments could require large food retailers to monitor and report the amount of food they discard.**\n\n> **They could also fund public awareness campaigns to encourage more responsible food purchasing and storage habits.**\n\n特别记忆：\n\n**raise public awareness of + 名词**\n\n例如：\n\n- raise public awareness of food waste\n- raise public awareness of environmental protection\n- raise public awareness of healthy eating\n\n### **4. Solution 3｜个人责任**\n\n你的原句：\n\n> On the top of that, individuals should take their responsibility to save food and reduce waste.\n\n正确搭配是：\n\n- On top of that\n- take responsibility for doing something\n\n推荐：\n\n> **Finally, individuals should take responsibility for reducing household waste by planning their purchases and avoiding unnecessary shopping.**\n\n下一句：\n\n> However, with the efforts from producers and governments, I believe it better for individuals shape their healthy consuming habits.\n\n这里缺少 *is* 和 *to*，而且前面的 *However* 没有真正表达转折。\n\n推荐：\n\n> **These wider efforts would be more effective if individuals also developed responsible purchasing habits.**\n\n这个句子可以作为段落收束，因为它强调不同主体的措施如何共同发挥作用。\n\n## **P4｜Conclusion**\n\n你的原文：\n\n> In conclusion, the food waste has become an urgent problem and everyone should pay attention to it. To address this problem, the governmental restrictions, producers’ movements and personal awareness should be implement together, and then less food will be wasted in the future.\n\n主要问题：\n\n- **the food waste**：泛指时不需要 *the*。\n- **everyone should pay attention to it**：比较空泛。\n- **producers' movements**：搭配错误。\n- **should be implement**：应为 *should be implemented*。\n- **less food will be wasted**：表达可以，但结论缺乏概括性。\n\n另外，结尾不需要机械重复“政府、企业、个人”所有措施。\n\n推荐：\n\n> **In conclusion, food waste is largely caused by excess supply and unnecessary purchases. Better stock management, targeted government policies and more responsible consumption habits could substantially reduce the amount of edible food discarded.**\n\n这版既回答了原因，也回答了措施，适合原因与解决方案题型。\n\n# **三、两版完整优化作文**\n\n## **版本 A｜尽量保留你原意的修正版**\n\n这一版保留你的圣诞节例子、广告与消费习惯、低收入家庭，以及政府—企业—个人三个层面的措施。\n\nLarge quantities of food are thrown away every day in many countries. This problem can largely be attributed to an oversupply of food and wasteful purchasing habits. This essay will examine these causes and suggest possible measures involving food businesses, governments and individuals.\n\nOne major cause of food waste is that modern production systems allow businesses to supply large quantities of food at relatively low prices. However, when food supply exceeds actual demand, products with a short shelf life may remain unsold and eventually be discarded. For example, supermarkets may stock extra fresh food before major holidays such as Christmas, only to throw away some of it afterwards. Another cause is that consumers often purchase more food than they actually need. Advertising and promotional offers can encourage unnecessary purchases, while social expectations surrounding generous meals may lead people to prepare excessive amounts of food. As a result, much of this surplus food eventually goes to waste.\n\nSeveral measures could help reduce this problem. Firstly, food producers and retailers could offer discounts on surplus products that are still safe to eat. This would reduce waste while making food more affordable for low-income families. Businesses could also donate suitable surplus food to those in need. Secondly, governments could introduce regulations requiring large retailers to monitor food waste and invest in public awareness campaigns promoting responsible consumption. Finally, individuals should plan their purchases carefully, avoid buying unnecessary quantities and make better use of leftovers. These measures would be more effective if businesses, governments and households worked together.\n\nIn conclusion, excessive food supply and irresponsible purchasing habits are two important causes of food waste. Coordinated efforts to improve stock management and encourage more responsible consumption could considerably reduce the amount of food thrown away.\n\n## **版本 B｜更接近 Band 7.5–8 的优化版**\n\n这一版的重点是让论证更精确，减少重复表达，并让每项措施对应明确的原因。\n\nLarge quantities of edible food are discarded worldwide every day. Two major causes are the mismatch between food supply and actual demand and the tendency of consumers to buy more than they need. Addressing this problem requires coordinated action from businesses, governments and individuals.\n\nOne major cause is excessive food supply. Modern production and distribution systems allow large quantities of food to reach shops at relatively low prices. However, retailers may overestimate demand, particularly before major holidays, leaving perishable products unsold. Since fresh food has a limited shelf life, some of this stock may eventually be discarded. Another contributing factor is unnecessary purchasing. Convenient shopping and promotional offers can encourage consumers to buy more than they can eat, while social expectations surrounding generous meals may reinforce this behaviour. Consequently, food that is still edible may go to waste.\n\nReducing this waste requires action at different stages of the food supply chain. Producers and retailers could improve demand forecasting and offer discounts on surplus products that are approaching their use-by dates but remain safe to eat. Suitable unsold food could also be donated to food banks instead of being discarded. Governments could introduce requirements for large retailers to track and report food waste, while funding public campaigns on meal planning and proper food storage. At the household level, consumers should avoid unnecessary bulk purchases and make better use of leftovers. Together, these measures would address both commercial oversupply and wasteful consumption.\n\nIn conclusion, food waste is driven largely by poor supply management and excessive purchasing. Better business practices, targeted policies and more responsible household habits could substantially reduce the amount of edible food discarded.\n\n### **为什么版本 B 更接近 Band 7.5+？**\n\n| 维度               | 具体提升                                                                  |\n| ---------------- | --------------------------------------------------------------------- |\n| Task Response    | 供应过剩和消费过量两个原因明确，三个主体的措施与原因相对应                                         |\n| Coherence        | 供应 → 滞销 → 丢弃；购买过量 → 无法消耗 → 浪费，两条因果链完整                                 |\n| Lexical Resource | 使用 *demand forecasting*、*perishable products*、*surplus food* 等准确的主题搭配 |\n| Grammar          | 减少不完整句子，合理使用定语从句、条件结构和分词短语                                            |\n| 简洁程度             | 删除重复强调“浪费很严重”的空泛句，把篇幅用于解释机制                                           |\n\n这里有一个需要记住的原则：**Band 7.5 并不要求所有句子都很长，而是要求表达准确、组织清晰、论点发展充分。**\n\n# **四、本篇最值得积累的高频表达**\n\n## **Food Waste｜重点搭配素材库**\n\n建议优先记忆加粗部分，并尝试迁移到环境、消费、政府责任和资源管理题目。\n\n| **英文搭配**                             | **中文含义**     |\n| ------------------------------------ | ------------ |\n| an oversupply of food                | 食品供应过剩       |\n| exceed actual demand                 | 超过实际需求       |\n| overestimate demand                  | 高估市场需求       |\n| perishable products                  | 易腐食品         |\n| a short shelf life                   | 较短的保质期       |\n| surplus food                         | 剩余食品         |\n| go to waste                          | 被浪费掉         |\n| wasteful purchasing habits           | 浪费性的购买习惯     |\n| unnecessary bulk purchases           | 不必要的大量购买     |\n| improve demand forecasting           | 改善需求预测       |\n| donate surplus food to food banks    | 向食物银行捐赠剩余食品  |\n| raise public awareness of food waste | 提高公众对食物浪费的认识 |\n| make better use of leftovers         | 更充分地利用剩饭剩菜   |\n| reduce waste at its source           | 从源头减少浪费      |\n\n## **五、你本次最需要回收的语法知识点**\n\n| 知识点    | 错误表达                                                           | 正确结构                                       |\n| ------ | -------------------------------------------------------------- | ------------------------------------------ |\n| 主谓一致   | government should                                              | governments should / the government should |\n| 被动语态   | food is throw away                                             | food is thrown away                        |\n| 情态动词   | can be applied / should be implement                           | can be applied / should be implemented     |\n| 冠词与单复数 | an unhealthy consuming habits                                  | wasteful purchasing habits                 |\n| 介词     | in a reasonable price                                          | at a reasonable price                      |\n| 句子完整性  | Especially under a world full of advertising, may encourage... | Advertising may encourage...               |\n| 名词与动词  | food produce                                                   | food production                            |\n| 词性     | a cost-effectiveness way                                       | a cost-effective way                       |\n| 固定搭配   | On the top of that                                             | On top of that                             |\n| 名词辨析   | measurements to reduce waste                                   | measures to reduce waste                   |\n\n你这篇作文中最明显的反复错误依然是：**想表达一个复杂因果关系时，容易出现缺少主语、谓语形式错误或词性搭配不准确。**\n\n所以，我建议下一轮优先练习完整句子的准确输出，而不是增加更多高级词汇。\n\n# **六、本次针对性巩固练习**\n\n先独立输入英文，再展开答案。重点训练你刚刚出错的结构。\n\n1\\. 食品供应超过实际需求时，一些易腐食品可能被丢弃。\n\n提示：exceed actual demand / perishable products\n\n查看参考答案\n\n2\\. 广告和促销活动可能鼓励消费者购买超过实际需要的食品。\n\n提示：encourage somebody to do something\n\n查看参考答案\n\n3\\. 零售商应该改善需求预测，减少未售出食品的数量。\n\n提示：improve demand forecasting\n\n查看参考答案\n\n4\\. 政府可以采取有效措施，提高公众对食物浪费的认识。\n\n提示：measures / raise public awareness of\n\n查看参考答案\n\n5\\. 个人应该为减少家庭食物浪费承担责任。\n\n提示：take responsibility for + V-ing\n\n查看参考答案\n\n清空并重新练习\n\n## **七、今天的批改总结**\n\n这篇作文有两个特别值得保留的进步。\n\n第一，你能够从**生产和消费两个不同环节**解释环境问题，而不是只把食物浪费归咎于消费者缺乏环保意识。\n\n第二，你已经有意识地引入**企业、政府和个人的共同责任**，这是一套很有迁移价值的原因与措施题框架。\n\n接下来最需要提升的是把这套思路写得更具体：企业如何减少供应过剩，政府如何改善管理，消费者如何避免过度购买。\n\n**本次建议重点背诵的五个表达是：** `exceed actual demand`、`a short shelf life`、`go to waste`、`improve demand forecasting` 和 `take responsibility for doing something`。\n\n只要能够在下一篇作文中准确、主动地使用这些搭配，你的进步就不只是获得一篇修改后的高分范文，而是真正提高了独立写作能力。",
+    "source_sha256": "dcf5d10901092b95c3e83f6081e8b4e860e15bbf78b7cdfd8ea5811ed28113ac",
+    "source_models": {
+      "A": "Large quantities of food are thrown away every day in many countries. This problem can largely be attributed to an oversupply of food and wasteful purchasing habits. This essay will examine these causes and suggest possible measures involving food businesses, governments and individuals.\n\nOne major cause of food waste is that modern production systems allow businesses to supply large quantities of food at relatively low prices. However, when food supply exceeds actual demand, products with a short shelf life may remain unsold and eventually be discarded. For example, supermarkets may stock extra fresh food before major holidays such as Christmas, only to throw away some of it afterwards. Another cause is that consumers often purchase more food than they actually need. Advertising and promotional offers can encourage unnecessary purchases, while social expectations surrounding generous meals may lead people to prepare excessive amounts of food. As a result, much of this surplus food eventually goes to waste.\n\nSeveral measures could help reduce this problem. Firstly, food producers and retailers could offer discounts on surplus products that are still safe to eat. This would reduce waste while making food more affordable for low-income families. Businesses could also donate suitable surplus food to those in need. Secondly, governments could introduce regulations requiring large retailers to monitor food waste and invest in public awareness campaigns promoting responsible consumption. Finally, individuals should plan their purchases carefully, avoid buying unnecessary quantities and make better use of leftovers. These measures would be more effective if businesses, governments and households worked together.\n\nIn conclusion, excessive food supply and irresponsible purchasing habits are two important causes of food waste. Coordinated efforts to improve stock management and encourage more responsible consumption could considerably reduce the amount of food thrown away.",
+      "B": "Large quantities of edible food are discarded worldwide every day. Two major causes are the mismatch between food supply and actual demand and the tendency of consumers to buy more than they need. Addressing this problem requires coordinated action from businesses, governments and individuals.\n\nOne major cause is excessive food supply. Modern production and distribution systems allow large quantities of food to reach shops at relatively low prices. However, retailers may overestimate demand, particularly before major holidays, leaving perishable products unsold. Since fresh food has a limited shelf life, some of this stock may eventually be discarded. Another contributing factor is unnecessary purchasing. Convenient shopping and promotional offers can encourage consumers to buy more than they can eat, while social expectations surrounding generous meals may reinforce this behaviour. Consequently, food that is still edible may go to waste.\n\nReducing this waste requires action at different stages of the food supply chain. Producers and retailers could improve demand forecasting and offer discounts on surplus products that are approaching their use-by dates but remain safe to eat. Suitable unsold food could also be donated to food banks instead of being discarded. Governments could introduce requirements for large retailers to track and report food waste, while funding public campaigns on meal planning and proper food storage. At the household level, consumers should avoid unnecessary bulk purchases and make better use of leftovers. Together, these measures would address both commercial oversupply and wasteful consumption.\n\nIn conclusion, food waste is driven largely by poor supply management and excessive purchasing. Better business practices, targeted policies and more responsible household habits could substantially reduce the amount of edible food discarded."
+    }
+  },
+  "practice": {
+    "diagnosis": "原稿有生产端—消费端的原因分析，以及企业—政府—个人三方责任框架；重点修复因果链、具体措施、主语/被动/词性与搭配。",
+    "score_dimensions": [
+      {
+        "name": "Task Response",
+        "estimate": "6.0",
+        "note": "原因与措施切题，但需要更完整机制和具体行动。"
+      },
+      {
+        "name": "Coherence & Cohesion",
+        "estimate": "6.0",
+        "note": "段落分工清楚，部分连接和句子完整性需改进。"
+      },
+      {
+        "name": "Lexical Resource",
+        "estimate": "5.5",
+        "note": "measures/measurements、production、shelf life等词义与搭配需稳定。"
+      },
+      {
+        "name": "Grammar",
+        "estimate": "5.0–5.5",
+        "note": "被动语态、分词逻辑主语、冠词和完整主句需加强。"
+      }
+    ],
+    "notes": [
+      "生产效率提高本身不必然造成浪费：需要补齐供应超过实际需求→易腐食品滞销→被丢弃的机制。",
+      "区分鼓励额外大量购买的促销与对仍可安全食用的临期库存进行折价，避免原因和措施相互矛盾。",
+      "政府措施应说明具体机制：监测/报告浪费、资助膳食规划和储存宣传，而非笼统的restrictions。",
+      "政府的单数名词通常需要限定词：the government should；或使用governments should。这不是should后的主谓一致错误。",
+      "can be applied本身是正确的情态动词被动结构；a cost-effectiveness way等仅作为材料中的训练对照，不冒称完整原稿原句。"
+    ],
+    "errors": [
+      {
+        "id": "e01",
+        "wrong": "the phenomenon of food wasting",
+        "correct": "the problem of food waste",
+        "explanation": "T2-42 / R04：名词搭配：泛指食物浪费通常用food waste。",
+        "example": "Food waste is a problem that requires action throughout the supply chain."
+      },
+      {
+        "id": "e02",
+        "wrong": "is growing significant",
+        "correct": "is becoming increasingly serious",
+        "explanation": "T2-42 / R04：形容问题日益严重：become increasingly serious。",
+        "example": "The problem of food waste is becoming increasingly serious."
+      },
+      {
+        "id": "e03",
+        "wrong": "potential measurements",
+        "correct": "possible measures",
+        "explanation": "T2-42 / R04：measures表示措施；measurements表示测量结果或尺寸，不能互换。",
+        "example": "Governments could introduce effective measures to reduce waste."
+      },
+      {
+        "id": "e04",
+        "wrong": "producers’ movement",
+        "correct": "action by food producers and retailers",
+        "explanation": "T2-42 / R04：movement不能直接表示企业采取的措施。",
+        "example": "Reducing waste requires action by food producers and retailers."
+      },
+      {
+        "id": "e05",
+        "wrong": "an unhealthy consuming habits",
+        "correct": "wasteful purchasing habits",
+        "explanation": "T2-42 / R04：an不能修饰复数habits；本题应强调购买浪费而非饮食不健康。",
+        "example": "Promotions can reinforce wasteful purchasing habits."
+      },
+      {
+        "id": "e06",
+        "wrong": "in a reasonable price",
+        "correct": "at a reasonable price",
+        "explanation": "T2-42 / R04：价格搭配使用at，不用in。",
+        "example": "Efficient distribution can make fresh food available at a reasonable price."
+      },
+      {
+        "id": "e07",
+        "wrong": "food produce can be more efficient",
+        "correct": "food production can be more efficient",
+        "explanation": "T2-42 / R04：此处需要名词production表示生产过程；fresh produce可以是农产品名词，但不适合原句含义。",
+        "example": "Food production can be more efficient with better technology."
+      },
+      {
+        "id": "e08",
+        "wrong": "food in a short service date",
+        "correct": "food with a short shelf life",
+        "explanation": "T2-42 / R04：食品的保质期用shelf life，不是service date。",
+        "example": "Retailers need to manage food with a short shelf life carefully."
+      },
+      {
+        "id": "e09",
+        "wrong": "There are several measurements can be applied to reduce food waste.",
+        "correct": "Several measures could be applied to reduce food waste.",
+        "explanation": "T2-42 / R04：measurements改measures；there are之后不能直接接第二个限定谓语can，亦可写There are several measures that could be applied…。",
+        "example": "Several measures could be applied to reduce food waste."
+      },
+      {
+        "id": "e10",
+        "wrong": "On the top of that",
+        "correct": "On top of that",
+        "explanation": "T2-42 / R04：固定连接表达不加the。",
+        "example": "On top of that, households should make better use of leftovers."
+      },
+      {
+        "id": "e11",
+        "wrong": "take their responsibility to save food",
+        "correct": "take responsibility for reducing food waste",
+        "explanation": "T2-42 / R04：固定结构：take responsibility for +名词/动名词。",
+        "example": "Individuals should take responsibility for reducing household food waste."
+      },
+      {
+        "id": "e12",
+        "wrong": "should be implement together",
+        "correct": "should be implemented together",
+        "explanation": "T2-42 / R04：情态动词被动：should be +过去分词；implemented不能用原形。",
+        "example": "These measures should be implemented together."
+      },
+      {
+        "id": "e13",
+        "wrong": "Especially under a world full of advertising, may encourage this kind of excessive consuming habits.",
+        "correct": "Advertising and promotional offers may encourage unnecessary purchases.",
+        "explanation": "T2-42 / R04：原句缺少明确主语；用Advertising and promotional offers作为完整名词主语。",
+        "example": "Advertising and promotional offers may encourage unnecessary purchases."
+      }
+    ],
+    "drills": [
+      {
+        "id": "1",
+        "cn": "食品供应超过实际需求时，一些易腐食品可能被丢弃。",
+        "hint": "exceed actual demand / perishable products",
+        "answer": "When food supply exceeds actual demand, some perishable products may be discarded.",
+        "explanation": "when引导条件/时间情境；products为复数，使用may be discarded被动结构。"
+      },
+      {
+        "id": "2",
+        "cn": "广告和促销活动可能鼓励消费者购买超过实际需要的食品。",
+        "hint": "encourage somebody to do something",
+        "answer": "Advertising and promotional offers may encourage consumers to buy more food than they actually need.",
+        "explanation": "主语Advertising and promotional offers完整；encourage后接宾语和to不定式。"
+      },
+      {
+        "id": "3",
+        "cn": "零售商应该改善需求预测，减少未售出食品的数量。",
+        "hint": "improve demand forecasting",
+        "answer": "Retailers should improve demand forecasting to reduce the amount of food that remains unsold.",
+        "explanation": "should后用动词原形；food不可数，使用the amount of food；that从句修饰food。"
+      },
+      {
+        "id": "4",
+        "cn": "政府可以采取有效措施，提高公众对食物浪费的认识。",
+        "hint": "measures / raise public awareness of",
+        "answer": "Governments can introduce effective measures to raise public awareness of food waste.",
+        "explanation": "措施是measures；to raise表达目的；awareness of后接名词。"
+      },
+      {
+        "id": "5",
+        "cn": "个人应该为减少家庭食物浪费承担责任。",
+        "hint": "take responsibility for + V-ing",
+        "answer": "Individuals should take responsibility for reducing household food waste.",
+        "explanation": "介词for后接动名词reducing，不能写take responsibility to reduce。"
+      }
+    ]
+  },
+  "edition_summary": "双版本 · 原意修正版 / Band 7.5目标版"
+}
