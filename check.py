@@ -122,6 +122,31 @@ for example in sentences.get("case_study", []) + [example for lesson in sentence
 if len(lesson_ids) != 8 or len(sentences.get("case_study", [])) != 4:
     problems.append("sentence-training: 应包含8个单元和4个流程图导读例句")
 
+# The editable grammar source must stay identical to the standalone offline page.
+import re
+grammar = load("data/grammar-review.json") or {}
+try:
+    html = open(os.path.join(ROOT, "grammar-review.html"), encoding="utf-8").read()
+    embedded = json.loads(re.search(r'<script id="grammarData" type="application/json">(.*?)</script>', html, re.S).group(1))
+    if embedded != grammar:
+        problems.append("grammar-review: HTML内嵌内容与JSON源数据不同步")
+except Exception as e:
+    problems.append(f"grammar-review: 无法读取内嵌数据（{e}）")
+grammar_ids = set()
+if len(grammar.get("lessons", [])) != 12:
+    problems.append("grammar-review: 应包含12专题")
+for lesson in grammar.get("lessons", []):
+    if len(lesson.get("exercises", [])) != 9:
+        problems.append("grammar-review: 每专题应包含9题")
+    for q in lesson.get("exercises", []):
+        if not q.get("id") or q["id"] in grammar_ids:
+            problems.append("grammar-review: 练习ID缺失或重复")
+        grammar_ids.add(q.get("id"))
+        if not all(q.get(k) for k in ("prompt", "answer")):
+            problems.append("grammar-review: 题干或答案缺失")
+        if q.get("type") == "gap" and not q.get("accepted"):
+            problems.append("grammar-review: 填空缺少可接受答案")
+
 if problems:
     print("❌ 有 %d 个问题：" % len(problems))
     for p in problems:

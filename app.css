@@ -71,3 +71,5 @@
 @media(max-width:480px){#sentenceCatalog{grid-template-columns:minmax(0,1fr)}.sentence-table-wrap{max-width:100%}.sentence-example{padding:12px}}
 
 .practice-review{margin:16px 0}.practice-review li{margin:8px 0}.practice-gap{margin-top:18px}#essayArchive .archive .subcard{white-space:pre-wrap;overflow-wrap:anywhere}
+
+#grammarReviewFrame{display:block;width:100%;min-height:820px;border:1px solid #d9e5dc;border-radius:14px}#grammarReviewPanel,#sentenceOriginalPanel{min-width:0}[hidden]{display:none!important}

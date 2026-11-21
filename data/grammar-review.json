@@ -1,0 +1,1191 @@
+{
+  "title": "IELTS Writing Lab｜复核句型训练",
+  "version": "1.4.0",
+  "based_on": "用户过往 IELTS Academic Task 1/Task 2 作文中的真实错误与批改记录",
+  "lessons": [
+    {
+      "id": "sentence",
+      "title": "句子完整性与句子连接",
+      "priority": "P1",
+      "frequency": "反复出现",
+      "note": "任何完整句至少要有主语和限定谓语。Because/Although/While 从句不能单独承担完整论证；两个独立句不能只用逗号连接。",
+      "wrong": "People supporting small-class learning mainly because it’s benefits. / There are several measures can be applied.",
+      "right": "People support small-class learning because it offers personalised guidance. / Several measures can be introduced.",
+      "patterns": [
+        "主语 + 谓语 + 宾语/补足语",
+        "Because + 原因从句, + 主句",
+        "两完整句：句号 / 分号 / 连词",
+        "There are several measures that can be introduced."
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "People ___ small classes because they offer more individual attention.",
+          "accepted": [
+            "support"
+          ],
+          "answer": "support",
+          "explanation": "",
+          "id": "sentence-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "Several measures ___ be introduced to reduce food waste.",
+          "accepted": [
+            "can",
+            "could"
+          ],
+          "answer": "can",
+          "explanation": "",
+          "id": "sentence-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "___ digital reading is convenient, printed books still serve a purpose.",
+          "accepted": [
+            "although",
+            "while"
+          ],
+          "answer": "Although",
+          "explanation": "",
+          "id": "sentence-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "Governments should address this issue ___ it affects local communities.",
+          "accepted": [
+            "because",
+            "as",
+            "since"
+          ],
+          "answer": "because",
+          "explanation": "",
+          "id": "sentence-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "People supporting small classes mainly because its benefits.",
+          "accepted": [],
+          "answer": "People support small classes mainly because of their benefits.",
+          "explanation": "补上主句限定谓语；because of 后接名词。",
+          "id": "sentence-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "I believe AI is useful, it may also create risks.",
+          "accepted": [],
+          "answer": "I believe AI is useful, but it may also create risks.",
+          "explanation": "不能只用逗号连接两个独立句。",
+          "id": "sentence-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "小班教学有优势，但是它并不是语言学习成功的必要条件。",
+          "accepted": [],
+          "answer": "Small classes offer benefits, but they are not essential to successful language learning.",
+          "explanation": "两个完整分句以 but 连接。",
+          "id": "sentence-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "虽然数字阅读很方便，纸质书仍然有自己的作用。",
+          "accepted": [],
+          "answer": "Although digital reading is convenient, printed books still serve a purpose.",
+          "explanation": "Although 引导完整让步从句。",
+          "id": "sentence-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "用两句话解释为什么博物馆应定期更新展览，包含“因为”和“结果”。",
+          "accepted": [],
+          "answer": "Museums should update their exhibitions regularly because local residents may find familiar attractions less interesting. As a result, fresh displays can give them a reason to return.",
+          "explanation": "检查完整主谓与因果衔接。",
+          "id": "sentence-09"
+        }
+      ]
+    },
+    {
+      "id": "agreement",
+      "title": "主谓一致与动词时态",
+      "priority": "P1",
+      "frequency": "反复出现",
+      "note": "单数不可数名词作主语通常搭配单数谓语（tourism, information, online reading）；复数主语用复数谓语；根据 Task 1 的历史/预测时间选择时态。",
+      "wrong": "Tourism generate income. / Online reading have the benefits. / AI drive learning more accessible.",
+      "right": "Tourism generates income. / Online reading has benefits. / AI has made learning more accessible.",
+      "patterns": [
+        "单数主语 + does / has / is",
+        "复数主语 + do / have / are",
+        "过去年份的数据：rose / fell / remained",
+        "过去的预测数据：was predicted to / was expected to"
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Tourism ___ income for local communities.",
+          "accepted": [
+            "generates"
+          ],
+          "answer": "generates",
+          "explanation": "",
+          "id": "agreement-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "Online reading ___ become increasingly popular.",
+          "accepted": [
+            "has"
+          ],
+          "answer": "has",
+          "explanation": "",
+          "id": "agreement-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "Large crowds ___ additional pressure on public facilities.",
+          "accepted": [
+            "place"
+          ],
+          "answer": "place",
+          "explanation": "",
+          "id": "agreement-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "In 1976, the employment rate for men ___ from 70% to approximately 92%.",
+          "accepted": [
+            "rose",
+            "increased"
+          ],
+          "answer": "rose",
+          "explanation": "",
+          "id": "agreement-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "Inadequate recycling infrastructure prevent waste from being recycled.",
+          "accepted": [],
+          "answer": "Inadequate recycling infrastructure prevents waste from being recycled.",
+          "explanation": "infrastructure 作为整体通常不可数，搭配单数谓语。",
+          "id": "agreement-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "The number of tourists have risen since 2010.",
+          "accepted": [],
+          "answer": "The number of tourists has risen since 2010.",
+          "explanation": "the number of + 复数名词：主语核心是 number，谓语单数。",
+          "id": "agreement-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "规律运动有助于缓解压力并改善睡眠质量。",
+          "accepted": [],
+          "answer": "Regular exercise helps relieve stress and improve sleep quality.",
+          "explanation": "exercise 此处是不可数名词，谓语用 helps。",
+          "id": "agreement-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "在2011年，女性就业率先上升，随后下降。",
+          "accepted": [],
+          "answer": "In 2011, the employment rate for women rose initially and then declined.",
+          "explanation": "使用过去时描述过去数据。",
+          "id": "agreement-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "写两句分别描述2010—2017年游客人数的变化和AI对当前学习的影响。",
+          "accepted": [],
+          "answer": "Between 2010 and 2017, the total number of visitors increased substantially. Today, AI-powered tools provide learners with immediate feedback.",
+          "explanation": "注意 Task 1 过去时和社会现象一般现在时。",
+          "id": "agreement-09"
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "title": "情态动词、被动语态与过去分词",
+      "priority": "P1",
+      "frequency": "反复出现",
+      "note": "can/may/should + 动词原形；被动语态为 be + 过去分词。动词词形错误会直接影响语法准确性。",
+      "wrong": "can keeps body healthier / students can learning / food is throw away / should be implement",
+      "right": "can help maintain a healthy weight / students can learn / food is thrown away / should be implemented",
+      "patterns": [
+        "can + V原形",
+        "should be + 过去分词",
+        "may be + 过去分词",
+        "dispose of → be disposed of"
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Regular exercise can ___ people maintain a healthy weight.",
+          "accepted": [
+            "help"
+          ],
+          "answer": "help",
+          "explanation": "",
+          "id": "modals-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "These measures should be ___ by local governments.",
+          "accepted": [
+            "implemented",
+            "introduced"
+          ],
+          "answer": "implemented",
+          "explanation": "",
+          "id": "modals-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "Unsold perishable food may be ___ after major holidays.",
+          "accepted": [
+            "discarded",
+            "thrown away"
+          ],
+          "answer": "discarded",
+          "explanation": "",
+          "id": "modals-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "Household waste is often ___ of rather than recycled.",
+          "accepted": [
+            "disposed"
+          ],
+          "answer": "disposed",
+          "explanation": "",
+          "id": "modals-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "People can benefits from a balanced diet.",
+          "accepted": [],
+          "answer": "People can benefit from a balanced diet.",
+          "explanation": "can 后接动词原形。",
+          "id": "modals-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "Much edible food is throw away every day.",
+          "accepted": [],
+          "answer": "Much edible food is thrown away every day.",
+          "explanation": "被动语态：is + thrown。",
+          "id": "modals-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "这些风险可以通过适当的监管得到缓解。",
+          "accepted": [],
+          "answer": "These risks can be mitigated through appropriate regulation.",
+          "explanation": "can be + 过去分词。",
+          "id": "modals-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "政府应该采取有效措施来减少食物浪费。",
+          "accepted": [],
+          "answer": "Governments should introduce effective measures to reduce food waste.",
+          "explanation": "should + V 原形。",
+          "id": "modals-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "写两句：第一句使用 should，第二句使用 can be + 过去分词，讨论回收。",
+          "accepted": [],
+          "answer": "Governments should provide convenient recycling facilities. More household waste can then be recycled instead of being discarded.",
+          "explanation": "两种不同谓语结构。",
+          "id": "modals-09"
+        }
+      ]
+    },
+    {
+      "id": "verbpatterns",
+      "title": "动词固定结构：to do 与 doing",
+      "priority": "P1",
+      "frequency": "反复出现",
+      "note": "最容易出错的结构：encourage sb to do；prevent sb from doing；avoid doing；be used to doing；devote time to doing；take responsibility for doing。",
+      "wrong": "encourage residents take part / be used to check / devote to learn / take responsibility to save food",
+      "right": "encourage residents to take part / be used to checking / devote time to learning / take responsibility for reducing food waste",
+      "patterns": [
+        "encourage + sb + to do",
+        "be used to + V-ing",
+        "devote + time/energy + to + V-ing",
+        "take responsibility for + V-ing"
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Museums should encourage local residents ___ visit more often.",
+          "accepted": [
+            "to"
+          ],
+          "answer": "to",
+          "explanation": "",
+          "id": "verbpatterns-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "Students are used to ___ their phones every morning.",
+          "accepted": [
+            "checking"
+          ],
+          "answer": "checking",
+          "explanation": "",
+          "id": "verbpatterns-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "Many learners devote time to ___ their speaking skills.",
+          "accepted": [
+            "improving",
+            "developing"
+          ],
+          "answer": "improving",
+          "explanation": "",
+          "id": "verbpatterns-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "Individuals should take responsibility for ___ food waste.",
+          "accepted": [
+            "reducing"
+          ],
+          "answer": "reducing",
+          "explanation": "",
+          "id": "verbpatterns-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "Governments should prevent companies to waste edible food.",
+          "accepted": [],
+          "answer": "Governments should prevent companies from wasting edible food.",
+          "explanation": "prevent sb from doing。",
+          "id": "verbpatterns-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "People should avoid to buy more food than they need.",
+          "accepted": [],
+          "answer": "People should avoid buying more food than they need.",
+          "explanation": "avoid doing 而非 avoid to do。",
+          "id": "verbpatterns-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "定期更新的展览可以鼓励居民再次参观。",
+          "accepted": [],
+          "answer": "Regularly changing exhibitions can encourage residents to visit again.",
+          "explanation": "encourage sb to do。",
+          "id": "verbpatterns-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "许多学生已经习惯使用AI获取答案。",
+          "accepted": [],
+          "answer": "Many students are used to using AI to obtain answers.",
+          "explanation": "be used to + doing。",
+          "id": "verbpatterns-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "使用 devote...to doing 和 take responsibility for doing 写两句说明学习者的责任。",
+          "accepted": [],
+          "answer": "Students should devote time to practising a foreign language regularly. They also need to take responsibility for evaluating the accuracy of AI-generated information.",
+          "explanation": "介词 to、for 后接 V-ing。",
+          "id": "verbpatterns-09"
+        }
+      ]
+    },
+    {
+      "id": "articles",
+      "title": "冠词、可数与不可数名词",
+      "priority": "P1",
+      "frequency": "反复出现",
+      "note": "表达“一种/一个”常需要 a/an；information, news, advice, waste, equipment, infrastructure 等通常不可数；people, students, skills, articles 等可数复数。",
+      "wrong": "maintain healthy weight / different culture / many news / a good command of foreign language",
+      "right": "maintain a healthy weight / different cultures / much news / a good command of a foreign language",
+      "patterns": [
+        "a healthy weight",
+        "a foreign language",
+        "much information / a piece of news",
+        "a wide range of skills",
+        "the number of visitors"
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "A healthy diet can help people maintain ___ healthy weight.",
+          "accepted": [
+            "a"
+          ],
+          "answer": "a",
+          "explanation": "",
+          "id": "articles-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "Students need a good command of ___ foreign language.",
+          "accepted": [
+            "a"
+          ],
+          "answer": "a",
+          "explanation": "",
+          "id": "articles-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "International tourism can help visitors understand different ___.",
+          "accepted": [
+            "cultures"
+          ],
+          "answer": "cultures",
+          "explanation": "",
+          "id": "articles-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "Many people read the latest ___ on their phones.",
+          "accepted": [
+            "news"
+          ],
+          "answer": "news",
+          "explanation": "",
+          "id": "articles-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "The informations from newspapers are more reliable.",
+          "accepted": [],
+          "answer": "The information from newspapers is more reliable.",
+          "explanation": "information 不可数，且主谓一致。",
+          "id": "articles-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "They should build more recycling infrastructures.",
+          "accepted": [],
+          "answer": "They should develop better recycling infrastructure.",
+          "explanation": "infrastructure 通常不可数。",
+          "id": "articles-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "高昂的学费可能阻碍来自低收入家庭的学生。",
+          "accepted": [],
+          "answer": "High tuition fees may discourage students from low-income backgrounds.",
+          "explanation": "fees 复数；backgrounds 复数。",
+          "id": "articles-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "规律运动有助于降低患糖尿病的风险。",
+          "accepted": [],
+          "answer": "Regular exercise can help reduce the risk of diabetes.",
+          "explanation": "the risk of + 疾病名词。",
+          "id": "articles-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "写两句分别包含 a healthy weight 和 information，注意冠词及主谓。",
+          "accepted": [],
+          "answer": "A balanced diet can help people maintain a healthy weight. Reliable information is also important when making health decisions.",
+          "explanation": "区分单数名词与不可数名词。",
+          "id": "articles-09"
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title": "介词与固定搭配",
+      "priority": "P1",
+      "frequency": "反复出现",
+      "note": "把词组作为整体记忆：at a reasonable price; benefit from; interested in; face difficulties / be faced with; familiar with; depend on; contribute to; access sth（动词）。",
+      "wrong": "in a reasonable price / face with difficulties / appeal tourists / access to better communication / benefit in broader ways",
+      "right": "at a reasonable price / face difficulties / attract tourists / have access to better communication / benefit from",
+      "patterns": [
+        "at a reasonable price",
+        "benefit from + 名词",
+        "face difficulties / be faced with difficulties",
+        "have access to sth / access sth",
+        "depend on sth"
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Consumers can buy fresh food ___ a reasonable price.",
+          "accepted": [
+            "at"
+          ],
+          "answer": "at",
+          "explanation": "",
+          "id": "prepositions-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "Students benefit ___ individual feedback.",
+          "accepted": [
+            "from"
+          ],
+          "answer": "from",
+          "explanation": "",
+          "id": "prepositions-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "The success of a business depends ___ market conditions.",
+          "accepted": [
+            "on"
+          ],
+          "answer": "on",
+          "explanation": "",
+          "id": "prepositions-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "Tourists may be interested ___ local customs.",
+          "accepted": [
+            "in"
+          ],
+          "answer": "in",
+          "explanation": "",
+          "id": "prepositions-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "Young people may face with financial difficulties.",
+          "accepted": [],
+          "answer": "Young people may face financial difficulties.",
+          "explanation": "face 是及物动词；或用 be faced with。",
+          "id": "prepositions-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "Digital services help rural students access to education.",
+          "accepted": [],
+          "answer": "Digital services help rural students access education.",
+          "explanation": "access 作动词直接接宾语。",
+          "id": "prepositions-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "高门票可能使居民不愿经常参观博物馆。",
+          "accepted": [],
+          "answer": "High admission fees may discourage residents from visiting museums regularly.",
+          "explanation": "discourage sb from doing。",
+          "id": "prepositions-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "游客对当地文化和传统更感兴趣。",
+          "accepted": [],
+          "answer": "Tourists are often more interested in local culture and traditions.",
+          "explanation": "interested in。",
+          "id": "prepositions-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "写两句，分别用 benefit from 和 depend on 讨论语言学习。",
+          "accepted": [],
+          "answer": "Learners can benefit from personalised feedback. However, long-term progress also depends on consistent practice.",
+          "explanation": "注意介词及句子逻辑。",
+          "id": "prepositions-09"
+        }
+      ]
+    },
+    {
+      "id": "parallel",
+      "title": "平行结构、比较级与数量词",
+      "priority": "P2",
+      "frequency": "多次出现",
+      "note": "比较对象必须同类、结构尽量平行；rather than、not only...but also 后形式对称；much 用于不可数、many 用于可数，fewer/less 区分数量。",
+      "wrong": "choose to buy a house rather than renting one / not only provide... also enhance / more affordable than physical books / reduce less pollution",
+      "right": "choose to buy a house rather than rent one / not only provide... but also enhance / more affordable than printed copies / reduce pollution",
+      "patterns": [
+        "choose to do A rather than do B",
+        "not only + V but also + V",
+        "more + 形容词 + than",
+        "fewer + 可数复数 / less + 不可数"
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Some people choose to buy a home rather than ___ one.",
+          "accepted": [
+            "rent"
+          ],
+          "answer": "rent",
+          "explanation": "",
+          "id": "parallel-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "Community events can not only attract visitors but also ___ local identity.",
+          "accepted": [
+            "strengthen",
+            "preserve"
+          ],
+          "answer": "strengthen",
+          "explanation": "",
+          "id": "parallel-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "E-books are often ___ affordable than printed copies.",
+          "accepted": [
+            "more"
+          ],
+          "answer": "more",
+          "explanation": "",
+          "id": "parallel-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "Better collection services could result in ___ household waste.",
+          "accepted": [
+            "less"
+          ],
+          "answer": "less",
+          "explanation": "",
+          "id": "parallel-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "Students can not only improve their vocabulary but also to develop confidence.",
+          "accepted": [],
+          "answer": "Students can not only improve their vocabulary but also develop confidence.",
+          "explanation": "动词并列：improve... develop...。",
+          "id": "parallel-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "There were less visitors in 2016 than in 2017.",
+          "accepted": [],
+          "answer": "There were fewer visitors in 2016 than in 2017.",
+          "explanation": "visitors 可数复数，使用 fewer。",
+          "id": "parallel-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "政府不仅需要改善公共交通，还需要确保无障碍出行。",
+          "accepted": [],
+          "answer": "Governments need not only to improve public transport but also to ensure accessible travel.",
+          "explanation": "不定式平行。",
+          "id": "parallel-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "一些人更喜欢在线阅读，而不是购买纸质书。",
+          "accepted": [],
+          "answer": "Some people prefer reading online to buying printed books.",
+          "explanation": "prefer doing A to doing B。",
+          "id": "parallel-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "使用 not only...but also... 和 rather than 写两句关于城市公共空间的论证。",
+          "accepted": [],
+          "answer": "Pedestrian-friendly areas can not only encourage exercise but also improve social interaction. Residents may choose to walk rather than drive for short journeys.",
+          "explanation": "保持并列成分形式一致。",
+          "id": "parallel-09"
+        }
+      ]
+    },
+    {
+      "id": "clauses",
+      "title": "定语从句、分词结构与悬垂修饰",
+      "priority": "P2",
+      "frequency": "多次出现",
+      "note": "which/that 从句必须依附完整主句；分词短语的逻辑主语通常应与主句主语一致。with + 名词 + V-ing 常用于补充说明。",
+      "wrong": "Foods containing sufficient protein, which can support growth. / Living in a rapidly developing age, the productivity is greater.",
+      "right": "Foods rich in protein can support growth. / Modern production systems have increased food output.",
+      "patterns": [
+        "名词 + which/that + 谓语",
+        "Having + 过去分词, + 同一逻辑主语",
+        "with + 名词 + V-ing",
+        "students who lack self-discipline"
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Students ___ lack self-discipline may benefit from closer supervision.",
+          "accepted": [
+            "who"
+          ],
+          "answer": "who",
+          "explanation": "",
+          "id": "clauses-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "The time saved can be redirected towards tasks ___ require human judgement.",
+          "accepted": [
+            "that",
+            "which"
+          ],
+          "answer": "that",
+          "explanation": "",
+          "id": "clauses-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "___ visited the sites before, residents may see little reason to return.",
+          "accepted": [
+            "having"
+          ],
+          "answer": "Having",
+          "explanation": "",
+          "id": "clauses-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "AI can support doctors by analysing clinical data, ___ improves efficiency.",
+          "accepted": [
+            "which"
+          ],
+          "answer": "which",
+          "explanation": "",
+          "id": "clauses-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "Foods rich in vitamins, which support normal bodily functions.",
+          "accepted": [],
+          "answer": "Foods rich in vitamins support normal bodily functions.",
+          "explanation": "原句只有名词短语+定语从句，没有完整主句。",
+          "id": "clauses-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "Living in a rapidly developing age, food production has become more efficient.",
+          "accepted": [],
+          "answer": "As technology develops, food production has become more efficient.",
+          "explanation": "food production 不能是 living 的主语。",
+          "id": "clauses-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "那些缺乏自律的学生可能需要更多指导。",
+          "accepted": [],
+          "answer": "Students who lack self-discipline may need more guidance.",
+          "explanation": "who 引导限定性定语从句。",
+          "id": "clauses-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "以前参观过这些景点的居民可能觉得没有必要再去。",
+          "accepted": [],
+          "answer": "Having visited these attractions before, residents may see little reason to return.",
+          "explanation": "现在分词完成式的逻辑主语是 residents。",
+          "id": "clauses-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "写两句：一处用 who/which 定语从句，一处用分词结构，讨论AI。",
+          "accepted": [],
+          "answer": "Students who rely excessively on AI may struggle to think independently. By providing immediate feedback, AI can also support individual learning.",
+          "explanation": "检查每一处主句是否完整。",
+          "id": "clauses-09"
+        }
+      ]
+    },
+    {
+      "id": "concessions",
+      "title": "让步、转折与结果衔接",
+      "priority": "P2",
+      "frequency": "反复出现",
+      "note": "although + 完整句；despite + 名词/V-ing；however 通常连接两个独立句，应有句号或分号；连接词必须反映真实逻辑。",
+      "wrong": "Despite small-class education can offer some benefits... / Nowadays..., however I do not... / While, historically...",
+      "right": "Although small classes offer benefits, ... / ... . However, I do not ... / Historically, ... . Nevertheless, ...",
+      "patterns": [
+        "Although + 句子, 主句",
+        "Despite + 名词/V-ing, 主句",
+        "句子. However, 句子.",
+        "As a result + 结果；In addition + 补充"
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "___ small classes offer benefits, they are not essential.",
+          "accepted": [
+            "although",
+            "while"
+          ],
+          "answer": "Although",
+          "explanation": "",
+          "id": "concessions-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "___ the benefits of digital media, printed books may remain popular.",
+          "accepted": [
+            "despite"
+          ],
+          "answer": "Despite",
+          "explanation": "",
+          "id": "concessions-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "AI can automate routine tasks. ___, it may displace some workers.",
+          "accepted": [
+            "however",
+            "nevertheless"
+          ],
+          "answer": "However",
+          "explanation": "",
+          "id": "concessions-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "Consumers often buy too much food. ___, edible food may go to waste.",
+          "accepted": [
+            "as a result",
+            "consequently"
+          ],
+          "answer": "As a result",
+          "explanation": "",
+          "id": "concessions-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "Despite AI can improve efficiency, there are risks.",
+          "accepted": [],
+          "answer": "Although AI can improve efficiency, there are risks.",
+          "explanation": "despite 不能直接接完整句。",
+          "id": "concessions-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "Online reading is convenient, however it cannot fully replace print.",
+          "accepted": [],
+          "answer": "Online reading is convenient. However, it cannot fully replace print.",
+          "explanation": "however 不能只靠逗号连接两个主句。",
+          "id": "concessions-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "尽管自主创业带来较大风险，它也可能提供更高的自主性。",
+          "accepted": [],
+          "answer": "Although self-employment involves greater risks, it may offer more autonomy.",
+          "explanation": "让步主从句。",
+          "id": "concessions-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "政府投入有限，因此公共服务应该得到优先保障。",
+          "accepted": [],
+          "answer": "Public funding is limited. Therefore, essential public services should receive priority.",
+          "explanation": "therefore 引出真正的结果。",
+          "id": "concessions-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "用 Although 和 Nevertheless 写两句论证国际旅游的利弊。",
+          "accepted": [],
+          "answer": "Although international tourism can place pressure on local communities, it also creates opportunities for cultural exchange. Nevertheless, appropriate management is necessary to reduce the risks.",
+          "explanation": "两句连接关系要清楚。",
+          "id": "concessions-09"
+        }
+      ]
+    },
+    {
+      "id": "wordform",
+      "title": "词性、近义词与形容词搭配",
+      "priority": "P2",
+      "frequency": "反复出现",
+      "note": "measure≠measurement；cost-effective（形容词）≠cost-effectiveness（名词）；effective（有效）≠efficient（高效）；production≠produce。",
+      "wrong": "potential measurements / a cost-effectiveness way / food produce / most efficient way to maintain health / sleeping quality",
+      "right": "possible measures / a cost-effective approach / food production / most effective way to maintain health / sleep quality",
+      "patterns": [
+        "introduce measures / take measurements",
+        "a cost-effective solution / improve cost-effectiveness",
+        "food production / fresh produce",
+        "effective measures / efficient processes"
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Governments should introduce practical ___ to reduce waste.",
+          "accepted": [
+            "measures"
+          ],
+          "answer": "measures",
+          "explanation": "",
+          "id": "wordform-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "AI-powered tools offer a cost-___ way to practise speaking.",
+          "accepted": [
+            "effective"
+          ],
+          "answer": "effective",
+          "explanation": "",
+          "id": "wordform-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "Modern food ___ can increase the supply of fresh products.",
+          "accepted": [
+            "production"
+          ],
+          "answer": "production",
+          "explanation": "",
+          "id": "wordform-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "Regular exercise is an ___ way to relieve stress.",
+          "accepted": [
+            "effective"
+          ],
+          "answer": "effective",
+          "explanation": "",
+          "id": "wordform-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "These measurements could raise public awareness.",
+          "accepted": [],
+          "answer": "These measures could raise public awareness.",
+          "explanation": "措施是 measures，测量是 measurements。",
+          "id": "wordform-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "Exercise can improve sleeping quality.",
+          "accepted": [],
+          "answer": "Exercise can improve sleep quality.",
+          "explanation": "固定名词搭配：sleep quality。",
+          "id": "wordform-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "高效的回收体系可以降低运营成本。",
+          "accepted": [],
+          "answer": "Efficient recycling systems can reduce operating costs.",
+          "explanation": "efficient 强调资源利用效率。",
+          "id": "wordform-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "需要采取有效措施保护文化遗产。",
+          "accepted": [],
+          "answer": "Effective measures are needed to protect cultural heritage.",
+          "explanation": "effective 强调实际效果。",
+          "id": "wordform-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "写两句比较effective和efficient在环保议题中的区别。",
+          "accepted": [],
+          "answer": "An effective recycling policy increases participation. An efficient recycling system processes materials with less time and fewer resources.",
+          "explanation": "明确“效果”和“资源效率”的区别。",
+          "id": "wordform-09"
+        }
+      ]
+    },
+    {
+      "id": "task1",
+      "title": "Task 1：时态、数据比较与指代",
+      "priority": "P2",
+      "frequency": "多次出现",
+      "note": "小作文只陈述图表事实；overview 概括主要特征，不列所有数字。比较对象要一致，百分比变化与百分点变化不同，避免误用 amount/number。",
+      "wrong": "the proportion growed / as age growing older / that for men were leading / the number of water use",
+      "right": "the proportion grew / as age increased / the figure for men remained higher / the amount of water used",
+      "patterns": [
+        "the figure for A was higher than that for B",
+        "rose from X to Y",
+        "increased by X percentage points",
+        "the proportion of ... / the number of ... / the amount of ..."
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "The employment rate for men ___ from 70% to approximately 92%.",
+          "accepted": [
+            "rose",
+            "increased"
+          ],
+          "answer": "rose",
+          "explanation": "",
+          "id": "task1-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "The proportion increased ___ 10 percentage points.",
+          "accepted": [
+            "by"
+          ],
+          "answer": "by",
+          "explanation": "",
+          "id": "task1-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "The figure for men was consistently higher than ___ for women.",
+          "accepted": [
+            "that"
+          ],
+          "answer": "that",
+          "explanation": "",
+          "id": "task1-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "The ___ of visitors rose to 3.5 million.",
+          "accepted": [
+            "number"
+          ],
+          "answer": "number",
+          "explanation": "",
+          "id": "task1-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "The percentage growed gradually between 1976 and 2011.",
+          "accepted": [],
+          "answer": "The percentage grew gradually between 1976 and 2011.",
+          "explanation": "grow 的过去式是 grew。",
+          "id": "task1-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "The number of household water increased sharply.",
+          "accepted": [],
+          "answer": "The amount of household water used increased sharply.",
+          "explanation": "water 不可数，用 amount。",
+          "id": "task1-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "到2017年，游客总数已增至350万。",
+          "accepted": [],
+          "answer": "By 2017, the total number of visitors had risen to 3.5 million.",
+          "explanation": "过去完成时可用于强调到过去某一时间点的变化。",
+          "id": "task1-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "2011年男性就业率始终高于女性。",
+          "accepted": [],
+          "answer": "In 2011, the employment rate for men remained higher than that for women.",
+          "explanation": "that 指代 employment rate。",
+          "id": "task1-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "写2句Overview，概括折线图中总人数上升且两类人群趋势不同；不要编造数字。",
+          "accepted": [],
+          "answer": "Overall, the total number of visitors increased considerably over the period. However, the two visitor groups followed different trends.",
+          "explanation": "Task 1 不解释原因、不增加未经图表支持的细节。",
+          "id": "task1-09"
+        }
+      ]
+    },
+    {
+      "id": "precision",
+      "title": "论证句准确性：限制、指代与过度绝对化",
+      "priority": "P3",
+      "frequency": "常见",
+      "note": "不宜把“可能”“在某些条件下”写成“一定”“所有”。避免 paper news must be reliable / AI replaces all teachers / fewer calories guarantee health 等不受证据支持的结论。",
+      "wrong": "printed information is always more reliable / only one way can’t guarantee people’s health / AI can do more excel jobs",
+      "right": "reputable print publications often provide edited reports / neither approach alone is sufficient for all aspects of health / AI can perform some hazardous tasks",
+      "patterns": [
+        "can / may / is likely to",
+        "not necessarily / not always",
+        "when properly managed",
+        "if part of the revenue is reinvested"
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "AI ___ help teachers provide individual feedback, but it cannot replace all their roles.",
+          "accepted": [
+            "can",
+            "may"
+          ],
+          "answer": "can",
+          "explanation": "",
+          "id": "precision-01"
+        },
+        {
+          "type": "gap",
+          "prompt": "Negative effects are not ___.",
+          "accepted": [
+            "inevitable"
+          ],
+          "answer": "inevitable",
+          "explanation": "",
+          "id": "precision-02"
+        },
+        {
+          "type": "gap",
+          "prompt": "Tourism can support cultural protection ___ revenue is reinvested locally.",
+          "accepted": [
+            "if",
+            "when",
+            "provided that"
+          ],
+          "answer": "if",
+          "explanation": "",
+          "id": "precision-03"
+        },
+        {
+          "type": "gap",
+          "prompt": "Printed publications are not ___ more reliable than digital journalism.",
+          "accepted": [
+            "necessarily",
+            "always"
+          ],
+          "answer": "necessarily",
+          "explanation": "",
+          "id": "precision-04"
+        },
+        {
+          "type": "correct",
+          "prompt": "All online information is unreliable, so printed newspapers are better.",
+          "accepted": [],
+          "answer": "Some unverified online information can be misleading, while reputable publications may provide carefully edited reports.",
+          "explanation": "避免 all / always 的未经支持判断。",
+          "id": "precision-05"
+        },
+        {
+          "type": "correct",
+          "prompt": "Healthy food completely prevents all chronic diseases.",
+          "accepted": [],
+          "answer": "A balanced diet can help reduce the risk of some chronic diseases.",
+          "explanation": "用 reduce the risk of 更审慎。",
+          "id": "precision-06"
+        },
+        {
+          "type": "translate",
+          "prompt": "如果合理管理，旅游的积极影响可能超过负面影响。",
+          "accepted": [],
+          "answer": "When managed responsibly, the benefits of tourism can outweigh its disadvantages.",
+          "explanation": "限制条件使论证更严谨。",
+          "id": "precision-07"
+        },
+        {
+          "type": "translate",
+          "prompt": "小班教学有帮助，但不是语言学习成功的必要条件。",
+          "accepted": [],
+          "answer": "Small classes can be beneficial, but they are not a prerequisite for successful language learning.",
+          "explanation": "not essential 与 makes no difference 不等同。",
+          "id": "precision-08"
+        },
+        {
+          "type": "mini",
+          "prompt": "写两句讨论AI影响工作，必须含 may 和 however，避免绝对判断。",
+          "accepted": [],
+          "answer": "AI may displace some workers in routine occupations. However, retraining programmes can help affected employees move into new roles.",
+          "explanation": "用限定表达支持可靠推论。",
+          "id": "precision-09"
+        }
+      ]
+    }
+  ]
+}

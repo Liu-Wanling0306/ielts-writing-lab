@@ -60,3 +60,11 @@ python3 -m http.server 8000 --bind 127.0.0.1
 新增T2-43至T2-51：选专业、公共服务与艺术、学术与生活技能、AI、自主就业、祖孙联系、城市道路空间、家庭垃圾及运动与饮食。每题A/B双版本完整训练，B版约280–310词。文档原稿与修订说明见作文档案；历史版本见CHANGELOG和网页版本Diff。
 
 批次回归：`IELTS_TEST_URL=http://127.0.0.1:8021 python3 tests/verify_batch.py`。其他验证见tests目录。
+
+## v1.8.0 · 个人语法错题强化（模块v1.4.0）
+
+进入「复合句型训练」→「个人语法错题强化（12 专题 · 108 道）」。原有8类句型内容保持可用，新页面点击后加载，也可独立打开`grammar-review.html`。
+
+语法记录使用`ielts-grammar-review-v1.4`，请通过模块内「学习进度与备份」导出/导入。主站备份仍保存原有作文、图表和句型记录；语法备份单独管理。
+
+源数据为`data/grammar-review.json`，从上传HTML无损提取。修改课程时须同步HTML中的grammarData，`python3 check.py`会检测一致性。验收：`IELTS_TEST_URL=http://127.0.0.1:8021 python3 tests/verify_grammar.py`。

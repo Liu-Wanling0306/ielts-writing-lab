@@ -1,7 +1,7 @@
 'use strict';
 const DATA=window.IELTS_DATA;
 const CONNECTOR_LIBRARY=window.IELTS_DATA.connectorLibrary;
-const VERSION='1.7.0';
+const VERSION='1.8.0';
 const $=s=>document.querySelector(s);
 const $$=s=>[...document.querySelectorAll(s)];
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -130,9 +130,10 @@ const RELEASE_13={version:'1.3.0',date:'2026-11-14',items:['保留 v1.2.0 大作
 const RELEASE_141={version:'1.4.1',date:'2026-11-15',items:[...RELEASE_13.items,'72篇文章的全文填空与翻译，保留引言、全部主体段和结尾','第4模块改为重点搭配迁移翻译，提供新情境题目、搭配出处和参考答案','每道小作文支持图表上传、预览、按题保存和备份恢复','新增T2-41外语小班教学：完整四段参考稿、12条搭配迁移、个人批改与错题']};
 const RELEASE_15={version:'1.5.0',date:'2026-11-17',items:[...RELEASE_141.items,'新增独立复合句型训练导航与首页入口','8类句型原理、结构对照、例句拆解和易错辨析','48道新情境迁移题，提供提示、参考答案和结构讲解','句型草稿及自查进度支持刷新恢复与JSON备份']};
 const RELEASE_16={version:'1.6.0',date:'2026-11-21',items:[...RELEASE_15.items,'新增T2-42 / R04食物浪费：保留原意与Band 7.5目标双版本','两版各4段完整范文、中译与全文搭配挖空','A版10道、B版12道新情境搭配迁移及参考答案','保存完整批改档案、14条搭配、13条个人错题与5道巩固题答案','新错题使用文章固定ID，保留旧错题及个人补充题的进度索引']};
-const CURRENT={version:VERSION,date:'2026-11-21',items:[...RELEASE_16.items,'导入练习1的9篇大作文（T2-43至T2-51），每篇A/B双版本','新增72段完整中英段落、全文挖空和72道新情境迁移任务（两版分别定位出处）','补齐27道巩固题、逐篇修订说明及9份原参考稿档案','修正AI语法、复合题干回应和健康因果；保留旧篇目与个人进度']};
-function versions(){return [BASE,PREVIOUS,RELEASE_13,RELEASE_141,RELEASE_15,RELEASE_16,CURRENT,...(USER.snapshots||[])]}
-function renderVersions(){let v=versions();let label=i=>i===0?'· 初始版':i===5?'· 上一版':i===6?'· 最新版':'';$('#oldVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#newVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#oldVersion').value='5';$('#newVersion').value='6';showDiff()}
+const RELEASE_17={version:'1.7.0',date:'2026-11-21',items:[...RELEASE_16.items,'导入练习1的9篇大作文（T2-43至T2-51），每篇A/B双版本','新增72段完整中英段落、全文挖空和72道新情境迁移任务（两版分别定位出处）','补齐27道巩固题、逐篇修订说明及9份原参考稿档案','修正AI语法、复合题干回应和健康因果；保留旧篇目与个人进度']};
+const CURRENT={version:VERSION,date:'2026-11-22',items:[...RELEASE_17.items,'合并个人语法错题强化v1.4.0：12专题、108题，保留原8类复合句训练','新增同页语法子入口、延迟加载和独立完整训练页','语法草稿、错题循环与间隔复习独立保存；支持模块内JSON备份导入导出']};
+function versions(){return [BASE,PREVIOUS,RELEASE_13,RELEASE_141,RELEASE_15,RELEASE_16,RELEASE_17,CURRENT,...(USER.snapshots||[])]}
+function renderVersions(){let v=versions();let label=i=>i===0?'· 初始版':i===6?'· 上一版':i===7?'· 最新版':'';$('#oldVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#newVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#oldVersion').value='6';$('#newVersion').value='7';showDiff()}
 function showDiff(){let v=versions(),a=v[Number($('#oldVersion').value)]||PREVIOUS,b=v[Number($('#newVersion').value)]||CURRENT;let removed=a.items.filter(x=>!b.items.includes(x)),added=b.items.filter(x=>!a.items.includes(x)),unchanged=b.items.filter(x=>a.items.includes(x));let info=`<p><b>${esc(a.version)} → ${esc(b.version)}</b> · 新增 ${added.length} 项 / 删除 ${removed.length} 项 / 保留 ${unchanged.length} 项</p>`;let lines=[...removed.map(x=>`<span class="del">- ${esc(x)}</span>`),...added.map(x=>`<span class="add">+ ${esc(x)}</span>`),...unchanged.map(x=>`<span class="same">  ${esc(x)}</span>`)];$('#diffResult').innerHTML=info+'<div class="versiondiff">'+(lines.join('')||'两个版本无差异')+'</div>'}
 function saveSnapshot(){let snap={...CURRENT,version:VERSION+'-snapshot-'+(USER.snapshots.length+1),date:new Date().toISOString()};USER.snapshots.push(snap);saveUser();renderVersions()}
 async function exportBackup(){
@@ -205,3 +206,10 @@ function renderSentenceTraining(){
 function updateSentenceProgress(){DATA.sentenceTraining.lessons.forEach(lesson=>{document.querySelectorAll(`[data-sentence-progress="${lesson.id}"]`).forEach(el=>el.textContent=sentenceProgress(lesson))})}
 
 initCatalog('task2');initCatalog('task1');renderLesson('task2');renderLesson('task1');renderConnectors();renderArchive();renderVersions();initSentenceTraining();saveUser();
+
+function setSentencePanel(panel){
+ const grammar=panel==='grammar';
+ $('#sentenceOriginalPanel').hidden=grammar;$('#grammarReviewPanel').hidden=!grammar;
+ for(const [id,active] of [['sentenceOriginalTab',!grammar],['grammarReviewTab',grammar]]){const tab=$('#'+id);tab.classList.toggle('primary',active);tab.setAttribute('aria-pressed',String(active))}
+ if(grammar&&!$('#grammarReviewFrame')){const frame=document.createElement('iframe');frame.id='grammarReviewFrame';frame.src='./grammar-review.html';frame.title='IELTS 个人语法错题强化';frame.loading='lazy';$('#grammarReviewMount').append(frame)}
+}
