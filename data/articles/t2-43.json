@@ -1,0 +1,419 @@
+{
+  "id": "t2-43",
+  "type": "大作文",
+  "title": "大学生选专业的自由与实用性（练习1·01）",
+  "group": "教育与成长",
+  "question": "Some people think that university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as science and technology. Discuss both views and give your own opinion.",
+  "task_type": "Discuss both views",
+  "logic": "▪ 争议：自由选科或限制实用学科。▪ 限制方：就业需求→技术人才→公共回报。▪ 自由方：兴趣匹配→持续动力；社会需要多样专业。▪ 结论：鼓励科技，但不强制限制。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Whether universities should permit students to pursue any subject or restrict them to fields considered useful for the future is contested. Science and technology clearly deserve support, but I favour preserving academic choice. Students' interests matter to their progress, and society benefits from expertise that extends beyond immediately employable technical skills.",
+      "cn": "大学应允许学生学习任意学科，还是限制其学习被认为有益于未来的领域，存在争议。科技当然值得支持，但我赞成保留学术选择权。兴趣影响学习进展，而社会需要的专业知识也不止是能立即帮助就业的技术技能。",
+      "clozes": [
+        {
+          "start": 192,
+          "end": 200,
+          "answer": "I favour"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Supporters of restricting subject choice point to employment and economic development. Technical degrees often prepare students for occupations with identifiable entry requirements, so studying them can provide clearer career pathways. Where employers struggle to recruit engineers or computing specialists, directing more students towards these disciplines may help meet labour-market demand. These graduates have economic and social value through their work in healthcare, energy and infrastructure. If university places and funding are limited, proponents may therefore argue that prioritising such fields offers a stronger public return than supporting every individual preference.",
+      "cn": "支持限制专业选择的人强调就业和经济发展。技术学位通常为入职要求明确的职业作准备，因此能提供更清晰的职业路径。当雇主难以招聘工程师或计算机专家时，引导更多学生进入这些领域可能满足劳动力市场需求。这些毕业生通过医疗、能源和基础设施方面的工作，创造经济与社会价值。如果大学名额和资金有限，支持者因而可能认为，优先资助这些领域比满足所有个人偏好能带来更大的公共回报。",
+      "clozes": [
+        {
+          "start": 219,
+          "end": 234,
+          "answer": "career pathways"
+        },
+        {
+          "start": 372,
+          "end": 392,
+          "answer": "labour-market demand"
+        },
+        {
+          "start": 415,
+          "end": 440,
+          "answer": "economic and social value"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Nevertheless, these benefits justify encouragement rather than compulsory restrictions. Students who choose subjects matching their interests and abilities are more likely to sustain motivation through demanding study. Forcing an unsuitable student into engineering may produce neither strong academic results nor a competent engineer. Moreover, the usefulness of a degree is not confined to its most obvious job title. History, literature and philosophy can develop careful interpretation, persuasive communication and critical judgement, while education, law and the arts serve important social needs. Higher education should consequently provide a diverse range of disciplines, alongside reliable information about career prospects, so students can make informed choices rather than have those choices removed.",
+      "cn": "不过，这些收益支持鼓励而非强制限制。选择符合兴趣和能力的学科，学生更可能在艰苦学习中保持动力。强迫不适合的学生学习工程，可能既无法取得良好成绩，也培养不出合格工程师。而且，学位的用途不限于最直观的职业名称。历史、文学和哲学能培养细致解读、有说服力的沟通及批判性判断，教育、法律和艺术也服务于重要社会需求。因此，高等教育应提供多样学科及可靠就业信息，让学生作出知情选择，而非取消其选择。",
+      "clozes": [
+        {
+          "start": 132,
+          "end": 155,
+          "answer": "interests and abilities"
+        },
+        {
+          "start": 175,
+          "end": 193,
+          "answer": "sustain motivation"
+        },
+        {
+          "start": 604,
+          "end": 620,
+          "answer": "Higher education"
+        },
+        {
+          "start": 649,
+          "end": 679,
+          "answer": "a diverse range of disciplines"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, science and technology offer significant public benefits, but this does not make other subjects dispensable. Universities should preserve individual choice while encouraging students to consider both their strengths and realistic employment opportunities.",
+      "cn": "总之，科技有重要公共收益，但这不代表其他学科可以舍弃。大学应保留个人选择，同时鼓励学生兼顾自身优势和现实就业机会。",
+      "clozes": [
+        {
+          "start": 153,
+          "end": 170,
+          "answer": "individual choice"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "As modern economies become increasingly dependent on technological skills, some argue that university students should only be allowed to study practical disciplines such as science and engineering. Others, however, believe that students should remain free to pursue subjects that reflect their own interests and strengths. While practical degrees may provide clearer career opportunities, I believe that higher education should preserve individual choice because its purpose extends beyond employment alone.",
+      "cn": "随着现代经济越来越依赖技术技能，一些人认为大学生只能学习科学、工程等实用学科。另一些人则认为，学生应当能够自由学习符合自身兴趣与优势的学科。虽然实用专业可能提供更清晰的就业机会，但我认为高等教育应保留个人选择，因为其目的并不限于就业。",
+      "clozes": [
+        {
+          "start": 404,
+          "end": 420,
+          "answer": "higher education"
+        },
+        {
+          "start": 437,
+          "end": 454,
+          "answer": "individual choice"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Those who favour restricting subject choice to practical subjects such as science, engineering and computing often point to their clear economic and social value. From an employment perspective, these disciplines tend to align more closely with labour-market demand and therefore provide graduates with more direct career pathways. This is particularly important in economies where employers increasingly seek workers with technical and digital skills. Beyond individual employability, these fields also make substantial contributions to society by addressing practical challenges in areas such as healthcare, infrastructure, energy and technological innovation. In this sense, encouraging more students to enter science- and technology-related disciplines may strengthen both economic productivity and society’s capacity to solve complex problems. They may therefore favour limiting degree options to fields with clear employment prospects.",
+      "cn": "支持将专业选择限制在科学、工程和计算机等实用领域的人，常强调这些学科明确的经济和社会价值。从就业角度看，这些领域通常更贴合劳动力市场需求，因此能给毕业生提供更直接的职业路径。在雇主日益需要技术和数字技能的经济体中，这尤其重要。除了个人就业能力，这些领域还能通过应对医疗、基础设施、能源和技术创新中的实际挑战，为社会作出重大贡献。因此，鼓励更多学生学习科技相关学科，可能同时提高经济生产率及社会解决复杂问题的能力。他们因而可能支持将学位选择限制在就业前景明确的领域。",
+      "clozes": [
+        {
+          "start": 136,
+          "end": 161,
+          "answer": "economic and social value"
+        },
+        {
+          "start": 245,
+          "end": 265,
+          "answer": "labour-market demand"
+        },
+        {
+          "start": 315,
+          "end": 330,
+          "answer": "career pathways"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, the stronger argument is that university students should retain the freedom to choose subjects that suit their interests and abilities. At an individual level, most students are adults and should therefore be able to make decisions about both their education and future careers. Studying a subject they genuinely enjoy is also more likely to sustain motivation and enable them to develop their strengths. At the institutional level, universities should serve a broader purpose than simply preparing students for employment; they should expose learners to different forms of knowledge and help them develop a more rounded understanding of the world. Finally, at the societal level, communities depend not only on scientists and engineers but also on teachers, artists, lawyers, writers and many other professionals. A diverse education system therefore contributes to a more creative, inclusive and intellectually vibrant society.",
+      "cn": "然而，更有力的论点是大学生应保留选择符合其兴趣和能力的学科的自由。在个人层面，多数学生已经成年，应能决定自己的教育和未来职业。学习真正喜欢的学科也更可能使他们保持动力并发展优势。在大学层面，其职责应超越单纯的就业准备，还应让学生接触不同知识，全面认识世界。最后在社会层面，社区不仅需要科学家和工程师，也需要教师、艺术家、律师、作家等专业人士。因此，多元的教育体系有助于形成更有创造力、包容性和思想活力的社会。",
+      "clozes": [
+        {
+          "start": 120,
+          "end": 143,
+          "answer": "interests and abilities"
+        },
+        {
+          "start": 351,
+          "end": 369,
+          "answer": "sustain motivation"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although practical disciplines can offer significant economic and social benefits, this does not justify restricting students’ academic choices. Universities should instead allow individuals to pursue fields that match their interests and abilities, while maintaining a diverse range of disciplines that contribute to society in different ways.",
+      "cn": "总之，虽然实用学科能带来显著的经济和社会收益，但这不足以成为限制学生学术选择的理由。大学应允许个人学习符合兴趣与能力的领域，同时保留以不同方式贡献社会的多样学科。",
+      "clozes": [
+        {
+          "start": 283,
+          "end": 313,
+          "answer": "a diverse range of disciplines"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "nine_complete": true,
+    "seven_complete": true,
+    "7marker": true
+  },
+  "vocab": [
+    {
+      "en": "labour-market demand",
+      "zh": "劳动力市场需求"
+    },
+    {
+      "en": "career pathways",
+      "zh": "职业路径"
+    },
+    {
+      "en": "interests and abilities",
+      "zh": "兴趣与能力"
+    },
+    {
+      "en": "sustain motivation",
+      "zh": "保持动力"
+    },
+    {
+      "en": "Higher education",
+      "zh": "高等教育"
+    },
+    {
+      "en": "a diverse range of disciplines",
+      "zh": "多样学科"
+    },
+    {
+      "en": "individual choice",
+      "zh": "个人选择"
+    },
+    {
+      "en": "economic and social value",
+      "zh": "经济与社会价值"
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "seven": "版本 A · 保留原意修正版",
+    "nine": "版本 B · Band 7.5+目标版"
+  },
+  "edition_summary": "双版本 · 原意修正 / Band 7.5+目标",
+  "source_note": "用户上传《雅思写作_大作文练习1.docx》（文档内标作GPT/Band 8练习参考稿）；非用户独立原稿，亦非官方评分。A版保留参考稿原意并修正必要语言或论证问题；B版为本次重写的Band 7.5+目标参考。 两版共用8道迁移任务，分别标注本版出处；A版篇幅较长，可用于精读，限时训练优先B版。",
+  "transfer": {
+    "seven": [
+      {
+        "id": "01",
+        "phrase": "labour-market demand",
+        "source_phrase": "labour-market demand",
+        "source_paragraph": 1,
+        "source": "Those who favour restricting subject choice to practical subjects such as science, engineering and computing often point to their clear economic and social value. From an employment perspective, these disciplines tend to align more closely with labour-market demand and therefore provide graduates with more direct career pathways. This is particularly important in economies where employers increasingly seek workers with technical and digital skills. Beyond individual employability, these fields also make substantial contributions to society by addressing practical challenges in areas such as healthcare, infrastructure, energy and technological innovation. In this sense, encouraging more students to enter science- and technology-related disciplines may strengthen both economic productivity and society’s capacity to solve complex problems. They may therefore favour limiting degree options to fields with clear employment prospects.",
+        "cn": "培训机构应根据劳动力市场需求调整课程。",
+        "answer": "Training providers should adapt their courses to labour-market demand."
+      },
+      {
+        "id": "02",
+        "phrase": "career pathways",
+        "source_phrase": "career pathways",
+        "source_paragraph": 1,
+        "source": "Those who favour restricting subject choice to practical subjects such as science, engineering and computing often point to their clear economic and social value. From an employment perspective, these disciplines tend to align more closely with labour-market demand and therefore provide graduates with more direct career pathways. This is particularly important in economies where employers increasingly seek workers with technical and digital skills. Beyond individual employability, these fields also make substantial contributions to society by addressing practical challenges in areas such as healthcare, infrastructure, energy and technological innovation. In this sense, encouraging more students to enter science- and technology-related disciplines may strengthen both economic productivity and society’s capacity to solve complex problems. They may therefore favour limiting degree options to fields with clear employment prospects.",
+        "cn": "清晰的职业路径能帮助年轻人规划未来。",
+        "answer": "Clear career pathways can help young people plan their futures."
+      },
+      {
+        "id": "03",
+        "phrase": "interests and abilities",
+        "source_phrase": "interests and abilities",
+        "source_paragraph": 2,
+        "source": "However, the stronger argument is that university students should retain the freedom to choose subjects that suit their interests and abilities. At an individual level, most students are adults and should therefore be able to make decisions about both their education and future careers. Studying a subject they genuinely enjoy is also more likely to sustain motivation and enable them to develop their strengths. At the institutional level, universities should serve a broader purpose than simply preparing students for employment; they should expose learners to different forms of knowledge and help them develop a more rounded understanding of the world. Finally, at the societal level, communities depend not only on scientists and engineers but also on teachers, artists, lawyers, writers and many other professionals. A diverse education system therefore contributes to a more creative, inclusive and intellectually vibrant society.",
+        "cn": "教师应设计符合儿童兴趣和能力的活动。",
+        "answer": "Teachers should design activities that match children's interests and abilities."
+      },
+      {
+        "id": "04",
+        "phrase": "sustain motivation",
+        "source_phrase": "sustain motivation",
+        "source_paragraph": 2,
+        "source": "However, the stronger argument is that university students should retain the freedom to choose subjects that suit their interests and abilities. At an individual level, most students are adults and should therefore be able to make decisions about both their education and future careers. Studying a subject they genuinely enjoy is also more likely to sustain motivation and enable them to develop their strengths. At the institutional level, universities should serve a broader purpose than simply preparing students for employment; they should expose learners to different forms of knowledge and help them develop a more rounded understanding of the world. Finally, at the societal level, communities depend not only on scientists and engineers but also on teachers, artists, lawyers, writers and many other professionals. A diverse education system therefore contributes to a more creative, inclusive and intellectually vibrant society.",
+        "cn": "定期反馈可以帮助远程工作者保持动力。",
+        "answer": "Regular feedback can help remote workers sustain motivation."
+      },
+      {
+        "id": "05",
+        "phrase": "higher education",
+        "source_phrase": "higher education",
+        "source_paragraph": 0,
+        "source": "As modern economies become increasingly dependent on technological skills, some argue that university students should only be allowed to study practical disciplines such as science and engineering. Others, however, believe that students should remain free to pursue subjects that reflect their own interests and strengths. While practical degrees may provide clearer career opportunities, I believe that higher education should preserve individual choice because its purpose extends beyond employment alone.",
+        "cn": "经济支持能使低收入家庭更容易获得高等教育。",
+        "answer": "Financial support can make higher education more accessible to low-income families."
+      },
+      {
+        "id": "06",
+        "phrase": "a diverse range of disciplines",
+        "source_phrase": "a diverse range of disciplines",
+        "source_paragraph": 3,
+        "source": "In conclusion, although practical disciplines can offer significant economic and social benefits, this does not justify restricting students’ academic choices. Universities should instead allow individuals to pursue fields that match their interests and abilities, while maintaining a diverse range of disciplines that contribute to society in different ways.",
+        "cn": "这所研究机构汇集了来自不同学科的专家。",
+        "answer": "This research institute brings together experts from a diverse range of disciplines."
+      },
+      {
+        "id": "07",
+        "phrase": "individual choice",
+        "source_phrase": "individual choice",
+        "source_paragraph": 0,
+        "source": "As modern economies become increasingly dependent on technological skills, some argue that university students should only be allowed to study practical disciplines such as science and engineering. Others, however, believe that students should remain free to pursue subjects that reflect their own interests and strengths. While practical degrees may provide clearer career opportunities, I believe that higher education should preserve individual choice because its purpose extends beyond employment alone.",
+        "cn": "公共卫生政策应在保护社会的同时尊重个人选择。",
+        "answer": "Public health policies should respect individual choice while protecting society."
+      },
+      {
+        "id": "08",
+        "phrase": "economic and social value",
+        "source_phrase": "economic and social value",
+        "source_paragraph": 1,
+        "source": "Those who favour restricting subject choice to practical subjects such as science, engineering and computing often point to their clear economic and social value. From an employment perspective, these disciplines tend to align more closely with labour-market demand and therefore provide graduates with more direct career pathways. This is particularly important in economies where employers increasingly seek workers with technical and digital skills. Beyond individual employability, these fields also make substantial contributions to society by addressing practical challenges in areas such as healthcare, infrastructure, energy and technological innovation. In this sense, encouraging more students to enter science- and technology-related disciplines may strengthen both economic productivity and society’s capacity to solve complex problems. They may therefore favour limiting degree options to fields with clear employment prospects.",
+        "cn": "可靠的公共交通能为偏远社区创造经济与社会价值。",
+        "answer": "Reliable public transport can create economic and social value for remote communities."
+      }
+    ],
+    "nine": [
+      {
+        "id": "01",
+        "phrase": "labour-market demand",
+        "source_phrase": "labour-market demand",
+        "source_paragraph": 1,
+        "source": "Supporters of restricting subject choice point to employment and economic development. Technical degrees often prepare students for occupations with identifiable entry requirements, so studying them can provide clearer career pathways. Where employers struggle to recruit engineers or computing specialists, directing more students towards these disciplines may help meet labour-market demand. These graduates have economic and social value through their work in healthcare, energy and infrastructure. If university places and funding are limited, proponents may therefore argue that prioritising such fields offers a stronger public return than supporting every individual preference.",
+        "cn": "培训机构应根据劳动力市场需求调整课程。",
+        "answer": "Training providers should adapt their courses to labour-market demand."
+      },
+      {
+        "id": "02",
+        "phrase": "career pathways",
+        "source_phrase": "career pathways",
+        "source_paragraph": 1,
+        "source": "Supporters of restricting subject choice point to employment and economic development. Technical degrees often prepare students for occupations with identifiable entry requirements, so studying them can provide clearer career pathways. Where employers struggle to recruit engineers or computing specialists, directing more students towards these disciplines may help meet labour-market demand. These graduates have economic and social value through their work in healthcare, energy and infrastructure. If university places and funding are limited, proponents may therefore argue that prioritising such fields offers a stronger public return than supporting every individual preference.",
+        "cn": "清晰的职业路径能帮助年轻人规划未来。",
+        "answer": "Clear career pathways can help young people plan their futures."
+      },
+      {
+        "id": "03",
+        "phrase": "interests and abilities",
+        "source_phrase": "interests and abilities",
+        "source_paragraph": 2,
+        "source": "Nevertheless, these benefits justify encouragement rather than compulsory restrictions. Students who choose subjects matching their interests and abilities are more likely to sustain motivation through demanding study. Forcing an unsuitable student into engineering may produce neither strong academic results nor a competent engineer. Moreover, the usefulness of a degree is not confined to its most obvious job title. History, literature and philosophy can develop careful interpretation, persuasive communication and critical judgement, while education, law and the arts serve important social needs. Higher education should consequently provide a diverse range of disciplines, alongside reliable information about career prospects, so students can make informed choices rather than have those choices removed.",
+        "cn": "教师应设计符合儿童兴趣和能力的活动。",
+        "answer": "Teachers should design activities that match children's interests and abilities."
+      },
+      {
+        "id": "04",
+        "phrase": "sustain motivation",
+        "source_phrase": "sustain motivation",
+        "source_paragraph": 2,
+        "source": "Nevertheless, these benefits justify encouragement rather than compulsory restrictions. Students who choose subjects matching their interests and abilities are more likely to sustain motivation through demanding study. Forcing an unsuitable student into engineering may produce neither strong academic results nor a competent engineer. Moreover, the usefulness of a degree is not confined to its most obvious job title. History, literature and philosophy can develop careful interpretation, persuasive communication and critical judgement, while education, law and the arts serve important social needs. Higher education should consequently provide a diverse range of disciplines, alongside reliable information about career prospects, so students can make informed choices rather than have those choices removed.",
+        "cn": "定期反馈可以帮助远程工作者保持动力。",
+        "answer": "Regular feedback can help remote workers sustain motivation."
+      },
+      {
+        "id": "05",
+        "phrase": "Higher education",
+        "source_phrase": "Higher education",
+        "source_paragraph": 2,
+        "source": "Nevertheless, these benefits justify encouragement rather than compulsory restrictions. Students who choose subjects matching their interests and abilities are more likely to sustain motivation through demanding study. Forcing an unsuitable student into engineering may produce neither strong academic results nor a competent engineer. Moreover, the usefulness of a degree is not confined to its most obvious job title. History, literature and philosophy can develop careful interpretation, persuasive communication and critical judgement, while education, law and the arts serve important social needs. Higher education should consequently provide a diverse range of disciplines, alongside reliable information about career prospects, so students can make informed choices rather than have those choices removed.",
+        "cn": "经济支持能使低收入家庭更容易获得高等教育。",
+        "answer": "Financial support can make higher education more accessible to low-income families."
+      },
+      {
+        "id": "06",
+        "phrase": "a diverse range of disciplines",
+        "source_phrase": "a diverse range of disciplines",
+        "source_paragraph": 2,
+        "source": "Nevertheless, these benefits justify encouragement rather than compulsory restrictions. Students who choose subjects matching their interests and abilities are more likely to sustain motivation through demanding study. Forcing an unsuitable student into engineering may produce neither strong academic results nor a competent engineer. Moreover, the usefulness of a degree is not confined to its most obvious job title. History, literature and philosophy can develop careful interpretation, persuasive communication and critical judgement, while education, law and the arts serve important social needs. Higher education should consequently provide a diverse range of disciplines, alongside reliable information about career prospects, so students can make informed choices rather than have those choices removed.",
+        "cn": "这所研究机构汇集了来自不同学科的专家。",
+        "answer": "This research institute brings together experts from a diverse range of disciplines."
+      },
+      {
+        "id": "07",
+        "phrase": "individual choice",
+        "source_phrase": "individual choice",
+        "source_paragraph": 3,
+        "source": "In conclusion, science and technology offer significant public benefits, but this does not make other subjects dispensable. Universities should preserve individual choice while encouraging students to consider both their strengths and realistic employment opportunities.",
+        "cn": "公共卫生政策应在保护社会的同时尊重个人选择。",
+        "answer": "Public health policies should respect individual choice while protecting society."
+      },
+      {
+        "id": "08",
+        "phrase": "economic and social value",
+        "source_phrase": "economic and social value",
+        "source_paragraph": 1,
+        "source": "Supporters of restricting subject choice point to employment and economic development. Technical degrees often prepare students for occupations with identifiable entry requirements, so studying them can provide clearer career pathways. Where employers struggle to recruit engineers or computing specialists, directing more students towards these disciplines may help meet labour-market demand. These graduates have economic and social value through their work in healthcare, energy and infrastructure. If university places and funding are limited, proponents may therefore argue that prioritising such fields offers a stronger public return than supporting every individual preference.",
+        "cn": "可靠的公共交通能为偏远社区创造经济与社会价值。",
+        "answer": "Reliable public transport can create economic and social value for remote communities."
+      }
+    ]
+  },
+  "review": {
+    "reference_material": true,
+    "practice_estimate": "未独立评分",
+    "original_complete": true,
+    "original_question": "Some people think that university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as science and technology. Discuss both views and give your own opinion.",
+    "complete_feedback": "题目要求比较自由选择与“只能”学习实用学科；A版补足限制性观点，避免只讨论鼓励科技。\n保留支持选择自由的立场；B版用“不适合工程的学生”解释强制限制为何可能无效。\n区分鼓励与强制：技术人才短缺不自动证明其他学科应被禁止。",
+    "source_models": {
+      "original": "As modern economies become increasingly dependent on technological skills, some argue that university students should prioritise practical disciplines such as science and engineering. Others, however, believe that students should remain free to pursue subjects that reflect their own interests and strengths. While practical degrees may provide clearer career opportunities, I believe that higher education should preserve individual choice because its purpose extends beyond employment alone.\n\nThose who favour prioritising practical subjects such as science, engineering and computing often point to their clear economic and social value. From an employment perspective, these disciplines tend to align more closely with labour-market demand and therefore provide graduates with more direct career pathways. This is particularly important in economies where employers increasingly seek workers with technical and digital skills. Beyond individual employability, these fields also make substantial contributions to society by addressing practical challenges in areas such as healthcare, infrastructure, energy and technological innovation. In this sense, encouraging more students to enter science- and technology-related disciplines may strengthen both economic productivity and society’s capacity to solve complex problems.\n\nHowever, the stronger argument is that university students should retain the freedom to choose subjects that suit their interests and abilities. At an individual level, most students are adults and should therefore be able to make decisions about both their education and future careers. Studying a subject they genuinely enjoy is also more likely to sustain motivation and enable them to develop their strengths. At the institutional level, universities should serve a broader purpose than simply preparing students for employment; they should expose learners to different forms of knowledge and help them develop a more rounded understanding of the world. Finally, at the societal level, communities depend not only on scientists and engineers but also on teachers, artists, lawyers, writers and many other professionals. A diverse education system therefore contributes to a more creative, inclusive and intellectually vibrant society.\n\nIn conclusion, although practical disciplines can offer significant economic and social benefits, this does not justify restricting students’ academic choices. Universities should instead allow individuals to pursue fields that match their interests and abilities, while maintaining a diverse range of disciplines that contribute to society in different ways.",
+      "A": "As modern economies become increasingly dependent on technological skills, some argue that university students should only be allowed to study practical disciplines such as science and engineering. Others, however, believe that students should remain free to pursue subjects that reflect their own interests and strengths. While practical degrees may provide clearer career opportunities, I believe that higher education should preserve individual choice because its purpose extends beyond employment alone.\n\nThose who favour restricting subject choice to practical subjects such as science, engineering and computing often point to their clear economic and social value. From an employment perspective, these disciplines tend to align more closely with labour-market demand and therefore provide graduates with more direct career pathways. This is particularly important in economies where employers increasingly seek workers with technical and digital skills. Beyond individual employability, these fields also make substantial contributions to society by addressing practical challenges in areas such as healthcare, infrastructure, energy and technological innovation. In this sense, encouraging more students to enter science- and technology-related disciplines may strengthen both economic productivity and society’s capacity to solve complex problems. They may therefore favour limiting degree options to fields with clear employment prospects.\n\nHowever, the stronger argument is that university students should retain the freedom to choose subjects that suit their interests and abilities. At an individual level, most students are adults and should therefore be able to make decisions about both their education and future careers. Studying a subject they genuinely enjoy is also more likely to sustain motivation and enable them to develop their strengths. At the institutional level, universities should serve a broader purpose than simply preparing students for employment; they should expose learners to different forms of knowledge and help them develop a more rounded understanding of the world. Finally, at the societal level, communities depend not only on scientists and engineers but also on teachers, artists, lawyers, writers and many other professionals. A diverse education system therefore contributes to a more creative, inclusive and intellectually vibrant society.\n\nIn conclusion, although practical disciplines can offer significant economic and social benefits, this does not justify restricting students’ academic choices. Universities should instead allow individuals to pursue fields that match their interests and abilities, while maintaining a diverse range of disciplines that contribute to society in different ways.",
+      "B": "Whether universities should permit students to pursue any subject or restrict them to fields considered useful for the future is contested. Science and technology clearly deserve support, but I favour preserving academic choice. Students' interests matter to their progress, and society benefits from expertise that extends beyond immediately employable technical skills.\n\nSupporters of restricting subject choice point to employment and economic development. Technical degrees often prepare students for occupations with identifiable entry requirements, so studying them can provide clearer career pathways. Where employers struggle to recruit engineers or computing specialists, directing more students towards these disciplines may help meet labour-market demand. These graduates have economic and social value through their work in healthcare, energy and infrastructure. If university places and funding are limited, proponents may therefore argue that prioritising such fields offers a stronger public return than supporting every individual preference.\n\nNevertheless, these benefits justify encouragement rather than compulsory restrictions. Students who choose subjects matching their interests and abilities are more likely to sustain motivation through demanding study. Forcing an unsuitable student into engineering may produce neither strong academic results nor a competent engineer. Moreover, the usefulness of a degree is not confined to its most obvious job title. History, literature and philosophy can develop careful interpretation, persuasive communication and critical judgement, while education, law and the arts serve important social needs. Higher education should consequently provide a diverse range of disciplines, alongside reliable information about career prospects, so students can make informed choices rather than have those choices removed.\n\nIn conclusion, science and technology offer significant public benefits, but this does not make other subjects dispensable. Universities should preserve individual choice while encouraging students to consider both their strengths and realistic employment opportunities."
+    },
+    "source_sha256": "9ae69bd6a698023b8450da2b356806ca1d0a1b530142a436c15d64bc6bc1fa4d"
+  },
+  "practice": {
+    "diagnosis": "本篇以切题性、逻辑展开和准确表达为训练重点；7.5+为练习目标，无法仅凭参考文本承诺实际考试分数。",
+    "score_dimensions": [
+      {
+        "name": "Task Response",
+        "estimate": "训练检查",
+        "note": "题目要求比较自由选择与“只能”学习实用学科；A版补足限制性观点，避免只讨论鼓励科技。"
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "estimate": "训练检查",
+        "note": "中心句后解释具体机制和结果；结尾回应引言立场，不新增未经展开的理由。"
+      },
+      {
+        "name": "Lexical Resource",
+        "estimate": "训练检查",
+        "note": "优先使用准确自然的搭配，避免为追求高级词汇牺牲意义。"
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "estimate": "训练检查",
+        "note": "结合让步、条件和定语结构，控制长句长度，检查冠词、单复数及主谓一致。"
+      }
+    ],
+    "notes": [
+      "题目要求比较自由选择与“只能”学习实用学科；A版补足限制性观点，避免只讨论鼓励科技。",
+      "保留支持选择自由的立场；B版用“不适合工程的学生”解释强制限制为何可能无效。",
+      "区分鼓励与强制：技术人才短缺不自动证明其他学科应被禁止。"
+    ],
+    "errors": [],
+    "drills": [
+      {
+        "id": "1",
+        "cn": "培训机构应根据劳动力市场需求调整课程。",
+        "hint": "labour-market demand",
+        "answer": "Training providers should adapt their courses to labour-market demand.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "2",
+        "cn": "清晰的职业路径能帮助年轻人规划未来。",
+        "hint": "career pathways",
+        "answer": "Clear career pathways can help young people plan their futures.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "3",
+        "cn": "教师应设计符合儿童兴趣和能力的活动。",
+        "hint": "interests and abilities",
+        "answer": "Teachers should design activities that match children's interests and abilities.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      }
+    ]
+  }
+}

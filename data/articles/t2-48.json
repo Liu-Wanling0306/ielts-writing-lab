@@ -1,0 +1,429 @@
+{
+  "id": "t2-48",
+  "type": "大作文",
+  "title": "祖孙相处减少的原因与影响（练习1·06）",
+  "group": "社会与政府",
+  "question": "In many countries, children are spending less time with their grandparents than they did in the past. Why is this happening? What effects can this have on children and families?",
+  "task_type": "Causes and effects",
+  "logic": "▪ 现象：祖孙相处减少。▪ 原因：迁移、时间冲突、部分数字娱乐。▪ 影响：情感支持减少、文化记忆传递受限。▪ 结论：影响取决于联系质量。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Children in many countries spend less time with their grandparents than earlier generations did. Geographical separation and competing demands on family time help explain this change. Although reduced contact does not affect every family in the same way, it can limit children's emotional support and weaken intergenerational bonds.",
+      "cn": "许多国家的儿童与祖父母相处少于以前。地理分离及对家庭时间的竞争性需求，有助于解释变化。虽然减少联系对各家庭的影响不同，它可能限制儿童情感支持并削弱代际纽带。",
+      "clozes": [
+        {
+          "start": 97,
+          "end": 120,
+          "answer": "Geographical separation"
+        },
+        {
+          "start": 279,
+          "end": 296,
+          "answer": "emotional support"
+        },
+        {
+          "start": 308,
+          "end": 331,
+          "answer": "intergenerational bonds"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "A major cause is that employment often takes parents and children away from the places where grandparents live. Regular visits may then require substantial travel, time and expense. Daily schedules add another obstacle: parents' working hours and children's examinations or extracurricular activities can leave little shared free time. Digital entertainment may also crowd out family interaction when children devote most of their leisure to peers online. However, technology is not inherently a barrier. Video calls can help relatives maintain contact across long distances, so its effect depends partly on how families use it.",
+      "cn": "一个主要原因是就业常使父母带孩子离开祖父母生活之地。定期探访于是可能耗费大量路程、时间和金钱。日程带来另一障碍：父母工作及孩子考试或课外活动，可能使共同空闲时间很少。当儿童把多数休闲时间用于与同龄人在线互动时，数字娱乐也可能挤占家庭交流。不过，技术并非天然障碍。视频通话能帮助远距离亲属保持联系，因此影响部分取决于使用方式。",
+      "clozes": [
+        {
+          "start": 367,
+          "end": 376,
+          "answer": "crowd out"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Less interaction can remove an additional source of companionship, reassurance and guidance from children's lives. Grandparents may offer attention and perspectives that differ from those of parents, especially during stressful periods. Losing that regular connection can narrow a child's emotional support network, although other caring relationships may compensate. The consequences can also extend beyond individual well-being. Family memories, regional dialects and local customs are often shared through ordinary conversations between generations. When those conversations become rare, children may know less about their family's experiences and cultural background. The family can consequently find it harder to maintain a sense of identity and continuity. These are potential effects rather than inevitable outcomes, since meaningful visits and regular remote conversations can preserve close relationships despite physical distance.",
+      "cn": "互动减少可能使儿童失去额外的陪伴、安慰和指导来源。祖父母可能提供不同于父母的关注与视角，压力较大时尤其如此。失去定期联系可能缩小情感支持网络，虽然其他关爱关系能起补偿作用。影响也可能超出个人健康。家庭记忆、方言及地方习俗，常通过日常代际对话传递。当对话变少，儿童可能较少了解家族经历及文化背景，家庭因此更难维持认同感和延续感。这是潜在而非必然影响，因为即使距离遥远，有意义的探访和定期远程交流仍能维持亲近关系。",
+      "clozes": [
+        {
+          "start": 431,
+          "end": 446,
+          "answer": "Family memories"
+        },
+        {
+          "start": 448,
+          "end": 465,
+          "answer": "regional dialects"
+        },
+        {
+          "start": 470,
+          "end": 483,
+          "answer": "local customs"
+        },
+        {
+          "start": 738,
+          "end": 761,
+          "answer": "identity and continuity"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, migration and crowded routines can reduce time with grandparents, with possible costs for emotional support and the transmission of family knowledge. The impact depends on the quality of the contact that remains, not simply on how far apart relatives live.",
+      "cn": "总之，迁移和繁忙日程可减少祖孙相处，可能损害情感支持及家庭知识传承。影响取决于剩余联系的质量，而不仅是亲属相隔多远。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "In conclusion"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "In many families, children now spend less time with their grandparents than previous generations did. This trend can be attributed to several social and lifestyle changes and may affect both children's emotional well-being and wider family relationships.",
+      "cn": "许多家庭的儿童如今与祖父母相处的时间少于以往。这一趋势源于若干社会和生活方式的变化，并可能影响儿童情绪健康及更广泛的家庭关系。",
+      "clozes": [
+        {
+          "start": 202,
+          "end": 222,
+          "answer": "emotional well-being"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The decline in contact between children and their grandparents can largely be attributed to geographical separation, heavy academic demands and children's growing preference for digital communication. As urbanisation increases, many parents move with their children to cities for employment, while grandparents often remain in their hometowns. This geographical distance makes regular visits more difficult, giving children fewer opportunities to spend time with them. In addition, parents' working hours, children's school examinations and extracurricular activities can limit the time available for family contact, leaving less time for family interaction. Moreover, digital technology has changed the way children communicate. Many are more accustomed to interacting online and find it easier to maintain frequent contact with peers who use the same platforms. As a result, online peer interaction may gradually crowd out time that could otherwise be spent communicating with grandparents. However, digital communication can also help relatives stay in touch across long distances, so its effect depends on how it is used.",
+      "cn": "接触减少主要源于地理分离、沉重学业和儿童日益偏好数字交流。随着城市化，许多父母带孩子进城就业，而祖父母留在家乡。距离使定期探访更困难，减少了相处机会。此外，父母的工作时间、儿童的考试和课外活动限制了家庭联系可用时间。数字技术也改变了交流方式。许多儿童更习惯在线互动，更容易与使用相同平台的同龄人保持频繁联系。因此，与同伴的网络互动可能逐渐挤占原本能用于与祖父母交流的时间。不过，数字通信也能帮助远距离亲属保持联系，其作用取决于使用方式。",
+      "clozes": [
+        {
+          "start": 92,
+          "end": 115,
+          "answer": "geographical separation"
+        },
+        {
+          "start": 915,
+          "end": 924,
+          "answer": "crowd out"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Reduced contact with grandparents can affect both children's emotional development and wider family relationships. Grandparents often provide companionship, reassurance and guidance, so less interaction with them may deprive children of an additional source of emotional support. At the family level, infrequent contact can weaken intergenerational bonds and reduce opportunities for older relatives to pass down family memories, values and traditions. For instance, children who rarely interact with grandparents may become less familiar with regional dialects or local customs. Less interaction may therefore weaken both children's additional support networks and families' sense of identity and continuity, although the outcome depends on the quality of the contact that remains.",
+      "cn": "与祖父母接触减少可能影响儿童情感发展和更广泛的家庭关系。祖父母常提供陪伴、安慰和指导，因此互动减少可能使儿童失去额外情感支持。在家庭层面，联系稀少可能削弱代际纽带，减少长辈传递家庭记忆、价值观和传统的机会。例如，很少与祖父母互动的孩子可能不太熟悉方言或地方习俗。因此，接触减少可能削弱儿童额外的支持网络，以及家庭的认同感和延续感，但结果取决于剩余联系的质量。",
+      "clozes": [
+        {
+          "start": 261,
+          "end": 278,
+          "answer": "emotional support"
+        },
+        {
+          "start": 331,
+          "end": 354,
+          "answer": "intergenerational bonds"
+        },
+        {
+          "start": 413,
+          "end": 428,
+          "answer": "family memories"
+        },
+        {
+          "start": 544,
+          "end": 561,
+          "answer": "regional dialects"
+        },
+        {
+          "start": 565,
+          "end": 578,
+          "answer": "local customs"
+        },
+        {
+          "start": 685,
+          "end": 708,
+          "answer": "identity and continuity"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, the reduction in contact between children and their grandparents reflects broader changes in modern family life and may gradually weaken both children's emotional support networks and relationships between generations.",
+      "cn": "总之，祖孙接触减少反映了现代家庭生活的广泛变化，并可能逐渐削弱儿童的情感支持网络及代际关系。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "In conclusion"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "nine_complete": true,
+    "seven_complete": true,
+    "7marker": true
+  },
+  "vocab": [
+    {
+      "en": "Geographical separation",
+      "zh": "地理分离"
+    },
+    {
+      "en": "emotional support",
+      "zh": "情感支持"
+    },
+    {
+      "en": "intergenerational bonds",
+      "zh": "代际纽带"
+    },
+    {
+      "en": "Family memories",
+      "zh": "家庭记忆"
+    },
+    {
+      "en": "regional dialects",
+      "zh": "地方方言"
+    },
+    {
+      "en": "local customs",
+      "zh": "当地习俗"
+    },
+    {
+      "en": "identity and continuity",
+      "zh": "认同与延续"
+    },
+    {
+      "en": "crowd out",
+      "zh": "挤占"
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "seven": "版本 A · 保留原意修正版",
+    "nine": "版本 B · Band 7.5+目标版"
+  },
+  "edition_summary": "双版本 · 原意修正 / Band 7.5+目标",
+  "source_note": "用户上传《雅思写作_大作文练习1.docx》（文档内标作GPT/Band 8练习参考稿）；非用户独立原稿，亦非官方评分。A版保留参考稿原意并修正必要语言或论证问题；B版为本次重写的Band 7.5+目标参考。 两版共用8道迁移任务，分别标注本版出处；A版篇幅较长，可用于精读，限时训练优先B版。",
+  "transfer": {
+    "seven": [
+      {
+        "id": "01",
+        "phrase": "geographical separation",
+        "source_phrase": "geographical separation",
+        "source_paragraph": 1,
+        "source": "The decline in contact between children and their grandparents can largely be attributed to geographical separation, heavy academic demands and children's growing preference for digital communication. As urbanisation increases, many parents move with their children to cities for employment, while grandparents often remain in their hometowns. This geographical distance makes regular visits more difficult, giving children fewer opportunities to spend time with them. In addition, parents' working hours, children's school examinations and extracurricular activities can limit the time available for family contact, leaving less time for family interaction. Moreover, digital technology has changed the way children communicate. Many are more accustomed to interacting online and find it easier to maintain frequent contact with peers who use the same platforms. As a result, online peer interaction may gradually crowd out time that could otherwise be spent communicating with grandparents. However, digital communication can also help relatives stay in touch across long distances, so its effect depends on how it is used.",
+        "cn": "地理分离不一定会终结亲密友谊。",
+        "answer": "Geographical separation does not necessarily end a close friendship."
+      },
+      {
+        "id": "02",
+        "phrase": "emotional support",
+        "source_phrase": "emotional support",
+        "source_paragraph": 2,
+        "source": "Reduced contact with grandparents can affect both children's emotional development and wider family relationships. Grandparents often provide companionship, reassurance and guidance, so less interaction with them may deprive children of an additional source of emotional support. At the family level, infrequent contact can weaken intergenerational bonds and reduce opportunities for older relatives to pass down family memories, values and traditions. For instance, children who rarely interact with grandparents may become less familiar with regional dialects or local customs. Less interaction may therefore weaken both children's additional support networks and families' sense of identity and continuity, although the outcome depends on the quality of the contact that remains.",
+        "cn": "大学应为适应新环境的学生提供情感支持。",
+        "answer": "Universities should provide emotional support for students adjusting to a new environment."
+      },
+      {
+        "id": "03",
+        "phrase": "intergenerational bonds",
+        "source_phrase": "intergenerational bonds",
+        "source_paragraph": 2,
+        "source": "Reduced contact with grandparents can affect both children's emotional development and wider family relationships. Grandparents often provide companionship, reassurance and guidance, so less interaction with them may deprive children of an additional source of emotional support. At the family level, infrequent contact can weaken intergenerational bonds and reduce opportunities for older relatives to pass down family memories, values and traditions. For instance, children who rarely interact with grandparents may become less familiar with regional dialects or local customs. Less interaction may therefore weaken both children's additional support networks and families' sense of identity and continuity, although the outcome depends on the quality of the contact that remains.",
+        "cn": "社区园艺项目能够加强代际纽带。",
+        "answer": "Community gardening projects can strengthen intergenerational bonds."
+      },
+      {
+        "id": "04",
+        "phrase": "family memories",
+        "source_phrase": "family memories",
+        "source_paragraph": 2,
+        "source": "Reduced contact with grandparents can affect both children's emotional development and wider family relationships. Grandparents often provide companionship, reassurance and guidance, so less interaction with them may deprive children of an additional source of emotional support. At the family level, infrequent contact can weaken intergenerational bonds and reduce opportunities for older relatives to pass down family memories, values and traditions. For instance, children who rarely interact with grandparents may become less familiar with regional dialects or local customs. Less interaction may therefore weaken both children's additional support networks and families' sense of identity and continuity, although the outcome depends on the quality of the contact that remains.",
+        "cn": "照片能帮助迁居海外的家庭保存家庭记忆。",
+        "answer": "Photographs can help families living overseas preserve family memories."
+      },
+      {
+        "id": "05",
+        "phrase": "regional dialects",
+        "source_phrase": "regional dialects",
+        "source_paragraph": 2,
+        "source": "Reduced contact with grandparents can affect both children's emotional development and wider family relationships. Grandparents often provide companionship, reassurance and guidance, so less interaction with them may deprive children of an additional source of emotional support. At the family level, infrequent contact can weaken intergenerational bonds and reduce opportunities for older relatives to pass down family memories, values and traditions. For instance, children who rarely interact with grandparents may become less familiar with regional dialects or local customs. Less interaction may therefore weaken both children's additional support networks and families' sense of identity and continuity, although the outcome depends on the quality of the contact that remains.",
+        "cn": "地方广播可以让年轻人接触地方方言。",
+        "answer": "Local radio can introduce young people to regional dialects."
+      },
+      {
+        "id": "06",
+        "phrase": "local customs",
+        "source_phrase": "local customs",
+        "source_paragraph": 2,
+        "source": "Reduced contact with grandparents can affect both children's emotional development and wider family relationships. Grandparents often provide companionship, reassurance and guidance, so less interaction with them may deprive children of an additional source of emotional support. At the family level, infrequent contact can weaken intergenerational bonds and reduce opportunities for older relatives to pass down family memories, values and traditions. For instance, children who rarely interact with grandparents may become less familiar with regional dialects or local customs. Less interaction may therefore weaken both children's additional support networks and families' sense of identity and continuity, although the outcome depends on the quality of the contact that remains.",
+        "cn": "游客在参加节庆前应了解当地习俗。",
+        "answer": "Tourists should learn about local customs before taking part in festivals."
+      },
+      {
+        "id": "07",
+        "phrase": "identity and continuity",
+        "source_phrase": "identity and continuity",
+        "source_paragraph": 2,
+        "source": "Reduced contact with grandparents can affect both children's emotional development and wider family relationships. Grandparents often provide companionship, reassurance and guidance, so less interaction with them may deprive children of an additional source of emotional support. At the family level, infrequent contact can weaken intergenerational bonds and reduce opportunities for older relatives to pass down family memories, values and traditions. For instance, children who rarely interact with grandparents may become less familiar with regional dialects or local customs. Less interaction may therefore weaken both children's additional support networks and families' sense of identity and continuity, although the outcome depends on the quality of the contact that remains.",
+        "cn": "修复历史建筑能帮助社区维持认同感和延续感。",
+        "answer": "Restoring historic buildings can help communities maintain a sense of identity and continuity."
+      },
+      {
+        "id": "08",
+        "phrase": "crowd out",
+        "source_phrase": "crowd out",
+        "source_paragraph": 1,
+        "source": "The decline in contact between children and their grandparents can largely be attributed to geographical separation, heavy academic demands and children's growing preference for digital communication. As urbanisation increases, many parents move with their children to cities for employment, while grandparents often remain in their hometowns. This geographical distance makes regular visits more difficult, giving children fewer opportunities to spend time with them. In addition, parents' working hours, children's school examinations and extracurricular activities can limit the time available for family contact, leaving less time for family interaction. Moreover, digital technology has changed the way children communicate. Many are more accustomed to interacting online and find it easier to maintain frequent contact with peers who use the same platforms. As a result, online peer interaction may gradually crowd out time that could otherwise be spent communicating with grandparents. However, digital communication can also help relatives stay in touch across long distances, so its effect depends on how it is used.",
+        "cn": "过度加班可能挤占运动和休息时间。",
+        "answer": "Excessive overtime may crowd out time for exercise and rest."
+      }
+    ],
+    "nine": [
+      {
+        "id": "01",
+        "phrase": "Geographical separation",
+        "source_phrase": "Geographical separation",
+        "source_paragraph": 0,
+        "source": "Children in many countries spend less time with their grandparents than earlier generations did. Geographical separation and competing demands on family time help explain this change. Although reduced contact does not affect every family in the same way, it can limit children's emotional support and weaken intergenerational bonds.",
+        "cn": "地理分离不一定会终结亲密友谊。",
+        "answer": "Geographical separation does not necessarily end a close friendship."
+      },
+      {
+        "id": "02",
+        "phrase": "emotional support",
+        "source_phrase": "emotional support",
+        "source_paragraph": 0,
+        "source": "Children in many countries spend less time with their grandparents than earlier generations did. Geographical separation and competing demands on family time help explain this change. Although reduced contact does not affect every family in the same way, it can limit children's emotional support and weaken intergenerational bonds.",
+        "cn": "大学应为适应新环境的学生提供情感支持。",
+        "answer": "Universities should provide emotional support for students adjusting to a new environment."
+      },
+      {
+        "id": "03",
+        "phrase": "intergenerational bonds",
+        "source_phrase": "intergenerational bonds",
+        "source_paragraph": 0,
+        "source": "Children in many countries spend less time with their grandparents than earlier generations did. Geographical separation and competing demands on family time help explain this change. Although reduced contact does not affect every family in the same way, it can limit children's emotional support and weaken intergenerational bonds.",
+        "cn": "社区园艺项目能够加强代际纽带。",
+        "answer": "Community gardening projects can strengthen intergenerational bonds."
+      },
+      {
+        "id": "04",
+        "phrase": "Family memories",
+        "source_phrase": "Family memories",
+        "source_paragraph": 2,
+        "source": "Less interaction can remove an additional source of companionship, reassurance and guidance from children's lives. Grandparents may offer attention and perspectives that differ from those of parents, especially during stressful periods. Losing that regular connection can narrow a child's emotional support network, although other caring relationships may compensate. The consequences can also extend beyond individual well-being. Family memories, regional dialects and local customs are often shared through ordinary conversations between generations. When those conversations become rare, children may know less about their family's experiences and cultural background. The family can consequently find it harder to maintain a sense of identity and continuity. These are potential effects rather than inevitable outcomes, since meaningful visits and regular remote conversations can preserve close relationships despite physical distance.",
+        "cn": "照片能帮助迁居海外的家庭保存家庭记忆。",
+        "answer": "Photographs can help families living overseas preserve family memories."
+      },
+      {
+        "id": "05",
+        "phrase": "regional dialects",
+        "source_phrase": "regional dialects",
+        "source_paragraph": 2,
+        "source": "Less interaction can remove an additional source of companionship, reassurance and guidance from children's lives. Grandparents may offer attention and perspectives that differ from those of parents, especially during stressful periods. Losing that regular connection can narrow a child's emotional support network, although other caring relationships may compensate. The consequences can also extend beyond individual well-being. Family memories, regional dialects and local customs are often shared through ordinary conversations between generations. When those conversations become rare, children may know less about their family's experiences and cultural background. The family can consequently find it harder to maintain a sense of identity and continuity. These are potential effects rather than inevitable outcomes, since meaningful visits and regular remote conversations can preserve close relationships despite physical distance.",
+        "cn": "地方广播可以让年轻人接触地方方言。",
+        "answer": "Local radio can introduce young people to regional dialects."
+      },
+      {
+        "id": "06",
+        "phrase": "local customs",
+        "source_phrase": "local customs",
+        "source_paragraph": 2,
+        "source": "Less interaction can remove an additional source of companionship, reassurance and guidance from children's lives. Grandparents may offer attention and perspectives that differ from those of parents, especially during stressful periods. Losing that regular connection can narrow a child's emotional support network, although other caring relationships may compensate. The consequences can also extend beyond individual well-being. Family memories, regional dialects and local customs are often shared through ordinary conversations between generations. When those conversations become rare, children may know less about their family's experiences and cultural background. The family can consequently find it harder to maintain a sense of identity and continuity. These are potential effects rather than inevitable outcomes, since meaningful visits and regular remote conversations can preserve close relationships despite physical distance.",
+        "cn": "游客在参加节庆前应了解当地习俗。",
+        "answer": "Tourists should learn about local customs before taking part in festivals."
+      },
+      {
+        "id": "07",
+        "phrase": "identity and continuity",
+        "source_phrase": "identity and continuity",
+        "source_paragraph": 2,
+        "source": "Less interaction can remove an additional source of companionship, reassurance and guidance from children's lives. Grandparents may offer attention and perspectives that differ from those of parents, especially during stressful periods. Losing that regular connection can narrow a child's emotional support network, although other caring relationships may compensate. The consequences can also extend beyond individual well-being. Family memories, regional dialects and local customs are often shared through ordinary conversations between generations. When those conversations become rare, children may know less about their family's experiences and cultural background. The family can consequently find it harder to maintain a sense of identity and continuity. These are potential effects rather than inevitable outcomes, since meaningful visits and regular remote conversations can preserve close relationships despite physical distance.",
+        "cn": "修复历史建筑能帮助社区维持认同感和延续感。",
+        "answer": "Restoring historic buildings can help communities maintain a sense of identity and continuity."
+      },
+      {
+        "id": "08",
+        "phrase": "crowd out",
+        "source_phrase": "crowd out",
+        "source_paragraph": 1,
+        "source": "A major cause is that employment often takes parents and children away from the places where grandparents live. Regular visits may then require substantial travel, time and expense. Daily schedules add another obstacle: parents' working hours and children's examinations or extracurricular activities can leave little shared free time. Digital entertainment may also crowd out family interaction when children devote most of their leisure to peers online. However, technology is not inherently a barrier. Video calls can help relatives maintain contact across long distances, so its effect depends partly on how families use it.",
+        "cn": "过度加班可能挤占运动和休息时间。",
+        "answer": "Excessive overtime may crowd out time for exercise and rest."
+      }
+    ]
+  },
+  "review": {
+    "reference_material": true,
+    "practice_estimate": "未独立评分",
+    "original_complete": true,
+    "original_question": "In many countries, children are spending less time with their grandparents than they did in the past. Why is this happening? What effects can this have on children and families?",
+    "complete_feedback": "原因包括迁移、家庭时间冲突和部分数字娱乐；不将父母工作负担误写成儿童工作负担。\n补充技术也可维持远距离联系的限定，避免数字交流必然破坏亲情的单向判断。\n影响分别覆盖儿童情感支持和家庭文化传承；并非所有家庭都会出现同样后果。",
+    "source_models": {
+      "original": "In many families, children now spend less time with their grandparents than previous generations did. This trend can be attributed to several social and lifestyle changes and may affect both children's emotional well-being and wider family relationships.\n\nThe decline in contact between children and their grandparents can largely be attributed to geographical separation, heavy academic demands and children's growing preference for digital communication. As urbanisation increases, many parents move with their children to cities for employment, while grandparents often remain in their hometowns. This geographical distance makes regular visits more difficult, giving children fewer opportunities to spend time with them. In addition, heavy workloads, school examinations and extracurricular activities can occupy much of children's free time, leaving less time for family interaction. Moreover, digital technology has changed the way children communicate. Many are more accustomed to interacting online and find it easier to maintain frequent contact with peers who use the same platforms. As a result, online peer interaction may gradually crowd out time that could otherwise be spent communicating with grandparents.\n\nReduced contact with grandparents can affect both children's emotional development and wider family relationships. Grandparents often provide companionship, reassurance and guidance, so less interaction with them may deprive children of an additional source of emotional support. At the family level, infrequent contact can weaken intergenerational bonds and reduce opportunities for older relatives to pass down family memories, values and traditions. For instance, children who rarely interact with grandparents may become less familiar with regional dialects or local customs. Regular contact with older generations can therefore support children's emotional well-being while also helping families preserve a stronger sense of identity and continuity.\n\nIn conclusion, the reduction in contact between children and their grandparents reflects broader changes in modern family life and may gradually weaken both children's emotional support networks and relationships between generations.",
+      "A": "In many families, children now spend less time with their grandparents than previous generations did. This trend can be attributed to several social and lifestyle changes and may affect both children's emotional well-being and wider family relationships.\n\nThe decline in contact between children and their grandparents can largely be attributed to geographical separation, heavy academic demands and children's growing preference for digital communication. As urbanisation increases, many parents move with their children to cities for employment, while grandparents often remain in their hometowns. This geographical distance makes regular visits more difficult, giving children fewer opportunities to spend time with them. In addition, parents' working hours, children's school examinations and extracurricular activities can limit the time available for family contact, leaving less time for family interaction. Moreover, digital technology has changed the way children communicate. Many are more accustomed to interacting online and find it easier to maintain frequent contact with peers who use the same platforms. As a result, online peer interaction may gradually crowd out time that could otherwise be spent communicating with grandparents. However, digital communication can also help relatives stay in touch across long distances, so its effect depends on how it is used.\n\nReduced contact with grandparents can affect both children's emotional development and wider family relationships. Grandparents often provide companionship, reassurance and guidance, so less interaction with them may deprive children of an additional source of emotional support. At the family level, infrequent contact can weaken intergenerational bonds and reduce opportunities for older relatives to pass down family memories, values and traditions. For instance, children who rarely interact with grandparents may become less familiar with regional dialects or local customs. Less interaction may therefore weaken both children's additional support networks and families' sense of identity and continuity, although the outcome depends on the quality of the contact that remains.\n\nIn conclusion, the reduction in contact between children and their grandparents reflects broader changes in modern family life and may gradually weaken both children's emotional support networks and relationships between generations.",
+      "B": "Children in many countries spend less time with their grandparents than earlier generations did. Geographical separation and competing demands on family time help explain this change. Although reduced contact does not affect every family in the same way, it can limit children's emotional support and weaken intergenerational bonds.\n\nA major cause is that employment often takes parents and children away from the places where grandparents live. Regular visits may then require substantial travel, time and expense. Daily schedules add another obstacle: parents' working hours and children's examinations or extracurricular activities can leave little shared free time. Digital entertainment may also crowd out family interaction when children devote most of their leisure to peers online. However, technology is not inherently a barrier. Video calls can help relatives maintain contact across long distances, so its effect depends partly on how families use it.\n\nLess interaction can remove an additional source of companionship, reassurance and guidance from children's lives. Grandparents may offer attention and perspectives that differ from those of parents, especially during stressful periods. Losing that regular connection can narrow a child's emotional support network, although other caring relationships may compensate. The consequences can also extend beyond individual well-being. Family memories, regional dialects and local customs are often shared through ordinary conversations between generations. When those conversations become rare, children may know less about their family's experiences and cultural background. The family can consequently find it harder to maintain a sense of identity and continuity. These are potential effects rather than inevitable outcomes, since meaningful visits and regular remote conversations can preserve close relationships despite physical distance.\n\nIn conclusion, migration and crowded routines can reduce time with grandparents, with possible costs for emotional support and the transmission of family knowledge. The impact depends on the quality of the contact that remains, not simply on how far apart relatives live."
+    },
+    "source_sha256": "9ae69bd6a698023b8450da2b356806ca1d0a1b530142a436c15d64bc6bc1fa4d"
+  },
+  "practice": {
+    "diagnosis": "本篇以切题性、逻辑展开和准确表达为训练重点；7.5+为练习目标，无法仅凭参考文本承诺实际考试分数。",
+    "score_dimensions": [
+      {
+        "name": "Task Response",
+        "estimate": "训练检查",
+        "note": "原因包括迁移、家庭时间冲突和部分数字娱乐；不将父母工作负担误写成儿童工作负担。"
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "estimate": "训练检查",
+        "note": "中心句后解释具体机制和结果；结尾回应引言立场，不新增未经展开的理由。"
+      },
+      {
+        "name": "Lexical Resource",
+        "estimate": "训练检查",
+        "note": "优先使用准确自然的搭配，避免为追求高级词汇牺牲意义。"
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "estimate": "训练检查",
+        "note": "结合让步、条件和定语结构，控制长句长度，检查冠词、单复数及主谓一致。"
+      }
+    ],
+    "notes": [
+      "原因包括迁移、家庭时间冲突和部分数字娱乐；不将父母工作负担误写成儿童工作负担。",
+      "补充技术也可维持远距离联系的限定，避免数字交流必然破坏亲情的单向判断。",
+      "影响分别覆盖儿童情感支持和家庭文化传承；并非所有家庭都会出现同样后果。"
+    ],
+    "errors": [],
+    "drills": [
+      {
+        "id": "1",
+        "cn": "地理分离不一定会终结亲密友谊。",
+        "hint": "Geographical separation",
+        "answer": "Geographical separation does not necessarily end a close friendship.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "2",
+        "cn": "大学应为适应新环境的学生提供情感支持。",
+        "hint": "emotional support",
+        "answer": "Universities should provide emotional support for students adjusting to a new environment.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "3",
+        "cn": "社区园艺项目能够加强代际纽带。",
+        "hint": "intergenerational bonds",
+        "answer": "Community gardening projects can strengthen intergenerational bonds.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      }
+    ]
+  }
+}

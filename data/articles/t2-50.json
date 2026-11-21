@@ -1,0 +1,424 @@
+{
+  "id": "t2-50",
+  "type": "大作文",
+  "title": "家庭垃圾增加与回收不足（练习1·08）",
+  "group": "环境与动物",
+  "question": "In many countries, the amount of household waste is increasing, and a large proportion of it is not recycled. What are the main reasons for this problem? What measures can governments and individuals take to address it?",
+  "task_type": "Causes and solutions",
+  "logic": "▪ 两重问题：垃圾增多与回收不足。▪ 原因：过度购买；分类和收运不便。▪ 措施：源头减量；分类收运和后端处理。▪ 结论：政府供给与居民行为相互支持。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Many countries generate growing amounts of household waste while recycling only a limited share. Excessive consumption and inadequate collection systems both contribute to the problem. Effective solutions must therefore reduce waste before it is created as well as make the remaining recyclable material easier to recover.",
+      "cn": "许多国家的家庭垃圾不断增多，回收比例却有限。过度消费与收集体系不足都促成了问题。因此，有效方案既要在产生前减少垃圾，也要让剩余可回收材料更易回收利用。",
+      "clozes": [
+        {
+          "start": 97,
+          "end": 118,
+          "answer": "Excessive consumption"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "One cause is consumption that exceeds actual needs. Convenient shopping and inexpensive products can encourage people to replace usable items or make unnecessary purchases. The result may include unwanted goods, leftover food and additional packaging, all of which increase the waste households must manage. At the same time, recycling requires more than goodwill. Without clearly labelled bins and reliable collection services, residents may be unsure how to separate materials or doubt that doing so has any purpose. Recyclable items can then become mixed with general waste and lose the chance to be recovered properly.",
+      "cn": "一个原因是消费超过实际需要。便捷购物与低价产品可能鼓励替换仍可使用的物品或不必要购买，产生不想要的商品、剩饭和额外包装，增加家庭需管理的垃圾。同时，回收不只需要善意。没有标示清晰的垃圾箱和可靠收运服务，居民可能不知如何分类，或怀疑分类是否有意义。可回收物于是可能与普通垃圾混合，失去被正确回收的机会。",
+      "clozes": [
+        {
+          "start": 150,
+          "end": 171,
+          "answer": "unnecessary purchases"
+        },
+        {
+          "start": 399,
+          "end": 427,
+          "answer": "reliable collection services"
+        },
+        {
+          "start": 563,
+          "end": 576,
+          "answer": "general waste"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Governments should strengthen recycling infrastructure by providing accessible recycling facilities, clear instructions and dependable collection. They also need to ensure that separated materials reach suitable processing facilities; asking people to sort waste achieves little if the collection system mixes it again. Individuals, meanwhile, can reduce the amount requiring disposal by avoiding unnecessary purchases, choosing products with less packaging and continuing to use items that remain serviceable. These habits address waste at its source rather than treating recycling as permission to consume without limits. Households should also separate recyclable materials according to local sorting rules so that contamination does not undermine the recovery process. Government provision and individual behaviour thus reinforce each other: convenient services support participation, while careful use makes those services more effective.",
+      "cn": "政府应通过提供方便的回收设施、清晰说明及可靠收运来加强回收基础设施，还要确保分类材料进入合适处理设施；如果运输时又混在一起，要求居民分类作用很小。个人则可通过避免不必要购买、选择包装较少的产品及继续使用尚可用的物品，减少待处理垃圾。这些习惯从源头解决问题，而非把回收视为无节制消费的许可。家庭还应按当地分类规则分开可回收材料，以免污染破坏回收过程。因此，政府供给与个人行为相互加强：便利服务支持参与，仔细使用则提高服务效果。",
+      "clozes": [
+        {
+          "start": 30,
+          "end": 54,
+          "answer": "recycling infrastructure"
+        },
+        {
+          "start": 443,
+          "end": 457,
+          "answer": "less packaging"
+        },
+        {
+          "start": 656,
+          "end": 676,
+          "answer": "recyclable materials"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, household waste grows when consumption creates avoidable rubbish and recycling systems fail to recover usable materials. Better public infrastructure, clearer guidance and more responsible household choices are needed together to reduce the environmental impact.",
+      "cn": "总之，当消费产生可避免的垃圾，而回收体系无法回收可用材料时，家庭垃圾便增加。需要共同改善公共设施、指导和家庭选择，减少环境影响。",
+      "clozes": [
+        {
+          "start": 256,
+          "end": 276,
+          "answer": "environmental impact"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Nowadays, an increasing amount of household waste is being produced, much of which is disposed of rather than recycled. This essay will examine the main reasons for this problem and discuss possible solutions involving both governments and individuals.",
+      "cn": "如今家庭垃圾不断增多，其中很大部分被丢弃而非回收。本文将分析主要原因，并讨论政府和个人可采取的措施。",
+      "clozes": [
+        {
+          "start": 34,
+          "end": 49,
+          "answer": "household waste"
+        },
+        {
+          "start": 219,
+          "end": 251,
+          "answer": "both governments and individuals"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The growing problem of household waste can largely be attributed to excessive consumption and inadequate recycling systems. Where consumer goods are affordable and shopping is convenient, people are increasingly encouraged to buy more than they actually need. This often results in unused products, leftover food and unnecessary packaging being thrown away, increasing the amount of household waste generated. Meanwhile, inadequate recycling infrastructure makes it difficult for households to dispose of waste responsibly. In areas where separate collection bins and reliable recycling services are unavailable, residents may find sorting waste inconvenient or even pointless. As a result, recyclable materials are often mixed with general household waste and end up being discarded rather than properly recycled.",
+      "cn": "家庭垃圾问题加重，很大程度上源于过度消费和回收体系不足。在商品价格可负担、购物方便的地方，人们日益受到鼓励而购买超过实际需求的物品，导致闲置商品、剩余食物和多余包装被丢弃，增加家庭垃圾。同时，回收基础设施不足，使家庭难以负责任地处理废物。在缺少分类箱和可靠回收服务的地区，居民可能觉得分类不方便甚至没有意义。因此，可回收材料常与普通家庭垃圾混在一起，被丢弃而非适当回收。",
+      "clozes": [
+        {
+          "start": 68,
+          "end": 89,
+          "answer": "excessive consumption"
+        },
+        {
+          "start": 432,
+          "end": 456,
+          "answer": "recycling infrastructure"
+        },
+        {
+          "start": 691,
+          "end": 711,
+          "answer": "recyclable materials"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Addressing this problem requires both government investment in recycling infrastructure and more responsible behaviour among individuals. Governments should provide accessible recycling facilities, clearly labelled bins and reliable collection services, while ensuring that separated materials reach suitable processing facilities. These measures would make waste separation more convenient and encourage households to participate in recycling, allowing more materials to be collected and processed properly. Meanwhile, individuals should adopt more responsible consumption habits by avoiding unnecessary purchases and choosing products with less packaging. This would reduce the amount of waste generated in the first place, rather than relying entirely on recycling after products have been discarded. They should also separate recyclable materials from general waste to make the recycling process more effective. Together, these efforts could reduce unnecessary waste and improve recycling rates.",
+      "cn": "解决此问题需要政府投资回收基础设施，个人也采取更负责任的行为。政府应提供便捷设施、标示清晰的垃圾箱及可靠收运服务，同时确保分类材料进入适合的处理设施。这能便利分类、鼓励居民参与，让更多材料被正确收集和处理。个人则应避免不必要的购买、选择包装较少的产品，以更负责任的消费习惯在源头减少垃圾，而非完全依赖丢弃后的回收。他们还应将可回收物与普通垃圾分开，提高回收效率。这些共同努力能减少不必要的废物并提高回收率。",
+      "clozes": [
+        {
+          "start": 224,
+          "end": 252,
+          "answer": "reliable collection services"
+        },
+        {
+          "start": 593,
+          "end": 614,
+          "answer": "unnecessary purchases"
+        },
+        {
+          "start": 642,
+          "end": 656,
+          "answer": "less packaging"
+        },
+        {
+          "start": 856,
+          "end": 869,
+          "answer": "general waste"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, reducing household waste requires a combination of effective public policies and responsible individual behaviour. By working together, governments and citizens can improve resource use and reduce the environmental impact of waste.",
+      "cn": "总之，减少家庭垃圾需要有效公共政策与负责任的个人行为相结合。政府和公民合作，能改善资源利用并减少垃圾的环境影响。",
+      "clozes": [
+        {
+          "start": 216,
+          "end": 236,
+          "answer": "environmental impact"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "nine_complete": true,
+    "seven_complete": true,
+    "7marker": true
+  },
+  "vocab": [
+    {
+      "en": "Excessive consumption",
+      "zh": "过度消费"
+    },
+    {
+      "en": "recycling infrastructure",
+      "zh": "回收基础设施"
+    },
+    {
+      "en": "reliable collection services",
+      "zh": "可靠收运服务"
+    },
+    {
+      "en": "unnecessary purchases",
+      "zh": "不必要的购买"
+    },
+    {
+      "en": "less packaging",
+      "zh": "更少包装"
+    },
+    {
+      "en": "recyclable materials",
+      "zh": "可回收材料"
+    },
+    {
+      "en": "general waste",
+      "zh": "普通垃圾"
+    },
+    {
+      "en": "environmental impact",
+      "zh": "环境影响"
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "seven": "版本 A · 保留原意修正版",
+    "nine": "版本 B · Band 7.5+目标版"
+  },
+  "edition_summary": "双版本 · 原意修正 / Band 7.5+目标",
+  "source_note": "用户上传《雅思写作_大作文练习1.docx》（文档内标作GPT/Band 8练习参考稿）；非用户独立原稿，亦非官方评分。A版保留参考稿原意并修正必要语言或论证问题；B版为本次重写的Band 7.5+目标参考。 两版共用8道迁移任务，分别标注本版出处；A版篇幅较长，可用于精读，限时训练优先B版。",
+  "transfer": {
+    "seven": [
+      {
+        "id": "01",
+        "phrase": "excessive consumption",
+        "source_phrase": "excessive consumption",
+        "source_paragraph": 1,
+        "source": "The growing problem of household waste can largely be attributed to excessive consumption and inadequate recycling systems. Where consumer goods are affordable and shopping is convenient, people are increasingly encouraged to buy more than they actually need. This often results in unused products, leftover food and unnecessary packaging being thrown away, increasing the amount of household waste generated. Meanwhile, inadequate recycling infrastructure makes it difficult for households to dispose of waste responsibly. In areas where separate collection bins and reliable recycling services are unavailable, residents may find sorting waste inconvenient or even pointless. As a result, recyclable materials are often mixed with general household waste and end up being discarded rather than properly recycled.",
+        "cn": "耐用产品的维修服务有助于减少过度消费。",
+        "answer": "Repair services for durable products can help reduce excessive consumption."
+      },
+      {
+        "id": "02",
+        "phrase": "recycling infrastructure",
+        "source_phrase": "recycling infrastructure",
+        "source_paragraph": 1,
+        "source": "The growing problem of household waste can largely be attributed to excessive consumption and inadequate recycling systems. Where consumer goods are affordable and shopping is convenient, people are increasingly encouraged to buy more than they actually need. This often results in unused products, leftover food and unnecessary packaging being thrown away, increasing the amount of household waste generated. Meanwhile, inadequate recycling infrastructure makes it difficult for households to dispose of waste responsibly. In areas where separate collection bins and reliable recycling services are unavailable, residents may find sorting waste inconvenient or even pointless. As a result, recyclable materials are often mixed with general household waste and end up being discarded rather than properly recycled.",
+        "cn": "旅游城市需要能应对旺季需求的回收基础设施。",
+        "answer": "Tourist cities need recycling infrastructure that can cope with peak-season demand."
+      },
+      {
+        "id": "03",
+        "phrase": "reliable collection services",
+        "source_phrase": "reliable collection services",
+        "source_paragraph": 2,
+        "source": "Addressing this problem requires both government investment in recycling infrastructure and more responsible behaviour among individuals. Governments should provide accessible recycling facilities, clearly labelled bins and reliable collection services, while ensuring that separated materials reach suitable processing facilities. These measures would make waste separation more convenient and encourage households to participate in recycling, allowing more materials to be collected and processed properly. Meanwhile, individuals should adopt more responsible consumption habits by avoiding unnecessary purchases and choosing products with less packaging. This would reduce the amount of waste generated in the first place, rather than relying entirely on recycling after products have been discarded. They should also separate recyclable materials from general waste to make the recycling process more effective. Together, these efforts could reduce unnecessary waste and improve recycling rates.",
+        "cn": "没有可靠收运服务，废弃电池可能被不当处理。",
+        "answer": "Without reliable collection services, discarded batteries may be disposed of improperly."
+      },
+      {
+        "id": "04",
+        "phrase": "unnecessary purchases",
+        "source_phrase": "unnecessary purchases",
+        "source_paragraph": 2,
+        "source": "Addressing this problem requires both government investment in recycling infrastructure and more responsible behaviour among individuals. Governments should provide accessible recycling facilities, clearly labelled bins and reliable collection services, while ensuring that separated materials reach suitable processing facilities. These measures would make waste separation more convenient and encourage households to participate in recycling, allowing more materials to be collected and processed properly. Meanwhile, individuals should adopt more responsible consumption habits by avoiding unnecessary purchases and choosing products with less packaging. This would reduce the amount of waste generated in the first place, rather than relying entirely on recycling after products have been discarded. They should also separate recyclable materials from general waste to make the recycling process more effective. Together, these efforts could reduce unnecessary waste and improve recycling rates.",
+        "cn": "列购物清单可以减少不必要的购买。",
+        "answer": "Making a shopping list can reduce unnecessary purchases."
+      },
+      {
+        "id": "05",
+        "phrase": "less packaging",
+        "source_phrase": "less packaging",
+        "source_paragraph": 2,
+        "source": "Addressing this problem requires both government investment in recycling infrastructure and more responsible behaviour among individuals. Governments should provide accessible recycling facilities, clearly labelled bins and reliable collection services, while ensuring that separated materials reach suitable processing facilities. These measures would make waste separation more convenient and encourage households to participate in recycling, allowing more materials to be collected and processed properly. Meanwhile, individuals should adopt more responsible consumption habits by avoiding unnecessary purchases and choosing products with less packaging. This would reduce the amount of waste generated in the first place, rather than relying entirely on recycling after products have been discarded. They should also separate recyclable materials from general waste to make the recycling process more effective. Together, these efforts could reduce unnecessary waste and improve recycling rates.",
+        "cn": "网店可以让顾客选择包装更少的配送方式。",
+        "answer": "Online shops can allow customers to choose delivery options with less packaging."
+      },
+      {
+        "id": "06",
+        "phrase": "recyclable materials",
+        "source_phrase": "recyclable materials",
+        "source_paragraph": 1,
+        "source": "The growing problem of household waste can largely be attributed to excessive consumption and inadequate recycling systems. Where consumer goods are affordable and shopping is convenient, people are increasingly encouraged to buy more than they actually need. This often results in unused products, leftover food and unnecessary packaging being thrown away, increasing the amount of household waste generated. Meanwhile, inadequate recycling infrastructure makes it difficult for households to dispose of waste responsibly. In areas where separate collection bins and reliable recycling services are unavailable, residents may find sorting waste inconvenient or even pointless. As a result, recyclable materials are often mixed with general household waste and end up being discarded rather than properly recycled.",
+        "cn": "建筑公司应在拆除前识别可回收材料。",
+        "answer": "Construction companies should identify recyclable materials before demolition."
+      },
+      {
+        "id": "07",
+        "phrase": "general waste",
+        "source_phrase": "general waste",
+        "source_paragraph": 2,
+        "source": "Addressing this problem requires both government investment in recycling infrastructure and more responsible behaviour among individuals. Governments should provide accessible recycling facilities, clearly labelled bins and reliable collection services, while ensuring that separated materials reach suitable processing facilities. These measures would make waste separation more convenient and encourage households to participate in recycling, allowing more materials to be collected and processed properly. Meanwhile, individuals should adopt more responsible consumption habits by avoiding unnecessary purchases and choosing products with less packaging. This would reduce the amount of waste generated in the first place, rather than relying entirely on recycling after products have been discarded. They should also separate recyclable materials from general waste to make the recycling process more effective. Together, these efforts could reduce unnecessary waste and improve recycling rates.",
+        "cn": "诊所必须将危险医疗废物与普通垃圾分开。",
+        "answer": "Clinics must separate hazardous medical waste from general waste."
+      },
+      {
+        "id": "08",
+        "phrase": "environmental impact",
+        "source_phrase": "environmental impact",
+        "source_paragraph": 3,
+        "source": "In conclusion, reducing household waste requires a combination of effective public policies and responsible individual behaviour. By working together, governments and citizens can improve resource use and reduce the environmental impact of waste.",
+        "cn": "评估产品的环境影响时，应考虑整个使用寿命。",
+        "answer": "A product's environmental impact should be assessed over its entire lifespan."
+      }
+    ],
+    "nine": [
+      {
+        "id": "01",
+        "phrase": "Excessive consumption",
+        "source_phrase": "Excessive consumption",
+        "source_paragraph": 0,
+        "source": "Many countries generate growing amounts of household waste while recycling only a limited share. Excessive consumption and inadequate collection systems both contribute to the problem. Effective solutions must therefore reduce waste before it is created as well as make the remaining recyclable material easier to recover.",
+        "cn": "耐用产品的维修服务有助于减少过度消费。",
+        "answer": "Repair services for durable products can help reduce excessive consumption."
+      },
+      {
+        "id": "02",
+        "phrase": "recycling infrastructure",
+        "source_phrase": "recycling infrastructure",
+        "source_paragraph": 2,
+        "source": "Governments should strengthen recycling infrastructure by providing accessible recycling facilities, clear instructions and dependable collection. They also need to ensure that separated materials reach suitable processing facilities; asking people to sort waste achieves little if the collection system mixes it again. Individuals, meanwhile, can reduce the amount requiring disposal by avoiding unnecessary purchases, choosing products with less packaging and continuing to use items that remain serviceable. These habits address waste at its source rather than treating recycling as permission to consume without limits. Households should also separate recyclable materials according to local sorting rules so that contamination does not undermine the recovery process. Government provision and individual behaviour thus reinforce each other: convenient services support participation, while careful use makes those services more effective.",
+        "cn": "旅游城市需要能应对旺季需求的回收基础设施。",
+        "answer": "Tourist cities need recycling infrastructure that can cope with peak-season demand."
+      },
+      {
+        "id": "03",
+        "phrase": "reliable collection services",
+        "source_phrase": "reliable collection services",
+        "source_paragraph": 1,
+        "source": "One cause is consumption that exceeds actual needs. Convenient shopping and inexpensive products can encourage people to replace usable items or make unnecessary purchases. The result may include unwanted goods, leftover food and additional packaging, all of which increase the waste households must manage. At the same time, recycling requires more than goodwill. Without clearly labelled bins and reliable collection services, residents may be unsure how to separate materials or doubt that doing so has any purpose. Recyclable items can then become mixed with general waste and lose the chance to be recovered properly.",
+        "cn": "没有可靠收运服务，废弃电池可能被不当处理。",
+        "answer": "Without reliable collection services, discarded batteries may be disposed of improperly."
+      },
+      {
+        "id": "04",
+        "phrase": "unnecessary purchases",
+        "source_phrase": "unnecessary purchases",
+        "source_paragraph": 1,
+        "source": "One cause is consumption that exceeds actual needs. Convenient shopping and inexpensive products can encourage people to replace usable items or make unnecessary purchases. The result may include unwanted goods, leftover food and additional packaging, all of which increase the waste households must manage. At the same time, recycling requires more than goodwill. Without clearly labelled bins and reliable collection services, residents may be unsure how to separate materials or doubt that doing so has any purpose. Recyclable items can then become mixed with general waste and lose the chance to be recovered properly.",
+        "cn": "列购物清单可以减少不必要的购买。",
+        "answer": "Making a shopping list can reduce unnecessary purchases."
+      },
+      {
+        "id": "05",
+        "phrase": "less packaging",
+        "source_phrase": "less packaging",
+        "source_paragraph": 2,
+        "source": "Governments should strengthen recycling infrastructure by providing accessible recycling facilities, clear instructions and dependable collection. They also need to ensure that separated materials reach suitable processing facilities; asking people to sort waste achieves little if the collection system mixes it again. Individuals, meanwhile, can reduce the amount requiring disposal by avoiding unnecessary purchases, choosing products with less packaging and continuing to use items that remain serviceable. These habits address waste at its source rather than treating recycling as permission to consume without limits. Households should also separate recyclable materials according to local sorting rules so that contamination does not undermine the recovery process. Government provision and individual behaviour thus reinforce each other: convenient services support participation, while careful use makes those services more effective.",
+        "cn": "网店可以让顾客选择包装更少的配送方式。",
+        "answer": "Online shops can allow customers to choose delivery options with less packaging."
+      },
+      {
+        "id": "06",
+        "phrase": "recyclable materials",
+        "source_phrase": "recyclable materials",
+        "source_paragraph": 2,
+        "source": "Governments should strengthen recycling infrastructure by providing accessible recycling facilities, clear instructions and dependable collection. They also need to ensure that separated materials reach suitable processing facilities; asking people to sort waste achieves little if the collection system mixes it again. Individuals, meanwhile, can reduce the amount requiring disposal by avoiding unnecessary purchases, choosing products with less packaging and continuing to use items that remain serviceable. These habits address waste at its source rather than treating recycling as permission to consume without limits. Households should also separate recyclable materials according to local sorting rules so that contamination does not undermine the recovery process. Government provision and individual behaviour thus reinforce each other: convenient services support participation, while careful use makes those services more effective.",
+        "cn": "建筑公司应在拆除前识别可回收材料。",
+        "answer": "Construction companies should identify recyclable materials before demolition."
+      },
+      {
+        "id": "07",
+        "phrase": "general waste",
+        "source_phrase": "general waste",
+        "source_paragraph": 1,
+        "source": "One cause is consumption that exceeds actual needs. Convenient shopping and inexpensive products can encourage people to replace usable items or make unnecessary purchases. The result may include unwanted goods, leftover food and additional packaging, all of which increase the waste households must manage. At the same time, recycling requires more than goodwill. Without clearly labelled bins and reliable collection services, residents may be unsure how to separate materials or doubt that doing so has any purpose. Recyclable items can then become mixed with general waste and lose the chance to be recovered properly.",
+        "cn": "诊所必须将危险医疗废物与普通垃圾分开。",
+        "answer": "Clinics must separate hazardous medical waste from general waste."
+      },
+      {
+        "id": "08",
+        "phrase": "environmental impact",
+        "source_phrase": "environmental impact",
+        "source_paragraph": 3,
+        "source": "In conclusion, household waste grows when consumption creates avoidable rubbish and recycling systems fail to recover usable materials. Better public infrastructure, clearer guidance and more responsible household choices are needed together to reduce the environmental impact.",
+        "cn": "评估产品的环境影响时，应考虑整个使用寿命。",
+        "answer": "A product's environmental impact should be assessed over its entire lifespan."
+      }
+    ]
+  },
+  "review": {
+    "reference_material": true,
+    "practice_estimate": "未独立评分",
+    "original_complete": true,
+    "original_question": "In many countries, the amount of household waste is increasing, and a large proportion of it is not recycled. What are the main reasons for this problem? What measures can governments and individuals take to address it?",
+    "complete_feedback": "同时覆盖“垃圾产生增多”和“回收比例不足”，分别解释消费和基础设施原因。\n措施对应原因：源头少买少包装、清晰分类、可靠收运及后端处理缺一不可。\n修正普遍化趋势：商品便宜和购物方便并非所有地区的统一事实，应使用条件表达。",
+    "source_models": {
+      "original": "Nowadays, an increasing amount of household waste is being produced, much of which is disposed of rather than recycled. This essay will examine the main reasons for this problem and discuss possible solutions involving both governments and individuals.\n\nThe growing problem of household waste can largely be attributed to excessive consumption and inadequate recycling systems. As consumer goods become more affordable and shopping more convenient, people are increasingly encouraged to buy more than they actually need. This often results in unused products, leftover food and unnecessary packaging being thrown away, increasing the amount of household waste generated. Meanwhile, inadequate recycling infrastructure makes it difficult for households to dispose of waste responsibly. In areas where separate collection bins and reliable recycling services are unavailable, residents may find sorting waste inconvenient or even pointless. As a result, recyclable materials are often mixed with general household waste and end up being discarded rather than properly recycled.\n\nAddressing this problem requires both government investment in recycling infrastructure and more responsible behaviour among individuals. Governments should provide accessible recycling facilities, clearly labelled bins and reliable collection services. These measures would make waste separation more convenient and encourage households to participate in recycling, allowing more materials to be collected and processed properly. Meanwhile, individuals should adopt more responsible consumption habits by avoiding unnecessary purchases and choosing products with less packaging. This would reduce the amount of waste generated in the first place, rather than relying entirely on recycling after products have been discarded. They should also separate recyclable materials from general waste to make the recycling process more effective. Together, these efforts could reduce unnecessary waste and improve recycling rates.\n\nIn conclusion, reducing household waste requires a combination of effective public policies and responsible individual behaviour. By working together, governments and citizens can improve resource use and reduce the environmental impact of waste.",
+      "A": "Nowadays, an increasing amount of household waste is being produced, much of which is disposed of rather than recycled. This essay will examine the main reasons for this problem and discuss possible solutions involving both governments and individuals.\n\nThe growing problem of household waste can largely be attributed to excessive consumption and inadequate recycling systems. Where consumer goods are affordable and shopping is convenient, people are increasingly encouraged to buy more than they actually need. This often results in unused products, leftover food and unnecessary packaging being thrown away, increasing the amount of household waste generated. Meanwhile, inadequate recycling infrastructure makes it difficult for households to dispose of waste responsibly. In areas where separate collection bins and reliable recycling services are unavailable, residents may find sorting waste inconvenient or even pointless. As a result, recyclable materials are often mixed with general household waste and end up being discarded rather than properly recycled.\n\nAddressing this problem requires both government investment in recycling infrastructure and more responsible behaviour among individuals. Governments should provide accessible recycling facilities, clearly labelled bins and reliable collection services, while ensuring that separated materials reach suitable processing facilities. These measures would make waste separation more convenient and encourage households to participate in recycling, allowing more materials to be collected and processed properly. Meanwhile, individuals should adopt more responsible consumption habits by avoiding unnecessary purchases and choosing products with less packaging. This would reduce the amount of waste generated in the first place, rather than relying entirely on recycling after products have been discarded. They should also separate recyclable materials from general waste to make the recycling process more effective. Together, these efforts could reduce unnecessary waste and improve recycling rates.\n\nIn conclusion, reducing household waste requires a combination of effective public policies and responsible individual behaviour. By working together, governments and citizens can improve resource use and reduce the environmental impact of waste.",
+      "B": "Many countries generate growing amounts of household waste while recycling only a limited share. Excessive consumption and inadequate collection systems both contribute to the problem. Effective solutions must therefore reduce waste before it is created as well as make the remaining recyclable material easier to recover.\n\nOne cause is consumption that exceeds actual needs. Convenient shopping and inexpensive products can encourage people to replace usable items or make unnecessary purchases. The result may include unwanted goods, leftover food and additional packaging, all of which increase the waste households must manage. At the same time, recycling requires more than goodwill. Without clearly labelled bins and reliable collection services, residents may be unsure how to separate materials or doubt that doing so has any purpose. Recyclable items can then become mixed with general waste and lose the chance to be recovered properly.\n\nGovernments should strengthen recycling infrastructure by providing accessible recycling facilities, clear instructions and dependable collection. They also need to ensure that separated materials reach suitable processing facilities; asking people to sort waste achieves little if the collection system mixes it again. Individuals, meanwhile, can reduce the amount requiring disposal by avoiding unnecessary purchases, choosing products with less packaging and continuing to use items that remain serviceable. These habits address waste at its source rather than treating recycling as permission to consume without limits. Households should also separate recyclable materials according to local sorting rules so that contamination does not undermine the recovery process. Government provision and individual behaviour thus reinforce each other: convenient services support participation, while careful use makes those services more effective.\n\nIn conclusion, household waste grows when consumption creates avoidable rubbish and recycling systems fail to recover usable materials. Better public infrastructure, clearer guidance and more responsible household choices are needed together to reduce the environmental impact."
+    },
+    "source_sha256": "9ae69bd6a698023b8450da2b356806ca1d0a1b530142a436c15d64bc6bc1fa4d"
+  },
+  "practice": {
+    "diagnosis": "本篇以切题性、逻辑展开和准确表达为训练重点；7.5+为练习目标，无法仅凭参考文本承诺实际考试分数。",
+    "score_dimensions": [
+      {
+        "name": "Task Response",
+        "estimate": "训练检查",
+        "note": "同时覆盖“垃圾产生增多”和“回收比例不足”，分别解释消费和基础设施原因。"
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "estimate": "训练检查",
+        "note": "中心句后解释具体机制和结果；结尾回应引言立场，不新增未经展开的理由。"
+      },
+      {
+        "name": "Lexical Resource",
+        "estimate": "训练检查",
+        "note": "优先使用准确自然的搭配，避免为追求高级词汇牺牲意义。"
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "estimate": "训练检查",
+        "note": "结合让步、条件和定语结构，控制长句长度，检查冠词、单复数及主谓一致。"
+      }
+    ],
+    "notes": [
+      "同时覆盖“垃圾产生增多”和“回收比例不足”，分别解释消费和基础设施原因。",
+      "措施对应原因：源头少买少包装、清晰分类、可靠收运及后端处理缺一不可。",
+      "修正普遍化趋势：商品便宜和购物方便并非所有地区的统一事实，应使用条件表达。"
+    ],
+    "errors": [],
+    "drills": [
+      {
+        "id": "1",
+        "cn": "耐用产品的维修服务有助于减少过度消费。",
+        "hint": "Excessive consumption",
+        "answer": "Repair services for durable products can help reduce excessive consumption.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "2",
+        "cn": "旅游城市需要能应对旺季需求的回收基础设施。",
+        "hint": "recycling infrastructure",
+        "answer": "Tourist cities need recycling infrastructure that can cope with peak-season demand.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "3",
+        "cn": "没有可靠收运服务，废弃电池可能被不当处理。",
+        "hint": "reliable collection services",
+        "answer": "Without reliable collection services, discarded batteries may be disposed of improperly.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      }
+    ]
+  }
+}

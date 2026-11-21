@@ -1,0 +1,429 @@
+{
+  "id": "t2-45",
+  "type": "大作文",
+  "title": "学校学术教育与生活技能（练习1·03）",
+  "group": "教育与成长",
+  "question": "Some people believe that schools should focus mainly on academic subjects, while practical skills such as cooking, managing money and basic home maintenance should be taught at home. To what extent do you agree or disagree?",
+  "task_type": "Agree / disagree",
+  "logic": "▪ 分别回应学术优先和家庭独责。▪ 生活技能：家庭资源差异→学校兜底。▪ 学术重点：教学资源→系统基础→深造就业。▪ 结论：学术为主，技能共同承担。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Some argue that schools should concentrate on academic subjects and leave practical skills to families. I agree with giving academic education priority, but not with making households solely responsible for life-skills instruction. Schools should provide a limited practical foundation alongside the systematic academic learning they are particularly equipped to deliver.",
+      "cn": "一些人主张学校集中教授学术科目，将实用技能留给家庭。我同意学术教育优先，但不同意让家庭独自承担生活技能教学。学校应在其擅长的系统学术教学之外，提供有限的实用基础。",
+      "clozes": [
+        {
+          "start": 124,
+          "end": 142,
+          "answer": "academic education"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Practical life skills deserve a place in school because opportunities to learn them at home are unequal. Some parents lack the time, resources or confidence to teach cooking, budgeting or basic household maintenance. Relying entirely on families could therefore leave some pupils less prepared for adult responsibilities. A short budgeting activity, for example, can help students understand how everyday expenses relate to a limited income. Such instruction should support independence without turning the school timetable into a substitute for every aspect of family life.",
+      "cn": "实用生活技能应进入学校，因为家庭学习机会不平等。一些家长没有时间、资源或信心教授烹饪、预算或基本家务维修。完全依靠家庭，可能使部分学生无法充分应对成年责任。例如，简短的预算活动能帮助学生理解日常开支与有限收入的关系。这类教学应支持独立，却不应使课程表替代家庭生活的所有方面。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 21,
+          "answer": "Practical life skills"
+        },
+        {
+          "start": 298,
+          "end": 320,
+          "answer": "adult responsibilities"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "The stronger reason for retaining an academic focus is that schools can organise sustained learning in ways most households cannot. Trained teachers, structured curricula and specialised learning resources support progression from basic ideas to more demanding concepts. Mathematics, science and languages also build intellectual foundations that students can apply beyond individual lessons. Numeracy assists financial decisions, while literacy and logical reasoning help people understand information and evaluate unfamiliar problems. These benefits support both higher education and future employment, and replacing substantial academic teaching with isolated practical activities could weaken them. A workable approach is to integrate selected life skills into existing subjects, then allow families to reinforce them through everyday practice. This respects the different strengths of schools and homes instead of treating their responsibilities as mutually exclusive.",
+      "cn": "保留学术重点的更有力理由是，学校能以多数家庭做不到的方式组织持续学习。受训教师、结构化课程及专门学习资源支持学生从基础思想逐步进入更复杂概念。数学、科学和语言也建立可用于课堂之外的智力基础。计算能力有助于财务决策，读写和逻辑推理让人理解信息、评估陌生问题。这些收益支持高等教育与未来就业；用零散实用活动取代大量学术教学，可能削弱它们。可行方案是将部分生活技能融入现有科目，再由家庭在日常实践中巩固。这尊重学校与家庭的不同优势，而非把责任视为互斥。",
+      "clozes": [
+        {
+          "start": 150,
+          "end": 170,
+          "answer": "structured curricula"
+        },
+        {
+          "start": 175,
+          "end": 205,
+          "answer": "specialised learning resources"
+        },
+        {
+          "start": 317,
+          "end": 341,
+          "answer": "intellectual foundations"
+        },
+        {
+          "start": 565,
+          "end": 581,
+          "answer": "higher education"
+        },
+        {
+          "start": 586,
+          "end": 603,
+          "answer": "future employment"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, academic subjects should remain central to schooling, but practical education should be a shared responsibility. A modest, well-designed school contribution can help pupils whose families cannot provide consistent instruction without displacing essential academic learning.",
+      "cn": "总之，学术科目应保持核心地位，但实用教育应由双方共同承担。适度而设计合理的学校教学，能在不挤占必要学术学习的情况下帮助缺乏持续家庭指导的学生。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "In conclusion"
+        },
+        {
+          "start": 15,
+          "end": 32,
+          "answer": "academic subjects"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Whether schools should prioritise academic education and leave practical life skills to families remains a matter of debate. I largely agree that academic subjects should remain the primary focus of schools, but I do not believe that families should bear sole responsibility for practical instruction.",
+      "cn": "学校是否应优先教授学术知识并把实用生活技能交给家庭，仍有争议。我基本同意学术科目应是学校的主要重点，但不认为家庭应独自承担实用技能教学责任。",
+      "clozes": [
+        {
+          "start": 34,
+          "end": 52,
+          "answer": "academic education"
+        },
+        {
+          "start": 63,
+          "end": 84,
+          "answer": "practical life skills"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Admittedly, practical life skills deserve some attention within formal education because they help young people become more independent and better prepared for adult responsibilities. Basic financial management, cooking and teamwork, for example, can enable students to deal more confidently with everyday challenges. Moreover, not all parents have the time, knowledge or resources to teach these skills consistently at home, meaning that schools can provide a useful safety net by offering basic instruction. Nevertheless, such training should complement rather than replace academic learning.",
+      "cn": "诚然，正式教育也应适度关注实用生活技能，因为它们有助于年轻人独立并为成年责任作准备。例如，基础理财、烹饪和团队合作能帮助学生更有信心地应对日常挑战。此外，并非所有家长都有时间、知识或资源在家持续教授这些技能，因此学校提供基础指导能发挥兜底作用。不过，这类训练应补充而非取代学术学习。",
+      "clozes": [
+        {
+          "start": 160,
+          "end": 182,
+          "answer": "adult responsibilities"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "The stronger argument is that schools are uniquely equipped to provide systematic academic education. Trained teachers, structured curricula and specialised learning resources allow students to develop knowledge in subjects such as mathematics, science and languages in a way that most families cannot easily replicate. More importantly, a broad academic foundation develops logical reasoning, literacy and disciplined study habits, all of which are transferable to higher education and a wide range of future careers. By building these intellectual foundations during the school years, students are also better prepared to acquire more specialised or practical skills later in life.",
+      "cn": "更有力的论点是学校尤其有条件提供系统的学术教育。受训教师、结构化课程和专门学习资源，让学生以多数家庭难以复制的方式学习数学、科学和语言。更重要的是，广泛的学术基础能培养逻辑推理、读写能力和有纪律的学习习惯，这些都可迁移至高等教育和多种未来职业。在学龄阶段建立这些智力基础，也使学生更有能力在以后学习更专业或实用的技能。",
+      "clozes": [
+        {
+          "start": 120,
+          "end": 140,
+          "answer": "structured curricula"
+        },
+        {
+          "start": 145,
+          "end": 175,
+          "answer": "specialised learning resources"
+        },
+        {
+          "start": 466,
+          "end": 482,
+          "answer": "higher education"
+        },
+        {
+          "start": 503,
+          "end": 517,
+          "answer": "future careers"
+        },
+        {
+          "start": 537,
+          "end": 561,
+          "answer": "intellectual foundations"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, academic education should remain the primary focus of schools, given their unique capacity to provide systematic instruction and its long-term benefits for further study and employment. However, basic practical training should supplement this focus, particularly for pupils who cannot consistently learn these skills at home.",
+      "cn": "总之，鉴于学校提供系统教学的独特能力及其对深造和就业的长期收益，学术教育应继续是学校重点。但基础实用训练应作为补充，尤其帮助无法在家持续学习这些技能的学生。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "In conclusion"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "nine_complete": true,
+    "seven_complete": true,
+    "7marker": true
+  },
+  "vocab": [
+    {
+      "en": "Practical life skills",
+      "zh": "实用生活技能"
+    },
+    {
+      "en": "academic education",
+      "zh": "学术教育"
+    },
+    {
+      "en": "structured curricula",
+      "zh": "结构化课程"
+    },
+    {
+      "en": "specialised learning resources",
+      "zh": "专门学习资源"
+    },
+    {
+      "en": "intellectual foundations",
+      "zh": "智力基础"
+    },
+    {
+      "en": "future employment",
+      "zh": "未来就业"
+    },
+    {
+      "en": "adult responsibilities",
+      "zh": "成年责任"
+    },
+    {
+      "en": "higher education",
+      "zh": "高等教育"
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "seven": "版本 A · 保留原意修正版",
+    "nine": "版本 B · Band 7.5+目标版"
+  },
+  "edition_summary": "双版本 · 原意修正 / Band 7.5+目标",
+  "source_note": "用户上传《雅思写作_大作文练习1.docx》（文档内标作GPT/Band 8练习参考稿）；非用户独立原稿，亦非官方评分。A版保留参考稿原意并修正必要语言或论证问题；B版为本次重写的Band 7.5+目标参考。 两版共用8道迁移任务，分别标注本版出处；A版篇幅较长，可用于精读，限时训练优先B版。",
+  "transfer": {
+    "seven": [
+      {
+        "id": "01",
+        "phrase": "practical life skills",
+        "source_phrase": "practical life skills",
+        "source_paragraph": 0,
+        "source": "Whether schools should prioritise academic education and leave practical life skills to families remains a matter of debate. I largely agree that academic subjects should remain the primary focus of schools, but I do not believe that families should bear sole responsibility for practical instruction.",
+        "cn": "青年中心可以开设有关实用生活技能的短期课程。",
+        "answer": "Youth centres can offer short courses in practical life skills."
+      },
+      {
+        "id": "02",
+        "phrase": "academic education",
+        "source_phrase": "academic education",
+        "source_paragraph": 0,
+        "source": "Whether schools should prioritise academic education and leave practical life skills to families remains a matter of debate. I largely agree that academic subjects should remain the primary focus of schools, but I do not believe that families should bear sole responsibility for practical instruction.",
+        "cn": "优质学术教育不应取决于家庭收入。",
+        "answer": "Access to high-quality academic education should not depend on family income."
+      },
+      {
+        "id": "03",
+        "phrase": "structured curricula",
+        "source_phrase": "structured curricula",
+        "source_paragraph": 2,
+        "source": "The stronger argument is that schools are uniquely equipped to provide systematic academic education. Trained teachers, structured curricula and specialised learning resources allow students to develop knowledge in subjects such as mathematics, science and languages in a way that most families cannot easily replicate. More importantly, a broad academic foundation develops logical reasoning, literacy and disciplined study habits, all of which are transferable to higher education and a wide range of future careers. By building these intellectual foundations during the school years, students are also better prepared to acquire more specialised or practical skills later in life.",
+        "cn": "成人语言学习者也能从结构化课程中受益。",
+        "answer": "Adult language learners can also benefit from structured curricula."
+      },
+      {
+        "id": "04",
+        "phrase": "specialised learning resources",
+        "source_phrase": "specialised learning resources",
+        "source_paragraph": 2,
+        "source": "The stronger argument is that schools are uniquely equipped to provide systematic academic education. Trained teachers, structured curricula and specialised learning resources allow students to develop knowledge in subjects such as mathematics, science and languages in a way that most families cannot easily replicate. More importantly, a broad academic foundation develops logical reasoning, literacy and disciplined study habits, all of which are transferable to higher education and a wide range of future careers. By building these intellectual foundations during the school years, students are also better prepared to acquire more specialised or practical skills later in life.",
+        "cn": "乡村学校可能需要资助以获取专门学习资源。",
+        "answer": "Rural schools may need funding to obtain specialised learning resources."
+      },
+      {
+        "id": "05",
+        "phrase": "intellectual foundations",
+        "source_phrase": "intellectual foundations",
+        "source_paragraph": 2,
+        "source": "The stronger argument is that schools are uniquely equipped to provide systematic academic education. Trained teachers, structured curricula and specialised learning resources allow students to develop knowledge in subjects such as mathematics, science and languages in a way that most families cannot easily replicate. More importantly, a broad academic foundation develops logical reasoning, literacy and disciplined study habits, all of which are transferable to higher education and a wide range of future careers. By building these intellectual foundations during the school years, students are also better prepared to acquire more specialised or practical skills later in life.",
+        "cn": "广泛阅读能为以后的独立研究建立智力基础。",
+        "answer": "Extensive reading can build intellectual foundations for later independent research."
+      },
+      {
+        "id": "06",
+        "phrase": "future careers",
+        "source_phrase": "future careers",
+        "source_paragraph": 2,
+        "source": "The stronger argument is that schools are uniquely equipped to provide systematic academic education. Trained teachers, structured curricula and specialised learning resources allow students to develop knowledge in subjects such as mathematics, science and languages in a way that most families cannot easily replicate. More importantly, a broad academic foundation develops logical reasoning, literacy and disciplined study habits, all of which are transferable to higher education and a wide range of future careers. By building these intellectual foundations during the school years, students are also better prepared to acquire more specialised or practical skills later in life.",
+        "cn": "职业咨询应帮助学生为未来就业作好准备。",
+        "answer": "Career advice should help students prepare for future employment."
+      },
+      {
+        "id": "07",
+        "phrase": "adult responsibilities",
+        "source_phrase": "adult responsibilities",
+        "source_paragraph": 1,
+        "source": "Admittedly, practical life skills deserve some attention within formal education because they help young people become more independent and better prepared for adult responsibilities. Basic financial management, cooking and teamwork, for example, can enable students to deal more confidently with everyday challenges. Moreover, not all parents have the time, knowledge or resources to teach these skills consistently at home, meaning that schools can provide a useful safety net by offering basic instruction. Nevertheless, such training should complement rather than replace academic learning.",
+        "cn": "兼职工作能让青少年逐步接触成年责任。",
+        "answer": "Part-time work can introduce teenagers to adult responsibilities."
+      },
+      {
+        "id": "08",
+        "phrase": "higher education",
+        "source_phrase": "higher education",
+        "source_paragraph": 2,
+        "source": "The stronger argument is that schools are uniquely equipped to provide systematic academic education. Trained teachers, structured curricula and specialised learning resources allow students to develop knowledge in subjects such as mathematics, science and languages in a way that most families cannot easily replicate. More importantly, a broad academic foundation develops logical reasoning, literacy and disciplined study habits, all of which are transferable to higher education and a wide range of future careers. By building these intellectual foundations during the school years, students are also better prepared to acquire more specialised or practical skills later in life.",
+        "cn": "奖学金能够扩大残障学生获得高等教育的机会。",
+        "answer": "Scholarships can expand access to higher education for students with disabilities."
+      }
+    ],
+    "nine": [
+      {
+        "id": "01",
+        "phrase": "Practical life skills",
+        "source_phrase": "Practical life skills",
+        "source_paragraph": 1,
+        "source": "Practical life skills deserve a place in school because opportunities to learn them at home are unequal. Some parents lack the time, resources or confidence to teach cooking, budgeting or basic household maintenance. Relying entirely on families could therefore leave some pupils less prepared for adult responsibilities. A short budgeting activity, for example, can help students understand how everyday expenses relate to a limited income. Such instruction should support independence without turning the school timetable into a substitute for every aspect of family life.",
+        "cn": "青年中心可以开设有关实用生活技能的短期课程。",
+        "answer": "Youth centres can offer short courses in practical life skills."
+      },
+      {
+        "id": "02",
+        "phrase": "academic education",
+        "source_phrase": "academic education",
+        "source_paragraph": 0,
+        "source": "Some argue that schools should concentrate on academic subjects and leave practical skills to families. I agree with giving academic education priority, but not with making households solely responsible for life-skills instruction. Schools should provide a limited practical foundation alongside the systematic academic learning they are particularly equipped to deliver.",
+        "cn": "优质学术教育不应取决于家庭收入。",
+        "answer": "Access to high-quality academic education should not depend on family income."
+      },
+      {
+        "id": "03",
+        "phrase": "structured curricula",
+        "source_phrase": "structured curricula",
+        "source_paragraph": 2,
+        "source": "The stronger reason for retaining an academic focus is that schools can organise sustained learning in ways most households cannot. Trained teachers, structured curricula and specialised learning resources support progression from basic ideas to more demanding concepts. Mathematics, science and languages also build intellectual foundations that students can apply beyond individual lessons. Numeracy assists financial decisions, while literacy and logical reasoning help people understand information and evaluate unfamiliar problems. These benefits support both higher education and future employment, and replacing substantial academic teaching with isolated practical activities could weaken them. A workable approach is to integrate selected life skills into existing subjects, then allow families to reinforce them through everyday practice. This respects the different strengths of schools and homes instead of treating their responsibilities as mutually exclusive.",
+        "cn": "成人语言学习者也能从结构化课程中受益。",
+        "answer": "Adult language learners can also benefit from structured curricula."
+      },
+      {
+        "id": "04",
+        "phrase": "specialised learning resources",
+        "source_phrase": "specialised learning resources",
+        "source_paragraph": 2,
+        "source": "The stronger reason for retaining an academic focus is that schools can organise sustained learning in ways most households cannot. Trained teachers, structured curricula and specialised learning resources support progression from basic ideas to more demanding concepts. Mathematics, science and languages also build intellectual foundations that students can apply beyond individual lessons. Numeracy assists financial decisions, while literacy and logical reasoning help people understand information and evaluate unfamiliar problems. These benefits support both higher education and future employment, and replacing substantial academic teaching with isolated practical activities could weaken them. A workable approach is to integrate selected life skills into existing subjects, then allow families to reinforce them through everyday practice. This respects the different strengths of schools and homes instead of treating their responsibilities as mutually exclusive.",
+        "cn": "乡村学校可能需要资助以获取专门学习资源。",
+        "answer": "Rural schools may need funding to obtain specialised learning resources."
+      },
+      {
+        "id": "05",
+        "phrase": "intellectual foundations",
+        "source_phrase": "intellectual foundations",
+        "source_paragraph": 2,
+        "source": "The stronger reason for retaining an academic focus is that schools can organise sustained learning in ways most households cannot. Trained teachers, structured curricula and specialised learning resources support progression from basic ideas to more demanding concepts. Mathematics, science and languages also build intellectual foundations that students can apply beyond individual lessons. Numeracy assists financial decisions, while literacy and logical reasoning help people understand information and evaluate unfamiliar problems. These benefits support both higher education and future employment, and replacing substantial academic teaching with isolated practical activities could weaken them. A workable approach is to integrate selected life skills into existing subjects, then allow families to reinforce them through everyday practice. This respects the different strengths of schools and homes instead of treating their responsibilities as mutually exclusive.",
+        "cn": "广泛阅读能为以后的独立研究建立智力基础。",
+        "answer": "Extensive reading can build intellectual foundations for later independent research."
+      },
+      {
+        "id": "06",
+        "phrase": "future employment",
+        "source_phrase": "future employment",
+        "source_paragraph": 2,
+        "source": "The stronger reason for retaining an academic focus is that schools can organise sustained learning in ways most households cannot. Trained teachers, structured curricula and specialised learning resources support progression from basic ideas to more demanding concepts. Mathematics, science and languages also build intellectual foundations that students can apply beyond individual lessons. Numeracy assists financial decisions, while literacy and logical reasoning help people understand information and evaluate unfamiliar problems. These benefits support both higher education and future employment, and replacing substantial academic teaching with isolated practical activities could weaken them. A workable approach is to integrate selected life skills into existing subjects, then allow families to reinforce them through everyday practice. This respects the different strengths of schools and homes instead of treating their responsibilities as mutually exclusive.",
+        "cn": "职业咨询应帮助学生为未来就业作好准备。",
+        "answer": "Career advice should help students prepare for future employment."
+      },
+      {
+        "id": "07",
+        "phrase": "adult responsibilities",
+        "source_phrase": "adult responsibilities",
+        "source_paragraph": 1,
+        "source": "Practical life skills deserve a place in school because opportunities to learn them at home are unequal. Some parents lack the time, resources or confidence to teach cooking, budgeting or basic household maintenance. Relying entirely on families could therefore leave some pupils less prepared for adult responsibilities. A short budgeting activity, for example, can help students understand how everyday expenses relate to a limited income. Such instruction should support independence without turning the school timetable into a substitute for every aspect of family life.",
+        "cn": "兼职工作能让青少年逐步接触成年责任。",
+        "answer": "Part-time work can introduce teenagers to adult responsibilities."
+      },
+      {
+        "id": "08",
+        "phrase": "higher education",
+        "source_phrase": "higher education",
+        "source_paragraph": 2,
+        "source": "The stronger reason for retaining an academic focus is that schools can organise sustained learning in ways most households cannot. Trained teachers, structured curricula and specialised learning resources support progression from basic ideas to more demanding concepts. Mathematics, science and languages also build intellectual foundations that students can apply beyond individual lessons. Numeracy assists financial decisions, while literacy and logical reasoning help people understand information and evaluate unfamiliar problems. These benefits support both higher education and future employment, and replacing substantial academic teaching with isolated practical activities could weaken them. A workable approach is to integrate selected life skills into existing subjects, then allow families to reinforce them through everyday practice. This respects the different strengths of schools and homes instead of treating their responsibilities as mutually exclusive.",
+        "cn": "奖学金能够扩大残障学生获得高等教育的机会。",
+        "answer": "Scholarships can expand access to higher education for students with disabilities."
+      }
+    ]
+  },
+  "review": {
+    "reference_material": true,
+    "practice_estimate": "未独立评分",
+    "original_complete": true,
+    "original_question": "Some people believe that schools should focus mainly on academic subjects, while practical skills such as cooking, managing money and basic home maintenance should be taught at home. To what extent do you agree or disagree?",
+    "complete_feedback": "题目含“学术优先”和“家庭教授技能”两项主张，必须分别回应。\n两版明确：同意学术优先，但不同意家庭独自承担实用教育。\nB版补充将预算技能融入既有科目的可行安排，避免只抽象声称两者重要。",
+    "source_models": {
+      "original": "Whether schools should prioritise academic education over practical life skills remains a matter of debate. Although practical abilities such as cooking and financial management have clear value, I largely agree that academic education should remain the primary focus of schools, while practical training should play a supplementary role.\n\nAdmittedly, practical life skills deserve some attention within formal education because they help young people become more independent and better prepared for adult responsibilities. Basic financial management, cooking and teamwork, for example, can enable students to deal more confidently with everyday challenges. Moreover, not all parents have the time, knowledge or resources to teach these skills consistently at home, meaning that schools can provide a useful safety net by offering basic instruction. Nevertheless, such training should complement rather than replace academic learning.\n\nThe stronger argument is that schools are uniquely equipped to provide systematic academic education. Trained teachers, structured curricula and specialised learning resources allow students to develop knowledge in subjects such as mathematics, science and languages in a way that most families cannot easily replicate. More importantly, a broad academic foundation develops logical reasoning, literacy and disciplined study habits, all of which are transferable to higher education and a wide range of future careers. By building these intellectual foundations during the school years, students are also better prepared to acquire more specialised or practical skills later in life.\n\nIn conclusion, although practical life skills have clear value, I largely agree that academic education should remain the primary focus of schools, given their unique capacity to provide systematic instruction and the long-term benefits this offers for higher education and future employment.",
+      "A": "Whether schools should prioritise academic education and leave practical life skills to families remains a matter of debate. I largely agree that academic subjects should remain the primary focus of schools, but I do not believe that families should bear sole responsibility for practical instruction.\n\nAdmittedly, practical life skills deserve some attention within formal education because they help young people become more independent and better prepared for adult responsibilities. Basic financial management, cooking and teamwork, for example, can enable students to deal more confidently with everyday challenges. Moreover, not all parents have the time, knowledge or resources to teach these skills consistently at home, meaning that schools can provide a useful safety net by offering basic instruction. Nevertheless, such training should complement rather than replace academic learning.\n\nThe stronger argument is that schools are uniquely equipped to provide systematic academic education. Trained teachers, structured curricula and specialised learning resources allow students to develop knowledge in subjects such as mathematics, science and languages in a way that most families cannot easily replicate. More importantly, a broad academic foundation develops logical reasoning, literacy and disciplined study habits, all of which are transferable to higher education and a wide range of future careers. By building these intellectual foundations during the school years, students are also better prepared to acquire more specialised or practical skills later in life.\n\nIn conclusion, academic education should remain the primary focus of schools, given their unique capacity to provide systematic instruction and its long-term benefits for further study and employment. However, basic practical training should supplement this focus, particularly for pupils who cannot consistently learn these skills at home.",
+      "B": "Some argue that schools should concentrate on academic subjects and leave practical skills to families. I agree with giving academic education priority, but not with making households solely responsible for life-skills instruction. Schools should provide a limited practical foundation alongside the systematic academic learning they are particularly equipped to deliver.\n\nPractical life skills deserve a place in school because opportunities to learn them at home are unequal. Some parents lack the time, resources or confidence to teach cooking, budgeting or basic household maintenance. Relying entirely on families could therefore leave some pupils less prepared for adult responsibilities. A short budgeting activity, for example, can help students understand how everyday expenses relate to a limited income. Such instruction should support independence without turning the school timetable into a substitute for every aspect of family life.\n\nThe stronger reason for retaining an academic focus is that schools can organise sustained learning in ways most households cannot. Trained teachers, structured curricula and specialised learning resources support progression from basic ideas to more demanding concepts. Mathematics, science and languages also build intellectual foundations that students can apply beyond individual lessons. Numeracy assists financial decisions, while literacy and logical reasoning help people understand information and evaluate unfamiliar problems. These benefits support both higher education and future employment, and replacing substantial academic teaching with isolated practical activities could weaken them. A workable approach is to integrate selected life skills into existing subjects, then allow families to reinforce them through everyday practice. This respects the different strengths of schools and homes instead of treating their responsibilities as mutually exclusive.\n\nIn conclusion, academic subjects should remain central to schooling, but practical education should be a shared responsibility. A modest, well-designed school contribution can help pupils whose families cannot provide consistent instruction without displacing essential academic learning."
+    },
+    "source_sha256": "9ae69bd6a698023b8450da2b356806ca1d0a1b530142a436c15d64bc6bc1fa4d"
+  },
+  "practice": {
+    "diagnosis": "本篇以切题性、逻辑展开和准确表达为训练重点；7.5+为练习目标，无法仅凭参考文本承诺实际考试分数。",
+    "score_dimensions": [
+      {
+        "name": "Task Response",
+        "estimate": "训练检查",
+        "note": "题目含“学术优先”和“家庭教授技能”两项主张，必须分别回应。"
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "estimate": "训练检查",
+        "note": "中心句后解释具体机制和结果；结尾回应引言立场，不新增未经展开的理由。"
+      },
+      {
+        "name": "Lexical Resource",
+        "estimate": "训练检查",
+        "note": "优先使用准确自然的搭配，避免为追求高级词汇牺牲意义。"
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "estimate": "训练检查",
+        "note": "结合让步、条件和定语结构，控制长句长度，检查冠词、单复数及主谓一致。"
+      }
+    ],
+    "notes": [
+      "题目含“学术优先”和“家庭教授技能”两项主张，必须分别回应。",
+      "两版明确：同意学术优先，但不同意家庭独自承担实用教育。",
+      "B版补充将预算技能融入既有科目的可行安排，避免只抽象声称两者重要。"
+    ],
+    "errors": [],
+    "drills": [
+      {
+        "id": "1",
+        "cn": "青年中心可以开设有关实用生活技能的短期课程。",
+        "hint": "Practical life skills",
+        "answer": "Youth centres can offer short courses in practical life skills.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "2",
+        "cn": "优质学术教育不应取决于家庭收入。",
+        "hint": "academic education",
+        "answer": "Access to high-quality academic education should not depend on family income.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "3",
+        "cn": "成人语言学习者也能从结构化课程中受益。",
+        "hint": "structured curricula",
+        "answer": "Adult language learners can also benefit from structured curricula.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      }
+    ]
+  }
+}

@@ -31,13 +31,13 @@ async def main():
   await page.locator('#newWrong').fill('another custom error');await page.locator('#newCorrect').fill('another corrected');await page.locator('#newExplain').fill('custom note');await page.get_by_role('button',name='加入个人错题').click()
   assert await page.locator(f'[data-error-item="{old_count}"] input').input_value()=='old personal answer'
   assert await page.locator('[data-error-item="t2-42:e01"] input').input_value()==expected
-  await page.evaluate("go('versions')");assert '1.5.0 → 1.6.0' in await page.locator('#diffResult').inner_text()
+  await page.evaluate("go('versions')");assert '1.6.0 → 1.7.0' in await page.locator('#diffResult').inner_text()
   async with page.expect_download() as downloaded:await page.evaluate('exportBackup()')
   with tempfile.TemporaryDirectory() as tmp:
    file=Path(tmp)/'backup.json';await (await downloaded.value).save_as(file);data=json.loads(file.read_text());assert data['user']['answers']['err:t2-42:e01']==expected
    await page.evaluate("localStorage.removeItem(keyName('user'))");await page.reload();await page.wait_for_selector('#lesson2 .step-tabs',state='attached');await page.locator('#importBackup').set_input_files(file)
    await page.wait_for_function("USER.answers['err:t2-42:e01']!==undefined");assert await page.evaluate("USER.drafts['review:t2-42:seven:1']")=='saved version A drill'
-  await page.evaluate("go('archive')");assert 'R04 / T2-42' in await page.locator('#essayArchive').inner_text();assert await page.evaluate('DATA.essays.at(-1).feedback.includes("原稿")')
+  await page.evaluate("go('archive')");assert 'R04 / T2-42' in await page.locator('#essayArchive').inner_text();assert await page.evaluate('DATA.essays.find(e=>e.title.includes("食物浪费")).feedback.includes("原稿")')
   await page.set_viewport_size({'width':390,'height':844});await page.evaluate("openArticle('t2-42')")
   for version in ['seven','nine']:
    await page.evaluate("v=>setEdition(DATA.articles.find(a=>a.id==='t2-42'),v,'task2')",version)

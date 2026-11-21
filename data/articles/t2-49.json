@@ -1,0 +1,424 @@
+{
+  "id": "t2-49",
+  "type": "大作文",
+  "title": "城市中心减少私家车空间（练习1·07）",
+  "group": "社会与政府",
+  "question": "In some cities, authorities are reducing the space available for private cars in city centres and using it instead for cycle lanes, pedestrian areas and public spaces. Is this a positive or negative development?",
+  "task_type": "Positive / negative development",
+  "logic": "▪ 积极立场附带通行条件。▪ 承认换乘和行动受限者的困难。▪ 安全主动出行→健康；实际少开车→减排降噪。▪ 结论：配套公交与必要通行。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Some cities are reallocating road space from private cars to walking, cycling and public use. I regard this as a positive development because it can improve health and the urban environment. However, its benefits depend on providing practical alternatives and protecting access for people who cannot easily change how they travel.",
+      "cn": "一些城市正将私家车道路空间转用于步行、骑行和公共活动。我认为这是积极发展，因为它能改善健康和城市环境。但收益取决于提供可行替代方案，并保护难以改变出行方式者的通行权。",
+      "clozes": [
+        {
+          "start": 45,
+          "end": 57,
+          "answer": "private cars"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The disadvantages are real. Drivers may face fewer direct routes or parking spaces, while public transport may not connect their homes and destinations conveniently. Transfers and longer walks can be particularly difficult for older people or residents with limited mobility. Deliveries and essential vehicle journeys must also be accommodated. A policy that simply removes car space without considering these needs could make the centre less accessible. Authorities should therefore maintain necessary access arrangements and improve suitable transport connections as part of the change.",
+      "cn": "缺点确实存在。驾车者可能面对较少直达路线或停车位，而公共交通未必方便连接住处和目的地。换乘与更长步行，对老年人或行动受限者尤其困难。配送和必要车辆出行也必须得到安排。若不考虑这些需求而只取消汽车空间，会使中心区更难到达。因此，政府应在改革中保留必要通行安排，并改善合适交通连接。",
+      "clozes": [
+        {
+          "start": 90,
+          "end": 106,
+          "answer": "public transport"
+        },
+        {
+          "start": 258,
+          "end": 274,
+          "answer": "limited mobility"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "With those conditions in place, the wider benefits can outweigh the inconvenience. Safer cycle lanes and pedestrian areas allow physical activity to become part of everyday journeys, rather than an additional task requiring separate time. Attractive public spaces also give residents places to meet and spend time without having to drive between activities. If the redesign encourages a genuine shift towards walking, cycling and public transport, fewer car trips can reduce exhaust emissions and traffic noise. This outcome is less certain if vehicles are merely diverted to neighbouring streets, so the scheme should be coordinated with broader transport planning. The aim is to improve how the city functions, not simply to remove cars from a particular map.",
+      "cn": "在具备这些条件时，整体收益可超过不便。更安全的自行车道与步行区能使运动融入日常出行，而非需要另找时间完成的任务。有吸引力的公共空间，也让居民可以见面停留，而不必在活动之间开车。如果改造确实鼓励转向步行、骑行和公交，更少汽车出行可减少尾气与交通噪声。如果车辆只是转移至邻街，结果就不确定，因此项目应与整体交通规划协调。目标是改善城市运作，而非仅从某张地图上移除汽车。",
+      "clozes": [
+        {
+          "start": 128,
+          "end": 145,
+          "answer": "physical activity"
+        },
+        {
+          "start": 250,
+          "end": 263,
+          "answer": "public spaces"
+        },
+        {
+          "start": 475,
+          "end": 492,
+          "answer": "exhaust emissions"
+        },
+        {
+          "start": 497,
+          "end": 510,
+          "answer": "traffic noise"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, giving more central space to people rather than private vehicles can make cities healthier and more liveable. I support the development when accessible transport and essential journeys are planned alongside it, so the benefits are not obtained by excluding vulnerable residents.",
+      "cn": "总之，将更多中心区空间留给人而非私家车，能让城市更健康宜居。我支持在同时规划无障碍交通与必要出行的条件下实施，以免通过排除弱势居民获得收益。",
+      "clozes": [
+        {
+          "start": 110,
+          "end": 123,
+          "answer": "more liveable"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Many cities are reducing space for private cars in city centres and creating more areas for walking, cycling and public use. Overall, I consider this a positive development because it can support healthier lifestyles and create a more liveable urban environment.",
+      "cn": "许多城市正减少中心区的私家车空间，增加步行、骑行和公共活动区域。总体上，我认为这是一项积极发展，因为它能支持健康生活方式，创造更宜居的城市环境。",
+      "clozes": [
+        {
+          "start": 35,
+          "end": 47,
+          "answer": "private cars"
+        },
+        {
+          "start": 230,
+          "end": 243,
+          "answer": "more liveable"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Admittedly, reducing space for private cars can cause inconvenience and reduce travel flexibility for some residents. Although alternative forms of public transport, such as subways and shuttle buses, may be available, they cannot always take passengers directly to their destinations. As a result, commuters may have to follow fixed routes, make transfers or spend more time travelling than they would by car. These restrictions may create even greater difficulties for elderly and disabled residents. If they have to walk longer distances between transport stops and their destinations, people with mobility or health problems may find city-centre travel considerably more difficult.",
+      "cn": "诚然，减少私家车空间可能造成不便，并降低部分居民出行的灵活性。虽然地铁和接驳巴士等替代公共交通可能存在，它们并不总能将乘客直送目的地。因此，通勤者可能必须遵循固定线路、换乘，或比驾车花更多时间。这些限制可能给老年人和残障居民带来更大困难。如果必须在站点与目的地之间步行更远，有行动或健康问题的人进入市中心会更困难。",
+      "clozes": [
+        {
+          "start": 148,
+          "end": 164,
+          "answer": "public transport"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Nevertheless, the broader benefits for transport, public health and the urban environment are likely to outweigh these inconveniences. Reducing the dominance of private cars can encourage people to shift towards walking, cycling and public transport, potentially lowering traffic volumes in congested city centres. At the same time, pedestrian areas and cycle lanes make active travel safer and more convenient, allowing physical activity to become part of residents' daily routines. Reclaiming road space can also create more attractive public areas, while a genuine reduction in car journeys can lower exhaust emissions and traffic noise. Together, these changes can make city centres healthier, cleaner and more pleasant places in which to live and spend time. To secure these benefits fairly, authorities should maintain accessible public transport and necessary vehicle access for people with limited mobility.",
+      "cn": "然而，交通、公共健康和城市环境的整体收益很可能超过这些不便。降低私家车主导地位能鼓励步行、骑行及公共交通，可能减少拥堵中心区的交通量。同时，步行区和自行车道让主动出行更安全方便，使运动融入日常生活。收回道路空间还能创造更有吸引力的公共区域，而汽车出行真正减少才能降低尾气和交通噪声。这些变化可使市中心更健康、清洁且适宜生活和停留。为公平实现收益，政府应保留无障碍公共交通，以及行动不便者必要的车辆通行权。",
+      "clozes": [
+        {
+          "start": 421,
+          "end": 438,
+          "answer": "physical activity"
+        },
+        {
+          "start": 538,
+          "end": 550,
+          "answer": "public areas"
+        },
+        {
+          "start": 604,
+          "end": 621,
+          "answer": "exhaust emissions"
+        },
+        {
+          "start": 626,
+          "end": 639,
+          "answer": "traffic noise"
+        },
+        {
+          "start": 898,
+          "end": 914,
+          "answer": "limited mobility"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although reducing space for private cars may inconvenience some residents, particularly those with limited mobility, the broader benefits can make city centres healthier, cleaner and more liveable places provided that residents with limited mobility retain practical access.",
+      "cn": "总之，虽然减少私家车空间会使部分居民不便，尤其是行动受限者，但只要保留他们实际可行的通行方式，整体收益仍能使市中心更健康、清洁和宜居。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "In conclusion"
+        },
+        {
+          "start": 219,
+          "end": 232,
+          "answer": "provided that"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "nine_complete": true,
+    "seven_complete": true,
+    "7marker": true
+  },
+  "vocab": [
+    {
+      "en": "public transport",
+      "zh": "公共交通"
+    },
+    {
+      "en": "limited mobility",
+      "zh": "行动受限"
+    },
+    {
+      "en": "exhaust emissions",
+      "zh": "尾气排放"
+    },
+    {
+      "en": "traffic noise",
+      "zh": "交通噪声"
+    },
+    {
+      "en": "physical activity",
+      "zh": "身体活动"
+    },
+    {
+      "en": "public spaces",
+      "zh": "公共空间"
+    },
+    {
+      "en": "more liveable",
+      "zh": "更宜居"
+    },
+    {
+      "en": "private cars",
+      "zh": "私家车"
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "seven": "版本 A · 保留原意修正版",
+    "nine": "版本 B · Band 7.5+目标版"
+  },
+  "edition_summary": "双版本 · 原意修正 / Band 7.5+目标",
+  "source_note": "用户上传《雅思写作_大作文练习1.docx》（文档内标作GPT/Band 8练习参考稿）；非用户独立原稿，亦非官方评分。A版保留参考稿原意并修正必要语言或论证问题；B版为本次重写的Band 7.5+目标参考。 两版共用8道迁移任务，分别标注本版出处；A版篇幅较长，可用于精读，限时训练优先B版。",
+  "transfer": {
+    "seven": [
+      {
+        "id": "01",
+        "phrase": "public transport",
+        "source_phrase": "public transport",
+        "source_paragraph": 1,
+        "source": "Admittedly, reducing space for private cars can cause inconvenience and reduce travel flexibility for some residents. Although alternative forms of public transport, such as subways and shuttle buses, may be available, they cannot always take passengers directly to their destinations. As a result, commuters may have to follow fixed routes, make transfers or spend more time travelling than they would by car. These restrictions may create even greater difficulties for elderly and disabled residents. If they have to walk longer distances between transport stops and their destinations, people with mobility or health problems may find city-centre travel considerably more difficult.",
+        "cn": "夜班员工需要可靠的夜间公共交通。",
+        "answer": "Night-shift workers need reliable public transport after normal working hours."
+      },
+      {
+        "id": "02",
+        "phrase": "limited mobility",
+        "source_phrase": "limited mobility",
+        "source_paragraph": 2,
+        "source": "Nevertheless, the broader benefits for transport, public health and the urban environment are likely to outweigh these inconveniences. Reducing the dominance of private cars can encourage people to shift towards walking, cycling and public transport, potentially lowering traffic volumes in congested city centres. At the same time, pedestrian areas and cycle lanes make active travel safer and more convenient, allowing physical activity to become part of residents' daily routines. Reclaiming road space can also create more attractive public areas, while a genuine reduction in car journeys can lower exhaust emissions and traffic noise. Together, these changes can make city centres healthier, cleaner and more pleasant places in which to live and spend time. To secure these benefits fairly, authorities should maintain accessible public transport and necessary vehicle access for people with limited mobility.",
+        "cn": "博物馆应为行动受限的游客提供休息区域。",
+        "answer": "Museums should provide seating areas for visitors with limited mobility."
+      },
+      {
+        "id": "03",
+        "phrase": "exhaust emissions",
+        "source_phrase": "exhaust emissions",
+        "source_paragraph": 2,
+        "source": "Nevertheless, the broader benefits for transport, public health and the urban environment are likely to outweigh these inconveniences. Reducing the dominance of private cars can encourage people to shift towards walking, cycling and public transport, potentially lowering traffic volumes in congested city centres. At the same time, pedestrian areas and cycle lanes make active travel safer and more convenient, allowing physical activity to become part of residents' daily routines. Reclaiming road space can also create more attractive public areas, while a genuine reduction in car journeys can lower exhaust emissions and traffic noise. Together, these changes can make city centres healthier, cleaner and more pleasant places in which to live and spend time. To secure these benefits fairly, authorities should maintain accessible public transport and necessary vehicle access for people with limited mobility.",
+        "cn": "改用电动配送车可以减少路边尾气排放。",
+        "answer": "Switching to electric delivery vehicles can reduce roadside exhaust emissions."
+      },
+      {
+        "id": "04",
+        "phrase": "traffic noise",
+        "source_phrase": "traffic noise",
+        "source_paragraph": 2,
+        "source": "Nevertheless, the broader benefits for transport, public health and the urban environment are likely to outweigh these inconveniences. Reducing the dominance of private cars can encourage people to shift towards walking, cycling and public transport, potentially lowering traffic volumes in congested city centres. At the same time, pedestrian areas and cycle lanes make active travel safer and more convenient, allowing physical activity to become part of residents' daily routines. Reclaiming road space can also create more attractive public areas, while a genuine reduction in car journeys can lower exhaust emissions and traffic noise. Together, these changes can make city centres healthier, cleaner and more pleasant places in which to live and spend time. To secure these benefits fairly, authorities should maintain accessible public transport and necessary vehicle access for people with limited mobility.",
+        "cn": "靠近学校限制重型车辆能降低交通噪声。",
+        "answer": "Restricting heavy vehicles near schools can reduce traffic noise."
+      },
+      {
+        "id": "05",
+        "phrase": "physical activity",
+        "source_phrase": "physical activity",
+        "source_paragraph": 2,
+        "source": "Nevertheless, the broader benefits for transport, public health and the urban environment are likely to outweigh these inconveniences. Reducing the dominance of private cars can encourage people to shift towards walking, cycling and public transport, potentially lowering traffic volumes in congested city centres. At the same time, pedestrian areas and cycle lanes make active travel safer and more convenient, allowing physical activity to become part of residents' daily routines. Reclaiming road space can also create more attractive public areas, while a genuine reduction in car journeys can lower exhaust emissions and traffic noise. Together, these changes can make city centres healthier, cleaner and more pleasant places in which to live and spend time. To secure these benefits fairly, authorities should maintain accessible public transport and necessary vehicle access for people with limited mobility.",
+        "cn": "雇主可以通过支持步行会议鼓励身体活动。",
+        "answer": "Employers can encourage physical activity by supporting walking meetings."
+      },
+      {
+        "id": "06",
+        "phrase": "public areas",
+        "source_phrase": "public areas",
+        "source_paragraph": 2,
+        "source": "Nevertheless, the broader benefits for transport, public health and the urban environment are likely to outweigh these inconveniences. Reducing the dominance of private cars can encourage people to shift towards walking, cycling and public transport, potentially lowering traffic volumes in congested city centres. At the same time, pedestrian areas and cycle lanes make active travel safer and more convenient, allowing physical activity to become part of residents' daily routines. Reclaiming road space can also create more attractive public areas, while a genuine reduction in car journeys can lower exhaust emissions and traffic noise. Together, these changes can make city centres healthier, cleaner and more pleasant places in which to live and spend time. To secure these benefits fairly, authorities should maintain accessible public transport and necessary vehicle access for people with limited mobility.",
+        "cn": "公共空间应提供遮阴和座椅，让居民愿意停留。",
+        "answer": "Public spaces should offer shade and seating so that residents want to spend time there."
+      },
+      {
+        "id": "07",
+        "phrase": "more liveable",
+        "source_phrase": "more liveable",
+        "source_paragraph": 0,
+        "source": "Many cities are reducing space for private cars in city centres and creating more areas for walking, cycling and public use. Overall, I consider this a positive development because it can support healthier lifestyles and create a more liveable urban environment.",
+        "cn": "更好的排水设施能使易涝社区更宜居。",
+        "answer": "Better drainage can make flood-prone neighbourhoods more liveable."
+      },
+      {
+        "id": "08",
+        "phrase": "private cars",
+        "source_phrase": "private cars",
+        "source_paragraph": 0,
+        "source": "Many cities are reducing space for private cars in city centres and creating more areas for walking, cycling and public use. Overall, I consider this a positive development because it can support healthier lifestyles and create a more liveable urban environment.",
+        "cn": "共享出行可能减少家庭拥有多辆私家车的需要。",
+        "answer": "Shared transport may reduce households' need to own several private cars."
+      }
+    ],
+    "nine": [
+      {
+        "id": "01",
+        "phrase": "public transport",
+        "source_phrase": "public transport",
+        "source_paragraph": 1,
+        "source": "The disadvantages are real. Drivers may face fewer direct routes or parking spaces, while public transport may not connect their homes and destinations conveniently. Transfers and longer walks can be particularly difficult for older people or residents with limited mobility. Deliveries and essential vehicle journeys must also be accommodated. A policy that simply removes car space without considering these needs could make the centre less accessible. Authorities should therefore maintain necessary access arrangements and improve suitable transport connections as part of the change.",
+        "cn": "夜班员工需要可靠的夜间公共交通。",
+        "answer": "Night-shift workers need reliable public transport after normal working hours."
+      },
+      {
+        "id": "02",
+        "phrase": "limited mobility",
+        "source_phrase": "limited mobility",
+        "source_paragraph": 1,
+        "source": "The disadvantages are real. Drivers may face fewer direct routes or parking spaces, while public transport may not connect their homes and destinations conveniently. Transfers and longer walks can be particularly difficult for older people or residents with limited mobility. Deliveries and essential vehicle journeys must also be accommodated. A policy that simply removes car space without considering these needs could make the centre less accessible. Authorities should therefore maintain necessary access arrangements and improve suitable transport connections as part of the change.",
+        "cn": "博物馆应为行动受限的游客提供休息区域。",
+        "answer": "Museums should provide seating areas for visitors with limited mobility."
+      },
+      {
+        "id": "03",
+        "phrase": "exhaust emissions",
+        "source_phrase": "exhaust emissions",
+        "source_paragraph": 2,
+        "source": "With those conditions in place, the wider benefits can outweigh the inconvenience. Safer cycle lanes and pedestrian areas allow physical activity to become part of everyday journeys, rather than an additional task requiring separate time. Attractive public spaces also give residents places to meet and spend time without having to drive between activities. If the redesign encourages a genuine shift towards walking, cycling and public transport, fewer car trips can reduce exhaust emissions and traffic noise. This outcome is less certain if vehicles are merely diverted to neighbouring streets, so the scheme should be coordinated with broader transport planning. The aim is to improve how the city functions, not simply to remove cars from a particular map.",
+        "cn": "改用电动配送车可以减少路边尾气排放。",
+        "answer": "Switching to electric delivery vehicles can reduce roadside exhaust emissions."
+      },
+      {
+        "id": "04",
+        "phrase": "traffic noise",
+        "source_phrase": "traffic noise",
+        "source_paragraph": 2,
+        "source": "With those conditions in place, the wider benefits can outweigh the inconvenience. Safer cycle lanes and pedestrian areas allow physical activity to become part of everyday journeys, rather than an additional task requiring separate time. Attractive public spaces also give residents places to meet and spend time without having to drive between activities. If the redesign encourages a genuine shift towards walking, cycling and public transport, fewer car trips can reduce exhaust emissions and traffic noise. This outcome is less certain if vehicles are merely diverted to neighbouring streets, so the scheme should be coordinated with broader transport planning. The aim is to improve how the city functions, not simply to remove cars from a particular map.",
+        "cn": "靠近学校限制重型车辆能降低交通噪声。",
+        "answer": "Restricting heavy vehicles near schools can reduce traffic noise."
+      },
+      {
+        "id": "05",
+        "phrase": "physical activity",
+        "source_phrase": "physical activity",
+        "source_paragraph": 2,
+        "source": "With those conditions in place, the wider benefits can outweigh the inconvenience. Safer cycle lanes and pedestrian areas allow physical activity to become part of everyday journeys, rather than an additional task requiring separate time. Attractive public spaces also give residents places to meet and spend time without having to drive between activities. If the redesign encourages a genuine shift towards walking, cycling and public transport, fewer car trips can reduce exhaust emissions and traffic noise. This outcome is less certain if vehicles are merely diverted to neighbouring streets, so the scheme should be coordinated with broader transport planning. The aim is to improve how the city functions, not simply to remove cars from a particular map.",
+        "cn": "雇主可以通过支持步行会议鼓励身体活动。",
+        "answer": "Employers can encourage physical activity by supporting walking meetings."
+      },
+      {
+        "id": "06",
+        "phrase": "public spaces",
+        "source_phrase": "public spaces",
+        "source_paragraph": 2,
+        "source": "With those conditions in place, the wider benefits can outweigh the inconvenience. Safer cycle lanes and pedestrian areas allow physical activity to become part of everyday journeys, rather than an additional task requiring separate time. Attractive public spaces also give residents places to meet and spend time without having to drive between activities. If the redesign encourages a genuine shift towards walking, cycling and public transport, fewer car trips can reduce exhaust emissions and traffic noise. This outcome is less certain if vehicles are merely diverted to neighbouring streets, so the scheme should be coordinated with broader transport planning. The aim is to improve how the city functions, not simply to remove cars from a particular map.",
+        "cn": "公共空间应提供遮阴和座椅，让居民愿意停留。",
+        "answer": "Public spaces should offer shade and seating so that residents want to spend time there."
+      },
+      {
+        "id": "07",
+        "phrase": "more liveable",
+        "source_phrase": "more liveable",
+        "source_paragraph": 3,
+        "source": "In conclusion, giving more central space to people rather than private vehicles can make cities healthier and more liveable. I support the development when accessible transport and essential journeys are planned alongside it, so the benefits are not obtained by excluding vulnerable residents.",
+        "cn": "更好的排水设施能使易涝社区更宜居。",
+        "answer": "Better drainage can make flood-prone neighbourhoods more liveable."
+      },
+      {
+        "id": "08",
+        "phrase": "private cars",
+        "source_phrase": "private cars",
+        "source_paragraph": 0,
+        "source": "Some cities are reallocating road space from private cars to walking, cycling and public use. I regard this as a positive development because it can improve health and the urban environment. However, its benefits depend on providing practical alternatives and protecting access for people who cannot easily change how they travel.",
+        "cn": "共享出行可能减少家庭拥有多辆私家车的需要。",
+        "answer": "Shared transport may reduce households' need to own several private cars."
+      }
+    ]
+  },
+  "review": {
+    "reference_material": true,
+    "practice_estimate": "未独立评分",
+    "original_complete": true,
+    "original_question": "In some cities, authorities are reducing the space available for private cars in city centres and using it instead for cycle lanes, pedestrian areas and public spaces. Is this a positive or negative development?",
+    "complete_feedback": "承认老年人、残障人士和必要车辆出行的需求，不能简单以多数人收益忽略可达性。\n减排前提是汽车出行确实减少；若只是转移到邻街，不能直接断言总体减排。\n两版均保持积极立场，同时说明无障碍交通及必要通行的实施条件。",
+    "source_models": {
+      "original": "Many cities are reducing space for private cars in city centres and creating more areas for walking, cycling and public use. Overall, I consider this a positive development because it can support healthier lifestyles and create a more liveable urban environment.\n\nAdmittedly, reducing space for private cars can cause inconvenience and reduce travel flexibility for some residents. Although alternative forms of public transport, such as subways and shuttle buses, may be available, they cannot always take passengers directly to their destinations. As a result, commuters may have to follow fixed routes, make transfers or spend more time travelling than they would by car. These restrictions may create even greater difficulties for elderly and disabled residents. If they have to walk longer distances between transport stops and their destinations, people with mobility or health problems may find city-centre travel considerably more difficult.\n\nNevertheless, the broader benefits for transport, public health and the urban environment are likely to outweigh these inconveniences. Reducing the dominance of private cars can encourage people to shift towards walking, cycling and public transport, potentially lowering traffic volumes in congested city centres. At the same time, pedestrian areas and cycle lanes make active travel safer and more convenient, allowing physical activity to become part of residents' daily routines. Reclaiming road space can also create more attractive public areas, while fewer vehicles mean lower exhaust emissions and traffic noise. Together, these changes can make city centres healthier, cleaner and more pleasant places in which to live and spend time.\n\nIn conclusion, although reducing space for private cars may inconvenience some residents, particularly those with limited mobility, the broader benefits can make city centres healthier, cleaner and more liveable places for the majority of people.",
+      "A": "Many cities are reducing space for private cars in city centres and creating more areas for walking, cycling and public use. Overall, I consider this a positive development because it can support healthier lifestyles and create a more liveable urban environment.\n\nAdmittedly, reducing space for private cars can cause inconvenience and reduce travel flexibility for some residents. Although alternative forms of public transport, such as subways and shuttle buses, may be available, they cannot always take passengers directly to their destinations. As a result, commuters may have to follow fixed routes, make transfers or spend more time travelling than they would by car. These restrictions may create even greater difficulties for elderly and disabled residents. If they have to walk longer distances between transport stops and their destinations, people with mobility or health problems may find city-centre travel considerably more difficult.\n\nNevertheless, the broader benefits for transport, public health and the urban environment are likely to outweigh these inconveniences. Reducing the dominance of private cars can encourage people to shift towards walking, cycling and public transport, potentially lowering traffic volumes in congested city centres. At the same time, pedestrian areas and cycle lanes make active travel safer and more convenient, allowing physical activity to become part of residents' daily routines. Reclaiming road space can also create more attractive public areas, while a genuine reduction in car journeys can lower exhaust emissions and traffic noise. Together, these changes can make city centres healthier, cleaner and more pleasant places in which to live and spend time. To secure these benefits fairly, authorities should maintain accessible public transport and necessary vehicle access for people with limited mobility.\n\nIn conclusion, although reducing space for private cars may inconvenience some residents, particularly those with limited mobility, the broader benefits can make city centres healthier, cleaner and more liveable places provided that residents with limited mobility retain practical access.",
+      "B": "Some cities are reallocating road space from private cars to walking, cycling and public use. I regard this as a positive development because it can improve health and the urban environment. However, its benefits depend on providing practical alternatives and protecting access for people who cannot easily change how they travel.\n\nThe disadvantages are real. Drivers may face fewer direct routes or parking spaces, while public transport may not connect their homes and destinations conveniently. Transfers and longer walks can be particularly difficult for older people or residents with limited mobility. Deliveries and essential vehicle journeys must also be accommodated. A policy that simply removes car space without considering these needs could make the centre less accessible. Authorities should therefore maintain necessary access arrangements and improve suitable transport connections as part of the change.\n\nWith those conditions in place, the wider benefits can outweigh the inconvenience. Safer cycle lanes and pedestrian areas allow physical activity to become part of everyday journeys, rather than an additional task requiring separate time. Attractive public spaces also give residents places to meet and spend time without having to drive between activities. If the redesign encourages a genuine shift towards walking, cycling and public transport, fewer car trips can reduce exhaust emissions and traffic noise. This outcome is less certain if vehicles are merely diverted to neighbouring streets, so the scheme should be coordinated with broader transport planning. The aim is to improve how the city functions, not simply to remove cars from a particular map.\n\nIn conclusion, giving more central space to people rather than private vehicles can make cities healthier and more liveable. I support the development when accessible transport and essential journeys are planned alongside it, so the benefits are not obtained by excluding vulnerable residents."
+    },
+    "source_sha256": "9ae69bd6a698023b8450da2b356806ca1d0a1b530142a436c15d64bc6bc1fa4d"
+  },
+  "practice": {
+    "diagnosis": "本篇以切题性、逻辑展开和准确表达为训练重点；7.5+为练习目标，无法仅凭参考文本承诺实际考试分数。",
+    "score_dimensions": [
+      {
+        "name": "Task Response",
+        "estimate": "训练检查",
+        "note": "承认老年人、残障人士和必要车辆出行的需求，不能简单以多数人收益忽略可达性。"
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "estimate": "训练检查",
+        "note": "中心句后解释具体机制和结果；结尾回应引言立场，不新增未经展开的理由。"
+      },
+      {
+        "name": "Lexical Resource",
+        "estimate": "训练检查",
+        "note": "优先使用准确自然的搭配，避免为追求高级词汇牺牲意义。"
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "estimate": "训练检查",
+        "note": "结合让步、条件和定语结构，控制长句长度，检查冠词、单复数及主谓一致。"
+      }
+    ],
+    "notes": [
+      "承认老年人、残障人士和必要车辆出行的需求，不能简单以多数人收益忽略可达性。",
+      "减排前提是汽车出行确实减少；若只是转移到邻街，不能直接断言总体减排。",
+      "两版均保持积极立场，同时说明无障碍交通及必要通行的实施条件。"
+    ],
+    "errors": [],
+    "drills": [
+      {
+        "id": "1",
+        "cn": "夜班员工需要可靠的夜间公共交通。",
+        "hint": "public transport",
+        "answer": "Night-shift workers need reliable public transport after normal working hours.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "2",
+        "cn": "博物馆应为行动受限的游客提供休息区域。",
+        "hint": "limited mobility",
+        "answer": "Museums should provide seating areas for visitors with limited mobility.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "3",
+        "cn": "改用电动配送车可以减少路边尾气排放。",
+        "hint": "exhaust emissions",
+        "answer": "Switching to electric delivery vehicles can reduce roadside exhaust emissions.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      }
+    ]
+  }
+}

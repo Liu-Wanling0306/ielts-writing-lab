@@ -1,0 +1,429 @@
+{
+  "id": "t2-47",
+  "type": "大作文",
+  "title": "自主就业的收益与风险（练习1·05）",
+  "group": "社会与政府",
+  "question": "More people are choosing to become self-employed rather than work for a company or organisation. Do the advantages of being self-employed outweigh the disadvantages?",
+  "task_type": "Advantages outweigh disadvantages",
+  "logic": "▪ 明确对准备充分者利大于弊。▪ 自主安排和成果归属→动力与发展。▪ 收入波动和多重责任→压力；准备降低风险。▪ 结论：有条件权衡，不一概而论。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "More people are choosing self-employment instead of salaried work. This can bring greater freedom and stronger personal rewards, but also financial uncertainty and demanding responsibilities. In my view, the advantages outweigh the disadvantages for people with relevant experience and realistic preparation, although it is not the best choice for everyone.",
+      "cn": "越来越多人选择自主就业而非受薪工作。这能带来更多自由和个人回报，也伴随收入不确定性与繁重责任。我认为，对具备相关经验和现实准备的人，利大于弊，但它并非人人的最佳选择。",
+      "clozes": [
+        {
+          "start": 138,
+          "end": 159,
+          "answer": "financial uncertainty"
+        },
+        {
+          "start": 262,
+          "end": 281,
+          "answer": "relevant experience"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "The main advantage is autonomy. Self-employed people often have more influence over their working arrangements and the clients or projects they accept. This can help them fit work around personal commitments, although customer demand may still limit flexibility. They may also benefit more directly from the value they create instead of depending on a fixed salary or an employer's promotion structure. For someone with a marketable skill, that connection between effort and reward can create opportunities for professional growth. Building a business around a genuine interest may additionally provide personal fulfilment and strengthen intrinsic motivation.",
+      "cn": "主要优势是自主权。自主就业者通常更能决定工作安排以及接受哪些客户或项目。这有助于围绕个人事务安排工作，虽然客户需求仍可能限制灵活性。他们也可能更直接受益于创造的价值，而非依赖固定工资或雇主晋升制度。对有可出售技能的人，努力与回报之间的联系可创造职业发展机会。围绕真正兴趣创业，还可能带来个人满足并增强内在动力。",
+      "clozes": [
+        {
+          "start": 90,
+          "end": 110,
+          "answer": "working arrangements"
+        },
+        {
+          "start": 511,
+          "end": 530,
+          "answer": "professional growth"
+        },
+        {
+          "start": 603,
+          "end": 622,
+          "answer": "personal fulfilment"
+        },
+        {
+          "start": 638,
+          "end": 658,
+          "answer": "intrinsic motivation"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "These benefits must be weighed against substantial risks. Income may fluctuate, while rent, equipment and other expenses still need to be paid. Losing a major client can therefore create immediate financial pressure. Self-employed workers also handle tasks that an organisation might distribute among several employees, including marketing, accounts and client relations. Someone who lacks experience or self-discipline may find these responsibilities overwhelming. However, the risks become more manageable when an individual understands the market, maintains a financial buffer and builds a client base before depending entirely on the business. Preparation cannot guarantee success, but it reduces the chance that an ordinary setback will become a personal crisis.",
+      "cn": "这些收益须与重大风险权衡。收入可能波动，但租金、设备等费用仍需支付，因此失去主要客户可能立即造成财务压力。自主就业者还需处理组织内通常由多名员工分担的任务，包括营销、账务及客户关系。缺少经验或自律的人可能不堪重负。不过，理解市场、保有资金缓冲并在完全依赖生意前建立客户群，可使风险更易管理。准备无法保证成功，却能减少普通挫折演变为个人危机的可能性。",
+      "clozes": [
+        {
+          "start": 354,
+          "end": 370,
+          "answer": "client relations"
+        },
+        {
+          "start": 404,
+          "end": 419,
+          "answer": "self-discipline"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, self-employment offers worthwhile advantages through independence, development and ownership of results. For adequately prepared individuals, these can outweigh the uncertainty and extra workload, whereas those needing predictable income may reasonably prefer salaried employment.",
+      "cn": "总之，自主就业通过独立、发展及对成果的拥有权带来可贵优势。对充分准备的人，这些优势能超过不确定性和额外负担，而需要稳定收入者选择受薪就业也合理。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "In conclusion"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Whether self-employment offers more advantages than disadvantages has become increasingly relevant in today's labour market. Although it involves genuine risks, I believe its benefits generally outweigh the drawbacks for well-prepared individuals.",
+      "cn": "在当今劳动力市场，自主就业是否利大于弊越来越值得讨论。虽然它确有风险，我认为对准备充分的人而言，其收益通常超过缺点。",
+      "clozes": [
+        {
+          "start": 161,
+          "end": 170,
+          "answer": "I believe"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Self-employment can offer substantial benefits in terms of autonomy, career prospects and personal fulfilment. Unlike conventional employees, self-employed people generally have greater control over their working hours and arrangements, allowing them to organise their schedules around personal commitments and work during their most productive periods. They can also benefit more directly from the value they create, rather than being restricted by fixed salary and promotion structures, meaning that successful performance may translate into greater financial rewards and professional growth. Finally, self-employment gives individuals more freedom to pursue goals that reflect their own interests and ambitions. This greater sense of ownership can strengthen intrinsic motivation and provide a deeper sense of achievement.",
+      "cn": "自主就业在自主权、职业前景和个人满足感方面有明显优势。与常规雇员相比，自主就业者通常更能掌控工作时间和安排，围绕个人事务制定日程，并在效率最高的时段工作。他们也能更直接地受益于自己创造的价值，而非受固定薪资和晋升制度限制，因此良好表现可能转化为更高收入和职业发展。最后，自主就业让人更自由地追求符合自身兴趣和抱负的目标。这种主人翁意识能增强内在动力，并带来更深的成就感。",
+      "clozes": [
+        {
+          "start": 90,
+          "end": 109,
+          "answer": "personal fulfilment"
+        },
+        {
+          "start": 205,
+          "end": 235,
+          "answer": "working hours and arrangements"
+        },
+        {
+          "start": 574,
+          "end": 593,
+          "answer": "professional growth"
+        },
+        {
+          "start": 762,
+          "end": 782,
+          "answer": "intrinsic motivation"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Admittedly, self-employment involves greater financial uncertainty and places heavier demands on individuals. Unlike salaried employees, self-employed people may have no guaranteed income and must personally bear any financial losses when demand falls, which can lead to considerable pressure or even debt. They are also responsible for a much broader range of tasks, including financial management, client relations, marketing and professional work. Consequently, those who lack experience, self-discipline or market knowledge may struggle to manage these responsibilities effectively. However, such risks are not equally severe for everyone. With relevant experience, sufficient financial resources and a realistic understanding of the market, these risks can become far more manageable.",
+      "cn": "诚然，自主就业伴随更大的收入不确定性和个人负担。与受薪雇员不同，自主就业者可能没有收入保障，需求下降时还需亲自承担损失，导致压力甚至债务。他们也负责更多任务，包括财务管理、客户关系、营销及专业工作。因此，缺少经验、自律或市场知识的人可能难以有效处理这些责任。不过，并非所有人都面临同样严重的风险。具备相关经验、足够资金和现实的市场认识时，这些风险会更容易管理。",
+      "clozes": [
+        {
+          "start": 45,
+          "end": 66,
+          "answer": "financial uncertainty"
+        },
+        {
+          "start": 400,
+          "end": 416,
+          "answer": "client relations"
+        },
+        {
+          "start": 492,
+          "end": 507,
+          "answer": "self-discipline"
+        },
+        {
+          "start": 649,
+          "end": 668,
+          "answer": "relevant experience"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, self-employment is not suitable for everyone, but for those who are adequately prepared, its greater freedom and long-term opportunities can outweigh the financial risks and additional responsibilities involved.",
+      "cn": "总之，自主就业并非适合所有人，但对准备充分者而言，更大的自由和长期机会能超过相应财务风险与额外责任。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "In conclusion"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "nine_complete": true,
+    "seven_complete": true,
+    "7marker": true
+  },
+  "vocab": [
+    {
+      "en": "financial uncertainty",
+      "zh": "收入不确定性"
+    },
+    {
+      "en": "personal fulfilment",
+      "zh": "个人满足感"
+    },
+    {
+      "en": "intrinsic motivation",
+      "zh": "内在动力"
+    },
+    {
+      "en": "client relations",
+      "zh": "客户关系"
+    },
+    {
+      "en": "professional growth",
+      "zh": "职业发展"
+    },
+    {
+      "en": "relevant experience",
+      "zh": "相关经验"
+    },
+    {
+      "en": "working arrangements",
+      "zh": "工作安排"
+    },
+    {
+      "en": "self-discipline",
+      "zh": "自律"
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "seven": "版本 A · 保留原意修正版",
+    "nine": "版本 B · Band 7.5+目标版"
+  },
+  "edition_summary": "双版本 · 原意修正 / Band 7.5+目标",
+  "source_note": "用户上传《雅思写作_大作文练习1.docx》（文档内标作GPT/Band 8练习参考稿）；非用户独立原稿，亦非官方评分。A版保留参考稿原意并修正必要语言或论证问题；B版为本次重写的Band 7.5+目标参考。 两版共用8道迁移任务，分别标注本版出处；A版篇幅较长，可用于精读，限时训练优先B版。",
+  "transfer": {
+    "seven": [
+      {
+        "id": "01",
+        "phrase": "financial uncertainty",
+        "source_phrase": "financial uncertainty",
+        "source_paragraph": 2,
+        "source": "Admittedly, self-employment involves greater financial uncertainty and places heavier demands on individuals. Unlike salaried employees, self-employed people may have no guaranteed income and must personally bear any financial losses when demand falls, which can lead to considerable pressure or even debt. They are also responsible for a much broader range of tasks, including financial management, client relations, marketing and professional work. Consequently, those who lack experience, self-discipline or market knowledge may struggle to manage these responsibilities effectively. However, such risks are not equally severe for everyone. With relevant experience, sufficient financial resources and a realistic understanding of the market, these risks can become far more manageable.",
+        "cn": "短期合同可能给有孩子的家庭带来收入不确定性。",
+        "answer": "Short-term contracts may create financial uncertainty for families with children."
+      },
+      {
+        "id": "02",
+        "phrase": "personal fulfilment",
+        "source_phrase": "personal fulfilment",
+        "source_paragraph": 1,
+        "source": "Self-employment can offer substantial benefits in terms of autonomy, career prospects and personal fulfilment. Unlike conventional employees, self-employed people generally have greater control over their working hours and arrangements, allowing them to organise their schedules around personal commitments and work during their most productive periods. They can also benefit more directly from the value they create, rather than being restricted by fixed salary and promotion structures, meaning that successful performance may translate into greater financial rewards and professional growth. Finally, self-employment gives individuals more freedom to pursue goals that reflect their own interests and ambitions. This greater sense of ownership can strengthen intrinsic motivation and provide a deeper sense of achievement.",
+        "cn": "志愿服务可以带来超越金钱回报的个人满足。",
+        "answer": "Volunteering can provide personal fulfilment beyond financial rewards."
+      },
+      {
+        "id": "03",
+        "phrase": "intrinsic motivation",
+        "source_phrase": "intrinsic motivation",
+        "source_paragraph": 1,
+        "source": "Self-employment can offer substantial benefits in terms of autonomy, career prospects and personal fulfilment. Unlike conventional employees, self-employed people generally have greater control over their working hours and arrangements, allowing them to organise their schedules around personal commitments and work during their most productive periods. They can also benefit more directly from the value they create, rather than being restricted by fixed salary and promotion structures, meaning that successful performance may translate into greater financial rewards and professional growth. Finally, self-employment gives individuals more freedom to pursue goals that reflect their own interests and ambitions. This greater sense of ownership can strengthen intrinsic motivation and provide a deeper sense of achievement.",
+        "cn": "只奖励分数可能削弱儿童的内在动力。",
+        "answer": "Rewarding only test scores may weaken children's intrinsic motivation."
+      },
+      {
+        "id": "04",
+        "phrase": "client relations",
+        "source_phrase": "client relations",
+        "source_paragraph": 2,
+        "source": "Admittedly, self-employment involves greater financial uncertainty and places heavier demands on individuals. Unlike salaried employees, self-employed people may have no guaranteed income and must personally bear any financial losses when demand falls, which can lead to considerable pressure or even debt. They are also responsible for a much broader range of tasks, including financial management, client relations, marketing and professional work. Consequently, those who lack experience, self-discipline or market knowledge may struggle to manage these responsibilities effectively. However, such risks are not equally severe for everyone. With relevant experience, sufficient financial resources and a realistic understanding of the market, these risks can become far more manageable.",
+        "cn": "小型律师事务所必须投入时间维护客户关系。",
+        "answer": "Small law firms must invest time in maintaining client relations."
+      },
+      {
+        "id": "05",
+        "phrase": "professional growth",
+        "source_phrase": "professional growth",
+        "source_paragraph": 1,
+        "source": "Self-employment can offer substantial benefits in terms of autonomy, career prospects and personal fulfilment. Unlike conventional employees, self-employed people generally have greater control over their working hours and arrangements, allowing them to organise their schedules around personal commitments and work during their most productive periods. They can also benefit more directly from the value they create, rather than being restricted by fixed salary and promotion structures, meaning that successful performance may translate into greater financial rewards and professional growth. Finally, self-employment gives individuals more freedom to pursue goals that reflect their own interests and ambitions. This greater sense of ownership can strengthen intrinsic motivation and provide a deeper sense of achievement.",
+        "cn": "指导制度能为新教师创造职业发展机会。",
+        "answer": "Mentoring can create opportunities for professional growth among new teachers."
+      },
+      {
+        "id": "06",
+        "phrase": "relevant experience",
+        "source_phrase": "relevant experience",
+        "source_paragraph": 2,
+        "source": "Admittedly, self-employment involves greater financial uncertainty and places heavier demands on individuals. Unlike salaried employees, self-employed people may have no guaranteed income and must personally bear any financial losses when demand falls, which can lead to considerable pressure or even debt. They are also responsible for a much broader range of tasks, including financial management, client relations, marketing and professional work. Consequently, those who lack experience, self-discipline or market knowledge may struggle to manage these responsibilities effectively. However, such risks are not equally severe for everyone. With relevant experience, sufficient financial resources and a realistic understanding of the market, these risks can become far more manageable.",
+        "cn": "申请人应说明自己的相关经验如何适用于该岗位。",
+        "answer": "Applicants should explain how their relevant experience applies to the role."
+      },
+      {
+        "id": "07",
+        "phrase": "working hours and arrangements",
+        "source_phrase": "working hours and arrangements",
+        "source_paragraph": 1,
+        "source": "Self-employment can offer substantial benefits in terms of autonomy, career prospects and personal fulfilment. Unlike conventional employees, self-employed people generally have greater control over their working hours and arrangements, allowing them to organise their schedules around personal commitments and work during their most productive periods. They can also benefit more directly from the value they create, rather than being restricted by fixed salary and promotion structures, meaning that successful performance may translate into greater financial rewards and professional growth. Finally, self-employment gives individuals more freedom to pursue goals that reflect their own interests and ambitions. This greater sense of ownership can strengthen intrinsic motivation and provide a deeper sense of achievement.",
+        "cn": "更灵活的工作安排可以帮助父母分担照护。",
+        "answer": "More flexible working arrangements can help parents share caring responsibilities."
+      },
+      {
+        "id": "08",
+        "phrase": "self-discipline",
+        "source_phrase": "self-discipline",
+        "source_paragraph": 2,
+        "source": "Admittedly, self-employment involves greater financial uncertainty and places heavier demands on individuals. Unlike salaried employees, self-employed people may have no guaranteed income and must personally bear any financial losses when demand falls, which can lead to considerable pressure or even debt. They are also responsible for a much broader range of tasks, including financial management, client relations, marketing and professional work. Consequently, those who lack experience, self-discipline or market knowledge may struggle to manage these responsibilities effectively. However, such risks are not equally severe for everyone. With relevant experience, sufficient financial resources and a realistic understanding of the market, these risks can become far more manageable.",
+        "cn": "远程学习既需要可靠设备，也需要自律。",
+        "answer": "Distance learning requires self-discipline as well as reliable equipment."
+      }
+    ],
+    "nine": [
+      {
+        "id": "01",
+        "phrase": "financial uncertainty",
+        "source_phrase": "financial uncertainty",
+        "source_paragraph": 0,
+        "source": "More people are choosing self-employment instead of salaried work. This can bring greater freedom and stronger personal rewards, but also financial uncertainty and demanding responsibilities. In my view, the advantages outweigh the disadvantages for people with relevant experience and realistic preparation, although it is not the best choice for everyone.",
+        "cn": "短期合同可能给有孩子的家庭带来收入不确定性。",
+        "answer": "Short-term contracts may create financial uncertainty for families with children."
+      },
+      {
+        "id": "02",
+        "phrase": "personal fulfilment",
+        "source_phrase": "personal fulfilment",
+        "source_paragraph": 1,
+        "source": "The main advantage is autonomy. Self-employed people often have more influence over their working arrangements and the clients or projects they accept. This can help them fit work around personal commitments, although customer demand may still limit flexibility. They may also benefit more directly from the value they create instead of depending on a fixed salary or an employer's promotion structure. For someone with a marketable skill, that connection between effort and reward can create opportunities for professional growth. Building a business around a genuine interest may additionally provide personal fulfilment and strengthen intrinsic motivation.",
+        "cn": "志愿服务可以带来超越金钱回报的个人满足。",
+        "answer": "Volunteering can provide personal fulfilment beyond financial rewards."
+      },
+      {
+        "id": "03",
+        "phrase": "intrinsic motivation",
+        "source_phrase": "intrinsic motivation",
+        "source_paragraph": 1,
+        "source": "The main advantage is autonomy. Self-employed people often have more influence over their working arrangements and the clients or projects they accept. This can help them fit work around personal commitments, although customer demand may still limit flexibility. They may also benefit more directly from the value they create instead of depending on a fixed salary or an employer's promotion structure. For someone with a marketable skill, that connection between effort and reward can create opportunities for professional growth. Building a business around a genuine interest may additionally provide personal fulfilment and strengthen intrinsic motivation.",
+        "cn": "只奖励分数可能削弱儿童的内在动力。",
+        "answer": "Rewarding only test scores may weaken children's intrinsic motivation."
+      },
+      {
+        "id": "04",
+        "phrase": "client relations",
+        "source_phrase": "client relations",
+        "source_paragraph": 2,
+        "source": "These benefits must be weighed against substantial risks. Income may fluctuate, while rent, equipment and other expenses still need to be paid. Losing a major client can therefore create immediate financial pressure. Self-employed workers also handle tasks that an organisation might distribute among several employees, including marketing, accounts and client relations. Someone who lacks experience or self-discipline may find these responsibilities overwhelming. However, the risks become more manageable when an individual understands the market, maintains a financial buffer and builds a client base before depending entirely on the business. Preparation cannot guarantee success, but it reduces the chance that an ordinary setback will become a personal crisis.",
+        "cn": "小型律师事务所必须投入时间维护客户关系。",
+        "answer": "Small law firms must invest time in maintaining client relations."
+      },
+      {
+        "id": "05",
+        "phrase": "professional growth",
+        "source_phrase": "professional growth",
+        "source_paragraph": 1,
+        "source": "The main advantage is autonomy. Self-employed people often have more influence over their working arrangements and the clients or projects they accept. This can help them fit work around personal commitments, although customer demand may still limit flexibility. They may also benefit more directly from the value they create instead of depending on a fixed salary or an employer's promotion structure. For someone with a marketable skill, that connection between effort and reward can create opportunities for professional growth. Building a business around a genuine interest may additionally provide personal fulfilment and strengthen intrinsic motivation.",
+        "cn": "指导制度能为新教师创造职业发展机会。",
+        "answer": "Mentoring can create opportunities for professional growth among new teachers."
+      },
+      {
+        "id": "06",
+        "phrase": "relevant experience",
+        "source_phrase": "relevant experience",
+        "source_paragraph": 0,
+        "source": "More people are choosing self-employment instead of salaried work. This can bring greater freedom and stronger personal rewards, but also financial uncertainty and demanding responsibilities. In my view, the advantages outweigh the disadvantages for people with relevant experience and realistic preparation, although it is not the best choice for everyone.",
+        "cn": "申请人应说明自己的相关经验如何适用于该岗位。",
+        "answer": "Applicants should explain how their relevant experience applies to the role."
+      },
+      {
+        "id": "07",
+        "phrase": "working arrangements",
+        "source_phrase": "working arrangements",
+        "source_paragraph": 1,
+        "source": "The main advantage is autonomy. Self-employed people often have more influence over their working arrangements and the clients or projects they accept. This can help them fit work around personal commitments, although customer demand may still limit flexibility. They may also benefit more directly from the value they create instead of depending on a fixed salary or an employer's promotion structure. For someone with a marketable skill, that connection between effort and reward can create opportunities for professional growth. Building a business around a genuine interest may additionally provide personal fulfilment and strengthen intrinsic motivation.",
+        "cn": "更灵活的工作安排可以帮助父母分担照护。",
+        "answer": "More flexible working arrangements can help parents share caring responsibilities."
+      },
+      {
+        "id": "08",
+        "phrase": "self-discipline",
+        "source_phrase": "self-discipline",
+        "source_paragraph": 2,
+        "source": "These benefits must be weighed against substantial risks. Income may fluctuate, while rent, equipment and other expenses still need to be paid. Losing a major client can therefore create immediate financial pressure. Self-employed workers also handle tasks that an organisation might distribute among several employees, including marketing, accounts and client relations. Someone who lacks experience or self-discipline may find these responsibilities overwhelming. However, the risks become more manageable when an individual understands the market, maintains a financial buffer and builds a client base before depending entirely on the business. Preparation cannot guarantee success, but it reduces the chance that an ordinary setback will become a personal crisis.",
+        "cn": "远程学习既需要可靠设备，也需要自律。",
+        "answer": "Distance learning requires self-discipline as well as reliable equipment."
+      }
+    ]
+  },
+  "review": {
+    "reference_material": true,
+    "practice_estimate": "未独立评分",
+    "original_complete": true,
+    "original_question": "More people are choosing to become self-employed rather than work for a company or organisation. Do the advantages of being self-employed outweigh the disadvantages?",
+    "complete_feedback": "利弊权衡限定于准备充分者；不把创业自由和高收入说成必然结果。\nA版将模糊代词 they 改为 these risks，明确是风险变得可控。\nB版加入客户需求可能限制自由，以及收入波动时固定成本仍要支付的具体机制。",
+    "source_models": {
+      "original": "Whether self-employment offers more advantages than disadvantages has become increasingly relevant in today's labour market. Although it involves genuine risks, I believe its benefits generally outweigh the drawbacks for well-prepared individuals.\n\nSelf-employment can offer substantial benefits in terms of autonomy, career prospects and personal fulfilment. Unlike conventional employees, self-employed people generally have greater control over their working hours and arrangements, allowing them to organise their schedules around personal commitments and work during their most productive periods. They can also benefit more directly from the value they create, rather than being restricted by fixed salary and promotion structures, meaning that successful performance may translate into greater financial rewards and professional growth. Finally, self-employment gives individuals more freedom to pursue goals that reflect their own interests and ambitions. This greater sense of ownership can strengthen intrinsic motivation and provide a deeper sense of achievement.\n\nAdmittedly, self-employment involves greater financial uncertainty and places heavier demands on individuals. Unlike salaried employees, self-employed people may have no guaranteed income and must personally bear any financial losses when demand falls, which can lead to considerable pressure or even debt. They are also responsible for a much broader range of tasks, including financial management, client relations, marketing and professional work. Consequently, those who lack experience, self-discipline or market knowledge may struggle to manage these responsibilities effectively. However, such risks are not equally severe for everyone. With relevant experience, sufficient financial resources and a realistic understanding of the market, they can become far more manageable.\n\nIn conclusion, self-employment is not suitable for everyone, but for those who are adequately prepared, its greater freedom and long-term opportunities can outweigh the financial risks and additional responsibilities involved.",
+      "A": "Whether self-employment offers more advantages than disadvantages has become increasingly relevant in today's labour market. Although it involves genuine risks, I believe its benefits generally outweigh the drawbacks for well-prepared individuals.\n\nSelf-employment can offer substantial benefits in terms of autonomy, career prospects and personal fulfilment. Unlike conventional employees, self-employed people generally have greater control over their working hours and arrangements, allowing them to organise their schedules around personal commitments and work during their most productive periods. They can also benefit more directly from the value they create, rather than being restricted by fixed salary and promotion structures, meaning that successful performance may translate into greater financial rewards and professional growth. Finally, self-employment gives individuals more freedom to pursue goals that reflect their own interests and ambitions. This greater sense of ownership can strengthen intrinsic motivation and provide a deeper sense of achievement.\n\nAdmittedly, self-employment involves greater financial uncertainty and places heavier demands on individuals. Unlike salaried employees, self-employed people may have no guaranteed income and must personally bear any financial losses when demand falls, which can lead to considerable pressure or even debt. They are also responsible for a much broader range of tasks, including financial management, client relations, marketing and professional work. Consequently, those who lack experience, self-discipline or market knowledge may struggle to manage these responsibilities effectively. However, such risks are not equally severe for everyone. With relevant experience, sufficient financial resources and a realistic understanding of the market, these risks can become far more manageable.\n\nIn conclusion, self-employment is not suitable for everyone, but for those who are adequately prepared, its greater freedom and long-term opportunities can outweigh the financial risks and additional responsibilities involved.",
+      "B": "More people are choosing self-employment instead of salaried work. This can bring greater freedom and stronger personal rewards, but also financial uncertainty and demanding responsibilities. In my view, the advantages outweigh the disadvantages for people with relevant experience and realistic preparation, although it is not the best choice for everyone.\n\nThe main advantage is autonomy. Self-employed people often have more influence over their working arrangements and the clients or projects they accept. This can help them fit work around personal commitments, although customer demand may still limit flexibility. They may also benefit more directly from the value they create instead of depending on a fixed salary or an employer's promotion structure. For someone with a marketable skill, that connection between effort and reward can create opportunities for professional growth. Building a business around a genuine interest may additionally provide personal fulfilment and strengthen intrinsic motivation.\n\nThese benefits must be weighed against substantial risks. Income may fluctuate, while rent, equipment and other expenses still need to be paid. Losing a major client can therefore create immediate financial pressure. Self-employed workers also handle tasks that an organisation might distribute among several employees, including marketing, accounts and client relations. Someone who lacks experience or self-discipline may find these responsibilities overwhelming. However, the risks become more manageable when an individual understands the market, maintains a financial buffer and builds a client base before depending entirely on the business. Preparation cannot guarantee success, but it reduces the chance that an ordinary setback will become a personal crisis.\n\nIn conclusion, self-employment offers worthwhile advantages through independence, development and ownership of results. For adequately prepared individuals, these can outweigh the uncertainty and extra workload, whereas those needing predictable income may reasonably prefer salaried employment."
+    },
+    "source_sha256": "9ae69bd6a698023b8450da2b356806ca1d0a1b530142a436c15d64bc6bc1fa4d"
+  },
+  "practice": {
+    "diagnosis": "本篇以切题性、逻辑展开和准确表达为训练重点；7.5+为练习目标，无法仅凭参考文本承诺实际考试分数。",
+    "score_dimensions": [
+      {
+        "name": "Task Response",
+        "estimate": "训练检查",
+        "note": "利弊权衡限定于准备充分者；不把创业自由和高收入说成必然结果。"
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "estimate": "训练检查",
+        "note": "中心句后解释具体机制和结果；结尾回应引言立场，不新增未经展开的理由。"
+      },
+      {
+        "name": "Lexical Resource",
+        "estimate": "训练检查",
+        "note": "优先使用准确自然的搭配，避免为追求高级词汇牺牲意义。"
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "estimate": "训练检查",
+        "note": "结合让步、条件和定语结构，控制长句长度，检查冠词、单复数及主谓一致。"
+      }
+    ],
+    "notes": [
+      "利弊权衡限定于准备充分者；不把创业自由和高收入说成必然结果。",
+      "A版将模糊代词 they 改为 these risks，明确是风险变得可控。",
+      "B版加入客户需求可能限制自由，以及收入波动时固定成本仍要支付的具体机制。"
+    ],
+    "errors": [],
+    "drills": [
+      {
+        "id": "1",
+        "cn": "短期合同可能给有孩子的家庭带来收入不确定性。",
+        "hint": "financial uncertainty",
+        "answer": "Short-term contracts may create financial uncertainty for families with children.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "2",
+        "cn": "志愿服务可以带来超越金钱回报的个人满足。",
+        "hint": "personal fulfilment",
+        "answer": "Volunteering can provide personal fulfilment beyond financial rewards.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "3",
+        "cn": "只奖励分数可能削弱儿童的内在动力。",
+        "hint": "intrinsic motivation",
+        "answer": "Rewarding only test scores may weaken children's intrinsic motivation.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      }
+    ]
+  }
+}

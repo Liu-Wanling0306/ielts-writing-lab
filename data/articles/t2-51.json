@@ -1,0 +1,419 @@
+{
+  "id": "t2-51",
+  "type": "大作文",
+  "title": "运动与健康饮食的作用（练习1·09）",
+  "group": "健康与生活",
+  "question": "Some people believe that regular physical exercise is the most effective way to improve people's health, while others think that maintaining a healthy diet is more important. Discuss both views and give your own opinion.",
+  "task_type": "Discuss both views",
+  "logic": "▪ 比较运动与饮食并主张结合。▪ 运动：体能、代谢和心理收益。▪ 饮食：营养、能量与血压；解释互补。▪ 结论：可持续双重习惯。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Some regard regular exercise as the best route to better health, while others favour a healthy diet. Both views have merit, but I would not identify either as universally superior. Exercise and nutrition support different aspects of well-being, so combining them offers a more convincing long-term approach.",
+      "cn": "一些人认为规律运动是改善健康的最佳途径，另一些人更看重健康饮食。两者都有道理，但我不会认为任一方在所有情境都更优。运动和营养支持不同健康方面，结合更有利于长期健康。",
+      "clozes": [
+        {
+          "start": 12,
+          "end": 28,
+          "answer": "regular exercise"
+        },
+        {
+          "start": 87,
+          "end": 99,
+          "answer": "healthy diet"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Exercise improves physical fitness by strengthening the cardiovascular system and muscles. Regular activity can also help regulate blood sugar and support weight management, thereby reducing some risks associated with inactivity. Its contribution to psychological well-being matters too. Walking, sport or other enjoyable movement can relieve stress, improve mood and support sleep. These benefits help explain why people facing demanding work or study schedules may regard exercise as particularly valuable. However, activity alone cannot ensure that a person's nutritional needs are met.",
+      "cn": "运动增强心血管和肌肉系统，改善体能。规律活动也帮助调节血糖和管理体重，降低部分久坐相关风险。对心理健康的贡献也很重要。步行、体育或其他喜欢的活动能缓解压力、改善情绪并促进睡眠。因此，面对繁重工作或学习的人可能特别看重运动。不过，单靠运动无法确保营养需要得到满足。",
+      "clozes": [
+        {
+          "start": 155,
+          "end": 172,
+          "answer": "weight management"
+        },
+        {
+          "start": 250,
+          "end": 274,
+          "answer": "psychological well-being"
+        },
+        {
+          "start": 563,
+          "end": 580,
+          "answer": "nutritional needs"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Supporters of a healthy diet emphasise that the body requires adequate protein, vitamins, minerals and other nutrients for normal functioning. Food choices also affect overall energy intake, so a balanced diet can help people avoid consuming more energy than they use. Different dietary changes have different purposes: reducing excessive salt intake, for example, can support blood-pressure control rather than directly prevent weight gain. Diet nevertheless cannot substitute for all the cardiovascular and muscular benefits of movement. Equally, exercising regularly does not cancel out every consequence of persistently poor eating habits. The relative priority may vary with a person's circumstances, but treating the two as alternatives overlooks how they complement each other. Encouraging sustainable habits in both areas is therefore more useful than promoting a single solution for everyone.",
+      "cn": "支持健康饮食的人强调，人体需要充足蛋白质、维生素、矿物质等营养以正常运作。食物选择也影响总能量摄入，因此均衡饮食有助于避免摄入超过消耗。不同调整目的不同，例如减少过量盐摄入能支持血压控制，而非直接防止增重。但饮食不能取代运动对心血管和肌肉的所有益处。同样，经常运动也不能抵消长期不良饮食的每项后果。相对优先度可能随个人情况变化，但将两者视为替代品，忽略了互补关系。因此，鼓励两方面的可持续习惯，比向所有人推广单一方案更有用。",
+      "clozes": [
+        {
+          "start": 377,
+          "end": 399,
+          "answer": "blood-pressure control"
+        },
+        {
+          "start": 490,
+          "end": 526,
+          "answer": "cardiovascular and muscular benefits"
+        },
+        {
+          "start": 762,
+          "end": 783,
+          "answer": "complement each other"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, exercise and healthy eating each make an important contribution to health. A combination of regular activity and balanced nutrition is a stronger general strategy than expecting either one to compensate fully for neglecting the other.",
+      "cn": "总之，运动和健康饮食都对健康有重要贡献。规律活动与均衡营养结合，比期望一方完全弥补对另一方的忽视更可靠。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "In conclusion"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "Nowadays, people are paying increasing attention to ways of improving their health. Some argue that regular exercise is the most effective way to maintain good health, while others believe that a healthy diet is more important. This essay will discuss both views and argue that, on balance, combining regular exercise with a healthy diet offers the greatest benefits.",
+      "cn": "如今人们越来越关注改善健康的方法。一些人认为规律运动最有效，另一些人认为健康饮食更重要。本文将讨论双方观点，并主张总体上将规律运动与健康饮食结合能带来最大收益。",
+      "clozes": [
+        {
+          "start": 100,
+          "end": 116,
+          "answer": "regular exercise"
+        },
+        {
+          "start": 196,
+          "end": 208,
+          "answer": "healthy diet"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Regular exercise plays an important role in improving physical fitness, supporting metabolic health and promoting psychological well-being. Physically, it strengthens the cardiovascular system and muscles, while helping the body regulate blood sugar and use energy more efficiently. These benefits can help people maintain a healthy weight and reduce the risk of chronic diseases such as type 2 diabetes. Exercise also benefits mental health by relieving stress and improving mood, particularly among people who feel overwhelmed by work or study. In addition, regular physical activity can improve sleep quality, contributing to better overall well-being.",
+      "cn": "规律运动对改善体能、支持代谢健康及促进心理健康很重要。身体方面，它能增强心血管系统和肌肉，并帮助调节血糖、更高效地利用能量。这些收益有助于保持健康体重并降低2型糖尿病等慢性病风险。运动也能缓解压力、改善情绪，尤其惠及因工作或学习感到不堪重负的人。此外，规律活动能改善睡眠，从而促进整体健康。",
+      "clozes": [
+        {
+          "start": 114,
+          "end": 138,
+          "answer": "psychological well-being"
+        },
+        {
+          "start": 314,
+          "end": 339,
+          "answer": "maintain a healthy weight"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "A healthy diet is equally important because it provides essential nutrients, helps maintain a healthy weight and reduces the risk of diet-related diseases. Foods rich in protein, vitamins and minerals support growth, tissue repair and normal bodily functions, ensuring that people meet their daily nutritional needs. In addition, limiting excessive energy intake from sugary or energy-dense foods can help prevent weight gain, while reducing excessive salt intake can help control blood pressure. However, diet and exercise are most effective when combined, as they support different aspects of health. People may still gain weight if they consume too much unhealthy food, even if they exercise regularly. Conversely, a balanced diet alone cannot provide the cardiovascular and muscular benefits of physical activity. Therefore, maintaining long-term health requires attention to both eating habits and exercise routines.",
+      "cn": "健康饮食同样重要，因为它提供必要营养，帮助维持健康体重并降低饮食相关疾病风险。富含蛋白质、维生素和矿物质的食物支持生长、组织修复和正常身体功能，满足日常营养需要。此外，控制来自含糖或高能量食物的过量能量摄入，有助于预防体重增加，而减少过量盐摄入有助于控制血压。不过，饮食和运动结合最有效，因为它们支持不同健康方面。即使经常运动，吃太多不健康食物仍可能增重。反之，单靠均衡饮食无法提供运动对心血管和肌肉的益处。因此，长期健康需要同时关注饮食习惯和运动安排。",
+      "clozes": [
+        {
+          "start": 298,
+          "end": 315,
+          "answer": "nutritional needs"
+        },
+        {
+          "start": 481,
+          "end": 495,
+          "answer": "blood pressure"
+        },
+        {
+          "start": 759,
+          "end": 795,
+          "answer": "cardiovascular and muscular benefits"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, regular exercise and a healthy diet play complementary roles in maintaining good health. Combining the two is therefore the most effective way to support long-term physical and mental well-being.",
+      "cn": "总之，规律运动和健康饮食对保持健康发挥互补作用。结合两者是支持长期身心健康的最有效方式。",
+      "clozes": [
+        {
+          "start": 51,
+          "end": 75,
+          "answer": "play complementary roles"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "nine_complete": true,
+    "seven_complete": true,
+    "7marker": true
+  },
+  "vocab": [
+    {
+      "en": "healthy diet",
+      "zh": "健康饮食"
+    },
+    {
+      "en": "regular exercise",
+      "zh": "规律运动"
+    },
+    {
+      "en": "weight management",
+      "zh": "体重管理"
+    },
+    {
+      "en": "psychological well-being",
+      "zh": "心理健康"
+    },
+    {
+      "en": "nutritional needs",
+      "zh": "营养需求"
+    },
+    {
+      "en": "blood-pressure control",
+      "zh": "血压控制"
+    },
+    {
+      "en": "cardiovascular and muscular benefits",
+      "zh": "心血管和肌肉益处"
+    },
+    {
+      "en": "complement each other",
+      "zh": "相互补充"
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "seven": "版本 A · 保留原意修正版",
+    "nine": "版本 B · Band 7.5+目标版"
+  },
+  "edition_summary": "双版本 · 原意修正 / Band 7.5+目标",
+  "source_note": "用户上传《雅思写作_大作文练习1.docx》（文档内标作GPT/Band 8练习参考稿）；非用户独立原稿，亦非官方评分。A版保留参考稿原意并修正必要语言或论证问题；B版为本次重写的Band 7.5+目标参考。 两版共用8道迁移任务，分别标注本版出处；A版篇幅较长，可用于精读，限时训练优先B版。",
+  "transfer": {
+    "seven": [
+      {
+        "id": "01",
+        "phrase": "healthy diet",
+        "source_phrase": "healthy diet",
+        "source_paragraph": 0,
+        "source": "Nowadays, people are paying increasing attention to ways of improving their health. Some argue that regular exercise is the most effective way to maintain good health, while others believe that a healthy diet is more important. This essay will discuss both views and argue that, on balance, combining regular exercise with a healthy diet offers the greatest benefits.",
+        "cn": "工作场所食堂可以让轮班员工更容易保持健康饮食。",
+        "answer": "Workplace canteens can make it easier for shift workers to maintain a healthy diet."
+      },
+      {
+        "id": "02",
+        "phrase": "regular exercise",
+        "source_phrase": "regular exercise",
+        "source_paragraph": 0,
+        "source": "Nowadays, people are paying increasing attention to ways of improving their health. Some argue that regular exercise is the most effective way to maintain good health, while others believe that a healthy diet is more important. This essay will discuss both views and argue that, on balance, combining regular exercise with a healthy diet offers the greatest benefits.",
+        "cn": "为公园安装照明能让上班族更容易规律运动。",
+        "answer": "Installing lighting in parks can make regular exercise more accessible to working adults."
+      },
+      {
+        "id": "03",
+        "phrase": "maintain a healthy weight",
+        "source_phrase": "maintain a healthy weight",
+        "source_paragraph": 1,
+        "source": "Regular exercise plays an important role in improving physical fitness, supporting metabolic health and promoting psychological well-being. Physically, it strengthens the cardiovascular system and muscles, while helping the body regulate blood sugar and use energy more efficiently. These benefits can help people maintain a healthy weight and reduce the risk of chronic diseases such as type 2 diabetes. Exercise also benefits mental health by relieving stress and improving mood, particularly among people who feel overwhelmed by work or study. In addition, regular physical activity can improve sleep quality, contributing to better overall well-being.",
+        "cn": "学校应将体重管理作为健康教育的一部分，而非评价外貌的标准。",
+        "answer": "Schools should treat weight management as part of health education rather than a judgement about appearance."
+      },
+      {
+        "id": "04",
+        "phrase": "psychological well-being",
+        "source_phrase": "psychological well-being",
+        "source_paragraph": 1,
+        "source": "Regular exercise plays an important role in improving physical fitness, supporting metabolic health and promoting psychological well-being. Physically, it strengthens the cardiovascular system and muscles, while helping the body regulate blood sugar and use energy more efficiently. These benefits can help people maintain a healthy weight and reduce the risk of chronic diseases such as type 2 diabetes. Exercise also benefits mental health by relieving stress and improving mood, particularly among people who feel overwhelmed by work or study. In addition, regular physical activity can improve sleep quality, contributing to better overall well-being.",
+        "cn": "安全住房对儿童的心理健康也很重要。",
+        "answer": "Secure housing also matters to children's psychological well-being."
+      },
+      {
+        "id": "05",
+        "phrase": "nutritional needs",
+        "source_phrase": "nutritional needs",
+        "source_paragraph": 2,
+        "source": "A healthy diet is equally important because it provides essential nutrients, helps maintain a healthy weight and reduces the risk of diet-related diseases. Foods rich in protein, vitamins and minerals support growth, tissue repair and normal bodily functions, ensuring that people meet their daily nutritional needs. In addition, limiting excessive energy intake from sugary or energy-dense foods can help prevent weight gain, while reducing excessive salt intake can help control blood pressure. However, diet and exercise are most effective when combined, as they support different aspects of health. People may still gain weight if they consume too much unhealthy food, even if they exercise regularly. Conversely, a balanced diet alone cannot provide the cardiovascular and muscular benefits of physical activity. Therefore, maintaining long-term health requires attention to both eating habits and exercise routines.",
+        "cn": "学校午餐应满足处于生长发育期儿童的营养需求。",
+        "answer": "School meals should meet the nutritional needs of growing children."
+      },
+      {
+        "id": "06",
+        "phrase": "blood pressure",
+        "source_phrase": "blood pressure",
+        "source_paragraph": 2,
+        "source": "A healthy diet is equally important because it provides essential nutrients, helps maintain a healthy weight and reduces the risk of diet-related diseases. Foods rich in protein, vitamins and minerals support growth, tissue repair and normal bodily functions, ensuring that people meet their daily nutritional needs. In addition, limiting excessive energy intake from sugary or energy-dense foods can help prevent weight gain, while reducing excessive salt intake can help control blood pressure. However, diet and exercise are most effective when combined, as they support different aspects of health. People may still gain weight if they consume too much unhealthy food, even if they exercise regularly. Conversely, a balanced diet alone cannot provide the cardiovascular and muscular benefits of physical activity. Therefore, maintaining long-term health requires attention to both eating habits and exercise routines.",
+        "cn": "定期测量血压可帮助患者了解治疗效果。",
+        "answer": "Regular blood-pressure checks can help patients understand how well their treatment is working."
+      },
+      {
+        "id": "07",
+        "phrase": "cardiovascular and muscular benefits",
+        "source_phrase": "cardiovascular and muscular benefits",
+        "source_paragraph": 2,
+        "source": "A healthy diet is equally important because it provides essential nutrients, helps maintain a healthy weight and reduces the risk of diet-related diseases. Foods rich in protein, vitamins and minerals support growth, tissue repair and normal bodily functions, ensuring that people meet their daily nutritional needs. In addition, limiting excessive energy intake from sugary or energy-dense foods can help prevent weight gain, while reducing excessive salt intake can help control blood pressure. However, diet and exercise are most effective when combined, as they support different aspects of health. People may still gain weight if they consume too much unhealthy food, even if they exercise regularly. Conversely, a balanced diet alone cannot provide the cardiovascular and muscular benefits of physical activity. Therefore, maintaining long-term health requires attention to both eating habits and exercise routines.",
+        "cn": "老年人也能从适当活动的心血管与肌肉益处中受益。",
+        "answer": "Older adults can also gain cardiovascular and muscular benefits from suitable activity."
+      },
+      {
+        "id": "08",
+        "phrase": "play complementary roles",
+        "source_phrase": "play complementary roles",
+        "source_paragraph": 3,
+        "source": "In conclusion, regular exercise and a healthy diet play complementary roles in maintaining good health. Combining the two is therefore the most effective way to support long-term physical and mental well-being.",
+        "cn": "理论课与实习在职业培训中应相互补充。",
+        "answer": "Theoretical lessons and work placements should complement each other in vocational training."
+      }
+    ],
+    "nine": [
+      {
+        "id": "01",
+        "phrase": "healthy diet",
+        "source_phrase": "healthy diet",
+        "source_paragraph": 0,
+        "source": "Some regard regular exercise as the best route to better health, while others favour a healthy diet. Both views have merit, but I would not identify either as universally superior. Exercise and nutrition support different aspects of well-being, so combining them offers a more convincing long-term approach.",
+        "cn": "工作场所食堂可以让轮班员工更容易保持健康饮食。",
+        "answer": "Workplace canteens can make it easier for shift workers to maintain a healthy diet."
+      },
+      {
+        "id": "02",
+        "phrase": "regular exercise",
+        "source_phrase": "regular exercise",
+        "source_paragraph": 0,
+        "source": "Some regard regular exercise as the best route to better health, while others favour a healthy diet. Both views have merit, but I would not identify either as universally superior. Exercise and nutrition support different aspects of well-being, so combining them offers a more convincing long-term approach.",
+        "cn": "为公园安装照明能让上班族更容易规律运动。",
+        "answer": "Installing lighting in parks can make regular exercise more accessible to working adults."
+      },
+      {
+        "id": "03",
+        "phrase": "weight management",
+        "source_phrase": "weight management",
+        "source_paragraph": 1,
+        "source": "Exercise improves physical fitness by strengthening the cardiovascular system and muscles. Regular activity can also help regulate blood sugar and support weight management, thereby reducing some risks associated with inactivity. Its contribution to psychological well-being matters too. Walking, sport or other enjoyable movement can relieve stress, improve mood and support sleep. These benefits help explain why people facing demanding work or study schedules may regard exercise as particularly valuable. However, activity alone cannot ensure that a person's nutritional needs are met.",
+        "cn": "学校应将体重管理作为健康教育的一部分，而非评价外貌的标准。",
+        "answer": "Schools should treat weight management as part of health education rather than a judgement about appearance."
+      },
+      {
+        "id": "04",
+        "phrase": "psychological well-being",
+        "source_phrase": "psychological well-being",
+        "source_paragraph": 1,
+        "source": "Exercise improves physical fitness by strengthening the cardiovascular system and muscles. Regular activity can also help regulate blood sugar and support weight management, thereby reducing some risks associated with inactivity. Its contribution to psychological well-being matters too. Walking, sport or other enjoyable movement can relieve stress, improve mood and support sleep. These benefits help explain why people facing demanding work or study schedules may regard exercise as particularly valuable. However, activity alone cannot ensure that a person's nutritional needs are met.",
+        "cn": "安全住房对儿童的心理健康也很重要。",
+        "answer": "Secure housing also matters to children's psychological well-being."
+      },
+      {
+        "id": "05",
+        "phrase": "nutritional needs",
+        "source_phrase": "nutritional needs",
+        "source_paragraph": 1,
+        "source": "Exercise improves physical fitness by strengthening the cardiovascular system and muscles. Regular activity can also help regulate blood sugar and support weight management, thereby reducing some risks associated with inactivity. Its contribution to psychological well-being matters too. Walking, sport or other enjoyable movement can relieve stress, improve mood and support sleep. These benefits help explain why people facing demanding work or study schedules may regard exercise as particularly valuable. However, activity alone cannot ensure that a person's nutritional needs are met.",
+        "cn": "学校午餐应满足处于生长发育期儿童的营养需求。",
+        "answer": "School meals should meet the nutritional needs of growing children."
+      },
+      {
+        "id": "06",
+        "phrase": "blood-pressure control",
+        "source_phrase": "blood-pressure control",
+        "source_paragraph": 2,
+        "source": "Supporters of a healthy diet emphasise that the body requires adequate protein, vitamins, minerals and other nutrients for normal functioning. Food choices also affect overall energy intake, so a balanced diet can help people avoid consuming more energy than they use. Different dietary changes have different purposes: reducing excessive salt intake, for example, can support blood-pressure control rather than directly prevent weight gain. Diet nevertheless cannot substitute for all the cardiovascular and muscular benefits of movement. Equally, exercising regularly does not cancel out every consequence of persistently poor eating habits. The relative priority may vary with a person's circumstances, but treating the two as alternatives overlooks how they complement each other. Encouraging sustainable habits in both areas is therefore more useful than promoting a single solution for everyone.",
+        "cn": "定期测量血压可帮助患者了解治疗效果。",
+        "answer": "Regular blood-pressure checks can help patients understand how well their treatment is working."
+      },
+      {
+        "id": "07",
+        "phrase": "cardiovascular and muscular benefits",
+        "source_phrase": "cardiovascular and muscular benefits",
+        "source_paragraph": 2,
+        "source": "Supporters of a healthy diet emphasise that the body requires adequate protein, vitamins, minerals and other nutrients for normal functioning. Food choices also affect overall energy intake, so a balanced diet can help people avoid consuming more energy than they use. Different dietary changes have different purposes: reducing excessive salt intake, for example, can support blood-pressure control rather than directly prevent weight gain. Diet nevertheless cannot substitute for all the cardiovascular and muscular benefits of movement. Equally, exercising regularly does not cancel out every consequence of persistently poor eating habits. The relative priority may vary with a person's circumstances, but treating the two as alternatives overlooks how they complement each other. Encouraging sustainable habits in both areas is therefore more useful than promoting a single solution for everyone.",
+        "cn": "老年人也能从适当活动的心血管与肌肉益处中受益。",
+        "answer": "Older adults can also gain cardiovascular and muscular benefits from suitable activity."
+      },
+      {
+        "id": "08",
+        "phrase": "complement each other",
+        "source_phrase": "complement each other",
+        "source_paragraph": 2,
+        "source": "Supporters of a healthy diet emphasise that the body requires adequate protein, vitamins, minerals and other nutrients for normal functioning. Food choices also affect overall energy intake, so a balanced diet can help people avoid consuming more energy than they use. Different dietary changes have different purposes: reducing excessive salt intake, for example, can support blood-pressure control rather than directly prevent weight gain. Diet nevertheless cannot substitute for all the cardiovascular and muscular benefits of movement. Equally, exercising regularly does not cancel out every consequence of persistently poor eating habits. The relative priority may vary with a person's circumstances, but treating the two as alternatives overlooks how they complement each other. Encouraging sustainable habits in both areas is therefore more useful than promoting a single solution for everyone.",
+        "cn": "理论课与实习在职业培训中应相互补充。",
+        "answer": "Theoretical lessons and work placements should complement each other in vocational training."
+      }
+    ]
+  },
+  "review": {
+    "reference_material": true,
+    "practice_estimate": "未独立评分",
+    "original_complete": true,
+    "original_question": "Some people believe that regular physical exercise is the most effective way to improve people's health, while others think that maintaining a healthy diet is more important. Discuss both views and give your own opinion.",
+    "complete_feedback": "修正因果：过量能量摄入关联体重，盐摄入更多关联血压，不将两者混为一谈。\n糖尿病表述限定为2型；健康论证使用 can/help 等克制表达，避免医学效果绝对化。\n两版解释运动与饮食各有不可替代的贡献；“结合”立场需有具体比较支撑。",
+    "source_models": {
+      "original": "Nowadays, people are paying increasing attention to ways of improving their health. Some argue that regular exercise is the most effective way to maintain good health, while others believe that a healthy diet is more important. This essay will discuss both views and argue that, on balance, combining regular exercise with a healthy diet offers the greatest benefits.\n\nRegular exercise plays an important role in improving physical fitness, supporting metabolic health and promoting psychological well-being. Physically, it strengthens the cardiovascular system and muscles, while helping the body regulate blood sugar and use energy more efficiently. These benefits can help people maintain a healthy weight and reduce the risk of chronic diseases such as diabetes. Exercise also benefits mental health by relieving stress and improving mood, particularly among people who feel overwhelmed by work or study. In addition, regular physical activity can improve sleep quality, contributing to better overall well-being.\n\nA healthy diet is equally important because it provides essential nutrients, helps maintain a healthy weight and reduces the risk of diet-related diseases. Foods rich in protein, vitamins and minerals support growth, tissue repair and normal bodily functions, ensuring that people meet their daily nutritional needs. In addition, limiting excessive sugar, salt and unhealthy fats can help prevent weight gain and reduce the risk of obesity. However, diet and exercise are most effective when combined, as they support different aspects of health. People may still gain weight if they consume too much unhealthy food, even if they exercise regularly. Conversely, a balanced diet alone cannot provide the cardiovascular and muscular benefits of physical activity. Therefore, maintaining long-term health requires attention to both eating habits and exercise routines.\n\nIn conclusion, regular exercise and a healthy diet play complementary roles in maintaining good health. Combining the two is therefore the most effective way to support long-term physical and mental well-being.",
+      "A": "Nowadays, people are paying increasing attention to ways of improving their health. Some argue that regular exercise is the most effective way to maintain good health, while others believe that a healthy diet is more important. This essay will discuss both views and argue that, on balance, combining regular exercise with a healthy diet offers the greatest benefits.\n\nRegular exercise plays an important role in improving physical fitness, supporting metabolic health and promoting psychological well-being. Physically, it strengthens the cardiovascular system and muscles, while helping the body regulate blood sugar and use energy more efficiently. These benefits can help people maintain a healthy weight and reduce the risk of chronic diseases such as type 2 diabetes. Exercise also benefits mental health by relieving stress and improving mood, particularly among people who feel overwhelmed by work or study. In addition, regular physical activity can improve sleep quality, contributing to better overall well-being.\n\nA healthy diet is equally important because it provides essential nutrients, helps maintain a healthy weight and reduces the risk of diet-related diseases. Foods rich in protein, vitamins and minerals support growth, tissue repair and normal bodily functions, ensuring that people meet their daily nutritional needs. In addition, limiting excessive energy intake from sugary or energy-dense foods can help prevent weight gain, while reducing excessive salt intake can help control blood pressure. However, diet and exercise are most effective when combined, as they support different aspects of health. People may still gain weight if they consume too much unhealthy food, even if they exercise regularly. Conversely, a balanced diet alone cannot provide the cardiovascular and muscular benefits of physical activity. Therefore, maintaining long-term health requires attention to both eating habits and exercise routines.\n\nIn conclusion, regular exercise and a healthy diet play complementary roles in maintaining good health. Combining the two is therefore the most effective way to support long-term physical and mental well-being.",
+      "B": "Some regard regular exercise as the best route to better health, while others favour a healthy diet. Both views have merit, but I would not identify either as universally superior. Exercise and nutrition support different aspects of well-being, so combining them offers a more convincing long-term approach.\n\nExercise improves physical fitness by strengthening the cardiovascular system and muscles. Regular activity can also help regulate blood sugar and support weight management, thereby reducing some risks associated with inactivity. Its contribution to psychological well-being matters too. Walking, sport or other enjoyable movement can relieve stress, improve mood and support sleep. These benefits help explain why people facing demanding work or study schedules may regard exercise as particularly valuable. However, activity alone cannot ensure that a person's nutritional needs are met.\n\nSupporters of a healthy diet emphasise that the body requires adequate protein, vitamins, minerals and other nutrients for normal functioning. Food choices also affect overall energy intake, so a balanced diet can help people avoid consuming more energy than they use. Different dietary changes have different purposes: reducing excessive salt intake, for example, can support blood-pressure control rather than directly prevent weight gain. Diet nevertheless cannot substitute for all the cardiovascular and muscular benefits of movement. Equally, exercising regularly does not cancel out every consequence of persistently poor eating habits. The relative priority may vary with a person's circumstances, but treating the two as alternatives overlooks how they complement each other. Encouraging sustainable habits in both areas is therefore more useful than promoting a single solution for everyone.\n\nIn conclusion, exercise and healthy eating each make an important contribution to health. A combination of regular activity and balanced nutrition is a stronger general strategy than expecting either one to compensate fully for neglecting the other."
+    },
+    "source_sha256": "9ae69bd6a698023b8450da2b356806ca1d0a1b530142a436c15d64bc6bc1fa4d"
+  },
+  "practice": {
+    "diagnosis": "本篇以切题性、逻辑展开和准确表达为训练重点；7.5+为练习目标，无法仅凭参考文本承诺实际考试分数。",
+    "score_dimensions": [
+      {
+        "name": "Task Response",
+        "estimate": "训练检查",
+        "note": "修正因果：过量能量摄入关联体重，盐摄入更多关联血压，不将两者混为一谈。"
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "estimate": "训练检查",
+        "note": "中心句后解释具体机制和结果；结尾回应引言立场，不新增未经展开的理由。"
+      },
+      {
+        "name": "Lexical Resource",
+        "estimate": "训练检查",
+        "note": "优先使用准确自然的搭配，避免为追求高级词汇牺牲意义。"
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "estimate": "训练检查",
+        "note": "结合让步、条件和定语结构，控制长句长度，检查冠词、单复数及主谓一致。"
+      }
+    ],
+    "notes": [
+      "修正因果：过量能量摄入关联体重，盐摄入更多关联血压，不将两者混为一谈。",
+      "糖尿病表述限定为2型；健康论证使用 can/help 等克制表达，避免医学效果绝对化。",
+      "两版解释运动与饮食各有不可替代的贡献；“结合”立场需有具体比较支撑。"
+    ],
+    "errors": [],
+    "drills": [
+      {
+        "id": "1",
+        "cn": "工作场所食堂可以让轮班员工更容易保持健康饮食。",
+        "hint": "healthy diet",
+        "answer": "Workplace canteens can make it easier for shift workers to maintain a healthy diet.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "2",
+        "cn": "为公园安装照明能让上班族更容易规律运动。",
+        "hint": "regular exercise",
+        "answer": "Installing lighting in parks can make regular exercise more accessible to working adults.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "3",
+        "cn": "学校应将体重管理作为健康教育的一部分，而非评价外貌的标准。",
+        "hint": "weight management",
+        "answer": "Schools should treat weight management as part of health education rather than a judgement about appearance.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "id": "t2-44",
+  "type": "大作文",
+  "title": "政府预算：公共服务与艺术（练习1·02）",
+  "group": "文化与艺术",
+  "question": "Some people think that governments should spend more money on public services rather than on the arts, such as music and theatre. Others believe that spending money on the arts is important. Discuss both views and give your own opinion.",
+  "task_type": "Discuss both views",
+  "logic": "▪ 争议：公共服务优先与艺术价值。▪ 艺术：参与机会→文化多样性→社会价值。▪ 服务：基本需求缺口→有限预算→优先投入。▪ 结论：有条件优先，不取消艺术。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "Some people favour spending more public money on essential services than on the arts, while others regard arts funding as important. I agree that both deserve support, but education, healthcare and basic infrastructure should take priority where they remain inadequate. This need not mean withdrawing all assistance from cultural activities.",
+      "cn": "一些人赞成将更多公共资金用于基本服务而非艺术，另一些人认为艺术拨款也重要。我同意两者都应获支持，但当教育、医疗和基本设施不足时，应优先投入。这并不意味着撤回对文化活动的全部帮助。",
+      "clozes": [
+        {
+          "start": 49,
+          "end": 67,
+          "answer": "essential services"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "There are sound reasons for public investment in the arts. Music, theatre and exhibitions can enrich people's lives by providing opportunities for reflection, enjoyment and shared cultural experience. Public support can also preserve cultural diversity, including activities that are valuable to communities but unlikely to survive through ticket sales alone. Subsidised performances and community programmes may broaden participation beyond those who can afford expensive private events. Arts spending can therefore serve a public purpose rather than simply finance entertainment for a small audience. Such support can contribute to long-term social development.",
+      "cn": "公共艺术投资有充分理由。音乐、戏剧和展览能提供反思、欣赏及共同文化体验，丰富生活。公共支持也能保护文化多样性，包括对社区有价值、却难靠票房独立生存的活动。补贴演出和社区项目可让参与者不局限于付得起昂贵私人活动的人。因此，艺术支出能够服务公共目的，而非只是资助少数人的娱乐。这类支持有助于长期社会发展。",
+      "clozes": [
+        {
+          "start": 28,
+          "end": 57,
+          "answer": "public investment in the arts"
+        },
+        {
+          "start": 234,
+          "end": 252,
+          "answer": "cultural diversity"
+        },
+        {
+          "start": 634,
+          "end": 662,
+          "answer": "long-term social development"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Nevertheless, essential services generally have a stronger claim on limited funds when basic needs are unmet. Communities with limited access to healthcare or suitable classrooms face problems with immediate consequences for health, opportunity and quality of life. Government budgets are finite, so allocating additional money to a prestigious cultural project may mean delaying improvements that benefit a much wider population. The appropriate balance depends on existing provision: a city with reliable services can reasonably devote more resources to culture than a region struggling to provide basic care. Governments should therefore protect affordable, accessible arts programmes while directing the larger share of additional funding towards demonstrable gaps in essential services. This approach recognises cultural value without overlooking urgent needs.",
+      "cn": "不过，当基本需求尚未满足时，基本服务通常更有理由争取有限资金。缺少医疗或合适教室的社区，其问题直接影响健康、机会及生活质量。政府预算有限，向有声望的文化项目增拨资金，可能意味着延后惠及更多人的改善。适当平衡取决于现有服务：服务可靠的城市可以比连基本医疗都难保障的地区合理地投入更多文化资源。因此，政府应保护负担得起、方便参与的艺术项目，同时将新增资金的大部分用于有证据的基本服务缺口。这样既承认文化价值，也不忽视紧迫需求。",
+      "clozes": [
+        {
+          "start": 127,
+          "end": 144,
+          "answer": "limited access to"
+        },
+        {
+          "start": 249,
+          "end": 264,
+          "answer": "quality of life"
+        },
+        {
+          "start": 266,
+          "end": 295,
+          "answer": "Government budgets are finite"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, the arts contribute to social well-being and merit some public support. However, where essential provision is inadequate, addressing it should take precedence over expanding arts budgets, with spending priorities reviewed as circumstances improve.",
+      "cn": "总之，艺术有助于社会福祉，值得一定公共支持。但在基本服务不足之处，补齐短板应优先于扩大艺术预算，并随实际情况改善重新审视支出重点。",
+      "clozes": [
+        {
+          "start": 158,
+          "end": 178,
+          "answer": "take precedence over"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "The allocation of government funding is widely debated. Some argue that essential public services should receive more money than the arts, while others regard arts funding as important. I believe both deserve support, but essential services should remain the higher priority where basic provision is inadequate.",
+      "cn": "政府资金如何分配一直存在争议。一些人主张基本公共服务应比艺术获得更多资金，另一些人认为艺术拨款也很重要。我认为两者都应获得支持，但在基本服务不足之处，公共服务应保持更高优先度。",
+      "clozes": [
+        {
+          "start": 222,
+          "end": 240,
+          "answer": "essential services"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "Those who support greater public spending on the arts often argue that, once basic public services are reasonably well established, governments should also invest in citizens’ cultural and intellectual well-being. Access to music, theatre and other forms of art can enrich people’s lives by encouraging reflection, imagination and emotional engagement beyond purely material concerns. In addition, public investment in the arts can foster creativity and preserve cultural diversity, both of which contribute to a more vibrant and inclusive society. From this perspective, the arts should not be regarded as a luxury, but as an important part of long-term social development.",
+      "cn": "支持增加艺术公共支出的人常认为，一旦基本公共服务已较完善，政府也应投资于公民的文化和精神生活。音乐、戏剧等艺术形式能激发反思、想象与情感参与，丰富人们超越物质需求的生活。此外，公共艺术投资能促进创造力并保护文化多样性，两者都有助于形成更有活力、更包容的社会。从这一角度看，艺术并非奢侈品，而是长期社会发展的重要组成部分。",
+      "clozes": [
+        {
+          "start": 398,
+          "end": 427,
+          "answer": "public investment in the arts"
+        },
+        {
+          "start": 463,
+          "end": 481,
+          "answer": "cultural diversity"
+        },
+        {
+          "start": 645,
+          "end": 673,
+          "answer": "long-term social development"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "However, I believe essential public services should remain the higher priority because their provision is still highly uneven in many regions. While residents of major cities may enjoy high-quality education, healthcare and transport, people in poorer or rural areas often have far more limited access to these basic services. This disparity suggests that public investment in such areas is far from complete. More importantly, government budgets are finite, so funding should first be directed towards services that meet urgent needs and benefit the widest possible section of the population. Improvements in schools, hospitals, public transport and social security can directly affect people’s quality of life on a large scale. The appropriate balance may vary between countries, but where essential services remain inadequate, they should take precedence over additional spending on the arts.",
+      "cn": "然而，我认为基本公共服务仍应优先，因为许多地区的供给仍很不均衡。大城市居民可能享有优质教育、医疗和交通，而贫困或农村地区的居民获得这些基本服务的机会有限。这种差距表明，公共投资远未完成。更重要的是，政府预算有限，资金首先应流向满足迫切需求并惠及尽可能广泛人群的服务。改善学校、医院、公共交通和社会保障，能够大规模地直接影响生活质量。不同国家的适当平衡可能不同，但只要基本服务仍不足，它们就应优先于新增艺术支出。",
+      "clozes": [
+        {
+          "start": 287,
+          "end": 304,
+          "answer": "limited access to"
+        },
+        {
+          "start": 428,
+          "end": 457,
+          "answer": "government budgets are finite"
+        },
+        {
+          "start": 696,
+          "end": 711,
+          "answer": "quality of life"
+        },
+        {
+          "start": 842,
+          "end": 862,
+          "answer": "take precedence over"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although the arts make a valuable contribution to cultural and social development, governments should give priority to unmet essential needs. This need not mean eliminating arts funding, but additional cultural investment is more justifiable once reliable basic provision has been secured.",
+      "cn": "总之，虽然艺术对文化和社会发展有宝贵贡献，政府仍应优先满足尚未解决的基本需求。这不意味着取消艺术拨款，但在可靠的基本服务得到保障后，新增文化投资才更有依据。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "In conclusion"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "nine_complete": true,
+    "seven_complete": true,
+    "7marker": true
+  },
+  "vocab": [
+    {
+      "en": "public investment in the arts",
+      "zh": "公共艺术投资"
+    },
+    {
+      "en": "cultural diversity",
+      "zh": "文化多样性"
+    },
+    {
+      "en": "Government budgets are finite",
+      "zh": "政府预算有限"
+    },
+    {
+      "en": "limited access to",
+      "zh": "难以获得"
+    },
+    {
+      "en": "quality of life",
+      "zh": "生活质量"
+    },
+    {
+      "en": "take precedence over",
+      "zh": "优先于"
+    },
+    {
+      "en": "essential services",
+      "zh": "基本服务"
+    },
+    {
+      "en": "long-term social development",
+      "zh": "长期社会发展"
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "seven": "版本 A · 保留原意修正版",
+    "nine": "版本 B · Band 7.5+目标版"
+  },
+  "edition_summary": "双版本 · 原意修正 / Band 7.5+目标",
+  "source_note": "用户上传《雅思写作_大作文练习1.docx》（文档内标作GPT/Band 8练习参考稿）；非用户独立原稿，亦非官方评分。A版保留参考稿原意并修正必要语言或论证问题；B版为本次重写的Band 7.5+目标参考。 两版共用8道迁移任务，分别标注本版出处；A版篇幅较长，可用于精读，限时训练优先B版。",
+  "transfer": {
+    "seven": [
+      {
+        "id": "01",
+        "phrase": "public investment in the arts",
+        "source_phrase": "public investment in the arts",
+        "source_paragraph": 1,
+        "source": "Those who support greater public spending on the arts often argue that, once basic public services are reasonably well established, governments should also invest in citizens’ cultural and intellectual well-being. Access to music, theatre and other forms of art can enrich people’s lives by encouraging reflection, imagination and emotional engagement beyond purely material concerns. In addition, public investment in the arts can foster creativity and preserve cultural diversity, both of which contribute to a more vibrant and inclusive society. From this perspective, the arts should not be regarded as a luxury, but as an important part of long-term social development.",
+        "cn": "公共艺术投资应惠及大城市以外的社区。",
+        "answer": "Public investment in the arts should benefit communities beyond major cities."
+      },
+      {
+        "id": "02",
+        "phrase": "cultural diversity",
+        "source_phrase": "cultural diversity",
+        "source_paragraph": 1,
+        "source": "Those who support greater public spending on the arts often argue that, once basic public services are reasonably well established, governments should also invest in citizens’ cultural and intellectual well-being. Access to music, theatre and other forms of art can enrich people’s lives by encouraging reflection, imagination and emotional engagement beyond purely material concerns. In addition, public investment in the arts can foster creativity and preserve cultural diversity, both of which contribute to a more vibrant and inclusive society. From this perspective, the arts should not be regarded as a luxury, but as an important part of long-term social development.",
+        "cn": "图书馆可以通过收藏不同语言的书籍保护文化多样性。",
+        "answer": "Libraries can preserve cultural diversity by collecting books in different languages."
+      },
+      {
+        "id": "03",
+        "phrase": "government budgets are finite",
+        "source_phrase": "government budgets are finite",
+        "source_paragraph": 2,
+        "source": "However, I believe essential public services should remain the higher priority because their provision is still highly uneven in many regions. While residents of major cities may enjoy high-quality education, healthcare and transport, people in poorer or rural areas often have far more limited access to these basic services. This disparity suggests that public investment in such areas is far from complete. More importantly, government budgets are finite, so funding should first be directed towards services that meet urgent needs and benefit the widest possible section of the population. Improvements in schools, hospitals, public transport and social security can directly affect people’s quality of life on a large scale. The appropriate balance may vary between countries, but where essential services remain inadequate, they should take precedence over additional spending on the arts.",
+        "cn": "政府预算有限，因此每个新项目都需要合理依据。",
+        "answer": "Government budgets are finite, so every new project needs a clear justification."
+      },
+      {
+        "id": "04",
+        "phrase": "limited access to",
+        "source_phrase": "limited access to",
+        "source_paragraph": 2,
+        "source": "However, I believe essential public services should remain the higher priority because their provision is still highly uneven in many regions. While residents of major cities may enjoy high-quality education, healthcare and transport, people in poorer or rural areas often have far more limited access to these basic services. This disparity suggests that public investment in such areas is far from complete. More importantly, government budgets are finite, so funding should first be directed towards services that meet urgent needs and benefit the widest possible section of the population. Improvements in schools, hospitals, public transport and social security can directly affect people’s quality of life on a large scale. The appropriate balance may vary between countries, but where essential services remain inadequate, they should take precedence over additional spending on the arts.",
+        "cn": "偏远村庄的居民可能难以获得高速互联网。",
+        "answer": "Residents of remote villages may have limited access to high-speed internet."
+      },
+      {
+        "id": "05",
+        "phrase": "quality of life",
+        "source_phrase": "quality of life",
+        "source_paragraph": 2,
+        "source": "However, I believe essential public services should remain the higher priority because their provision is still highly uneven in many regions. While residents of major cities may enjoy high-quality education, healthcare and transport, people in poorer or rural areas often have far more limited access to these basic services. This disparity suggests that public investment in such areas is far from complete. More importantly, government budgets are finite, so funding should first be directed towards services that meet urgent needs and benefit the widest possible section of the population. Improvements in schools, hospitals, public transport and social security can directly affect people’s quality of life on a large scale. The appropriate balance may vary between countries, but where essential services remain inadequate, they should take precedence over additional spending on the arts.",
+        "cn": "灵活工时能够改善照护者的生活质量。",
+        "answer": "Flexible working hours can improve carers' quality of life."
+      },
+      {
+        "id": "06",
+        "phrase": "take precedence over",
+        "source_phrase": "take precedence over",
+        "source_paragraph": 2,
+        "source": "However, I believe essential public services should remain the higher priority because their provision is still highly uneven in many regions. While residents of major cities may enjoy high-quality education, healthcare and transport, people in poorer or rural areas often have far more limited access to these basic services. This disparity suggests that public investment in such areas is far from complete. More importantly, government budgets are finite, so funding should first be directed towards services that meet urgent needs and benefit the widest possible section of the population. Improvements in schools, hospitals, public transport and social security can directly affect people’s quality of life on a large scale. The appropriate balance may vary between countries, but where essential services remain inadequate, they should take precedence over additional spending on the arts.",
+        "cn": "紧急维修应优先于车站的外观升级。",
+        "answer": "Urgent repairs should take precedence over cosmetic improvements to the station."
+      },
+      {
+        "id": "07",
+        "phrase": "essential services",
+        "source_phrase": "essential services",
+        "source_paragraph": 0,
+        "source": "The allocation of government funding is widely debated. Some argue that essential public services should receive more money than the arts, while others regard arts funding as important. I believe both deserve support, but essential services should remain the higher priority where basic provision is inadequate.",
+        "cn": "洪灾可能中断供水等基本服务。",
+        "answer": "Flooding can disrupt essential services such as water supplies."
+      },
+      {
+        "id": "08",
+        "phrase": "long-term social development",
+        "source_phrase": "long-term social development",
+        "source_paragraph": 1,
+        "source": "Those who support greater public spending on the arts often argue that, once basic public services are reasonably well established, governments should also invest in citizens’ cultural and intellectual well-being. Access to music, theatre and other forms of art can enrich people’s lives by encouraging reflection, imagination and emotional engagement beyond purely material concerns. In addition, public investment in the arts can foster creativity and preserve cultural diversity, both of which contribute to a more vibrant and inclusive society. From this perspective, the arts should not be regarded as a luxury, but as an important part of long-term social development.",
+        "cn": "普及基础教育对长期社会发展至关重要。",
+        "answer": "Universal basic education is vital to long-term social development."
+      }
+    ],
+    "nine": [
+      {
+        "id": "01",
+        "phrase": "public investment in the arts",
+        "source_phrase": "public investment in the arts",
+        "source_paragraph": 1,
+        "source": "There are sound reasons for public investment in the arts. Music, theatre and exhibitions can enrich people's lives by providing opportunities for reflection, enjoyment and shared cultural experience. Public support can also preserve cultural diversity, including activities that are valuable to communities but unlikely to survive through ticket sales alone. Subsidised performances and community programmes may broaden participation beyond those who can afford expensive private events. Arts spending can therefore serve a public purpose rather than simply finance entertainment for a small audience. Such support can contribute to long-term social development.",
+        "cn": "公共艺术投资应惠及大城市以外的社区。",
+        "answer": "Public investment in the arts should benefit communities beyond major cities."
+      },
+      {
+        "id": "02",
+        "phrase": "cultural diversity",
+        "source_phrase": "cultural diversity",
+        "source_paragraph": 1,
+        "source": "There are sound reasons for public investment in the arts. Music, theatre and exhibitions can enrich people's lives by providing opportunities for reflection, enjoyment and shared cultural experience. Public support can also preserve cultural diversity, including activities that are valuable to communities but unlikely to survive through ticket sales alone. Subsidised performances and community programmes may broaden participation beyond those who can afford expensive private events. Arts spending can therefore serve a public purpose rather than simply finance entertainment for a small audience. Such support can contribute to long-term social development.",
+        "cn": "图书馆可以通过收藏不同语言的书籍保护文化多样性。",
+        "answer": "Libraries can preserve cultural diversity by collecting books in different languages."
+      },
+      {
+        "id": "03",
+        "phrase": "Government budgets are finite",
+        "source_phrase": "Government budgets are finite",
+        "source_paragraph": 2,
+        "source": "Nevertheless, essential services generally have a stronger claim on limited funds when basic needs are unmet. Communities with limited access to healthcare or suitable classrooms face problems with immediate consequences for health, opportunity and quality of life. Government budgets are finite, so allocating additional money to a prestigious cultural project may mean delaying improvements that benefit a much wider population. The appropriate balance depends on existing provision: a city with reliable services can reasonably devote more resources to culture than a region struggling to provide basic care. Governments should therefore protect affordable, accessible arts programmes while directing the larger share of additional funding towards demonstrable gaps in essential services. This approach recognises cultural value without overlooking urgent needs.",
+        "cn": "政府预算有限，因此每个新项目都需要合理依据。",
+        "answer": "Government budgets are finite, so every new project needs a clear justification."
+      },
+      {
+        "id": "04",
+        "phrase": "limited access to",
+        "source_phrase": "limited access to",
+        "source_paragraph": 2,
+        "source": "Nevertheless, essential services generally have a stronger claim on limited funds when basic needs are unmet. Communities with limited access to healthcare or suitable classrooms face problems with immediate consequences for health, opportunity and quality of life. Government budgets are finite, so allocating additional money to a prestigious cultural project may mean delaying improvements that benefit a much wider population. The appropriate balance depends on existing provision: a city with reliable services can reasonably devote more resources to culture than a region struggling to provide basic care. Governments should therefore protect affordable, accessible arts programmes while directing the larger share of additional funding towards demonstrable gaps in essential services. This approach recognises cultural value without overlooking urgent needs.",
+        "cn": "偏远村庄的居民可能难以获得高速互联网。",
+        "answer": "Residents of remote villages may have limited access to high-speed internet."
+      },
+      {
+        "id": "05",
+        "phrase": "quality of life",
+        "source_phrase": "quality of life",
+        "source_paragraph": 2,
+        "source": "Nevertheless, essential services generally have a stronger claim on limited funds when basic needs are unmet. Communities with limited access to healthcare or suitable classrooms face problems with immediate consequences for health, opportunity and quality of life. Government budgets are finite, so allocating additional money to a prestigious cultural project may mean delaying improvements that benefit a much wider population. The appropriate balance depends on existing provision: a city with reliable services can reasonably devote more resources to culture than a region struggling to provide basic care. Governments should therefore protect affordable, accessible arts programmes while directing the larger share of additional funding towards demonstrable gaps in essential services. This approach recognises cultural value without overlooking urgent needs.",
+        "cn": "灵活工时能够改善照护者的生活质量。",
+        "answer": "Flexible working hours can improve carers' quality of life."
+      },
+      {
+        "id": "06",
+        "phrase": "take precedence over",
+        "source_phrase": "take precedence over",
+        "source_paragraph": 3,
+        "source": "In conclusion, the arts contribute to social well-being and merit some public support. However, where essential provision is inadequate, addressing it should take precedence over expanding arts budgets, with spending priorities reviewed as circumstances improve.",
+        "cn": "紧急维修应优先于车站的外观升级。",
+        "answer": "Urgent repairs should take precedence over cosmetic improvements to the station."
+      },
+      {
+        "id": "07",
+        "phrase": "essential services",
+        "source_phrase": "essential services",
+        "source_paragraph": 0,
+        "source": "Some people favour spending more public money on essential services than on the arts, while others regard arts funding as important. I agree that both deserve support, but education, healthcare and basic infrastructure should take priority where they remain inadequate. This need not mean withdrawing all assistance from cultural activities.",
+        "cn": "洪灾可能中断供水等基本服务。",
+        "answer": "Flooding can disrupt essential services such as water supplies."
+      },
+      {
+        "id": "08",
+        "phrase": "long-term social development",
+        "source_phrase": "long-term social development",
+        "source_paragraph": 1,
+        "source": "There are sound reasons for public investment in the arts. Music, theatre and exhibitions can enrich people's lives by providing opportunities for reflection, enjoyment and shared cultural experience. Public support can also preserve cultural diversity, including activities that are valuable to communities but unlikely to survive through ticket sales alone. Subsidised performances and community programmes may broaden participation beyond those who can afford expensive private events. Arts spending can therefore serve a public purpose rather than simply finance entertainment for a small audience. Such support can contribute to long-term social development.",
+        "cn": "普及基础教育对长期社会发展至关重要。",
+        "answer": "Universal basic education is vital to long-term social development."
+      }
+    ]
+  },
+  "review": {
+    "reference_material": true,
+    "practice_estimate": "未独立评分",
+    "original_complete": true,
+    "original_question": "Some people think that governments should spend more money on public services rather than on the arts, such as music and theatre. Others believe that spending money on the arts is important. Discuss both views and give your own opinion.",
+    "complete_feedback": "题干第二方只说艺术资助重要，并未主张艺术经费必须高于公共服务；已修正引言。\n基本服务优先是有条件的预算判断，不等于取消艺术投入。\nB版用有限预算和服务缺口构成机会成本链，保留不同地区条件差异。",
+    "source_models": {
+      "original": "The allocation of government funding has become a widely debated issue. While some believe that greater public investment should be directed towards the arts, others argue that essential public services should receive more financial support. This essay will examine both perspectives and argue that public services should, on balance, remain the higher priority.\n\nThose who support greater public spending on the arts often argue that, once basic public services are reasonably well established, governments should also invest in citizens’ cultural and intellectual well-being. Access to music, theatre and other forms of art can enrich people’s lives by encouraging reflection, imagination and emotional engagement beyond purely material concerns. In addition, public investment in the arts can foster creativity and preserve cultural diversity, both of which contribute to a more vibrant and inclusive society. From this perspective, the arts should not be regarded as a luxury, but as an important part of long-term social development.\n\nHowever, I believe essential public services should remain the higher priority because their provision is still highly uneven in many regions. While residents of major cities may enjoy high-quality education, healthcare and transport, people in poorer or rural areas often have far more limited access to these basic services. This disparity suggests that public investment in such areas is far from complete. More importantly, government budgets are finite, so funding should first be directed towards services that meet urgent needs and benefit the widest possible section of the population. Improvements in schools, hospitals, public transport and social security can directly affect people’s quality of life on a large scale. The appropriate balance may vary between countries, but where essential services remain inadequate, they should take precedence over additional spending on the arts.\n\nIn conclusion, although the arts make a valuable contribution to cultural and social development, governments should direct limited public resources first towards meeting essential needs. Once a reliable level of education, healthcare and infrastructure has been secured, greater investment in the arts would be more justifiable.",
+      "A": "The allocation of government funding is widely debated. Some argue that essential public services should receive more money than the arts, while others regard arts funding as important. I believe both deserve support, but essential services should remain the higher priority where basic provision is inadequate.\n\nThose who support greater public spending on the arts often argue that, once basic public services are reasonably well established, governments should also invest in citizens’ cultural and intellectual well-being. Access to music, theatre and other forms of art can enrich people’s lives by encouraging reflection, imagination and emotional engagement beyond purely material concerns. In addition, public investment in the arts can foster creativity and preserve cultural diversity, both of which contribute to a more vibrant and inclusive society. From this perspective, the arts should not be regarded as a luxury, but as an important part of long-term social development.\n\nHowever, I believe essential public services should remain the higher priority because their provision is still highly uneven in many regions. While residents of major cities may enjoy high-quality education, healthcare and transport, people in poorer or rural areas often have far more limited access to these basic services. This disparity suggests that public investment in such areas is far from complete. More importantly, government budgets are finite, so funding should first be directed towards services that meet urgent needs and benefit the widest possible section of the population. Improvements in schools, hospitals, public transport and social security can directly affect people’s quality of life on a large scale. The appropriate balance may vary between countries, but where essential services remain inadequate, they should take precedence over additional spending on the arts.\n\nIn conclusion, although the arts make a valuable contribution to cultural and social development, governments should give priority to unmet essential needs. This need not mean eliminating arts funding, but additional cultural investment is more justifiable once reliable basic provision has been secured.",
+      "B": "Some people favour spending more public money on essential services than on the arts, while others regard arts funding as important. I agree that both deserve support, but education, healthcare and basic infrastructure should take priority where they remain inadequate. This need not mean withdrawing all assistance from cultural activities.\n\nThere are sound reasons for public investment in the arts. Music, theatre and exhibitions can enrich people's lives by providing opportunities for reflection, enjoyment and shared cultural experience. Public support can also preserve cultural diversity, including activities that are valuable to communities but unlikely to survive through ticket sales alone. Subsidised performances and community programmes may broaden participation beyond those who can afford expensive private events. Arts spending can therefore serve a public purpose rather than simply finance entertainment for a small audience. Such support can contribute to long-term social development.\n\nNevertheless, essential services generally have a stronger claim on limited funds when basic needs are unmet. Communities with limited access to healthcare or suitable classrooms face problems with immediate consequences for health, opportunity and quality of life. Government budgets are finite, so allocating additional money to a prestigious cultural project may mean delaying improvements that benefit a much wider population. The appropriate balance depends on existing provision: a city with reliable services can reasonably devote more resources to culture than a region struggling to provide basic care. Governments should therefore protect affordable, accessible arts programmes while directing the larger share of additional funding towards demonstrable gaps in essential services. This approach recognises cultural value without overlooking urgent needs.\n\nIn conclusion, the arts contribute to social well-being and merit some public support. However, where essential provision is inadequate, addressing it should take precedence over expanding arts budgets, with spending priorities reviewed as circumstances improve."
+    },
+    "source_sha256": "9ae69bd6a698023b8450da2b356806ca1d0a1b530142a436c15d64bc6bc1fa4d"
+  },
+  "practice": {
+    "diagnosis": "本篇以切题性、逻辑展开和准确表达为训练重点；7.5+为练习目标，无法仅凭参考文本承诺实际考试分数。",
+    "score_dimensions": [
+      {
+        "name": "Task Response",
+        "estimate": "训练检查",
+        "note": "题干第二方只说艺术资助重要，并未主张艺术经费必须高于公共服务；已修正引言。"
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "estimate": "训练检查",
+        "note": "中心句后解释具体机制和结果；结尾回应引言立场，不新增未经展开的理由。"
+      },
+      {
+        "name": "Lexical Resource",
+        "estimate": "训练检查",
+        "note": "优先使用准确自然的搭配，避免为追求高级词汇牺牲意义。"
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "estimate": "训练检查",
+        "note": "结合让步、条件和定语结构，控制长句长度，检查冠词、单复数及主谓一致。"
+      }
+    ],
+    "notes": [
+      "题干第二方只说艺术资助重要，并未主张艺术经费必须高于公共服务；已修正引言。",
+      "基本服务优先是有条件的预算判断，不等于取消艺术投入。",
+      "B版用有限预算和服务缺口构成机会成本链，保留不同地区条件差异。"
+    ],
+    "errors": [],
+    "drills": [
+      {
+        "id": "1",
+        "cn": "公共艺术投资应惠及大城市以外的社区。",
+        "hint": "public investment in the arts",
+        "answer": "Public investment in the arts should benefit communities beyond major cities.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "2",
+        "cn": "图书馆可以通过收藏不同语言的书籍保护文化多样性。",
+        "hint": "cultural diversity",
+        "answer": "Libraries can preserve cultural diversity by collecting books in different languages.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "3",
+        "cn": "政府预算有限，因此每个新项目都需要合理依据。",
+        "hint": "Government budgets are finite",
+        "answer": "Government budgets are finite, so every new project needs a clear justification.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      }
+    ]
+  }
+}

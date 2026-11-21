@@ -1,0 +1,461 @@
+{
+  "id": "t2-46",
+  "type": "大作文",
+  "title": "AI与自动化能否改善生活（练习1·04）",
+  "group": "科技与媒体",
+  "question": "Some people believe that the increasing use of artificial intelligence and automation will improve people's lives, while others are concerned that these technologies will create more problems than benefits. To what extent do you agree or disagree?",
+  "task_type": "Agree / disagree",
+  "logic": "▪ 明确基本同意并设置保障条件。▪ 效率、安全、服务→生活改善。▪ 失业→再培训；依赖→检查推理和监督。▪ 结论：保护劳动者并保留人类判断。",
+  "source_nine": [
+    {
+      "idx": 1,
+      "en": "The growing use of artificial intelligence and automation raises questions about whether it will improve people's lives. I broadly agree that it can, provided that benefits are supported by effective safeguards. Greater efficiency, safer working practices and wider access to services are valuable, but job displacement and excessive technological dependence require attention.",
+      "cn": "人工智能与自动化日益普及，让人思考其是否改善生活。我基本同意它们能够做到，前提是有效保障措施支持其收益。效率提高、工作更安全及服务更普及都很重要，但岗位流失与过度依赖技术需要关注。",
+      "clozes": [
+        {
+          "start": 303,
+          "end": 319,
+          "answer": "job displacement"
+        },
+        {
+          "start": 324,
+          "end": 358,
+          "answer": "excessive technological dependence"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "AI can automate repetitive tasks and process information rapidly, enabling workers to concentrate on activities requiring judgement or creativity. Used appropriately, this can enhance productivity and reduce operational costs. Robots can also undertake hazardous tasks, such as inspecting unstable structures, reducing human exposure to dangerous environments. In essential services, AI-powered tools may offer explanations to learners with limited access to teachers or help clinicians organise and analyse information. Their role should be to support professional decision-making rather than remove responsibility from qualified people. These examples show how the technology can complement human capabilities instead of merely replacing effort.",
+      "cn": "人工智能可自动完成重复任务并快速处理信息，让劳动者专注于需要判断或创造力的活动。适当使用可提高生产率并降低运营成本。机器人还能承担检查不稳定建筑等危险任务，减少人类暴露于危险环境。在基本服务中，人工智能工具可为缺少教师的学生提供解释，或帮助临床人员整理分析信息。其职责应是支持专业决策，而非撤走合格人员的责任。这说明技术可以补充人类能力，而非只是替代努力。",
+      "clozes": [
+        {
+          "start": 7,
+          "end": 32,
+          "answer": "automate repetitive tasks"
+        },
+        {
+          "start": 253,
+          "end": 268,
+          "answer": "hazardous tasks"
+        },
+        {
+          "start": 364,
+          "end": 382,
+          "answer": "essential services"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "The risks, however, cannot be dismissed. Workers in routine occupations may lose employment before they can move into new roles, and the gains from automation may not reach everyone equally. Employers and governments should therefore support retraining programmes and realistic career transitions rather than assume displaced workers will adapt unaided. A different problem arises when students rely on generated answers without understanding the reasoning behind them. Schools can reduce this risk by requiring learners to explain and check their work, while teaching them to treat AI as a learning aid rather than a substitute for independent thinking. Human oversight is also necessary where an inaccurate output could have serious consequences. Safeguards of this kind make responsible adoption more credible than either unrestricted deployment or wholesale rejection.",
+      "cn": "不过，风险不可忽视。常规岗位劳动者可能在找到新工作前失业，自动化收益也未必平等分配。雇主和政府应支持再培训及现实可行的转岗，而非假设失业者能自行适应。另一个问题是学生依赖生成答案，却不理解推理。学校可以要求学生解释并检查作业，教他们把人工智能当辅助而非独立思考的替代品，从而降低风险。当错误输出会导致严重后果时，还需要人工监督。这些保障措施使负责任采用技术比无限制部署或全盘拒绝更可信。",
+      "clozes": [
+        {
+          "start": 242,
+          "end": 263,
+          "answer": "retraining programmes"
+        },
+        {
+          "start": 633,
+          "end": 653,
+          "answer": "independent thinking"
+        },
+        {
+          "start": 655,
+          "end": 670,
+          "answer": "Human oversight"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, I largely support the view that AI and automation can improve living standards. Their success will depend on protecting affected workers and preserving human judgement, not simply on introducing more advanced systems.",
+      "cn": "总之，我基本支持人工智能和自动化能提高生活水平的观点。成功取决于保护受影响劳动者及保留人类判断，而不仅是引入更先进的系统。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "In conclusion"
+        }
+      ]
+    }
+  ],
+  "source_seven": [
+    {
+      "idx": 1,
+      "en": "The growing use of artificial intelligence (AI) and automation has sparked widespread debate about their impact on society. Although these technologies pose certain risks, I largely agree that they can improve people's lives, provided that they are used responsibly and appropriately regulated.",
+      "cn": "人工智能和自动化的日益普及，引发了对其社会影响的广泛讨论。虽然这些技术存在风险，我基本同意，只要使用负责任且受到适当监管，它们就能改善人们的生活。",
+      "clozes": [
+        {
+          "start": 172,
+          "end": 187,
+          "answer": "I largely agree"
+        },
+        {
+          "start": 226,
+          "end": 239,
+          "answer": "provided that"
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "en": "AI can substantially improve people's lives by increasing efficiency, reducing occupational risks and expanding access to essential services. AI can process large amounts of information rapidly and automate repetitive tasks, saving considerable time and effort. As a result, companies and individuals can devote their time and attention to activities that require creativity, innovation and independent judgement, thereby improving productivity and cutting operating costs. In addition, AI-powered robots can undertake certain hazardous tasks, such as entering unstable buildings during rescue operations or handling dangerous materials. By taking on such tasks, these systems can reduce human exposure to dangerous environments and lower the risk of serious injury or death. Beyond these benefits, AI can support essential services like education and healthcare. Students in areas with limited access to qualified teachers can receive personalised explanations and learning support through AI-powered tools, while AI can also help qualified doctors analyse clinical information more efficiently.",
+      "cn": "人工智能可以通过提高效率、降低职业风险和扩大基本服务的可及性，显著改善生活。它能快速处理大量信息并自动完成重复任务，节省时间和精力。因此，企业和个人可将注意力转向需要创造力、创新与独立判断的活动，从而提高生产率并降低运营成本。此外，人工智能机器人可承担危险任务，例如在救援中进入不稳定建筑或处理危险材料，从而减少人类暴露于危险环境的机会，降低重伤或死亡风险。人工智能还能支持教育与医疗等基本服务。缺少合格教师的地区，学生可通过相关工具获得个性化解释和学习支持，而人工智能也能帮助合格医生更高效地分析临床信息。",
+      "clozes": [
+        {
+          "start": 122,
+          "end": 140,
+          "answer": "essential services"
+        },
+        {
+          "start": 198,
+          "end": 223,
+          "answer": "automate repetitive tasks"
+        },
+        {
+          "start": 527,
+          "end": 542,
+          "answer": "hazardous tasks"
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "en": "Admittedly, the growing use of AI raises legitimate concerns about job displacement and excessive technological dependence, although these risks can be mitigated through appropriate safeguards. Employers may favour AI and automation because they can improve efficiency and reduce costs, potentially leading to widespread displacement of workers in routine occupations. Moreover, the convenience of AI may encourage excessive reliance on technology, especially for young students who lack self-discipline. Although AI provides quick answers, students who rely on it instead of working through the underlying reasoning themselves may gradually weaken their critical-thinking and problem-solving skills. Nevertheless, these drawbacks do not necessarily outweigh the benefits of AI. The priority should be to manage its risks responsibly through appropriate regulation, education and human oversight, rather than to reject the technology altogether. Workers at risk of displacement can acquire digital skills and participate in retraining programmes to improve their prospects of moving into new roles. Meanwhile, schools and parents should teach children to use AI as a learning aid rather than a substitute for independent thinking.",
+      "cn": "诚然，人工智能普及带来了岗位流失和过度依赖技术的合理担忧，但适当的保障措施能减轻这些风险。雇主可能因其提效降本而偏好自动化，导致常规岗位的劳动者大量失业。此外，人工智能的便利性可能鼓励过度依赖，尤其是缺乏自律的年轻学生。它虽能快速给出答案，但若学生不亲自推理，批判性思维和解决问题的能力可能逐渐减弱。不过，这些缺点不必然超过其收益。重点应是通过适当监管、教育和人工监督负责任地管理风险，而非全盘拒绝技术。面临失业的劳动者可学习数字技能并参加再培训，以增加转岗机会。同时，学校和家长应教孩子将人工智能视为学习辅助，而非独立思考的替代品。",
+      "clozes": [
+        {
+          "start": 67,
+          "end": 83,
+          "answer": "job displacement"
+        },
+        {
+          "start": 88,
+          "end": 122,
+          "answer": "excessive technological dependence"
+        },
+        {
+          "start": 880,
+          "end": 895,
+          "answer": "human oversight"
+        },
+        {
+          "start": 1024,
+          "end": 1045,
+          "answer": "retraining programmes"
+        },
+        {
+          "start": 1209,
+          "end": 1229,
+          "answer": "independent thinking"
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "en": "In conclusion, although AI brings risks such as job displacement and excessive technological dependence, I largely agree that it can improve people's lives if these risks are managed. With effective government oversight and responsible use by individuals, AI can complement human capabilities and improve quality of life rather than undermine people's well-being.",
+      "cn": "总之，虽然人工智能带来岗位流失及过度依赖等风险，我基本同意，在风险得到管理时它能改善生活。在有效政府监督和个人负责任使用下，它可以补充人类能力、提高生活质量，而非损害福祉。",
+      "clozes": [
+        {
+          "start": 0,
+          "end": 13,
+          "answer": "In conclusion"
+        },
+        {
+          "start": 105,
+          "end": 120,
+          "answer": "I largely agree"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "par9": 4,
+    "par7": 4,
+    "nine_complete": true,
+    "seven_complete": true,
+    "7marker": true
+  },
+  "vocab": [
+    {
+      "en": "automate repetitive tasks",
+      "zh": "自动完成重复任务"
+    },
+    {
+      "en": "essential services",
+      "zh": "基本服务"
+    },
+    {
+      "en": "hazardous tasks",
+      "zh": "危险任务"
+    },
+    {
+      "en": "job displacement",
+      "zh": "岗位流失"
+    },
+    {
+      "en": "excessive technological dependence",
+      "zh": "过度依赖技术"
+    },
+    {
+      "en": "retraining programmes",
+      "zh": "再培训项目"
+    },
+    {
+      "en": "independent thinking",
+      "zh": "独立思考"
+    },
+    {
+      "en": "Human oversight",
+      "zh": "人工监督"
+    }
+  ],
+  "preferred": "nine",
+  "edition_labels": {
+    "seven": "版本 A · 保留原意修正版",
+    "nine": "版本 B · Band 7.5+目标版"
+  },
+  "edition_summary": "双版本 · 原意修正 / Band 7.5+目标",
+  "source_note": "用户上传《雅思写作_大作文练习1.docx》（文档内标作GPT/Band 8练习参考稿）；非用户独立原稿，亦非官方评分。A版保留参考稿原意并修正必要语言或论证问题；B版为本次重写的Band 7.5+目标参考。 两版共用8道迁移任务，分别标注本版出处；A版篇幅较长，可用于精读，限时训练优先B版。",
+  "transfer": {
+    "seven": [
+      {
+        "id": "01",
+        "phrase": "automate repetitive tasks",
+        "source_phrase": "automate repetitive tasks",
+        "source_paragraph": 1,
+        "source": "AI can substantially improve people's lives by increasing efficiency, reducing occupational risks and expanding access to essential services. AI can process large amounts of information rapidly and automate repetitive tasks, saving considerable time and effort. As a result, companies and individuals can devote their time and attention to activities that require creativity, innovation and independent judgement, thereby improving productivity and cutting operating costs. In addition, AI-powered robots can undertake certain hazardous tasks, such as entering unstable buildings during rescue operations or handling dangerous materials. By taking on such tasks, these systems can reduce human exposure to dangerous environments and lower the risk of serious injury or death. Beyond these benefits, AI can support essential services like education and healthcare. Students in areas with limited access to qualified teachers can receive personalised explanations and learning support through AI-powered tools, while AI can also help qualified doctors analyse clinical information more efficiently.",
+        "cn": "医院可以将重复任务自动化，让护士有更多时间照顾患者。",
+        "answer": "Hospitals can automate repetitive tasks to give nurses more time with patients."
+      },
+      {
+        "id": "02",
+        "phrase": "essential services",
+        "source_phrase": "essential services",
+        "source_paragraph": 1,
+        "source": "AI can substantially improve people's lives by increasing efficiency, reducing occupational risks and expanding access to essential services. AI can process large amounts of information rapidly and automate repetitive tasks, saving considerable time and effort. As a result, companies and individuals can devote their time and attention to activities that require creativity, innovation and independent judgement, thereby improving productivity and cutting operating costs. In addition, AI-powered robots can undertake certain hazardous tasks, such as entering unstable buildings during rescue operations or handling dangerous materials. By taking on such tasks, these systems can reduce human exposure to dangerous environments and lower the risk of serious injury or death. Beyond these benefits, AI can support essential services like education and healthcare. Students in areas with limited access to qualified teachers can receive personalised explanations and learning support through AI-powered tools, while AI can also help qualified doctors analyse clinical information more efficiently.",
+        "cn": "人口快速增长可能增加基本服务的压力。",
+        "answer": "Rapid population growth may place greater pressure on essential services."
+      },
+      {
+        "id": "03",
+        "phrase": "hazardous tasks",
+        "source_phrase": "hazardous tasks",
+        "source_paragraph": 1,
+        "source": "AI can substantially improve people's lives by increasing efficiency, reducing occupational risks and expanding access to essential services. AI can process large amounts of information rapidly and automate repetitive tasks, saving considerable time and effort. As a result, companies and individuals can devote their time and attention to activities that require creativity, innovation and independent judgement, thereby improving productivity and cutting operating costs. In addition, AI-powered robots can undertake certain hazardous tasks, such as entering unstable buildings during rescue operations or handling dangerous materials. By taking on such tasks, these systems can reduce human exposure to dangerous environments and lower the risk of serious injury or death. Beyond these benefits, AI can support essential services like education and healthcare. Students in areas with limited access to qualified teachers can receive personalised explanations and learning support through AI-powered tools, while AI can also help qualified doctors analyse clinical information more efficiently.",
+        "cn": "海上机器人可以承担对潜水员而言危险的任务。",
+        "answer": "Underwater robots can carry out hazardous tasks that would put divers at risk."
+      },
+      {
+        "id": "04",
+        "phrase": "job displacement",
+        "source_phrase": "job displacement",
+        "source_paragraph": 2,
+        "source": "Admittedly, the growing use of AI raises legitimate concerns about job displacement and excessive technological dependence, although these risks can be mitigated through appropriate safeguards. Employers may favour AI and automation because they can improve efficiency and reduce costs, potentially leading to widespread displacement of workers in routine occupations. Moreover, the convenience of AI may encourage excessive reliance on technology, especially for young students who lack self-discipline. Although AI provides quick answers, students who rely on it instead of working through the underlying reasoning themselves may gradually weaken their critical-thinking and problem-solving skills. Nevertheless, these drawbacks do not necessarily outweigh the benefits of AI. The priority should be to manage its risks responsibly through appropriate regulation, education and human oversight, rather than to reject the technology altogether. Workers at risk of displacement can acquire digital skills and participate in retraining programmes to improve their prospects of moving into new roles. Meanwhile, schools and parents should teach children to use AI as a learning aid rather than a substitute for independent thinking.",
+        "cn": "职业咨询能帮助面临岗位流失的零售业员工。",
+        "answer": "Career counselling can help retail workers facing job displacement."
+      },
+      {
+        "id": "05",
+        "phrase": "excessive technological dependence",
+        "source_phrase": "excessive technological dependence",
+        "source_paragraph": 2,
+        "source": "Admittedly, the growing use of AI raises legitimate concerns about job displacement and excessive technological dependence, although these risks can be mitigated through appropriate safeguards. Employers may favour AI and automation because they can improve efficiency and reduce costs, potentially leading to widespread displacement of workers in routine occupations. Moreover, the convenience of AI may encourage excessive reliance on technology, especially for young students who lack self-discipline. Although AI provides quick answers, students who rely on it instead of working through the underlying reasoning themselves may gradually weaken their critical-thinking and problem-solving skills. Nevertheless, these drawbacks do not necessarily outweigh the benefits of AI. The priority should be to manage its risks responsibly through appropriate regulation, education and human oversight, rather than to reject the technology altogether. Workers at risk of displacement can acquire digital skills and participate in retraining programmes to improve their prospects of moving into new roles. Meanwhile, schools and parents should teach children to use AI as a learning aid rather than a substitute for independent thinking.",
+        "cn": "学校不应让便利工具导致学生过度依赖技术。",
+        "answer": "Schools should not allow convenient tools to create excessive technological dependence among pupils."
+      },
+      {
+        "id": "06",
+        "phrase": "retraining programmes",
+        "source_phrase": "retraining programmes",
+        "source_paragraph": 2,
+        "source": "Admittedly, the growing use of AI raises legitimate concerns about job displacement and excessive technological dependence, although these risks can be mitigated through appropriate safeguards. Employers may favour AI and automation because they can improve efficiency and reduce costs, potentially leading to widespread displacement of workers in routine occupations. Moreover, the convenience of AI may encourage excessive reliance on technology, especially for young students who lack self-discipline. Although AI provides quick answers, students who rely on it instead of working through the underlying reasoning themselves may gradually weaken their critical-thinking and problem-solving skills. Nevertheless, these drawbacks do not necessarily outweigh the benefits of AI. The priority should be to manage its risks responsibly through appropriate regulation, education and human oversight, rather than to reject the technology altogether. Workers at risk of displacement can acquire digital skills and participate in retraining programmes to improve their prospects of moving into new roles. Meanwhile, schools and parents should teach children to use AI as a learning aid rather than a substitute for independent thinking.",
+        "cn": "地方政府可以为关闭工厂的工人资助再培训项目。",
+        "answer": "Local governments can fund retraining programmes for workers from closed factories."
+      },
+      {
+        "id": "07",
+        "phrase": "independent thinking",
+        "source_phrase": "independent thinking",
+        "source_paragraph": 2,
+        "source": "Admittedly, the growing use of AI raises legitimate concerns about job displacement and excessive technological dependence, although these risks can be mitigated through appropriate safeguards. Employers may favour AI and automation because they can improve efficiency and reduce costs, potentially leading to widespread displacement of workers in routine occupations. Moreover, the convenience of AI may encourage excessive reliance on technology, especially for young students who lack self-discipline. Although AI provides quick answers, students who rely on it instead of working through the underlying reasoning themselves may gradually weaken their critical-thinking and problem-solving skills. Nevertheless, these drawbacks do not necessarily outweigh the benefits of AI. The priority should be to manage its risks responsibly through appropriate regulation, education and human oversight, rather than to reject the technology altogether. Workers at risk of displacement can acquire digital skills and participate in retraining programmes to improve their prospects of moving into new roles. Meanwhile, schools and parents should teach children to use AI as a learning aid rather than a substitute for independent thinking.",
+        "cn": "开放式问题能培养独立思考，而非机械记忆。",
+        "answer": "Open-ended questions can encourage independent thinking rather than mechanical memorisation."
+      },
+      {
+        "id": "08",
+        "phrase": "human oversight",
+        "source_phrase": "human oversight",
+        "source_paragraph": 2,
+        "source": "Admittedly, the growing use of AI raises legitimate concerns about job displacement and excessive technological dependence, although these risks can be mitigated through appropriate safeguards. Employers may favour AI and automation because they can improve efficiency and reduce costs, potentially leading to widespread displacement of workers in routine occupations. Moreover, the convenience of AI may encourage excessive reliance on technology, especially for young students who lack self-discipline. Although AI provides quick answers, students who rely on it instead of working through the underlying reasoning themselves may gradually weaken their critical-thinking and problem-solving skills. Nevertheless, these drawbacks do not necessarily outweigh the benefits of AI. The priority should be to manage its risks responsibly through appropriate regulation, education and human oversight, rather than to reject the technology altogether. Workers at risk of displacement can acquire digital skills and participate in retraining programmes to improve their prospects of moving into new roles. Meanwhile, schools and parents should teach children to use AI as a learning aid rather than a substitute for independent thinking.",
+        "cn": "自动招聘系统需要人工监督，以减少不公平决定。",
+        "answer": "Automated recruitment systems require human oversight to reduce unfair decisions."
+      }
+    ],
+    "nine": [
+      {
+        "id": "01",
+        "phrase": "automate repetitive tasks",
+        "source_phrase": "automate repetitive tasks",
+        "source_paragraph": 1,
+        "source": "AI can automate repetitive tasks and process information rapidly, enabling workers to concentrate on activities requiring judgement or creativity. Used appropriately, this can enhance productivity and reduce operational costs. Robots can also undertake hazardous tasks, such as inspecting unstable structures, reducing human exposure to dangerous environments. In essential services, AI-powered tools may offer explanations to learners with limited access to teachers or help clinicians organise and analyse information. Their role should be to support professional decision-making rather than remove responsibility from qualified people. These examples show how the technology can complement human capabilities instead of merely replacing effort.",
+        "cn": "医院可以将重复任务自动化，让护士有更多时间照顾患者。",
+        "answer": "Hospitals can automate repetitive tasks to give nurses more time with patients."
+      },
+      {
+        "id": "02",
+        "phrase": "essential services",
+        "source_phrase": "essential services",
+        "source_paragraph": 1,
+        "source": "AI can automate repetitive tasks and process information rapidly, enabling workers to concentrate on activities requiring judgement or creativity. Used appropriately, this can enhance productivity and reduce operational costs. Robots can also undertake hazardous tasks, such as inspecting unstable structures, reducing human exposure to dangerous environments. In essential services, AI-powered tools may offer explanations to learners with limited access to teachers or help clinicians organise and analyse information. Their role should be to support professional decision-making rather than remove responsibility from qualified people. These examples show how the technology can complement human capabilities instead of merely replacing effort.",
+        "cn": "人口快速增长可能增加基本服务的压力。",
+        "answer": "Rapid population growth may place greater pressure on essential services."
+      },
+      {
+        "id": "03",
+        "phrase": "hazardous tasks",
+        "source_phrase": "hazardous tasks",
+        "source_paragraph": 1,
+        "source": "AI can automate repetitive tasks and process information rapidly, enabling workers to concentrate on activities requiring judgement or creativity. Used appropriately, this can enhance productivity and reduce operational costs. Robots can also undertake hazardous tasks, such as inspecting unstable structures, reducing human exposure to dangerous environments. In essential services, AI-powered tools may offer explanations to learners with limited access to teachers or help clinicians organise and analyse information. Their role should be to support professional decision-making rather than remove responsibility from qualified people. These examples show how the technology can complement human capabilities instead of merely replacing effort.",
+        "cn": "海上机器人可以承担对潜水员而言危险的任务。",
+        "answer": "Underwater robots can carry out hazardous tasks that would put divers at risk."
+      },
+      {
+        "id": "04",
+        "phrase": "job displacement",
+        "source_phrase": "job displacement",
+        "source_paragraph": 0,
+        "source": "The growing use of artificial intelligence and automation raises questions about whether it will improve people's lives. I broadly agree that it can, provided that benefits are supported by effective safeguards. Greater efficiency, safer working practices and wider access to services are valuable, but job displacement and excessive technological dependence require attention.",
+        "cn": "职业咨询能帮助面临岗位流失的零售业员工。",
+        "answer": "Career counselling can help retail workers facing job displacement."
+      },
+      {
+        "id": "05",
+        "phrase": "excessive technological dependence",
+        "source_phrase": "excessive technological dependence",
+        "source_paragraph": 0,
+        "source": "The growing use of artificial intelligence and automation raises questions about whether it will improve people's lives. I broadly agree that it can, provided that benefits are supported by effective safeguards. Greater efficiency, safer working practices and wider access to services are valuable, but job displacement and excessive technological dependence require attention.",
+        "cn": "学校不应让便利工具导致学生过度依赖技术。",
+        "answer": "Schools should not allow convenient tools to create excessive technological dependence among pupils."
+      },
+      {
+        "id": "06",
+        "phrase": "retraining programmes",
+        "source_phrase": "retraining programmes",
+        "source_paragraph": 2,
+        "source": "The risks, however, cannot be dismissed. Workers in routine occupations may lose employment before they can move into new roles, and the gains from automation may not reach everyone equally. Employers and governments should therefore support retraining programmes and realistic career transitions rather than assume displaced workers will adapt unaided. A different problem arises when students rely on generated answers without understanding the reasoning behind them. Schools can reduce this risk by requiring learners to explain and check their work, while teaching them to treat AI as a learning aid rather than a substitute for independent thinking. Human oversight is also necessary where an inaccurate output could have serious consequences. Safeguards of this kind make responsible adoption more credible than either unrestricted deployment or wholesale rejection.",
+        "cn": "地方政府可以为关闭工厂的工人资助再培训项目。",
+        "answer": "Local governments can fund retraining programmes for workers from closed factories."
+      },
+      {
+        "id": "07",
+        "phrase": "independent thinking",
+        "source_phrase": "independent thinking",
+        "source_paragraph": 2,
+        "source": "The risks, however, cannot be dismissed. Workers in routine occupations may lose employment before they can move into new roles, and the gains from automation may not reach everyone equally. Employers and governments should therefore support retraining programmes and realistic career transitions rather than assume displaced workers will adapt unaided. A different problem arises when students rely on generated answers without understanding the reasoning behind them. Schools can reduce this risk by requiring learners to explain and check their work, while teaching them to treat AI as a learning aid rather than a substitute for independent thinking. Human oversight is also necessary where an inaccurate output could have serious consequences. Safeguards of this kind make responsible adoption more credible than either unrestricted deployment or wholesale rejection.",
+        "cn": "开放式问题能培养独立思考，而非机械记忆。",
+        "answer": "Open-ended questions can encourage independent thinking rather than mechanical memorisation."
+      },
+      {
+        "id": "08",
+        "phrase": "Human oversight",
+        "source_phrase": "Human oversight",
+        "source_paragraph": 2,
+        "source": "The risks, however, cannot be dismissed. Workers in routine occupations may lose employment before they can move into new roles, and the gains from automation may not reach everyone equally. Employers and governments should therefore support retraining programmes and realistic career transitions rather than assume displaced workers will adapt unaided. A different problem arises when students rely on generated answers without understanding the reasoning behind them. Schools can reduce this risk by requiring learners to explain and check their work, while teaching them to treat AI as a learning aid rather than a substitute for independent thinking. Human oversight is also necessary where an inaccurate output could have serious consequences. Safeguards of this kind make responsible adoption more credible than either unrestricted deployment or wholesale rejection.",
+        "cn": "自动招聘系统需要人工监督，以减少不公平决定。",
+        "answer": "Automated recruitment systems require human oversight to reduce unfair decisions."
+      }
+    ]
+  },
+  "review": {
+    "reference_material": true,
+    "practice_estimate": "未独立评分",
+    "original_complete": true,
+    "original_question": "Some people believe that the increasing use of artificial intelligence and automation will improve people's lives, while others are concerned that these technologies will create more problems than benefits. To what extent do you agree or disagree?",
+    "complete_feedback": "修正 lack of self-discipline 在 who 后误用的问题：who lack self-discipline；lack 为动词时不加 of。\n修正 the productivity 和 dangerous environment 等表达，使用 improving productivity、dangerous environments。\n引言和结尾明确回答同意程度；岗位流失对应再培训，依赖风险对应推理检查与人工监督。",
+    "source_models": {
+      "original": "The growing use of artificial intelligence (AI) and automation has sparked widespread debate about their impact on society. Although these technologies pose certain risks, I believe their benefits for individuals and society generally outweigh the drawbacks, provided that they are used responsibly and appropriately regulated.\n\nAI can substantially improve people's lives by increasing efficiency, reducing occupational risks and expanding access to essential services. AI can process large amounts of information rapidly and automate repetitive tasks, saving considerable time and effort. As a result, companies and individuals can devote their time and attention to activities that require creativity, innovation and independent judgement, thereby improving the productivity and cutting operating costs. In addition, AI-powered robots can undertake certain hazardous tasks, such as entering unstable buildings during rescue operations or handling dangerous materials. By taking on such tasks, these systems can reduce human’s exposure to dangerous environment and lower the risk of serious injury or death. Beyond these benefits, AI can support essential services like education and healthcare. Students in areas with limited access to qualified teachers can receive personalised explanations and learning support through AI-powered tools, while AI can also help experienced doctors analyse clinical information more efficiently.\n\nAdmittedly, the growing use of AI raises legitimate concerns about job displacement and excessive technological dependence, although these risks can be mitigated through appropriate safeguards. Employers may favour AI and automation because they can improve efficiency and reduce costs, potentially leading to widespread displacement of workers in routine occupations. Moreover, the convenience of AI may encourage excessive reliance on technology, especially for young students who lack of self-discipline. Although AI provides quick answers, students who rely on it instead of working through the underlying reasoning themselves may gradually weaken their critical-thinking and problem-solving skills. Nevertheless, these drawbacks do not necessarily outweigh the benefits of AI. The priority should be to manage its risks responsibly through appropriate regulation, education and human oversight, rather than to reject the technology altogether. Workers at risk of displacement can acquire digital skills and participate in retraining programmes to improve their prospects of moving into new roles. Meanwhile, schools and parents should teach children to use AI as a learning aid rather than a substitute for independent thinking.\n\nIn conclusion, although AI brings risks such as job displacement and excessive technological dependence, its broader benefits can outweigh these drawbacks. With effective government oversight and responsible use by individuals, AI can complement human capabilities and improve quality of life rather than undermine people's well-being.",
+      "A": "The growing use of artificial intelligence (AI) and automation has sparked widespread debate about their impact on society. Although these technologies pose certain risks, I largely agree that they can improve people's lives, provided that they are used responsibly and appropriately regulated.\n\nAI can substantially improve people's lives by increasing efficiency, reducing occupational risks and expanding access to essential services. AI can process large amounts of information rapidly and automate repetitive tasks, saving considerable time and effort. As a result, companies and individuals can devote their time and attention to activities that require creativity, innovation and independent judgement, thereby improving productivity and cutting operating costs. In addition, AI-powered robots can undertake certain hazardous tasks, such as entering unstable buildings during rescue operations or handling dangerous materials. By taking on such tasks, these systems can reduce human exposure to dangerous environments and lower the risk of serious injury or death. Beyond these benefits, AI can support essential services like education and healthcare. Students in areas with limited access to qualified teachers can receive personalised explanations and learning support through AI-powered tools, while AI can also help qualified doctors analyse clinical information more efficiently.\n\nAdmittedly, the growing use of AI raises legitimate concerns about job displacement and excessive technological dependence, although these risks can be mitigated through appropriate safeguards. Employers may favour AI and automation because they can improve efficiency and reduce costs, potentially leading to widespread displacement of workers in routine occupations. Moreover, the convenience of AI may encourage excessive reliance on technology, especially for young students who lack self-discipline. Although AI provides quick answers, students who rely on it instead of working through the underlying reasoning themselves may gradually weaken their critical-thinking and problem-solving skills. Nevertheless, these drawbacks do not necessarily outweigh the benefits of AI. The priority should be to manage its risks responsibly through appropriate regulation, education and human oversight, rather than to reject the technology altogether. Workers at risk of displacement can acquire digital skills and participate in retraining programmes to improve their prospects of moving into new roles. Meanwhile, schools and parents should teach children to use AI as a learning aid rather than a substitute for independent thinking.\n\nIn conclusion, although AI brings risks such as job displacement and excessive technological dependence, I largely agree that it can improve people's lives if these risks are managed. With effective government oversight and responsible use by individuals, AI can complement human capabilities and improve quality of life rather than undermine people's well-being.",
+      "B": "The growing use of artificial intelligence and automation raises questions about whether it will improve people's lives. I broadly agree that it can, provided that benefits are supported by effective safeguards. Greater efficiency, safer working practices and wider access to services are valuable, but job displacement and excessive technological dependence require attention.\n\nAI can automate repetitive tasks and process information rapidly, enabling workers to concentrate on activities requiring judgement or creativity. Used appropriately, this can enhance productivity and reduce operational costs. Robots can also undertake hazardous tasks, such as inspecting unstable structures, reducing human exposure to dangerous environments. In essential services, AI-powered tools may offer explanations to learners with limited access to teachers or help clinicians organise and analyse information. Their role should be to support professional decision-making rather than remove responsibility from qualified people. These examples show how the technology can complement human capabilities instead of merely replacing effort.\n\nThe risks, however, cannot be dismissed. Workers in routine occupations may lose employment before they can move into new roles, and the gains from automation may not reach everyone equally. Employers and governments should therefore support retraining programmes and realistic career transitions rather than assume displaced workers will adapt unaided. A different problem arises when students rely on generated answers without understanding the reasoning behind them. Schools can reduce this risk by requiring learners to explain and check their work, while teaching them to treat AI as a learning aid rather than a substitute for independent thinking. Human oversight is also necessary where an inaccurate output could have serious consequences. Safeguards of this kind make responsible adoption more credible than either unrestricted deployment or wholesale rejection.\n\nIn conclusion, I largely support the view that AI and automation can improve living standards. Their success will depend on protecting affected workers and preserving human judgement, not simply on introducing more advanced systems."
+    },
+    "source_sha256": "9ae69bd6a698023b8450da2b356806ca1d0a1b530142a436c15d64bc6bc1fa4d"
+  },
+  "practice": {
+    "diagnosis": "本篇以切题性、逻辑展开和准确表达为训练重点；7.5+为练习目标，无法仅凭参考文本承诺实际考试分数。",
+    "score_dimensions": [
+      {
+        "name": "Task Response",
+        "estimate": "训练检查",
+        "note": "修正 lack of self-discipline 在 who 后误用的问题：who lack self-discipline；lack 为动词时不加 of。"
+      },
+      {
+        "name": "Coherence and Cohesion",
+        "estimate": "训练检查",
+        "note": "中心句后解释具体机制和结果；结尾回应引言立场，不新增未经展开的理由。"
+      },
+      {
+        "name": "Lexical Resource",
+        "estimate": "训练检查",
+        "note": "优先使用准确自然的搭配，避免为追求高级词汇牺牲意义。"
+      },
+      {
+        "name": "Grammatical Range and Accuracy",
+        "estimate": "训练检查",
+        "note": "结合让步、条件和定语结构，控制长句长度，检查冠词、单复数及主谓一致。"
+      }
+    ],
+    "notes": [
+      "修正 lack of self-discipline 在 who 后误用的问题：who lack self-discipline；lack 为动词时不加 of。",
+      "修正 the productivity 和 dangerous environment 等表达，使用 improving productivity、dangerous environments。",
+      "引言和结尾明确回答同意程度；岗位流失对应再培训，依赖风险对应推理检查与人工监督。"
+    ],
+    "errors": [
+      {
+        "id": "e01",
+        "wrong": "who lack of self-discipline",
+        "correct": "who lack self-discipline",
+        "explanation": "lack 作动词直接接宾语；名词结构则是 a lack of self-discipline。",
+        "example": "Admittedly, the growing use of AI raises legitimate concerns about job displacement and excessive technological dependence, although these risks can be mitigated through appropriate safeguards. Employers may favour AI and automation because they can improve efficiency and reduce costs, potentially leading to widespread displacement of workers in routine occupations. Moreover, the convenience of AI may encourage excessive reliance on technology, especially for young students who lack self-discipline. Although AI provides quick answers, students who rely on it instead of working through the underlying reasoning themselves may gradually weaken their critical-thinking and problem-solving skills. Nevertheless, these drawbacks do not necessarily outweigh the benefits of AI. The priority should be to manage its risks responsibly through appropriate regulation, education and human oversight, rather than to reject the technology altogether. Workers at risk of displacement can acquire digital skills and participate in retraining programmes to improve their prospects of moving into new roles. Meanwhile, schools and parents should teach children to use AI as a learning aid rather than a substitute for independent thinking."
+      },
+      {
+        "id": "e02",
+        "wrong": "reduce human’s exposure to dangerous environment",
+        "correct": "reduce human exposure to dangerous environments",
+        "explanation": "human 作定语不使用单数所有格；泛指多种危险环境时使用复数。",
+        "example": "AI can substantially improve people's lives by increasing efficiency, reducing occupational risks and expanding access to essential services. AI can process large amounts of information rapidly and automate repetitive tasks, saving considerable time and effort. As a result, companies and individuals can devote their time and attention to activities that require creativity, innovation and independent judgement, thereby improving productivity and cutting operating costs. In addition, AI-powered robots can undertake certain hazardous tasks, such as entering unstable buildings during rescue operations or handling dangerous materials. By taking on such tasks, these systems can reduce human exposure to dangerous environments and lower the risk of serious injury or death. Beyond these benefits, AI can support essential services like education and healthcare. Students in areas with limited access to qualified teachers can receive personalised explanations and learning support through AI-powered tools, while AI can also help qualified doctors analyse clinical information more efficiently."
+      },
+      {
+        "id": "e03",
+        "wrong": "improving the productivity",
+        "correct": "improving productivity",
+        "explanation": "泛指生产率不需要定冠词；特指某企业的生产率才可用 the productivity of ...。",
+        "example": "AI can substantially improve people's lives by increasing efficiency, reducing occupational risks and expanding access to essential services. AI can process large amounts of information rapidly and automate repetitive tasks, saving considerable time and effort. As a result, companies and individuals can devote their time and attention to activities that require creativity, innovation and independent judgement, thereby improving productivity and cutting operating costs. In addition, AI-powered robots can undertake certain hazardous tasks, such as entering unstable buildings during rescue operations or handling dangerous materials. By taking on such tasks, these systems can reduce human exposure to dangerous environments and lower the risk of serious injury or death. Beyond these benefits, AI can support essential services like education and healthcare. Students in areas with limited access to qualified teachers can receive personalised explanations and learning support through AI-powered tools, while AI can also help qualified doctors analyse clinical information more efficiently."
+      }
+    ],
+    "drills": [
+      {
+        "id": "1",
+        "cn": "医院可以将重复任务自动化，让护士有更多时间照顾患者。",
+        "hint": "automate repetitive tasks",
+        "answer": "Hospitals can automate repetitive tasks to give nurses more time with patients.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "2",
+        "cn": "人口快速增长可能增加基本服务的压力。",
+        "hint": "essential services",
+        "answer": "Rapid population growth may place greater pressure on essential services.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      },
+      {
+        "id": "3",
+        "cn": "海上机器人可以承担对潜水员而言危险的任务。",
+        "hint": "hazardous tasks",
+        "answer": "Underwater robots can carry out hazardous tasks that would put divers at risk.",
+        "explanation": "将范文搭配迁移至新情境；检查主谓一致、搭配宾语和因果强度，不要求机械照抄整句。"
+      }
+    ]
+  }
+}
