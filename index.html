@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="color-scheme" content="light">
-<title>IELTS Writing Lab · Band 7.5+ · v1.8.0</title>
-<link rel="stylesheet" href="app.css?v=1.8.0">
+<title>IELTS Writing Lab · Band 7.5+ · v1.9.0</title>
+<link rel="stylesheet" href="app.css?v=1.9.0">
 <style id="gate-style">html.locked body>*:not(#gate){display:none!important}
 #gate{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:#f6f5f2;z-index:99999;font-family:-apple-system,"PingFang SC",sans-serif}
 html:not(.locked) #gate{display:none}
@@ -19,7 +19,7 @@ html:not(.locked) #gate{display:none}
 <div id="gate"><form onsubmit="return gateTry(event)"><h1>IELTS Writing Lab</h1><input id="gate-pw" type="password" placeholder="密码" autocomplete="current-password" autofocus><button type="submit">进入</button><p id="gate-err"></p></form></div>
 <script>function gateTry(e){e.preventDefault();var v=document.getElementById("gate-pw").value.trim();if(v==="ielts2026"){try{localStorage.setItem("ielts-gate","1")}catch(x){}document.documentElement.classList.remove("locked")}else{document.getElementById("gate-err").textContent="密码不对"}return false}</script>
 <header>
-  <div class="headrow"><div class="sup">IELTS ACADEMIC WRITING · PERSONAL PRACTICE</div><div class="row"><span class="pill" style="color:#fff;background:#ffffff16;border-color:#ffffff55">v1.8.0</span><a href="#" id="toVersions">查看更新 Diff</a></div></div>
+  <div class="headrow"><div class="sup">IELTS ACADEMIC WRITING · PERSONAL PRACTICE</div><div class="row"><span class="pill" style="color:#fff;background:#ffffff16;border-color:#ffffff55">v1.9.0</span><a href="#" id="toVersions">查看更新 Diff</a></div></div>
   <h1>IELTS Writing Lab <span style="font-size:15px;font-weight:450;color:#d9eade">/ Clean Edition</span></h1>
   <p>先理解完整范文与论证功能，再完成搭配挖空、中译英和搭配迁移。任务驱动练习，不再显示杂乱的 PDF 逐页摘录。</p>
 </header>
@@ -42,7 +42,7 @@ html:not(.locked) #gate{display:none}
  <section class="page" id="errors"><div class="card"><h2>个人易错点循环</h2><p class="muted">来自之前作文批改出现的冠词、单复数、固定搭配和动词结构问题。点击“隐藏答案”进行主动回忆，可标记待复习。</p><div class="row"><button class="primary" onclick="renderErrors(true)">只看待复习</button><button onclick="renderErrors(false)">查看全部</button></div><div id="errorList"></div></div><div class="card"><h3>添加自己的新错题</h3><div class="split"><div><label for="newWrong">错误表达</label><input id="newWrong" type="text" style="width:100%" placeholder="例如：can keeps"></div><div><label for="newCorrect">正确表达</label><input id="newCorrect" type="text" style="width:100%" placeholder="例如：can keep"></div></div><p><label for="newExplain">知识点 / 用法</label><input id="newExplain" type="text" style="width:100%" placeholder="情态动词后接动词原形"></p><button class="primary" onclick="addError()">加入个人错题</button></div></section>
  <section class="page" id="archive"><div class="card"><h2>我的作文档案</h2><p class="muted">保留你提交的原稿和主要纠错记录。原始作文与资料范文区分显示；缺少完整批改文本时不会自行补写并冒称原稿。</p><div id="essayArchive"></div></div></section>
  <section class="page" id="versions"><div class="card"><h2>版本记录与 GitHub-style Diff</h2><p class="muted">对比的是训练系统的内容/功能清单，不是假装对两份 HTML 源代码执行 Git。蓝绿色是新增；粉红是移除。版本内容可导出 JSON 备份。</p><div class="row"><label for="oldVersion">比较起点</label><select id="oldVersion"></select><label for="newVersion">比较终点</label><select id="newVersion"></select><button class="primary" onclick="showDiff()">查看差异</button></div><div id="diffResult"></div><div class="rule"></div><div class="row"><button onclick="saveSnapshot()">保存当前内容快照</button><button onclick="exportBackup()">导出进度与版本 JSON</button><label class="pill" style="cursor:pointer">导入备份<input id="importBackup" type="file" accept=".json,application/json" style="display:none" onchange="importBackup(event)"></label></div><p class="small muted">升级到下一份 HTML 时，若浏览器将不同本地文件视为不同存储位置，请先在旧版导出备份，再在新版导入。本文档离线运行，不会自动同步云端。</p></div></section>
-</div><footer class="footer">IELTS Writing Lab v1.8.0 · Source-based training · All example essays remain editable only through your own drafts, not by altering source quotations.</footer>
+</div><footer class="footer">IELTS Writing Lab v1.9.0 · Source-based training · All example essays remain editable only through your own drafts, not by altering source quotations.</footer>
 <script>
 // Load data/*.json, assemble the same DATA object the app always used, then start app.js.
 (async function(){

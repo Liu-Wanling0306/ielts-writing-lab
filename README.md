@@ -68,3 +68,7 @@ python3 -m http.server 8000 --bind 127.0.0.1
 语法记录使用`ielts-grammar-review-v1.4`，请通过模块内「学习进度与备份」导出/导入。主站备份仍保存原有作文、图表和句型记录；语法备份单独管理。
 
 源数据为`data/grammar-review.json`，从上传HTML无损提取。修改课程时须同步HTML中的grammarData，`python3 check.py`会检测一致性。验收：`IELTS_TEST_URL=http://127.0.0.1:8021 python3 tests/verify_grammar.py`。
+
+## v1.9.0 · 话题搭配更新
+
+「衔接与搭配 → 话题正反高分搭配」现按上传HTML分为11话题、68条表达，每条包含例句和句型提示，支持批量展开以及站内关联范文。数据位于data/connector-library.json；其余表达分类保持不变。

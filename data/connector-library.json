@@ -818,807 +818,849 @@
   "topics": [
     {
       "name": "教育与成长",
+      "english": "Education & learning",
+      "prompts": "适用题目 · 线上课程、小班教学、选科自由、职业教育",
       "positive": [
         {
+          "label": "教育可及性",
           "phrase": "broaden access to quality education",
-          "cn": "扩大优质教育的可及性",
-          "example": "Online courses can broaden access to quality education for students in remote areas."
+          "cn": "扩大优质教育的覆盖面",
+          "example": "Online courses can broaden access to quality education for students who live far from well-equipped schools.",
+          "structure": "定语从句",
+          "pattern": "名词 + who / that / which + 补充信息"
         },
         {
-          "phrase": "foster critical thinking",
-          "cn": "培养批判性思维",
-          "example": "Open-ended classroom discussions can foster critical thinking."
+          "label": "针对性指导",
+          "phrase": "provide timely, targeted feedback",
+          "cn": "提供及时、有针对性的反馈",
+          "example": "Smaller language classes can provide timely, targeted feedback because teachers have more time to listen to each student speak.",
+          "structure": "原因从句",
+          "pattern": "Because / as + 原因，与主句搭配使用"
         },
         {
+          "label": "就业准备",
           "phrase": "equip students with practical skills",
-          "cn": "使学生具备实用技能",
-          "example": "Vocational programmes equip students with practical skills for the workplace."
+          "cn": "让学生掌握实用技能",
+          "example": "By asking students to plan a monthly budget, schools can equip students with practical skills that they will need when they start living independently.",
+          "structure": "方式结构",
+          "pattern": "By + 动词-ing, 主语 + can + 结果"
         },
         {
-          "phrase": "promote social mobility",
-          "cn": "促进社会流动",
-          "example": "Affordable higher education can promote social mobility."
-        },
-        {
-          "phrase": "provide equal learning opportunities",
-          "cn": "提供平等的学习机会",
-          "example": "Public funding can provide equal learning opportunities for disadvantaged children."
-        },
-        {
-          "phrase": "cultivate a lifelong love of learning",
-          "cn": "培养终身学习的兴趣",
-          "example": "Supportive teachers can cultivate a lifelong love of learning."
+          "label": "兴趣与动力",
+          "phrase": "sustain students’ motivation",
+          "cn": "维持学生的学习动力",
+          "example": "If universities let students take electives that match their interests, this freedom can sustain students’ motivation throughout a demanding degree.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         }
       ],
       "negative": [
         {
+          "label": "教育差距",
           "phrase": "widen educational inequalities",
-          "cn": "扩大教育不平等",
-          "example": "Unequal access to digital devices can widen educational inequalities."
+          "cn": "加剧教育不平等",
+          "example": "If schools move homework online without lending devices to pupils who need them, they may widen educational inequalities.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "place excessive pressure on students",
-          "cn": "给学生施加过大压力",
-          "example": "High-stakes examinations may place excessive pressure on students."
-        },
-        {
+          "label": "考试压力",
           "phrase": "encourage rote learning",
-          "cn": "助长死记硬背式学习",
-          "example": "An exam-focused system can encourage rote learning."
+          "cn": "助长死记硬背",
+          "example": "Although standardised tests can make results easier to compare, an excessive focus on test scores may encourage rote learning, as pupils have an incentive to memorise model answers.",
+          "structure": "让步从句",
+          "pattern": "Although + 承认的一点, 主语 + 相反方向的判断"
         },
         {
-          "phrase": "impose a heavy financial burden",
-          "cn": "造成沉重经济负担",
-          "example": "Tuition fees can impose a heavy financial burden on low-income families."
+          "label": "家庭负担",
+          "phrase": "impose a financial burden on families",
+          "cn": "给家庭带来经济负担",
+          "example": "Small-group courses that require additional teaching staff can impose a financial burden on families when providers pass the extra costs on through higher fees.",
+          "structure": "定语从句",
+          "pattern": "名词 + who / that / which + 补充信息"
         },
         {
-          "phrase": "leave disadvantaged pupils behind",
-          "cn": "使弱势学生掉队",
-          "example": "A lack of learning support may leave disadvantaged pupils behind."
+          "label": "学科取舍",
+          "phrase": "come at the expense of academic depth",
+          "cn": "以牺牲学术深度为代价",
+          "example": "If universities require too many unrelated modules, a broader curriculum can come at the expense of academic depth, since students have less time for advanced work in their major.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
+        }
+      ],
+      "related": [
+        {
+          "id": "t2-02",
+          "title": "大学是否应该鼓励学生多学科学习？"
         },
         {
-          "phrase": "undermine students’ intrinsic motivation",
-          "cn": "削弱学生的内在学习动力",
-          "example": "Constant comparison can undermine students’ intrinsic motivation."
+          "id": "t2-41",
+          "title": "外语教学是否需要小班（R01·个人练习）"
+        },
+        {
+          "id": "t2-43",
+          "title": "大学生选专业的自由与实用性（练习1·01）"
+        },
+        {
+          "id": "t2-45",
+          "title": "学校学术教育与生活技能（练习1·03）"
         }
       ]
     },
     {
-      "name": "科技、AI与媒体",
+      "name": "科技与人工智能",
+      "english": "Technology & AI",
+      "prompts": "适用题目 · 办公自动化、AI 辅助学习、工业机器人",
       "positive": [
         {
+          "label": "工作效率",
           "phrase": "streamline repetitive tasks",
           "cn": "简化重复性任务",
-          "example": "AI can streamline repetitive tasks and free employees to focus on complex work."
+          "example": "AI tools can streamline repetitive tasks such as sorting routine enquiries, freeing employees to handle cases that require judgement.",
+          "structure": "结果结构",
+          "pattern": "完整主句, 动词-ing + 补充直接结果"
         },
         {
-          "phrase": "enhance productivity",
-          "cn": "提高生产力",
-          "example": "Automation can enhance productivity across many industries."
+          "label": "作业安全",
+          "phrase": "reduce workers’ exposure to hazards",
+          "cn": "减少工人接触危险的机会",
+          "example": "By sending robots into unstable buildings after an earthquake, emergency services can reduce workers’ exposure to hazards while they assess the damage.",
+          "structure": "方式结构",
+          "pattern": "By + 动词-ing, 主语 + can + 结果"
         },
         {
-          "phrase": "improve access to information",
-          "cn": "改善信息获取",
-          "example": "Digital platforms improve access to information."
-        },
-        {
-          "phrase": "facilitate remote collaboration",
-          "cn": "促进远程协作",
-          "example": "Video-conferencing tools facilitate remote collaboration."
-        },
-        {
-          "phrase": "support early disease detection",
-          "cn": "支持疾病早期检测",
-          "example": "AI-assisted imaging can support early disease detection."
-        },
-        {
-          "phrase": "personalise learning experiences",
-          "cn": "使学习体验个性化",
-          "example": "Adaptive software can personalise learning experiences."
+          "label": "个性化学习",
+          "phrase": "tailor practice to individual needs",
+          "cn": "根据个人需求调整练习",
+          "example": "When a learner repeatedly mispronounces the same sound, a speech app can tailor practice to individual needs by offering additional exercises on that sound.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
         }
       ],
       "negative": [
         {
+          "label": "就业替代",
           "phrase": "displace workers in routine occupations",
-          "cn": "取代常规职业中的劳动者",
-          "example": "AI-driven automation may displace workers in routine occupations."
+          "cn": "取代从事常规性工作的员工",
+          "example": "If supermarkets introduce self-service checkouts on a large scale, they may displace workers in routine occupations, especially where few alternative jobs are available.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "deepen the digital divide",
-          "cn": "加深数字鸿沟",
-          "example": "Unequal internet access can deepen the digital divide."
-        },
-        {
+          "label": "独立思考",
           "phrase": "undermine independent thinking",
-          "cn": "削弱独立思考",
-          "example": "Overreliance on AI may undermine independent thinking."
+          "cn": "削弱独立思考能力",
+          "example": "If students submit AI-generated explanations without checking the reasoning, frequent use of these tools may undermine independent thinking.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "spread misleading information",
-          "cn": "传播误导性信息",
-          "example": "Unverified posts can spread misleading information rapidly."
+          "label": "技术监管",
+          "phrase": "blur lines of accountability",
+          "cn": "模糊责任归属",
+          "example": "When a driverless vehicle causes a collision, the involvement of several companies can blur lines of accountability, as it may be unclear who should compensate those affected.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
+        }
+      ],
+      "related": [
+        {
+          "id": "t2-06",
+          "title": "要不要大范围使用无人驾驶?"
         },
         {
+          "id": "t2-08",
+          "title": "机器人发展的利与弊"
+        },
+        {
+          "id": "t2-12",
+          "title": "机器人参与工作的利与弊"
+        },
+        {
+          "id": "t2-46",
+          "title": "AI与自动化能否改善生活（练习1·04）"
+        }
+      ]
+    },
+    {
+      "name": "媒体、广告与隐私",
+      "english": "Media, advertising & privacy",
+      "prompts": "适用题目 · 社交媒体、数字新闻、个性化广告、线上服务",
+      "positive": [
+        {
+          "label": "跨地域联系",
+          "phrase": "maintain long-distance relationships",
+          "cn": "维系异地关系",
+          "example": "Messaging apps help people who work abroad maintain long-distance relationships because they can share everyday news with family members at little cost.",
+          "structure": "定语从句",
+          "pattern": "名词 + who / that / which + 补充信息"
+        },
+        {
+          "label": "公共信息",
+          "phrase": "improve access to timely information",
+          "cn": "改善获取及时信息的渠道",
+          "example": "When local authorities publish storm warnings on several platforms, they can improve access to timely information for residents who rarely watch television.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
+        },
+        {
+          "label": "服务便利",
+          "phrase": "reduce the need for repetitive data entry",
+          "cn": "减少重复录入信息的需要",
+          "example": "If an appointment system securely saves contact details, it can reduce the need for repetitive data entry when patients book follow-up visits.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
+        }
+      ],
+      "negative": [
+        {
+          "label": "虚假信息",
+          "phrase": "spread misinformation rapidly",
+          "cn": "迅速传播虚假信息",
+          "example": "If users share alarming posts before checking their sources, social platforms can spread misinformation rapidly, making corrections harder to circulate.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
+        },
+        {
+          "label": "数据泄露",
           "phrase": "compromise personal data",
-          "cn": "危及个人数据",
-          "example": "Poorly protected platforms may compromise personal data."
+          "cn": "危及个人数据安全",
+          "example": "Platforms that store more information than they need may compromise personal data if they fail to protect customers’ records.",
+          "structure": "定语从句",
+          "pattern": "名词 + who / that / which + 补充信息"
         },
         {
-          "phrase": "encourage excessive screen time",
-          "cn": "助长过度屏幕使用",
-          "example": "Short-form content can encourage excessive screen time."
+          "label": "过度消费",
+          "phrase": "encourage impulse buying",
+          "cn": "诱导冲动消费",
+          "example": "When personalised advertisements repeatedly show users products they have recently viewed, they may encourage impulse buying by creating a sense of urgency.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
+        }
+      ],
+      "related": [
+        {
+          "id": "t2-07",
+          "title": "个人信息放在网上的利弊"
+        },
+        {
+          "id": "t2-09",
+          "title": "社交媒体的利与弊"
+        },
+        {
+          "id": "t2-14",
+          "title": "通过传统媒体看新闻还有必要吗？"
         }
       ]
     },
     {
-      "name": "环境、气候与动物",
+      "name": "环境、资源与动物",
+      "english": "Environment, resources & animals",
+      "prompts": "适用题目 · 回收、食物浪费、资源节约、生态保护",
       "positive": [
         {
-          "phrase": "reduce carbon emissions",
-          "cn": "减少碳排放",
-          "example": "Investment in renewable energy can reduce carbon emissions."
+          "label": "源头减量",
+          "phrase": "reduce waste at source",
+          "cn": "从源头减少废弃物",
+          "example": "By planning meals before shopping, households can reduce waste at source because they are less likely to buy food that will spoil.",
+          "structure": "方式结构",
+          "pattern": "By + 动词-ing, 主语 + can + 结果"
         },
         {
-          "phrase": "protect biodiversity",
-          "cn": "保护生物多样性",
-          "example": "Well-managed nature reserves help protect biodiversity."
+          "label": "生态保护",
+          "phrase": "preserve natural habitats",
+          "cn": "保护自然栖息地",
+          "example": "When local authorities restrict building near wetlands, they can preserve natural habitats that provide breeding grounds for waterbirds.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
         },
         {
-          "phrase": "conserve natural resources",
-          "cn": "保护自然资源",
-          "example": "Recycling programmes can conserve natural resources."
-        },
-        {
-          "phrase": "improve urban air quality",
-          "cn": "改善城市空气质量",
-          "example": "Restrictions on private cars can improve urban air quality."
-        },
-        {
-          "phrase": "promote sustainable consumption",
-          "cn": "促进可持续消费",
-          "example": "Clear product labels can promote sustainable consumption."
-        },
-        {
-          "phrase": "restore degraded ecosystems",
-          "cn": "修复退化生态系统",
-          "example": "Reforestation projects can restore degraded ecosystems."
+          "label": "资源循环",
+          "phrase": "divert household waste from landfill",
+          "cn": "减少进入填埋场的生活垃圾",
+          "example": "If councils collect food scraps separately and send them for composting, they can divert household waste from landfill.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         }
       ],
       "negative": [
         {
-          "phrase": "deplete non-renewable resources",
-          "cn": "消耗不可再生资源",
-          "example": "Excessive consumption can deplete non-renewable resources."
+          "label": "监管成本",
+          "phrase": "raise compliance costs",
+          "cn": "增加合规成本",
+          "example": "Although stricter packaging rules can reduce waste, they may raise compliance costs for small retailers that need to change suppliers.",
+          "structure": "让步从句",
+          "pattern": "Although + 承认的一点, 主语 + 相反方向的判断"
         },
         {
-          "phrase": "destroy natural habitats",
-          "cn": "破坏自然栖息地",
-          "example": "Uncontrolled development can destroy natural habitats."
+          "label": "资源透支",
+          "phrase": "deplete finite natural resources",
+          "cn": "耗竭有限的自然资源",
+          "example": "Because mineral deposits cannot replenish on a human timescale, rising demand for disposable electronics can deplete finite natural resources.",
+          "structure": "原因从句",
+          "pattern": "Because / as + 原因，与主句搭配使用"
         },
         {
-          "phrase": "accelerate climate change",
-          "cn": "加剧气候变化",
-          "example": "Heavy reliance on fossil fuels can accelerate climate change."
+          "label": "污染转移",
+          "phrase": "shift pollution elsewhere",
+          "cn": "将污染转移到其他地方",
+          "example": "If a city sends poorly sorted recycling abroad without checking how it is processed, it may simply shift pollution elsewhere.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
+        }
+      ],
+      "related": [
+        {
+          "id": "t2-17",
+          "title": "过度开发自然资源带来的后果和解决办法"
         },
         {
-          "phrase": "cause long-term ecological damage",
-          "cn": "造成长期生态破坏",
-          "example": "Poorly planned tourism can cause long-term ecological damage."
+          "id": "t2-20",
+          "title": "保护濒危动物vs 专注人类自身问题"
         },
         {
-          "phrase": "place wildlife under pressure",
-          "cn": "使野生动物承受生存压力",
-          "example": "Habitat loss places wildlife under increasing pressure."
+          "id": "t2-42",
+          "title": "食物浪费的原因与解决办法（R04·个人练习）"
         },
         {
-          "phrase": "shift environmental costs onto future generations",
-          "cn": "将环境代价转嫁给后代",
-          "example": "Unsustainable policies shift environmental costs onto future generations."
+          "id": "t2-50",
+          "title": "家庭垃圾增加与回收不足（练习1·08）"
         }
       ]
     },
     {
-      "name": "文化、旅游与全球化",
+      "name": "工作、经济与全球化",
+      "english": "Work, economy & globalisation",
+      "prompts": "适用题目 · 自主就业、远程工作、企业投资、跨国贸易",
       "positive": [
         {
-          "phrase": "foster intercultural understanding",
-          "cn": "促进跨文化理解",
-          "example": "International tourism can foster intercultural understanding."
+          "label": "工作自主权",
+          "phrase": "gain greater control over working hours",
+          "cn": "更能自主安排工作时间",
+          "example": "Freelance translators who work with several clients can gain greater control over working hours, which may help them accommodate family commitments.",
+          "structure": "定语从句",
+          "pattern": "名词 + who / that / which + 补充信息"
         },
         {
-          "phrase": "generate income for local communities",
-          "cn": "为当地社区创造收入",
-          "example": "Cultural tourism generates income for local communities."
+          "label": "创新与商业化",
+          "phrase": "bring new products to market",
+          "cn": "推动新产品进入市场",
+          "example": "Because private firms often have established distribution networks, their investment can help researchers bring new products to market once those products have been tested.",
+          "structure": "原因从句",
+          "pattern": "Because / as + 原因，与主句搭配使用"
         },
         {
-          "phrase": "support heritage preservation",
-          "cn": "支持文化遗产保护",
-          "example": "Tourism revenue can support heritage preservation."
-        },
-        {
-          "phrase": "create employment opportunities",
-          "cn": "创造就业机会",
-          "example": "Tourism can create employment opportunities in rural areas."
-        },
-        {
-          "phrase": "provide first-hand cultural experiences",
-          "cn": "提供亲身文化体验",
-          "example": "Travel provides first-hand cultural experiences that books cannot fully replicate."
-        },
-        {
-          "phrase": "strengthen a sense of cultural identity",
-          "cn": "增强文化认同感",
-          "example": "Community festivals can strengthen a sense of cultural identity."
+          "label": "市场机会",
+          "phrase": "reach a wider customer base",
+          "cn": "触及更广泛的客户群",
+          "example": "By selling through international marketplaces, small manufacturers can reach a wider customer base than they could through local shops alone.",
+          "structure": "方式结构",
+          "pattern": "By + 动词-ing, 主语 + can + 结果"
         }
       ],
       "negative": [
         {
-          "phrase": "commercialise cultural traditions",
-          "cn": "使传统文化商业化",
-          "example": "Mass tourism can commercialise cultural traditions."
+          "label": "收入风险",
+          "phrase": "face considerable income volatility",
+          "cn": "面临较大的收入波动",
+          "example": "If most orders come from a handful of clients, self-employed workers may face considerable income volatility when one contract ends.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "erode cultural authenticity",
-          "cn": "削弱文化真实性",
-          "example": "Staged performances may erode cultural authenticity."
+          "label": "工作边界",
+          "phrase": "blur the boundaries between work and home",
+          "cn": "模糊工作与家庭生活的界限",
+          "example": "Remote work can blur the boundaries between work and home if employees are expected to answer messages long after their working day ends.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "put pressure on local infrastructure",
-          "cn": "给当地基础设施带来压力",
-          "example": "Peak-season tourism puts pressure on local infrastructure."
+          "label": "本地竞争",
+          "phrase": "put pressure on local producers",
+          "cn": "给本地生产者带来压力",
+          "example": "When cheaper imports become widely available, they can put pressure on local producers who lack the resources to lower their costs.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
+        }
+      ],
+      "related": [
+        {
+          "id": "t2-10",
+          "title": "私企做科学研究的利弊"
         },
         {
-          "phrase": "damage historic sites",
-          "cn": "破坏历史遗迹",
-          "example": "Large visitor numbers can damage historic sites."
+          "id": "t2-21",
+          "title": "气候变化对企业是好是坏?"
         },
         {
-          "phrase": "disrupt residents’ daily lives",
-          "cn": "干扰居民日常生活",
-          "example": "Noise and congestion can disrupt residents’ daily lives."
-        },
-        {
-          "phrase": "encourage overcrowding",
-          "cn": "加剧过度拥挤",
-          "example": "Cheap flights may encourage overcrowding in popular destinations."
+          "id": "t2-47",
+          "title": "自主就业的收益与风险（练习1·05）"
         }
       ]
     },
     {
-      "name": "健康、生活方式与压力",
+      "name": "城市、住房与交通",
+      "english": "Cities, housing & transport",
+      "prompts": "适用题目 · 限车、公共交通、绿地、住房供给",
       "positive": [
         {
-          "phrase": "improve cardiovascular fitness",
-          "cn": "改善心血管健康",
-          "example": "Regular exercise can improve cardiovascular fitness."
+          "label": "主动出行",
+          "phrase": "encourage walking and cycling",
+          "cn": "鼓励步行和骑行",
+          "example": "If cities install protected cycle lanes that connect homes with schools and shops, they can encourage walking and cycling for short trips.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "support mental well-being",
-          "cn": "促进心理健康",
-          "example": "Social support plays an important role in mental well-being."
+          "label": "住房供给",
+          "phrase": "ease pressure on the housing market",
+          "cn": "缓解住房市场压力",
+          "example": "When cities add affordable flats near major transport hubs, they may ease pressure on the housing market while giving residents access to more jobs.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
         },
         {
-          "phrase": "reduce the risk of chronic diseases",
-          "cn": "降低慢性病风险",
-          "example": "A balanced diet can reduce the risk of chronic diseases."
-        },
-        {
-          "phrase": "relieve stress and improve mood",
-          "cn": "缓解压力并改善情绪",
-          "example": "Outdoor activities can relieve stress and improve mood."
-        },
-        {
-          "phrase": "maintain a healthy weight",
-          "cn": "保持健康体重",
-          "example": "Regular exercise helps people maintain a healthy weight."
-        },
-        {
-          "phrase": "improve sleep quality",
-          "cn": "改善睡眠质量",
-          "example": "A consistent routine can improve sleep quality."
+          "label": "城市绿化",
+          "phrase": "reduce exposure to extreme heat",
+          "cn": "减少居民暴露在极端高温中的时间",
+          "example": "By planting shade trees along routes to schools and bus stops, city councils can reduce exposure to extreme heat for people who travel on foot.",
+          "structure": "方式结构",
+          "pattern": "By + 动词-ing, 主语 + can + 结果"
         }
       ],
       "negative": [
         {
-          "phrase": "lead a sedentary lifestyle",
-          "cn": "过久坐的生活方式",
-          "example": "Long working hours may lead people to adopt a sedentary lifestyle."
+          "label": "出行不便",
+          "phrase": "make essential journeys more difficult",
+          "cn": "使必要出行更困难",
+          "example": "If city centres restrict cars without providing accessible alternatives, the restrictions may make essential journeys more difficult for people with limited mobility.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "increase the risk of obesity",
-          "cn": "增加肥胖风险",
-          "example": "Frequent consumption of processed food can increase the risk of obesity."
+          "label": "道路拥堵转移",
+          "phrase": "displace traffic onto residential streets",
+          "cn": "把车流转移到居民街道",
+          "example": "Although closing a main road can make a shopping district quieter, it may displace traffic onto residential streets if drivers are given few alternative routes.",
+          "structure": "让步从句",
+          "pattern": "Although + 承认的一点, 主语 + 相反方向的判断"
         },
         {
-          "phrase": "place pressure on healthcare services",
-          "cn": "给医疗服务带来压力",
-          "example": "An ageing population can place pressure on healthcare services."
+          "label": "公共设施超负荷",
+          "phrase": "place additional strain on local infrastructure",
+          "cn": "给当地基础设施增加压力",
+          "example": "When new homes are built faster than schools and transport links can be expanded, population growth can place additional strain on local infrastructure.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
+        }
+      ],
+      "related": [
+        {
+          "id": "t2-33",
+          "title": "城市空地应该植树还是建房？"
         },
         {
-          "phrase": "contribute to chronic stress",
-          "cn": "导致长期压力",
-          "example": "Unrealistic workloads can contribute to chronic stress."
+          "id": "t2-37",
+          "title": "政府要优先解决环境住房问题吗？"
         },
         {
-          "phrase": "widen health inequalities",
-          "cn": "扩大健康不平等",
-          "example": "Unequal access to healthcare can widen health inequalities."
+          "id": "t2-38",
+          "title": "人们现在走路变少的原因"
         },
         {
-          "phrase": "undermine work-life balance",
-          "cn": "损害工作与生活的平衡",
-          "example": "Constant connectivity can undermine work-life balance."
+          "id": "t2-49",
+          "title": "城市中心减少私家车空间（练习1·07）"
         }
       ]
     },
     {
-      "name": "工作、职业与成功",
+      "name": "健康、饮食与体育",
+      "english": "Health, diet & sport",
+      "prompts": "适用题目 · 学校体育、久坐、健康饮食、竞技与极限运动",
       "positive": [
         {
-          "phrase": "offer greater control over working hours",
-          "cn": "提供更大的工作时间自主权",
-          "example": "Self-employment can offer greater control over working hours."
+          "label": "形成锻炼习惯",
+          "phrase": "build lasting exercise habits",
+          "cn": "建立持久的锻炼习惯",
+          "example": "If schools offer activities at several skill levels, pupils may build lasting exercise habits because they are more likely to find a form of movement they enjoy.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "unlock long-term career potential",
-          "cn": "释放长期职业发展潜力",
-          "example": "Continuous training can unlock long-term career potential."
+          "label": "心理健康",
+          "phrase": "support psychological well-being",
+          "cn": "有益于心理健康",
+          "example": "Regular group walks can support psychological well-being among people who spend much of the day alone, as they create opportunities for conversation and exercise.",
+          "structure": "定语从句",
+          "pattern": "名词 + who / that / which + 补充信息"
         },
         {
-          "phrase": "provide a sense of professional fulfilment",
-          "cn": "带来职业成就感",
-          "example": "Meaningful work can provide a sense of professional fulfilment."
-        },
-        {
-          "phrase": "develop transferable skills",
-          "cn": "培养可迁移技能",
-          "example": "Taking on varied responsibilities helps employees develop transferable skills."
-        },
-        {
-          "phrase": "encourage innovation and initiative",
-          "cn": "鼓励创新与主动性",
-          "example": "Flexible workplaces can encourage innovation and initiative."
-        },
-        {
-          "phrase": "improve job satisfaction",
-          "cn": "提高工作满意度",
-          "example": "A supportive management culture can improve job satisfaction."
+          "label": "饮食质量",
+          "phrase": "meet nutritional needs",
+          "cn": "满足营养需求",
+          "example": "School meals that include a variety of vegetables, grains and protein sources can help children meet nutritional needs that may be harder to satisfy at home.",
+          "structure": "定语从句",
+          "pattern": "名词 + who / that / which + 补充信息"
         }
       ],
       "negative": [
         {
-          "phrase": "create income instability",
-          "cn": "造成收入不稳定",
-          "example": "Self-employment can create income instability, especially at the start."
+          "label": "运动伤害",
+          "phrase": "increase the risk of injury",
+          "cn": "提高受伤风险",
+          "example": "When beginners attempt difficult moves without professional instruction, competitive pressure can increase the risk of injury.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
         },
         {
-          "phrase": "offer limited job security",
-          "cn": "提供有限的工作保障",
-          "example": "Temporary contracts often offer limited job security."
+          "label": "平等参与",
+          "phrase": "create barriers to participation",
+          "cn": "造成参与障碍",
+          "example": "If schools spend most of their sports budget on elite teams, they may create barriers to participation for pupils who need beginner-friendly coaching.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "blur the boundaries between work and personal life",
-          "cn": "模糊工作与私人生活的界限",
-          "example": "Remote work can blur the boundaries between work and personal life."
+          "label": "单一健康策略",
+          "phrase": "overlook the role of diet",
+          "cn": "忽视饮食的作用",
+          "example": "Although exercise campaigns can help people become more active, a programme that focuses solely on workouts may overlook the role of diet in long-term health.",
+          "structure": "让步从句",
+          "pattern": "Although + 承认的一点, 主语 + 相反方向的判断"
+        }
+      ],
+      "related": [
+        {
+          "id": "t2-15",
+          "title": "素食主义的原因和影响"
         },
         {
-          "phrase": "expose workers to financial uncertainty",
-          "cn": "使劳动者面临经济不确定性",
-          "example": "Freelancers may be exposed to financial uncertainty."
+          "id": "t2-32",
+          "title": "政府应投资于学校体育还是专业运动员"
         },
         {
-          "phrase": "lead to excessive workloads",
-          "cn": "导致工作负担过重",
-          "example": "Staff shortages can lead to excessive workloads."
+          "id": "t2-38",
+          "title": "人们现在走路变少的原因"
         },
         {
-          "phrase": "create a mismatch between skills and jobs",
-          "cn": "造成技能与岗位不匹配",
-          "example": "Rapid technological change can create a mismatch between skills and jobs."
+          "id": "t2-39",
+          "title": "极限运动应该禁止吗？"
+        },
+        {
+          "id": "t2-51",
+          "title": "运动与健康饮食的作用（练习1·09）"
         }
       ]
     },
     {
-      "name": "金钱、经济与消费",
+      "name": "政府、公共服务与公平",
+      "english": "Government, public services & equity",
+      "prompts": "适用题目 · 公共预算、普惠服务、定向补贴、财富差距",
       "positive": [
         {
-          "phrase": "stimulate economic growth",
-          "cn": "刺激经济增长",
-          "example": "Public infrastructure projects can stimulate economic growth."
+          "label": "基本服务",
+          "phrase": "ensure equitable access to essential services",
+          "cn": "确保公平获得基本服务",
+          "example": "By funding mobile clinics in underserved areas, governments can ensure equitable access to essential services for residents who live far from hospitals.",
+          "structure": "方式结构",
+          "pattern": "By + 动词-ing, 主语 + can + 结果"
         },
         {
-          "phrase": "raise household living standards",
-          "cn": "提高家庭生活水平",
-          "example": "Stable employment can raise household living standards."
+          "label": "精准支持",
+          "phrase": "target support at low-income households",
+          "cn": "将支持集中在低收入家庭",
+          "example": "Because many families struggle with the upfront cost of childcare, councils can target support at low-income households through income-based subsidies.",
+          "structure": "原因从句",
+          "pattern": "Because / as + 原因，与主句搭配使用"
         },
         {
-          "phrase": "boost local businesses",
-          "cn": "促进本地企业发展",
-          "example": "Visitors’ spending can boost local businesses."
-        },
-        {
-          "phrase": "attract domestic and foreign investment",
-          "cn": "吸引国内外投资",
-          "example": "Reliable transport networks can attract domestic and foreign investment."
-        },
-        {
-          "phrase": "expand consumer choice",
-          "cn": "扩大消费者选择",
-          "example": "Online retail has expanded consumer choice."
-        },
-        {
-          "phrase": "create a more resilient local economy",
-          "cn": "建立更有韧性的地方经济",
-          "example": "Supporting small firms can create a more resilient local economy."
+          "label": "机会平等",
+          "phrase": "reduce barriers to social mobility",
+          "cn": "减少社会流动的障碍",
+          "example": "Grants that cover both tuition and living costs can reduce barriers to social mobility, especially for students whose families cannot support them financially.",
+          "structure": "定语从句",
+          "pattern": "名词 + who / that / which + 补充信息"
         }
       ],
       "negative": [
         {
-          "phrase": "widen the income gap",
-          "cn": "扩大收入差距",
-          "example": "Unequal access to high-paying jobs can widen the income gap."
+          "label": "预算挤占",
+          "phrase": "divert funding away from essential services",
+          "cn": "挤占基本公共服务的资金",
+          "example": "If a city commits most of its discretionary budget to a flagship venue, it may divert funding away from essential services that residents rely on every day.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "increase household debt",
-          "cn": "增加家庭债务",
-          "example": "Easy access to credit can increase household debt."
-        },
-        {
-          "phrase": "encourage excessive consumption",
-          "cn": "助长过度消费",
-          "example": "Aggressive advertising can encourage excessive consumption."
-        },
-        {
-          "phrase": "raise the cost of living",
-          "cn": "提高生活成本",
-          "example": "Rapid urban growth can raise the cost of living."
-        },
-        {
-          "phrase": "undermine financial security",
-          "cn": "损害经济保障",
-          "example": "High housing costs can undermine financial security."
-        },
-        {
+          "label": "普惠政策成本",
           "phrase": "place a strain on public finances",
-          "cn": "给公共财政带来压力",
-          "example": "Large unfunded programmes can place a strain on public finances."
+          "cn": "使公共财政承压",
+          "example": "Although universal subsidies are easy for residents to understand, they can place a strain on public finances when they cover people who could afford the full price.",
+          "structure": "让步从句",
+          "pattern": "Although + 承认的一点, 主语 + 相反方向的判断"
+        },
+        {
+          "label": "申请门槛",
+          "phrase": "exclude eligible applicants",
+          "cn": "把符合资格的申请者排除在外",
+          "example": "When an agency requires several unfamiliar forms and an online interview, complicated application procedures may exclude eligible applicants who have limited internet access.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
+        }
+      ],
+      "related": [
+        {
+          "id": "t2-18",
+          "title": "水资源应该免费提供吗？"
+        },
+        {
+          "id": "t2-22",
+          "title": "维护图书馆是浪费资金吗？"
+        },
+        {
+          "id": "t2-35",
+          "title": "缩减贫富差距就能创造幸福社会吗？"
+        },
+        {
+          "id": "t2-37",
+          "title": "政府要优先解决环境住房问题吗？"
+        },
+        {
+          "id": "t2-44",
+          "title": "政府预算：公共服务与艺术（练习1·02）"
         }
       ]
     },
     {
-      "name": "家庭、儿童与代际关系",
+      "name": "文化、艺术与旅游",
+      "english": "Culture, arts & tourism",
+      "prompts": "适用题目 · 博物馆、艺术拨款、历史建筑、国际旅游",
       "positive": [
         {
-          "phrase": "provide emotional support and guidance",
-          "cn": "提供情感支持与指导",
-          "example": "Grandparents can provide children with emotional support and guidance."
+          "label": "文化传承",
+          "phrase": "safeguard cultural heritage",
+          "cn": "保护文化遗产",
+          "example": "By recording local crafts and offering apprenticeships, museums can safeguard cultural heritage that might otherwise disappear when older artisans retire.",
+          "structure": "方式结构",
+          "pattern": "By + 动词-ing, 主语 + can + 结果"
         },
         {
-          "phrase": "strengthen intergenerational bonds",
-          "cn": "加强代际联系",
-          "example": "Regular family visits strengthen intergenerational bonds."
+          "label": "跨文化理解",
+          "phrase": "foster cross-cultural understanding",
+          "cn": "促进跨文化理解",
+          "example": "When visitors take part in community-led tours, tourism can foster cross-cultural understanding because residents can explain the meaning behind local customs.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
         },
         {
-          "phrase": "pass down cultural values and traditions",
-          "cn": "传承文化价值观与传统",
-          "example": "Older relatives help pass down cultural values and traditions."
-        },
-        {
-          "phrase": "support children’s emotional development",
-          "cn": "支持儿童情感发展",
-          "example": "Stable family relationships support children’s emotional development."
-        },
-        {
-          "phrase": "share caregiving responsibilities",
-          "cn": "分担照护责任",
-          "example": "Extended families can share caregiving responsibilities."
-        },
-        {
-          "phrase": "reduce social isolation among older people",
-          "cn": "减少老年人的社会孤立",
-          "example": "Community activities can reduce social isolation among older people."
+          "label": "社区参与",
+          "phrase": "widen participation in the arts",
+          "cn": "扩大艺术参与面",
+          "example": "If museums offer free workshops at weekends, they can widen participation in the arts among families who rarely visit paid exhibitions.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         }
       ],
       "negative": [
         {
-          "phrase": "weaken family ties",
-          "cn": "削弱家庭纽带",
-          "example": "Long-term geographical separation can weaken family ties."
+          "label": "过度商业化",
+          "phrase": "turn cultural traditions into commercial spectacles",
+          "cn": "把文化传统变成商业表演",
+          "example": "If tour operators redesign ceremonies exclusively around visitor schedules, they may turn cultural traditions into commercial spectacles, weakening the role of those practices in community life.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "limit meaningful family interaction",
-          "cn": "限制有意义的家庭互动",
-          "example": "Heavy academic schedules may limit meaningful family interaction."
+          "label": "社区承载压力",
+          "phrase": "put pressure on local amenities",
+          "cn": "给当地公共设施带来压力",
+          "example": "When several tour groups arrive in a small town at once, their presence can put pressure on local amenities such as buses and public toilets.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
         },
         {
-          "phrase": "leave children with less emotional support",
-          "cn": "使儿童获得较少情感支持",
-          "example": "Long working hours may leave children with less emotional support."
+          "label": "维护开支",
+          "phrase": "incur substantial maintenance costs",
+          "cn": "产生可观的维护开支",
+          "example": "Authorities that restore historic buildings may incur substantial maintenance costs if the buildings require specialist materials and regular repairs.",
+          "structure": "定语从句",
+          "pattern": "名词 + who / that / which + 补充信息"
+        }
+      ],
+      "related": [
+        {
+          "id": "t2-23",
+          "title": "本地人不愿意参观博物馆的原因及措施"
         },
         {
-          "phrase": "increase the burden on family caregivers",
-          "cn": "增加家庭照护者负担",
-          "example": "A lack of public care services increases the burden on family caregivers."
+          "id": "t2-24",
+          "title": "博物馆应该只展示本地文物吗？"
         },
         {
-          "phrase": "contribute to loneliness among older adults",
-          "cn": "加剧老年人的孤独感",
-          "example": "Living alone can contribute to loneliness among older adults."
+          "id": "t2-25",
+          "title": "政府应该更多投资在艺术品上来让城市更美吗？"
         },
         {
-          "phrase": "create intergenerational misunderstandings",
-          "cn": "造成代际误解",
-          "example": "Different expectations can create intergenerational misunderstandings."
+          "id": "t2-26",
+          "title": "文化古建筑是保护还是拆除?"
+        },
+        {
+          "id": "t2-40",
+          "title": "亲身出国旅行有必要吗？"
+        },
+        {
+          "id": "t2-44",
+          "title": "政府预算：公共服务与艺术（练习1·02）"
         }
       ]
     },
     {
-      "name": "城市、交通与公共空间",
+      "name": "家庭、人口与老龄化",
+      "english": "Family, population & ageing",
+      "prompts": "适用题目 · 祖孙关系、晚年生活、代际照护、人口老龄化",
       "positive": [
         {
-          "phrase": "ease traffic congestion",
-          "cn": "缓解交通拥堵",
-          "example": "Reliable public transport can ease traffic congestion."
+          "label": "代际传承",
+          "phrase": "pass on family traditions",
+          "cn": "传承家庭传统",
+          "example": "When grandparents cook with their grandchildren, they can pass on family traditions by explaining the stories behind recipes.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
         },
         {
-          "phrase": "improve access to public transport",
-          "cn": "改善公共交通可达性",
-          "example": "Integrated ticketing can improve access to public transport."
+          "label": "照护支持",
+          "phrase": "share childcare responsibilities",
+          "cn": "分担育儿责任",
+          "example": "Families that live near willing relatives can share childcare responsibilities, which may help parents manage irregular working hours.",
+          "structure": "定语从句",
+          "pattern": "名词 + who / that / which + 补充信息"
         },
         {
-          "phrase": "create pedestrian-friendly public spaces",
-          "cn": "打造适宜步行的公共空间",
-          "example": "Car-free zones can create pedestrian-friendly public spaces."
-        },
-        {
-          "phrase": "encourage active travel",
-          "cn": "鼓励步行和骑行等主动出行",
-          "example": "Safe cycle lanes encourage active travel."
-        },
-        {
-          "phrase": "reduce vehicle-related air pollution",
-          "cn": "减少车辆造成的空气污染",
-          "example": "Low-emission zones can reduce vehicle-related air pollution."
-        },
-        {
-          "phrase": "enhance residents’ quality of life",
-          "cn": "提升居民生活质量",
-          "example": "Accessible parks can enhance residents’ quality of life."
+          "label": "老年人自主性",
+          "phrase": "help older adults maintain their independence",
+          "cn": "帮助老年人保持独立生活能力",
+          "example": "If older residents receive basic training in using smartphones, digital services can help older adults maintain their independence by letting them arrange transport and appointments themselves.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         }
       ],
       "negative": [
         {
-          "phrase": "restrict personal mobility and flexibility",
-          "cn": "限制个人出行与灵活性",
-          "example": "Strict car restrictions may restrict personal mobility and flexibility."
+          "label": "照护压力",
+          "phrase": "intensify pressure on care services",
+          "cn": "加重照护服务压力",
+          "example": "If the number of people who need daily assistance rises faster than the care workforce, population ageing can intensify pressure on care services.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "disadvantage people with limited mobility",
-          "cn": "使行动不便者处于不利地位",
-          "example": "Poorly designed pedestrian zones disadvantage people with limited mobility."
+          "label": "代际疏离",
+          "phrase": "weaken intergenerational ties",
+          "cn": "削弱代际联系",
+          "example": "When families move far apart for work, infrequent contact may weaken intergenerational ties, particularly if relatives seldom speak between visits.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
         },
         {
-          "phrase": "increase commuting times",
-          "cn": "延长通勤时间",
-          "example": "Infrequent buses can increase commuting times."
-        },
-        {
-          "phrase": "place additional pressure on public transport",
-          "cn": "给公共交通增加额外压力",
-          "example": "Car-free policies may place additional pressure on public transport."
-        },
-        {
-          "phrase": "reduce access to essential services",
-          "cn": "降低获取基本服务的便利性",
-          "example": "Poor transport links can reduce access to essential services."
-        },
-        {
-          "phrase": "reinforce spatial inequality",
-          "cn": "加剧空间不平等",
-          "example": "Uneven investment can reinforce spatial inequality."
-        }
-      ]
-    },
-    {
-      "name": "政府、公共服务与社会公平",
-      "positive": [
-        {
-          "phrase": "ensure equal access to essential services",
-          "cn": "确保平等获得基本公共服务",
-          "example": "Public investment can ensure equal access to essential services."
-        },
-        {
-          "phrase": "protect vulnerable groups",
-          "cn": "保护弱势群体",
-          "example": "Targeted welfare policies can protect vulnerable groups."
-        },
-        {
-          "phrase": "invest in public infrastructure",
-          "cn": "投资公共基础设施",
-          "example": "Governments need to invest in public infrastructure."
-        },
-        {
-          "phrase": "address regional disparities",
-          "cn": "解决地区差异",
-          "example": "Balanced regional policies can address regional disparities."
-        },
-        {
-          "phrase": "strengthen public trust",
-          "cn": "增强公众信任",
-          "example": "Transparent decision-making can strengthen public trust."
-        },
-        {
-          "phrase": "promote social mobility",
-          "cn": "促进社会流动",
-          "example": "Accessible education and training can promote social mobility."
+          "label": "照护责任不均",
+          "phrase": "place a disproportionate burden on family carers",
+          "cn": "让家庭照护者承担过重的责任",
+          "example": "Although home care allows older people to remain in familiar surroundings, it can place a disproportionate burden on family carers if professional support is scarce.",
+          "structure": "让步从句",
+          "pattern": "Although + 承认的一点, 主语 + 相反方向的判断"
         }
       ],
-      "negative": [
+      "related": [
         {
-          "phrase": "place a heavy burden on taxpayers",
-          "cn": "给纳税人带来沉重负担",
-          "example": "Poorly targeted subsidies can place a heavy burden on taxpayers."
+          "id": "t2-04",
+          "title": "长假期对孩子的利与弊"
         },
         {
-          "phrase": "strain limited public resources",
-          "cn": "耗费有限的公共资源",
-          "example": "An ageing population may strain limited public resources."
+          "id": "t2-13",
+          "title": "老年人使用手机的好处和鼓励措施"
         },
         {
-          "phrase": "lead to inefficient public spending",
-          "cn": "导致公共支出效率低下",
-          "example": "Weak oversight can lead to inefficient public spending."
+          "id": "t2-34",
+          "title": "寿命延长对个人和社会的影响"
         },
         {
-          "phrase": "create excessive dependence on state support",
-          "cn": "造成对国家支持的过度依赖",
-          "example": "Poorly designed benefits may create excessive dependence on state support."
-        },
-        {
-          "phrase": "fail to reach those most in need",
-          "cn": "无法惠及最需要帮助的人",
-          "example": "Universal schemes may fail to reach those most in need."
-        },
-        {
-          "phrase": "limit individual choice",
-          "cn": "限制个人选择",
-          "example": "Overly restrictive rules can limit individual choice."
+          "id": "t2-48",
+          "title": "祖孙相处减少的原因与影响（练习1·06）"
         }
       ]
     },
     {
       "name": "犯罪、法律与公共安全",
+      "english": "Crime, law & public safety",
+      "prompts": "适用题目 · 社区服务、公共监控、犯罪报道、惩罚与改造",
       "positive": [
         {
-          "phrase": "deter criminal behaviour",
-          "cn": "威慑犯罪行为",
-          "example": "Visible community policing can deter criminal behaviour."
+          "label": "修复社区损害",
+          "phrase": "repair harm done to the community",
+          "cn": "弥补对社区造成的损害",
+          "example": "By helping restore public facilities that they have damaged, first-time offenders can repair harm done to the community as part of a supervised programme.",
+          "structure": "方式结构",
+          "pattern": "By + 动词-ing, 主语 + can + 结果"
         },
         {
-          "phrase": "address the root causes of crime",
-          "cn": "解决犯罪的根本原因",
-          "example": "Education and employment programmes can address the root causes of crime."
+          "label": "减少再犯",
+          "phrase": "reduce the likelihood of reoffending",
+          "cn": "降低再犯的可能性",
+          "example": "If rehabilitation programmes help former offenders obtain stable employment, they may reduce the likelihood of reoffending by giving participants a lawful source of income.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "rehabilitate offenders",
-          "cn": "改造罪犯",
-          "example": "Skills training can help rehabilitate offenders."
-        },
-        {
-          "phrase": "reduce the risk of reoffending",
-          "cn": "降低再犯风险",
-          "example": "Post-release support can reduce the risk of reoffending."
-        },
-        {
-          "phrase": "improve public safety",
-          "cn": "改善公共安全",
-          "example": "Better street lighting can improve public safety."
-        },
-        {
-          "phrase": "provide support for victims",
-          "cn": "为受害者提供支持",
-          "example": "Specialist services provide support for victims of crime."
+          "label": "协助调查",
+          "phrase": "help investigators establish what happened",
+          "cn": "帮助调查人员厘清事件经过",
+          "example": "When witnesses give conflicting accounts of an incident, footage from public cameras can help investigators establish what happened.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
         }
       ],
       "negative": [
         {
-          "phrase": "overcrowd the prison system",
-          "cn": "造成监狱系统过度拥挤",
-          "example": "Long prison sentences can overcrowd the prison system."
-        },
-        {
-          "phrase": "fail to tackle underlying social problems",
-          "cn": "未能解决深层社会问题",
-          "example": "Punishment alone may fail to tackle underlying social problems."
-        },
-        {
-          "phrase": "increase the long-term cost to society",
-          "cn": "增加社会长期成本",
-          "example": "Repeated imprisonment can increase the long-term cost to society."
-        },
-        {
-          "phrase": "make reintegration more difficult",
-          "cn": "使重新融入社会更加困难",
-          "example": "A criminal record can make reintegration more difficult."
-        },
-        {
-          "phrase": "stigmatise former offenders",
-          "cn": "污名化曾经犯罪的人",
-          "example": "Public stigma can stigmatise former offenders."
-        },
-        {
-          "phrase": "undermine confidence in the justice system",
-          "cn": "削弱公众对司法系统的信心",
-          "example": "Inconsistent sentencing can undermine confidence in the justice system."
-        }
-      ]
-    },
-    {
-      "name": "新闻、信息与社会舆论",
-      "positive": [
-        {
-          "phrase": "broaden public awareness",
-          "cn": "扩大公众认知",
-          "example": "Documentaries can broaden public awareness of environmental issues."
-        },
-        {
-          "phrase": "facilitate informed public debate",
-          "cn": "促进有信息基础的公共讨论",
-          "example": "Reliable reporting can facilitate informed public debate."
-        },
-        {
-          "phrase": "hold powerful institutions accountable",
-          "cn": "监督有权力的机构",
-          "example": "Investigative journalism can hold powerful institutions accountable."
-        },
-        {
-          "phrase": "connect people across geographical boundaries",
-          "cn": "连接不同地域的人们",
-          "example": "Digital media connect people across geographical boundaries."
-        },
-        {
-          "phrase": "provide access to diverse perspectives",
-          "cn": "提供多元观点",
-          "example": "A free press provides access to diverse perspectives."
-        },
-        {
-          "phrase": "promote media literacy",
-          "cn": "提升媒体素养",
-          "example": "Schools can promote media literacy among young people."
-        }
-      ],
-      "negative": [
-        {
-          "phrase": "spread misinformation at speed",
-          "cn": "快速传播错误信息",
-          "example": "Social platforms can spread misinformation at speed."
-        },
-        {
-          "phrase": "reinforce social divisions",
-          "cn": "加深社会分裂",
-          "example": "Polarised content can reinforce social divisions."
-        },
-        {
-          "phrase": "invade personal privacy",
+          "label": "个人隐私",
+          "phrase": "intrude on personal privacy",
           "cn": "侵犯个人隐私",
-          "example": "Intrusive reporting can invade personal privacy."
+          "example": "Although security cameras can provide useful evidence, widespread surveillance may intrude on personal privacy if authorities keep recordings longer than necessary.",
+          "structure": "让步从句",
+          "pattern": "Although + 承认的一点, 主语 + 相反方向的判断"
         },
         {
-          "phrase": "amplify sensationalist content",
-          "cn": "放大煽情内容",
-          "example": "Algorithms may amplify sensationalist content."
+          "label": "过度惩罚",
+          "phrase": "jeopardise educational and employment prospects",
+          "cn": "损害升学和就业前景",
+          "example": "If teenagers receive custodial sentences for minor acts of vandalism, these penalties may jeopardise educational and employment prospects by interrupting schooling.",
+          "structure": "条件从句",
+          "pattern": "If + 条件, 主语 + can / may + 结果"
         },
         {
-          "phrase": "distort public understanding",
-          "cn": "扭曲公众认知",
-          "example": "Selective reporting can distort public understanding."
+          "label": "报道伤害",
+          "phrase": "cause further distress to victims",
+          "cn": "给受害者带来进一步的精神困扰",
+          "example": "When news outlets repeatedly publish identifiable details about a victim’s experience, extensive coverage can cause further distress to victims.",
+          "structure": "时间从句",
+          "pattern": "When + 情境, 主语 + can / may + 结果"
+        }
+      ],
+      "related": [
+        {
+          "id": "t2-11",
+          "title": "监控摄像头的利与弊"
         },
         {
-          "phrase": "encourage passive consumption",
-          "cn": "助长被动消费信息",
-          "example": "Endless scrolling can encourage passive consumption."
+          "id": "t2-31",
+          "title": "详细报道犯罪是否该限制？"
+        },
+        {
+          "id": "t2-36",
+          "title": "破坏公物要坐牢吗？"
         }
       ]
     }
-  ]
+  ],
+  "topics_source": "根据用户上传ielts-task2-collocations.html整理；例句为练习用改写，关联范文提供论证参考，并非逐字引用。"
 }
