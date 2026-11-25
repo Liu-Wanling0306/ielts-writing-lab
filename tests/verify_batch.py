@@ -17,7 +17,7 @@ async def main():
   await page.reload();await page.wait_for_selector('#lesson2 .step-tabs',state='attached')
   assert await page.evaluate("USER.drafts['review:t2-46:nine:1']")=='batch saved answer'
   await page.evaluate("go('archive')");assert await page.evaluate("DATA.essays.filter(e=>e.title.includes('练习1·')).length")==9
-  await page.evaluate("go('versions')");assert '1.9.0 → 1.10.0' in await page.locator('#diffResult').inner_text()
+  await page.evaluate("go('versions')");assert '1.10.0 → 1.10.1' in await page.locator('#diffResult').inner_text()
   await page.set_viewport_size({'width':390,'height':844})
   for i in range(43,52):
    await page.evaluate("id=>openArticle(id)",f't2-{i}')

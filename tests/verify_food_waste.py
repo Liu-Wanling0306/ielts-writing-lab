@@ -31,7 +31,7 @@ async def main():
   await page.locator('#newWrong').fill('another custom error');await page.locator('#newCorrect').fill('another corrected');await page.locator('#newExplain').fill('custom note');await page.get_by_role('button',name='加入个人错题').click()
   assert await page.locator(f'[data-error-item="{old_count}"] input').input_value()=='old personal answer'
   assert await page.locator('[data-error-item="t2-42:e01"] input').input_value()==expected
-  await page.evaluate("go('versions')");assert '1.9.0 → 1.10.0' in await page.locator('#diffResult').inner_text()
+  await page.evaluate("go('versions')");assert '1.10.0 → 1.10.1' in await page.locator('#diffResult').inner_text()
   async with page.expect_download() as downloaded:await page.evaluate('exportBackup()')
   with tempfile.TemporaryDirectory() as tmp:
    file=Path(tmp)/'backup.json';await (await downloaded.value).save_as(file);data=json.loads(file.read_text());assert data['user']['answers']['err:t2-42:e01']==expected

@@ -1,0 +1,298 @@
+{
+  "version": "1.10.1",
+  "note": "既有14句保留；为7道核心题补14句，并为6个迁移方向补12句。句型沿用By、When、If、Because、Although及定语从句，不增设虚构数据。",
+  "examples": [
+    {
+      "id": "core-1-1-1",
+      "point": "父母是最早的榜样 → 孩子通过模仿形成自律、诚实和责任感 → 这些品质影响长期发展。",
+      "example": "Parents shape children's values through everyday behaviour, helping them develop self-discipline and a sense of responsibility from an early age.",
+      "pattern": "主句 + helping + 结果",
+      "existing": true
+    },
+    {
+      "id": "core-1-1-2",
+      "point": "家庭提供持续的情感支持 → 帮助孩子建立安全感 → 提升面对困难时的适应能力。",
+      "example": "Regular support from parents can give children a sense of security, helping them cope better with difficulties at school or in daily life.",
+      "pattern": "主句 + helping + 结果",
+      "existing": false
+    },
+    {
+      "id": "core-1-2-1",
+      "point": "学校和同龄人提供不同的价值观及行为规范 → 孩子在合作与竞争中发展社会技能。",
+      "example": "By working with classmates who have different ideas, children can learn to listen to others and develop the social skills they need in later life.",
+      "pattern": "By + doing；who定语从句",
+      "existing": false
+    },
+    {
+      "id": "core-1-2-2",
+      "point": "随着年龄增长，孩子与同龄人及网络内容的接触增多 → 外界影响可能在青春期变得更明显。",
+      "example": "As children grow older, their attitudes may be shaped increasingly by peers and online content, which can broaden their perspectives but also encourage unhealthy comparisons.",
+      "pattern": "As从句；which补充说明",
+      "existing": true
+    },
+    {
+      "id": "core-2-1-1",
+      "point": "传授儿童安全、营养和情绪管理知识 → 减少可避免的养育错误。",
+      "example": "Parenting courses can equip adults with basic knowledge of child safety and emotional development, helping them respond more effectively to their children's needs.",
+      "pattern": "主句 + helping + 结果",
+      "existing": true
+    },
+    {
+      "id": "core-2-1-2",
+      "point": "缺乏育儿经验的父母获得系统指导 → 改善儿童成长环境。",
+      "example": "Parents who have little experience of childcare can learn practical ways to handle daily problems, which may help them create a safer and more supportive home.",
+      "pattern": "who / which定语从句",
+      "existing": false
+    },
+    {
+      "id": "core-2-2-1",
+      "point": "不同家庭的经验、文化背景及孩子需求差异明显 → 统一课程未必适用于所有人。",
+      "example": "Since families differ in their experience and children’s needs, a standard parenting course may not address the problems that matter most to each family.",
+      "pattern": "Since原因从句；that定语从句",
+      "existing": false
+    },
+    {
+      "id": "core-2-2-2",
+      "point": "强制参加增加时间、交通和照护成本 → 给工作繁忙或低收入父母带来负担。",
+      "example": "Mandatory parenting courses could place an unnecessary burden on working parents, particularly those who have limited time or access to childcare.",
+      "pattern": "主句；particularly补充对象",
+      "existing": true
+    },
+    {
+      "id": "core-3-1-1",
+      "point": "父亲可以分担婴儿照护和家务 → 减轻母亲产后恢复期间的负担。",
+      "example": "Paternity leave allows fathers to share childcare responsibilities from the beginning, reducing pressure on mothers during recovery.",
+      "pattern": "allow + 宾语 + to do；分词结果",
+      "existing": true
+    },
+    {
+      "id": "core-3-1-2",
+      "point": "父亲从孩子出生时就积极参与 → 建立亲子关系，并促进家庭责任的公平分配。",
+      "example": "By taking part in daily care from the start, fathers can build closer relationships with their children and share family responsibilities more equally.",
+      "pattern": "By + doing + 主句",
+      "existing": false
+    },
+    {
+      "id": "core-3-2-1",
+      "point": "小企业人员有限 → 较长陪产假造成用工和经营成本压力。",
+      "example": "For small businesses with limited staff, extended paid leave may create staffing difficulties and additional operating costs.",
+      "pattern": "For + 对象；主句说明风险",
+      "existing": true
+    },
+    {
+      "id": "core-3-2-2",
+      "point": "自雇者及收入不稳定的父亲可能难以长期停止工作 → 需要灵活制度和经济支持。",
+      "example": "Fathers whose income depends on daily work may struggle to take long periods off, so flexible leave arrangements and financial support can make leave more accessible.",
+      "pattern": "whose定语从句；so连接结果",
+      "existing": false
+    },
+    {
+      "id": "core-4-1-1",
+      "point": "公共预算有限 → 医疗、教育和社会保障仍有不足 → 太空项目存在机会成本。",
+      "example": "When essential public services remain underfunded, large investments in space exploration may divert resources from more immediate social needs.",
+      "pattern": "When从句；may + 动词",
+      "existing": true
+    },
+    {
+      "id": "core-4-1-2",
+      "point": "太空探索投入大、周期长且成果不确定 → 短期内不一定惠及普通民众。",
+      "example": "Because space projects can take many years to produce useful results, their high costs may bring few immediate benefits to people who need better public services.",
+      "pattern": "Because原因从句；who定语从句",
+      "existing": false
+    },
+    {
+      "id": "core-4-2-1",
+      "point": "探索任务需要先进材料、机器人和工程技术 → 可能推动其他行业的技术创新。",
+      "example": "Space research can drive advances in engineering and technology, some of which may eventually benefit industries and everyday life on Earth.",
+      "pattern": "some of which定语从句",
+      "existing": true
+    },
+    {
+      "id": "core-4-2-2",
+      "point": "拓展科学知识并培养研究人才 → 具有难以立即用金钱衡量的长期价值。",
+      "example": "By supporting long-term research, governments can expand scientific knowledge and train researchers whose skills may also be useful in other fields.",
+      "pattern": "By + doing；whose定语从句",
+      "existing": false
+    },
+    {
+      "id": "core-5-1-1",
+      "point": "国际旅行更容易负担 → 更多人能够亲身体验不同文化 → 增进跨文化理解。",
+      "example": "More affordable flights allow a wider range of people to experience different cultures first-hand, fostering greater intercultural understanding.",
+      "pattern": "allow + 宾语 + to do；分词结果",
+      "existing": true
+    },
+    {
+      "id": "core-5-1-2",
+      "point": "游客在住宿、交通和餐饮方面消费 → 创造就业并支持当地经济。",
+      "example": "When tourists spend money on hotels, transport and local restaurants, they support local businesses, which can create jobs for people in the area.",
+      "pattern": "When从句；which补充结果",
+      "existing": false
+    },
+    {
+      "id": "core-5-2-1",
+      "point": "航空旅行增长 → 航空排放增加 → 加剧环境和气候压力。",
+      "example": "A rapid increase in international air travel can raise carbon emissions and place considerable pressure on popular tourist destinations.",
+      "pattern": "can + 双重结果",
+      "existing": true
+    },
+    {
+      "id": "core-5-2-2",
+      "point": "热门景点承载能力有限 → 游客过多损害遗产、公共设施和居民生活。",
+      "example": "When visitor numbers exceed what a place can manage, overcrowding can damage historic sites and put pressure on public facilities, making daily life harder for local residents.",
+      "pattern": "When从句；making + 结果",
+      "existing": false
+    },
+    {
+      "id": "core-6-1-1",
+      "point": "减少对国际供应链的依赖 → 在运输受阻或贸易中断时维持基本供应。",
+      "example": "Producing essential food domestically can improve food security and reduce vulnerability to disruptions in international supply chains.",
+      "pattern": "doing作主语；双重结果",
+      "existing": true
+    },
+    {
+      "id": "core-6-1-2",
+      "point": "增加对本国农业的支持 → 稳定农村就业和部分本地供应链。",
+      "example": "By supporting domestic farming, governments can help farmers maintain a stable income, which also supports jobs in local food transport and processing.",
+      "pattern": "By + doing；which补充结果",
+      "existing": false
+    },
+    {
+      "id": "core-6-2-1",
+      "point": "国家之间气候、土地和水资源条件不同 → 某些食品并不适合本地生产。",
+      "example": "Some countries lack the climate, land or water resources needed to produce every type of food efficiently.",
+      "pattern": "needed to do后置定语",
+      "existing": true
+    },
+    {
+      "id": "core-6-2-2",
+      "point": "强制生产所有食品 → 提高生产成本，并可能导致食品价格上涨及资源浪费。",
+      "example": "If countries try to produce foods that do not suit their climate, production costs may rise, leading to higher prices and greater pressure on land and water.",
+      "pattern": "If条件从句；leading to + 结果",
+      "existing": false
+    },
+    {
+      "id": "core-7-1-1",
+      "point": "图书馆提供免费书籍、电脑、网络和学习空间 → 帮助低收入家庭和缺乏数字资源的人。",
+      "example": "Public libraries provide free access to books, computers and quiet study spaces, helping reduce educational inequality.",
+      "pattern": "主句 + helping + 结果",
+      "existing": true
+    },
+    {
+      "id": "core-7-1-2",
+      "point": "图书馆开展阅读活动、儿童教育及社区项目 → 促进终身学习和社区参与。",
+      "example": "By offering reading activities and community programmes, public libraries can bring people together and encourage them to keep learning throughout their lives.",
+      "pattern": "By + doing + 双重结果",
+      "existing": false
+    },
+    {
+      "id": "core-7-2-1",
+      "point": "数字资源能够随时随地访问 → 节省交通时间，扩大信息获取范围。",
+      "example": "Digital resources can be accessed at any time, allowing people to study and find information without travelling to a physical library.",
+      "pattern": "被动语态；allowing + 结果",
+      "existing": true
+    },
+    {
+      "id": "core-7-2-2",
+      "point": "部分图书馆使用率不高，而维护建筑和馆藏需要资金 → 政府可以将更多资源投入数字化服务。",
+      "example": "Where libraries attract few visitors, maintaining buildings and collections can use funds that might provide wider access to information through digital services.",
+      "pattern": "Where情境从句；that定语从句",
+      "existing": false
+    },
+    {
+      "id": "extension-1",
+      "topic": "本地历史 vs 世界历史",
+      "point": "支持本地历史",
+      "example": "When students learn how their hometown developed, they can build a stronger sense of local identity, which may encourage them to protect local traditions.",
+      "pattern": "When从句；which补充结果",
+      "existing": false
+    },
+    {
+      "id": "extension-2",
+      "topic": "本地历史 vs 世界历史",
+      "point": "支持世界历史",
+      "example": "By studying how countries have influenced one another, students can develop global awareness and understand why events abroad may affect their own lives.",
+      "pattern": "By + doing；how / why宾语从句",
+      "existing": false
+    },
+    {
+      "id": "extension-3",
+      "topic": "极端运动是否禁止",
+      "point": "支持限制",
+      "example": "Because extreme sports can cause serious injuries, clear safety rules can protect participants and reduce pressure on rescue services.",
+      "pattern": "Because原因从句；双重结果",
+      "existing": false
+    },
+    {
+      "id": "extension-4",
+      "topic": "极端运动是否禁止",
+      "point": "反对全面禁止",
+      "example": "Although extreme sports involve risks, adults should be free to take part if they understand the dangers and follow proper safety rules.",
+      "pattern": "Although让步从句；if条件从句",
+      "existing": false
+    },
+    {
+      "id": "extension-5",
+      "topic": "现代生活是否优于过去",
+      "point": "现代生活的收益",
+      "example": "Advances in medicine and technology allow more people to receive essential services, helping them live longer and manage daily tasks more easily.",
+      "pattern": "allow + 宾语 + to do；helping + 结果",
+      "existing": false
+    },
+    {
+      "id": "extension-6",
+      "topic": "现代生活是否优于过去",
+      "point": "现代生活的压力",
+      "example": "When people face constant messages and busy schedules, they may have less time to rest or meet friends, which can increase stress and social isolation.",
+      "pattern": "When从句；which补充结果",
+      "existing": false
+    },
+    {
+      "id": "extension-7",
+      "topic": "是否严格控制噪音",
+      "point": "支持控制",
+      "example": "By limiting noise near homes at night, local authorities can protect residents’ sleep, which may also support their mental well-being.",
+      "pattern": "By + doing；which补充结果",
+      "existing": false
+    },
+    {
+      "id": "extension-8",
+      "topic": "是否严格控制噪音",
+      "point": "反对过度限制",
+      "example": "If noise rules are too strict, local businesses and cultural events may struggle to operate, so limits should reflect the time and location.",
+      "pattern": "If条件从句；so连接判断",
+      "existing": false
+    },
+    {
+      "id": "extension-9",
+      "topic": "退休后老年人生活质量",
+      "point": "退休的积极作用",
+      "example": "Retirement can give older people more time for family visits and volunteer work, helping them maintain an active social life.",
+      "pattern": "主句 + helping + 结果",
+      "existing": false
+    },
+    {
+      "id": "extension-10",
+      "topic": "退休后老年人生活质量",
+      "point": "退休的困难",
+      "example": "Older people who have limited pensions may find it difficult to join social activities, which can increase both financial insecurity and feelings of isolation.",
+      "pattern": "who / which定语从句",
+      "existing": false
+    },
+    {
+      "id": "extension-11",
+      "topic": "青少年犯罪与家长责任",
+      "point": "父母引导的作用",
+      "example": "Parents who discuss problems with their children and supervise their activities can help them make better choices, reducing the risk of harmful behaviour.",
+      "pattern": "who定语从句；reducing + 结果",
+      "existing": false
+    },
+    {
+      "id": "extension-12",
+      "topic": "青少年犯罪与家长责任",
+      "point": "不能一概处罚家长",
+      "example": "Although parents should guide their children, teenagers are also influenced by peers and their wider environment, so parents should not automatically be punished for every offence.",
+      "pattern": "Although让步；so连接判断",
+      "existing": false
+    }
+  ]
+}

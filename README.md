@@ -76,3 +76,7 @@ python3 -m http.server 8000 --bind 127.0.0.1
 ## v1.10.0 · 11月考频预测整理
 
 主导航提供独立素材板块，含论证、例段、Task1表达和复习安排。原文与清理稿保存在data/november-sprint-original.txt及november-sprint.md。资料中的回忆标签未独立核验；没有完整图表，不作为实际数据题答案。
+
+## v1.10.1 · 逐点论证句
+
+“11月考频预测整理”核心题28个论点及迁移方向12个正反论点均配对应例句与句型提示。结构化核对数据位于data/november-argument-examples.json；原材料存档不变。
