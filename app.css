@@ -73,3 +73,5 @@
 .practice-review{margin:16px 0}.practice-review li{margin:8px 0}.practice-gap{margin-top:18px}#essayArchive .archive .subcard{white-space:pre-wrap;overflow-wrap:anywhere}
 
 #grammarReviewFrame{display:block;width:100%;min-height:820px;border:1px solid #d9e5dc;border-radius:14px}#grammarReviewPanel,#sentenceOriginalPanel{min-width:0}[hidden]{display:none!important}
+
+.november-sprint{overflow-wrap:anywhere}.november-sprint h4{margin-top:24px}.november-sprint blockquote{margin:16px 0;padding:14px;border-left:3px solid #729885;background:#f1f6f2}.november-sprint nav{display:flex;flex-wrap:wrap;gap:12px}.nov-table{max-width:100%;overflow-x:auto}.nov-table table{width:100%;border-collapse:collapse}.nov-table th,.nov-table td{padding:10px;border:1px solid #d9e5dc;text-align:left;vertical-align:top}.nov-bullet{margin-left:12px}

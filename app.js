@@ -1,7 +1,7 @@
 'use strict';
 const DATA=window.IELTS_DATA;
 const CONNECTOR_LIBRARY=window.IELTS_DATA.connectorLibrary;
-const VERSION='1.9.0';
+const VERSION='1.10.0';
 const $=s=>document.querySelector(s);
 const $$=s=>[...document.querySelectorAll(s)];
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -133,9 +133,10 @@ const RELEASE_15={version:'1.5.0',date:'2026-11-17',items:[...RELEASE_141.items,
 const RELEASE_16={version:'1.6.0',date:'2026-11-21',items:[...RELEASE_15.items,'新增T2-42 / R04食物浪费：保留原意与Band 7.5目标双版本','两版各4段完整范文、中译与全文搭配挖空','A版10道、B版12道新情境搭配迁移及参考答案','保存完整批改档案、14条搭配、13条个人错题与5道巩固题答案','新错题使用文章固定ID，保留旧错题及个人补充题的进度索引']};
 const RELEASE_17={version:'1.7.0',date:'2026-11-21',items:[...RELEASE_16.items,'导入练习1的9篇大作文（T2-43至T2-51），每篇A/B双版本','新增72段完整中英段落、全文挖空和72道新情境迁移任务（两版分别定位出处）','补齐27道巩固题、逐篇修订说明及9份原参考稿档案','修正AI语法、复合题干回应和健康因果；保留旧篇目与个人进度']};
 const RELEASE_18={version:'1.8.0',date:'2026-11-22',items:[...RELEASE_17.items,'合并个人语法错题强化v1.4.0：12专题、108题，保留原8类复合句训练','新增同页语法子入口、延迟加载和独立完整训练页','语法草稿、错题循环与间隔复习独立保存；支持模块内JSON备份导入导出']};
-const CURRENT={version:VERSION,date:'2026-11-23',items:[...RELEASE_18.items,'按上传HTML更新话题搭配：11话题、68条正反表达','每条增加复合句例句、结构提示，支持批量展开与收起','关联范文直接进入站内训练，扩展中英文和句型检索']};
-function versions(){return [BASE,PREVIOUS,RELEASE_13,RELEASE_141,RELEASE_15,RELEASE_16,RELEASE_17,RELEASE_18,CURRENT,...(USER.snapshots||[])]}
-function renderVersions(){let v=versions();let label=i=>i===0?'· 初始版':i===7?'· 上一版':i===8?'· 最新版':'';$('#oldVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#newVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#oldVersion').value='7';$('#newVersion').value='8';showDiff()}
+const RELEASE_19={version:'1.9.0',date:'2026-11-23',items:[...RELEASE_18.items,'按上传HTML更新话题搭配：11话题、68条正反表达','每条增加复合句例句、结构提示，支持批量展开与收起','关联范文直接进入站内训练，扩展中英文和句型检索']};
+const CURRENT={version:VERSION,date:'2026-11-25',items:[...RELEASE_19.items,'新增独立11月考频预测整理板块：7道重点论证与6个迁移方向','加入2段示范、3类Task1训练、六类题型覆盖及四天安排','标明回忆题未独立核验，保留真实数据占位符，去除未提供的Word下载入口']};
+function versions(){return [BASE,PREVIOUS,RELEASE_13,RELEASE_141,RELEASE_15,RELEASE_16,RELEASE_17,RELEASE_18,RELEASE_19,CURRENT,...(USER.snapshots||[])]}
+function renderVersions(){let v=versions();let label=i=>i===0?'· 初始版':i===8?'· 上一版':i===9?'· 最新版':'';$('#oldVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#newVersion').innerHTML=v.map((x,i)=>`<option value="${i}">${esc(x.version)} ${label(i)}</option>`).join('');$('#oldVersion').value='8';$('#newVersion').value='9';showDiff()}
 function showDiff(){let v=versions(),a=v[Number($('#oldVersion').value)]||PREVIOUS,b=v[Number($('#newVersion').value)]||CURRENT;let removed=a.items.filter(x=>!b.items.includes(x)),added=b.items.filter(x=>!a.items.includes(x)),unchanged=b.items.filter(x=>a.items.includes(x));let info=`<p><b>${esc(a.version)} → ${esc(b.version)}</b> · 新增 ${added.length} 项 / 删除 ${removed.length} 项 / 保留 ${unchanged.length} 项</p>`;let lines=[...removed.map(x=>`<span class="del">- ${esc(x)}</span>`),...added.map(x=>`<span class="add">+ ${esc(x)}</span>`),...unchanged.map(x=>`<span class="same">  ${esc(x)}</span>`)];$('#diffResult').innerHTML=info+'<div class="versiondiff">'+(lines.join('')||'两个版本无差异')+'</div>'}
 function saveSnapshot(){let snap={...CURRENT,version:VERSION+'-snapshot-'+(USER.snapshots.length+1),date:new Date().toISOString()};USER.snapshots.push(snap);saveUser();renderVersions()}
 async function exportBackup(){

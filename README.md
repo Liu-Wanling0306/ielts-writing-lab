@@ -72,3 +72,7 @@ python3 -m http.server 8000 --bind 127.0.0.1
 ## v1.9.0 · 话题搭配更新
 
 「衔接与搭配 → 话题正反高分搭配」现按上传HTML分为11话题、68条表达，每条包含例句和句型提示，支持批量展开以及站内关联范文。数据位于data/connector-library.json；其余表达分类保持不变。
+
+## v1.10.0 · 11月考频预测整理
+
+主导航提供独立素材板块，含论证、例段、Task1表达和复习安排。原文与清理稿保存在data/november-sprint-original.txt及november-sprint.md。资料中的回忆标签未独立核验；没有完整图表，不作为实际数据题答案。
